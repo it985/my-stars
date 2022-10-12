@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Vue](#vue)
@@ -12,7 +13,6 @@
 *   [Go](#go)
 *   [HTML](#html)
 *   [CSS](#css)
-*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [C#](#c)
 *   [C++](#c-1)
@@ -49,6 +49,336 @@
 *   [Svelte](#svelte)
 *   [Standard ML](#standard-ml)
 *   [Thanks](#thanks)
+
+## Python
+
+*   [zhuima/daohang](https://github.com/zhuima/daohang) - 运维内部使用的导航地址, 运维导航系统，链接导航系统，网址导航系统，导航页面，导航网址
+
+*   [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools) - NAS媒体库资源归集、整理自动化工具
+
+*   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
+
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+
+*   [7eu7d7/genshin\_auto\_fish](https://github.com/7eu7d7/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI
+
+*   [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
+
+*   [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+
+*   [tianqiraf/DouZero\_For\_HappyDouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu) - 基于DouZero定制AI实战欢乐斗地主
+
+*   [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
+
+*   [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
+
+*   [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) - Play couplet with seq2seq model. 用深度学习对对联。
+
+*   [HaujetZhao/QuickCut](https://github.com/HaujetZhao/QuickCut) - Your most handy video processing software
+
+*   [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - \[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
+
+*   [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
+
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+
+*   [marblexu/PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - a simple PlantsVsZombies game
+
+*   [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba\_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical\_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
+
+*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
+
+*   [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
+
+*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+
+*   [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
+
+*   [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
+
+*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+
+*   [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point\_right:
+
+*   [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
+
+*   [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a robust, user-friendly and hackable music player
+
+*   [farzaa/DeepLeague](https://github.com/farzaa/DeepLeague) - (Open Source) Computer Vision + Deep Learning + League of Legends
+
+*   [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
+
+*   [LeetaoGoooo/MovieHeavens](https://github.com/LeetaoGoooo/MovieHeavens) - 🎬 基于Pyqt5的简单电影搜索工具
+
+*   [tancredi/python-console-snake](https://github.com/tancredi/python-console-snake) - Lightweight snake game running in the console
+
+*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+
+*   [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
+
+*   [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+
+*   [lining0806/PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes) - Python入门网络爬虫之精华版
+
+*   [tankywoo/simiki](https://github.com/tankywoo/simiki) - Simiki is a simple wiki framework, written in Python.
+
+*   [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
+
+*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
+
+*   [SpiderClub/weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
+
+*   [fate0/getproxy](https://github.com/fate0/getproxy) - getproxy 是一个抓取发放代理网站，获取 http/https 代理的程序
+
+*   [Denon/syncPlaylist](https://github.com/Denon/syncPlaylist) - sync playlist between music platform
+
+*   [gyh1621/GetSubtitles](https://github.com/gyh1621/GetSubtitles) - 一步下载匹配字幕
+
+*   [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
+
+*   [chuyangliu/snake](https://github.com/chuyangliu/snake) - Artificial intelligence for the Snake game.
+
+*   [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
+
+*   [hellysmile/fake-useragent](https://github.com/hellysmile/fake-useragent) - up to date simple useragent faker with real world database
+
+*   [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
+
+*   [observerss/textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
+
+*   [xchaoinfo/fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
+
+*   [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+
+*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
+*   [python/cpython](https://github.com/python/cpython) - The Python programming language
+
+*   [arielherself/autosub](https://github.com/arielherself/autosub) - V2Board AutoSub：按计划时间自动获取试用订阅链接
+
+*   [ZSAIm/iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - 解析下载爱奇艺、哔哩哔哩、腾讯视频
+
+*   [EmptyWalletException/pythonUtils](https://github.com/EmptyWalletException/pythonUtils) - python语言写的bing图片爬虫
+
+*   [chenjiandongx/photo-trio](https://github.com/chenjiandongx/photo-trio) - 👲 美女写真图爬虫 trio 版
+
+*   [chenjiandongx/emoji.py](https://github.com/chenjiandongx/emoji.py) - 🔍 emoji 表情命令行搜索工具
+
+*   [chenjiandongx/cup-size](https://github.com/chenjiandongx/cup-size) - 👀 关于女性文胸尺码的深入探讨
+
+*   [chenjiandongx/torrent-cli](https://github.com/chenjiandongx/torrent-cli) - 🔨 磁力获取器命令行工具
+
+*   [chenjiandongx/async-bili-spider](https://github.com/chenjiandongx/async-bili-spider) - 📹 B 站异步爬虫初体验
+
+*   [chenjiandongx/photo-asyncio](https://github.com/chenjiandongx/photo-asyncio) - 🙉 美女写真图爬虫 asyncio 版
+
+*   [chenjiandongx/pixiv](https://github.com/chenjiandongx/pixiv) - P 站非会员查看人气作品
+
+*   [chenjiandongx/soksaccounts](https://github.com/chenjiandongx/soksaccounts) - 🔥 Shadowsocks 账号爬虫
+
+*   [chenjiandongx/stackoverflow-spider](https://github.com/chenjiandongx/stackoverflow-spider) - 📖 爬取 Stackoverflow 100万 条问答并简单分析
+
+*   [chenjiandongx/Github-spider](https://github.com/chenjiandongx/Github-spider) - Github 仓库及用户分析爬虫
+
+*   [chenjiandongx/51job-spider](https://github.com/chenjiandongx/51job-spider) - 🔎 前程无忧 Python 招聘岗位信息爬取和分析
+
+*   [chenjiandongx/async-proxy-pool](https://github.com/chenjiandongx/async-proxy-pool) - 🔅 Python3 异步爬虫代理池
+
+*   [XiaoMiku01/miyoubiAuto](https://github.com/XiaoMiku01/miyoubiAuto) - 米游社每日米游币自动化脚本
+
+*   [jacobtomlinson/gha-lint-yaml](https://github.com/jacobtomlinson/gha-lint-yaml) - A GitHub Action to lint YAML files
+
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+*   [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+
+*   [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+
+*   [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
+
+*   [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
+
+*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+*   [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
+
+*   [taxigps/xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese) - Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
+
+*   [songquanpeng/zhihu-archiver](https://github.com/songquanpeng/zhihu-archiver) - 每日自动抓取知乎热榜，之后转换成 Markdown 文件并构造静态网站
+
+*   [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
+
+*   [lonnyzhang423/github-hot-hub](https://github.com/lonnyzhang423/github-hot-hub) - 记录GitHub热门仓库，每小时更新，按天归档。
+
+*   [lonnyzhang423/v2ex-hot-hub](https://github.com/lonnyzhang423/v2ex-hot-hub) - 记录v2ex热议话题，每小时更新，按天归档。
+
+*   [lonnyzhang423/toutiao-hot-hub](https://github.com/lonnyzhang423/toutiao-hot-hub) - 记录今日头条热门搜索，每小时更新，按天归档。
+
+*   [newpanjing/simpleui](https://github.com/newpanjing/simpleui) - A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨
+
+*   [yzyyz1387/nonebot\_plugin\_code](https://github.com/yzyyz1387/nonebot_plugin_code) - nonebot2在线运行代码
+
+*   [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
+
+*   [xiyaowong/spiders](https://github.com/xiyaowong/spiders) - Python爬虫，返回一定格式的信息，下载，使用flask提供简易api。抖音无水印、皮皮虾、快手、网易云音乐、qq音乐、咪咕音乐、荔枝FM音频、知乎视频、最右语音、视频、微博......
+
+*   [chenjiandongx/photo-gevent](https://github.com/chenjiandongx/photo-gevent) - 👮 美女写真图爬虫 gevent 版
+
+*   [chenjiandongx/mzitu](https://github.com/chenjiandongx/mzitu) - 👧 美女写真套图爬虫（二）
+
+*   [chenjiandongx/mmjpg](https://github.com/chenjiandongx/mmjpg) - 👩 美女写真套图爬虫（一）
+
+*   [wistbean/learn\_python3\_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
+
+*   [DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:
+
+*   [xiaoqiangjun/bing2weibo](https://github.com/xiaoqiangjun/bing2weibo) - 自动发布必应每日图片到微博
+
+*   [Cluas/189checkin](https://github.com/Cluas/189checkin) - 天翼云自动签到
+
+*   [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
+
+*   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+
+*   [yfun-lab/chromium-download](https://github.com/yfun-lab/chromium-download) - :zap: 定时自动获取 Chromium 可执行程序。
+
+*   [EINDEX/bing-wallpaper](https://github.com/EINDEX/bing-wallpaper) - 收集 Bing 壁纸，每天自动更换壁纸为 Bing 壁纸
+
+*   [iawia002/douban-image](https://github.com/iawia002/douban-image) - 豆瓣电影 电影海报、壁纸自动下载程序
+
+*   [yfun-lab/bing-wallpaper](https://github.com/yfun-lab/bing-wallpaper) - :sparkles: GitHub Action 自动抓取必应壁纸
+
+*   [Eobard-Thawne/Wallheaven\_Downloader](https://github.com/Eobard-Thawne/Wallheaven_Downloader) - 下载wallheaven.cc的壁纸
+
+*   [yingguqing/bing\_wallpaper](https://github.com/yingguqing/bing_wallpaper) - 必应壁纸抓取，每天17点自动使用github抓取。
+
+*   [Dootmaan/BingWallpaper](https://github.com/Dootmaan/BingWallpaper) - 爬取每日Bing壁纸
+
+*   [guli732/wallhaven\_crawler](https://github.com/guli732/wallhaven_crawler) - 尝试爬取wallhaven网站上的高质量壁纸
+
+*   [lxgzhw520/BianImgSpider](https://github.com/lxgzhw520/BianImgSpider) - 一个可以爬取数十万张高清无水印壁纸的爬虫程序
+
+*   [fakerrr/Pixiv](https://github.com/fakerrr/Pixiv) - 主要是用来爬壁纸的，没想到R18这么多
+
+*   [hfhzzdx/wallhaven](https://github.com/hfhzzdx/wallhaven) - 壁纸网站爬虫
+
+*   [JavaProgrammerLB/BingWallpaper](https://github.com/JavaProgrammerLB/BingWallpaper) - 爬Bing每日壁纸的爬虫
+
+*   [out0fmemory/BingDailyWallpaper](https://github.com/out0fmemory/BingDailyWallpaper) - bing每日壁纸集，包含历史壁纸、各分辨率壁纸及壁纸信息
+
+*   [xinac721/bing-img](https://github.com/xinac721/bing-img) - 必应壁纸 - 每日一图
+
+*   [autofelix/python-spiders](https://github.com/autofelix/python-spiders) - 🌈  Python网络爬虫实战：王者荣耀超清壁纸、抖音无水印视频、M3U8推流视频、正方系统、财务报表、美女帅哥图片、CSDN阅读量、淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说音乐电影下载等
+
+*   [zjkwdy/bili\_app\_splash](https://github.com/zjkwdy/bili_app_splash) - B站壁纸娘和开屏图自动下载，每天使用Actions自动同步
+
+*   [XANXUS2/-RePKG-GUI-Python-Wallpaper-Engine-](https://github.com/XANXUS2/-RePKG-GUI-Python-Wallpaper-Engine-) - 提取Wallpaper  Engine壁纸
+
+*   [chenjiandongx/wallpaper](https://github.com/chenjiandongx/wallpaper) - zol 手机壁纸爬虫（简单分布式？）
+
+*   [journey-ad/hentai-wallpaper](https://github.com/journey-ad/hentai-wallpaper) - 绅士的壁纸
+
+*   [wxy1343/img-spider](https://github.com/wxy1343/img-spider) - 高清壁纸爬虫
+
+*   [qinyuanpei/WallPaper](https://github.com/qinyuanpei/WallPaper) - 一个基于Python的Windows下的壁纸更换工具
+
+*   [jckling/tg-bot](https://github.com/jckling/tg-bot) - 使用 Github Action 推送内容的 telegram bot：每日推送 Bing 壁纸、百合会中文漫画、Bilibili 动态；每周推送 Pixiv 周榜。
+
+*   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+
+*   [peikoko/-189cloud-action](https://github.com/peikoko/-189cloud-action) -
+
+*   [shanghaobo/NeteaseCloudMusicDay](https://github.com/shanghaobo/NeteaseCloudMusicDay) - 网易云音乐每日推荐记录，自动生成日期命名的歌单
+
+*   [Ljzd-PRO/Mys\_Goods\_Tool](https://github.com/Ljzd-PRO/Mys_Goods_Tool) - 自动兑换米游社米游币商品的脚本
+
+*   [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages by GitHub Action | 无须人为干预，由 GitHub Action 自动部署 Gitee Pages
+
+*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+
+*   [airingursb/bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili 用户爬虫
+
+*   [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口，腾讯云内网免流+大幅提速
+
+*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
+
+*   [FioraLove/Net-Spider](https://github.com/FioraLove/Net-Spider) - 新手小白~~持续更新中〜随意Fork，Star，大佬萌多多issue哦  (目前更新: 1.短视频视频无水印解析（支持超过30多个平台 e.g., 抖音，快手，微博...）   2.bilibili音视频解析🐱‍👓   3.知音漫客图片加密 🔥  4. 世纪佳缘信息👨‍👩‍👧‍👦  5.小鸡词典🐥🐥。。。。。。
+
+*   [moyada/stealer](https://github.com/moyada/stealer) - 抖音、快手、火山、皮皮虾，视频去水印程序
+
+*   [chenjiandongx/bili-spider](https://github.com/chenjiandongx/bili-spider) - 📺 B 站全站视频信息爬虫
+
+*   [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️快如闪电的bilibili下载工具，基于Python现代Async特性，高速批量下载整部动漫，电视剧，up投稿等。现已支持抖音等更多站点
+
+*   [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice\_cube: 一个可爱且任性的 B 站视频下载器（bilili V2）
+
+*   [AsaChiri/DDRecorder](https://github.com/AsaChiri/DDRecorder) - 📺Headless全自动B站直播录播、切片、上传一体工具
+
+*   [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
+
+*   [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
+
+*   [Aruelius/cloud189](https://github.com/Aruelius/cloud189) - 天翼云盘 CLI Python
+
+*   [Last-Yesterday/AutoActions\_wyy](https://github.com/Last-Yesterday/AutoActions_wyy) - 网易云音乐自动登录签到 + 刷歌 310 首| 使用 GitHub Actions 编译 | 感谢t00t00-crypto的项目源码
+
+*   [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
+
+*   [H-K-Y/Genshin\_Impact\_bot](https://github.com/H-K-Y/Genshin_Impact_bot) - 原神bot，这是一个基于nonebot和HoshinoBot的原神娱乐及信息查询插件，包含原神抽卡，丘丘语翻译，找资源点等功能
+
+*   [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
+
+*   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
+
+*   [zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools) - 用Hexo的方式管理WordPress(使用Github Actions自动更新文章到WordPress)
+
+*   [yu-steven/openit](https://github.com/yu-steven/openit) - 致力于打造免费无感的翻墙环境
+
+*   [vpei/Free-Node-Merge](https://github.com/vpei/Free-Node-Merge) - 自动合并 ss ssr trojan vmess vless 等免费节点链接，科学上网，定阅免费机场。有资源网址，请加Telegram群：opmhth
+
+*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
+
+*   [Neutralization/BiliBiliRankingScripts](https://github.com/Neutralization/BiliBiliRankingScripts) - 周刊哔哩哔哩排行榜自动化操作脚本
+
+*   [hegemony1/crawlProject](https://github.com/hegemony1/crawlProject) - 今日头条 、淘宝 、微博 、斗鱼 、抖音 、哔哩哔哩 、有道翻译、steam网站以及网易云音乐爬取
+
+*   [topiccrawler/jkcrawler](https://github.com/topiccrawler/jkcrawler) - 使用 Scrapy 写成的 JK 爬虫，图片源自哔哩哔哩、Tumblr、Instagram，以及微博、Twitter
+
+*   [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
+
+*   [acgnhiki/blrec](https://github.com/acgnhiki/blrec) - Bilibili Live Streaming Recorder  哔哩哔哩直播录制
+
+*   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。工具齐全。原储存库地址：https://github.com/MoyuScript/bilibili-api
+
+*   [srx-2000/spider\_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，知乎百万级用户爬虫+数据分析，github用户爬虫
+
+*   [ZSAIm/VideoCrawlerEngine](https://github.com/ZSAIm/VideoCrawlerEngine) - 起源于旧项目爱奇艺解析器(iqiyi-parser)在开发、维护和扩展的过程中遇到的一些问题，而实现的一个基于任务流式的可视化爬虫引擎。引擎的执行单元是节点。脚本节点(script)作为根节点来完成对节点和流程的描述，经由任务节点(task)解析流程描述并生成节点的执行队列，最后交由工作者执行池处理。整个过程可视可控，所有节点处理器都以插件的形式导入，以最大程度实现易扩展性。
+
+*   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
+
+*   [0honus0/1024-Autoreply](https://github.com/0honus0/1024-Autoreply) - 1024论坛 自动回帖
+
+*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+
+*   [djhdj1/AutoApiP](https://github.com/djhdj1/AutoApiP) - E5 自动续期
+
+*   [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
+
+*   [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
+
+*   [Rock-Candy-Tea/hexo-circle-of-friends](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 ## JavaScript
 
@@ -1240,8 +1570,6 @@
 
 *   [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk) - :zap:魔改自butterfly :butterfly:主题，提供完整详细的文档，同时为了回馈开源，这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音！:heart:
 
-*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100:高质量、最全面的2022年系统架构设计师（软考高级）备考资源库。
-
 ## CSS
 
 *   [YJLAugus/cnblogs-theme-simple-color](https://github.com/YJLAugus/cnblogs-theme-simple-color) - 一个简约极致色彩的博客园主题
@@ -1277,334 +1605,6 @@
 *   [Dreamer-Paul/Sweet](https://github.com/Dreamer-Paul/Sweet) - 🌟 一个简洁的个人首页，可以调用博客最新文章
 
 *   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.net
-
-## Python
-
-*   [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools) - NAS媒体库资源归集、整理自动化工具
-
-*   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
-
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
-
-*   [7eu7d7/genshin\_auto\_fish](https://github.com/7eu7d7/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI
-
-*   [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
-
-*   [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-
-*   [tianqiraf/DouZero\_For\_HappyDouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu) - 基于DouZero定制AI实战欢乐斗地主
-
-*   [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
-
-*   [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
-
-*   [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) - Play couplet with seq2seq model. 用深度学习对对联。
-
-*   [HaujetZhao/QuickCut](https://github.com/HaujetZhao/QuickCut) - Your most handy video processing software
-
-*   [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - \[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
-
-*   [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
-
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-
-*   [marblexu/PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - a simple PlantsVsZombies game
-
-*   [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba\_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical\_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
-
-*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
-
-*   [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-
-*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-
-*   [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
-
-*   [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
-
-*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-
-*   [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point\_right:
-
-*   [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
-
-*   [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a robust, user-friendly and hackable music player
-
-*   [farzaa/DeepLeague](https://github.com/farzaa/DeepLeague) - (Open Source) Computer Vision + Deep Learning + League of Legends
-
-*   [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
-
-*   [LeetaoGoooo/MovieHeavens](https://github.com/LeetaoGoooo/MovieHeavens) - 🎬 基于Pyqt5的简单电影搜索工具
-
-*   [tancredi/python-console-snake](https://github.com/tancredi/python-console-snake) - Lightweight snake game running in the console
-
-*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-
-*   [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
-
-*   [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-
-*   [lining0806/PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes) - Python入门网络爬虫之精华版
-
-*   [tankywoo/simiki](https://github.com/tankywoo/simiki) - Simiki is a simple wiki framework, written in Python.
-
-*   [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
-
-*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
-
-*   [SpiderClub/weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
-
-*   [fate0/getproxy](https://github.com/fate0/getproxy) - getproxy 是一个抓取发放代理网站，获取 http/https 代理的程序
-
-*   [Denon/syncPlaylist](https://github.com/Denon/syncPlaylist) - sync playlist between music platform
-
-*   [gyh1621/GetSubtitles](https://github.com/gyh1621/GetSubtitles) - 一步下载匹配字幕
-
-*   [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
-
-*   [chuyangliu/snake](https://github.com/chuyangliu/snake) - Artificial intelligence for the Snake game.
-
-*   [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
-
-*   [hellysmile/fake-useragent](https://github.com/hellysmile/fake-useragent) - up to date simple useragent faker with real world database
-
-*   [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
-
-*   [observerss/textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
-
-*   [xchaoinfo/fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
-
-*   [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
-
-*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-
-*   [python/cpython](https://github.com/python/cpython) - The Python programming language
-
-*   [arielherself/autosub](https://github.com/arielherself/autosub) - V2Board AutoSub：按计划时间自动获取试用订阅链接
-
-*   [ZSAIm/iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - 解析下载爱奇艺、哔哩哔哩、腾讯视频
-
-*   [EmptyWalletException/pythonUtils](https://github.com/EmptyWalletException/pythonUtils) - python语言写的bing图片爬虫
-
-*   [chenjiandongx/photo-trio](https://github.com/chenjiandongx/photo-trio) - 👲 美女写真图爬虫 trio 版
-
-*   [chenjiandongx/emoji.py](https://github.com/chenjiandongx/emoji.py) - 🔍 emoji 表情命令行搜索工具
-
-*   [chenjiandongx/cup-size](https://github.com/chenjiandongx/cup-size) - 👀 关于女性文胸尺码的深入探讨
-
-*   [chenjiandongx/torrent-cli](https://github.com/chenjiandongx/torrent-cli) - 🔨 磁力获取器命令行工具
-
-*   [chenjiandongx/async-bili-spider](https://github.com/chenjiandongx/async-bili-spider) - 📹 B 站异步爬虫初体验
-
-*   [chenjiandongx/photo-asyncio](https://github.com/chenjiandongx/photo-asyncio) - 🙉 美女写真图爬虫 asyncio 版
-
-*   [chenjiandongx/pixiv](https://github.com/chenjiandongx/pixiv) - P 站非会员查看人气作品
-
-*   [chenjiandongx/soksaccounts](https://github.com/chenjiandongx/soksaccounts) - 🔥 Shadowsocks 账号爬虫
-
-*   [chenjiandongx/stackoverflow-spider](https://github.com/chenjiandongx/stackoverflow-spider) - 📖 爬取 Stackoverflow 100万 条问答并简单分析
-
-*   [chenjiandongx/Github-spider](https://github.com/chenjiandongx/Github-spider) - Github 仓库及用户分析爬虫
-
-*   [chenjiandongx/51job-spider](https://github.com/chenjiandongx/51job-spider) - 🔎 前程无忧 Python 招聘岗位信息爬取和分析
-
-*   [chenjiandongx/async-proxy-pool](https://github.com/chenjiandongx/async-proxy-pool) - 🔅 Python3 异步爬虫代理池
-
-*   [XiaoMiku01/miyoubiAuto](https://github.com/XiaoMiku01/miyoubiAuto) - 米游社每日米游币自动化脚本
-
-*   [jacobtomlinson/gha-lint-yaml](https://github.com/jacobtomlinson/gha-lint-yaml) - A GitHub Action to lint YAML files
-
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-
-*   [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
-
-*   [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-
-*   [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
-
-*   [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
-
-*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-*   [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
-
-*   [taxigps/xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese) - Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
-
-*   [songquanpeng/zhihu-archiver](https://github.com/songquanpeng/zhihu-archiver) - 每日自动抓取知乎热榜，之后转换成 Markdown 文件并构造静态网站
-
-*   [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
-
-*   [lonnyzhang423/github-hot-hub](https://github.com/lonnyzhang423/github-hot-hub) - 记录GitHub热门仓库，每小时更新，按天归档。
-
-*   [lonnyzhang423/v2ex-hot-hub](https://github.com/lonnyzhang423/v2ex-hot-hub) - 记录v2ex热议话题，每小时更新，按天归档。
-
-*   [lonnyzhang423/toutiao-hot-hub](https://github.com/lonnyzhang423/toutiao-hot-hub) - 记录今日头条热门搜索，每小时更新，按天归档。
-
-*   [newpanjing/simpleui](https://github.com/newpanjing/simpleui) - A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨
-
-*   [yzyyz1387/nonebot\_plugin\_code](https://github.com/yzyyz1387/nonebot_plugin_code) - nonebot2在线运行代码
-
-*   [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
-
-*   [xiyaowong/spiders](https://github.com/xiyaowong/spiders) - Python爬虫，返回一定格式的信息，下载，使用flask提供简易api。抖音无水印、皮皮虾、快手、网易云音乐、qq音乐、咪咕音乐、荔枝FM音频、知乎视频、最右语音、视频、微博......
-
-*   [chenjiandongx/photo-gevent](https://github.com/chenjiandongx/photo-gevent) - 👮 美女写真图爬虫 gevent 版
-
-*   [chenjiandongx/mzitu](https://github.com/chenjiandongx/mzitu) - 👧 美女写真套图爬虫（二）
-
-*   [chenjiandongx/mmjpg](https://github.com/chenjiandongx/mmjpg) - 👩 美女写真套图爬虫（一）
-
-*   [wistbean/learn\_python3\_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
-
-*   [DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:
-
-*   [xiaoqiangjun/bing2weibo](https://github.com/xiaoqiangjun/bing2weibo) - 自动发布必应每日图片到微博
-
-*   [Cluas/189checkin](https://github.com/Cluas/189checkin) - 天翼云自动签到
-
-*   [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
-
-*   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-
-*   [yfun-lab/chromium-download](https://github.com/yfun-lab/chromium-download) - :zap: 定时自动获取 Chromium 可执行程序。
-
-*   [EINDEX/bing-wallpaper](https://github.com/EINDEX/bing-wallpaper) - 收集 Bing 壁纸，每天自动更换壁纸为 Bing 壁纸
-
-*   [iawia002/douban-image](https://github.com/iawia002/douban-image) - 豆瓣电影 电影海报、壁纸自动下载程序
-
-*   [yfun-lab/bing-wallpaper](https://github.com/yfun-lab/bing-wallpaper) - :sparkles: GitHub Action 自动抓取必应壁纸
-
-*   [Eobard-Thawne/Wallheaven\_Downloader](https://github.com/Eobard-Thawne/Wallheaven_Downloader) - 下载wallheaven.cc的壁纸
-
-*   [yingguqing/bing\_wallpaper](https://github.com/yingguqing/bing_wallpaper) - 必应壁纸抓取，每天17点自动使用github抓取。
-
-*   [Dootmaan/BingWallpaper](https://github.com/Dootmaan/BingWallpaper) - 爬取每日Bing壁纸
-
-*   [guli732/wallhaven\_crawler](https://github.com/guli732/wallhaven_crawler) - 尝试爬取wallhaven网站上的高质量壁纸
-
-*   [lxgzhw520/BianImgSpider](https://github.com/lxgzhw520/BianImgSpider) - 一个可以爬取数十万张高清无水印壁纸的爬虫程序
-
-*   [fakerrr/Pixiv](https://github.com/fakerrr/Pixiv) - 主要是用来爬壁纸的，没想到R18这么多
-
-*   [hfhzzdx/wallhaven](https://github.com/hfhzzdx/wallhaven) - 壁纸网站爬虫
-
-*   [JavaProgrammerLB/BingWallpaper](https://github.com/JavaProgrammerLB/BingWallpaper) - 爬Bing每日壁纸的爬虫
-
-*   [out0fmemory/BingDailyWallpaper](https://github.com/out0fmemory/BingDailyWallpaper) - bing每日壁纸集，包含历史壁纸、各分辨率壁纸及壁纸信息
-
-*   [xinac721/bing-img](https://github.com/xinac721/bing-img) - 必应壁纸 - 每日一图
-
-*   [autofelix/python-spiders](https://github.com/autofelix/python-spiders) - 🌈  Python网络爬虫实战：王者荣耀超清壁纸、抖音无水印视频、M3U8推流视频、正方系统、财务报表、美女帅哥图片、CSDN阅读量、淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说音乐电影下载等
-
-*   [zjkwdy/bili\_app\_splash](https://github.com/zjkwdy/bili_app_splash) - B站壁纸娘和开屏图自动下载，每天使用Actions自动同步
-
-*   [XANXUS2/-RePKG-GUI-Python-Wallpaper-Engine-](https://github.com/XANXUS2/-RePKG-GUI-Python-Wallpaper-Engine-) - 提取Wallpaper  Engine壁纸
-
-*   [chenjiandongx/wallpaper](https://github.com/chenjiandongx/wallpaper) - zol 手机壁纸爬虫（简单分布式？）
-
-*   [journey-ad/hentai-wallpaper](https://github.com/journey-ad/hentai-wallpaper) - 绅士的壁纸
-
-*   [wxy1343/img-spider](https://github.com/wxy1343/img-spider) - 高清壁纸爬虫
-
-*   [qinyuanpei/WallPaper](https://github.com/qinyuanpei/WallPaper) - 一个基于Python的Windows下的壁纸更换工具
-
-*   [jckling/tg-bot](https://github.com/jckling/tg-bot) - 使用 Github Action 推送内容的 telegram bot：每日推送 Bing 壁纸、百合会中文漫画、Bilibili 动态；每周推送 Pixiv 周榜。
-
-*   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
-
-*   [peikoko/-189cloud-action](https://github.com/peikoko/-189cloud-action) -
-
-*   [shanghaobo/NeteaseCloudMusicDay](https://github.com/shanghaobo/NeteaseCloudMusicDay) - 网易云音乐每日推荐记录，自动生成日期命名的歌单
-
-*   [Ljzd-PRO/Mys\_Goods\_Tool](https://github.com/Ljzd-PRO/Mys_Goods_Tool) - 自动兑换米游社米游币商品的脚本
-
-*   [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages by GitHub Action | 无须人为干预，由 GitHub Action 自动部署 Gitee Pages
-
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-
-*   [airingursb/bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili 用户爬虫
-
-*   [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口，腾讯云内网免流+大幅提速
-
-*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
-
-*   [FioraLove/Net-Spider](https://github.com/FioraLove/Net-Spider) - 新手小白~~持续更新中〜随意Fork，Star，大佬萌多多issue哦  (目前更新: 1.短视频视频无水印解析（支持超过30多个平台 e.g., 抖音，快手，微博...）   2.bilibili音视频解析🐱‍👓   3.知音漫客图片加密 🔥  4. 世纪佳缘信息👨‍👩‍👧‍👦  5.小鸡词典🐥🐥。。。。。。
-
-*   [moyada/stealer](https://github.com/moyada/stealer) - 抖音、快手、火山、皮皮虾，视频去水印程序
-
-*   [chenjiandongx/bili-spider](https://github.com/chenjiandongx/bili-spider) - 📺 B 站全站视频信息爬虫
-
-*   [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️快如闪电的bilibili下载工具，基于Python现代Async特性，高速批量下载整部动漫，电视剧，up投稿等。现已支持抖音等更多站点
-
-*   [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice\_cube: 一个可爱且任性的 B 站视频下载器（bilili V2）
-
-*   [AsaChiri/DDRecorder](https://github.com/AsaChiri/DDRecorder) - 📺Headless全自动B站直播录播、切片、上传一体工具
-
-*   [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
-
-*   [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
-
-*   [Aruelius/cloud189](https://github.com/Aruelius/cloud189) - 天翼云盘 CLI Python
-
-*   [Last-Yesterday/AutoActions\_wyy](https://github.com/Last-Yesterday/AutoActions_wyy) - 网易云音乐自动登录签到 + 刷歌 310 首| 使用 GitHub Actions 编译 | 感谢t00t00-crypto的项目源码
-
-*   [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
-
-*   [H-K-Y/Genshin\_Impact\_bot](https://github.com/H-K-Y/Genshin_Impact_bot) - 原神bot，这是一个基于nonebot和HoshinoBot的原神娱乐及信息查询插件，包含原神抽卡，丘丘语翻译，找资源点等功能
-
-*   [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
-
-*   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
-
-*   [zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools) - 用Hexo的方式管理WordPress(使用Github Actions自动更新文章到WordPress)
-
-*   [yu-steven/openit](https://github.com/yu-steven/openit) - 致力于打造免费无感的翻墙环境
-
-*   [vpei/Free-Node-Merge](https://github.com/vpei/Free-Node-Merge) - 自动合并 ss ssr trojan vmess vless 等免费节点链接，科学上网，定阅免费机场。有资源网址，请加Telegram群：opmhth
-
-*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
-
-*   [Neutralization/BiliBiliRankingScripts](https://github.com/Neutralization/BiliBiliRankingScripts) - 周刊哔哩哔哩排行榜自动化操作脚本
-
-*   [hegemony1/crawlProject](https://github.com/hegemony1/crawlProject) - 今日头条 、淘宝 、微博 、斗鱼 、抖音 、哔哩哔哩 、有道翻译、steam网站以及网易云音乐爬取
-
-*   [topiccrawler/jkcrawler](https://github.com/topiccrawler/jkcrawler) - 使用 Scrapy 写成的 JK 爬虫，图片源自哔哩哔哩、Tumblr、Instagram，以及微博、Twitter
-
-*   [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
-
-*   [acgnhiki/blrec](https://github.com/acgnhiki/blrec) - Bilibili Live Streaming Recorder  哔哩哔哩直播录制
-
-*   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。工具齐全。原储存库地址：https://github.com/MoyuScript/bilibili-api
-
-*   [srx-2000/spider\_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，知乎百万级用户爬虫+数据分析，github用户爬虫
-
-*   [ZSAIm/VideoCrawlerEngine](https://github.com/ZSAIm/VideoCrawlerEngine) - 起源于旧项目爱奇艺解析器(iqiyi-parser)在开发、维护和扩展的过程中遇到的一些问题，而实现的一个基于任务流式的可视化爬虫引擎。引擎的执行单元是节点。脚本节点(script)作为根节点来完成对节点和流程的描述，经由任务节点(task)解析流程描述并生成节点的执行队列，最后交由工作者执行池处理。整个过程可视可控，所有节点处理器都以插件的形式导入，以最大程度实现易扩展性。
-
-*   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-
-*   [0honus0/1024-Autoreply](https://github.com/0honus0/1024-Autoreply) - 1024论坛 自动回帖
-
-*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
-
-*   [djhdj1/AutoApiP](https://github.com/djhdj1/AutoApiP) - E5 自动续期
-
-*   [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
-
-*   [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
-
-*   [Rock-Candy-Tea/hexo-circle-of-friends](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 ## TypeScript
 
