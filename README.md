@@ -84,6 +84,8 @@
 
 ## Java
 
+*   [saysky/ForestBlog](https://github.com/saysky/ForestBlog) - 一个简单漂亮的SSM(Spring+SpringMVC+Mybatis)博客系统
+
 *   [mouzt/mzt-biz-log](https://github.com/mouzt/mzt-biz-log) - 支持Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件
 
 *   [jeecgboot/jeewx-boot](https://github.com/jeecgboot/jeewx-boot) - JAVA版免费开源的微信管家平台。支持微信公众号、小程序、第三方平台等。平台已经实现了公众号基础管理、群发、系统权限、抽奖活动、小程序官网等功能，便于二次开发，可以快速搭建微信应用！
@@ -379,6 +381,8 @@
 *   [geotools/geotools](https://github.com/geotools/geotools) - Official GeoTools repository
 
 *   [spring-projects/spring-data-mongodb](https://github.com/spring-projects/spring-data-mongodb) - Provide support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
+
+*   [ityouknow/spring-boot-leaning](https://github.com/ityouknow/spring-boot-leaning) - Spring Boot 2.X 最全课程代码
 
 *   [forezp/SpringBootLearning](https://github.com/forezp/SpringBootLearning) - 《Spring Boot教程》源码
 
@@ -3590,8 +3594,6 @@
 
 *   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 打造最强静态导航网站(支持SEO)  | Discovery Navigation: A purely static, powerful navigation website that supports SEO and online editing
 
-*   [justjavac/ali-words](https://github.com/justjavac/ali-words) - 互联网黑话词汇表，包含“赋能、抓手、闭环、沉淀、打通”等阿里味儿词汇
-
 ## Ruby
 
 *   [pboling/gitmoji-regex](https://github.com/pboling/gitmoji-regex) - 🔥 A regular expression matching Gitmoji (a subset of Unicode Emoji) symbols
@@ -5046,8 +5048,6 @@
 
 *   [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 
-*   [ityouknow/spring-boot-leaning](https://github.com/ityouknow/spring-boot-leaning) - Spring Boot 2.X 最全课程代码
-
 *   [qufei1993/Nodejs-Roadmap](https://github.com/qufei1993/Nodejs-Roadmap) - 【Nodejs-Roadmap】侧重于 Node.js 服务端的开发指南，公众号 “Nodejs技术栈”
 
 *   [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books) - 📚 经典技术书籍推荐，持续更新...
@@ -6088,7 +6088,7 @@
 
 *   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 
-*   [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes.
+*   [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes. Own your own cloud with one click！
 
 *   [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 
