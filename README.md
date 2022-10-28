@@ -795,7 +795,7 @@
 
 *   [lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader) - Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
 
-*   [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+*   [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 
 *   [Qiu800820/SuperLike](https://github.com/Qiu800820/SuperLike) - 今日头条点赞动画 连击动画
 
