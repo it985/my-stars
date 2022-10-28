@@ -1321,7 +1321,7 @@
 
 *   [jhildenbiddle/css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill) - Client-side support for CSS custom properties (aka "CSS variables") in legacy and modern browsers
 
-*   [ddgksf2013/Cuttlefish](https://github.com/ddgksf2013/Cuttlefish) - Scripts for self-use, ⛔️ fork
+*   [ddgksf2021/Cuttlefish](https://github.com/ddgksf2021/Cuttlefish) - Scripts for self-use, ⛔️ fork
 
 *   [shshaw/Splitting](https://github.com/shshaw/Splitting) - JavaScript microlibrary to split an element by words, characters, children and more, populated with CSS variables!
 
