@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
@@ -19,7 +20,6 @@
 *   [Kotlin](#kotlin)
 *   [Swift](#swift)
 *   [Shell](#shell)
-*   [HTML](#html)
 *   [C#](#c-2)
 *   [PHP](#php)
 *   [Rust](#rust)
@@ -86,6 +86,352 @@
 *   [Hack](#hack)
 *   [AutoHotkey](#autohotkey)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [anzhiyu-c/anzhiyu-c.github.io](https://github.com/anzhiyu-c/anzhiyu-c.github.io) - AnZhiYu Blog
+
+*   [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) - This repo is for demonstration purposes only.
+
+*   [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
+
+*   [sapicd/sapic](https://github.com/sapicd/sapic) - sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。
+
+*   [RafeKettler/magicmethods](https://github.com/RafeKettler/magicmethods) - Guide to Python's magic methods
+
+*   [LRH1993/android\_interview](https://github.com/LRH1993/android_interview) - gitbook地址
+
+*   [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+
+*   [miluluyo/cute-cnblogs](https://github.com/miluluyo/cute-cnblogs) - 可爱的博客园样式美化、自定义博客园样式
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
+
+*   [NotFound403/payment-spring-boot](https://github.com/NotFound403/payment-spring-boot) - 微信支付V3，微信优惠券，代金券、公众号支付、微信小程序支付、分账、支付分、商家券
+
+*   [wovert/we-media](https://github.com/wovert/we-media) - 自媒体系统指南
+
+*   [CodingDocs/typora-markdown-resume](https://github.com/CodingDocs/typora-markdown-resume) - typora+markdown+css自定义简历模板
+
+*   [xuyuanzhi051/My520](https://github.com/xuyuanzhi051/My520) - 520表白神器
+
+*   [fwonggh/Bthub](https://github.com/fwonggh/Bthub) - Bthub最新地址发布页
+
+*   [iptv-org/epg](https://github.com/iptv-org/epg) - EPG (Electronic Program Guide) for thousands of TV channels collected from different sources
+
+*   [shw2018/hexo-blog-fly](https://github.com/shw2018/hexo-blog-fly) - This is my personal blog repository.  Now,it is open for everyone to download and modify. If it can help you to build your blog or you like the repo, could you give me a star ! Thank you!
+
+*   [Likenttt/china-city-marathon-ex](https://github.com/Likenttt/china-city-marathon-ex) - 「中国马拉松制霸生成器」中国马拉松制霸标记工具
+
+*   [lvwzhen/foodie-ex](https://github.com/lvwzhen/foodie-ex) - 🍜「吃货制霸生成器」
+
+*   [cxman1/vue-collect](https://github.com/cxman1/vue-collect) - 前端资源、知识汇总Technology sharing blog
+
+*   [zhheo/hexo-butterfly-editor](https://github.com/zhheo/hexo-butterfly-editor) - Butterfly魔改教程导航站
+
+*   [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - :ramen: Minimalist Jekyll Template, dark and light themes
+
+*   [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+
+*   [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+
+*   [bootstrap-email/bootstrap-email](https://github.com/bootstrap-email/bootstrap-email) - Bootstrap stylesheet, compiler, and inliner for responsive and consistent emails with the Bootstrap syntax you know and love.
+
+*   [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
+
+*   [Iconscout/unicons](https://github.com/Iconscout/unicons) - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
+
+*   [sparksuite/simple-html-invoice-template](https://github.com/sparksuite/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template
+
+*   [dinubs/jam-api](https://github.com/dinubs/jam-api) - Parse web pages using CSS query selectors
+
+*   [thoughtbot/bitters](https://github.com/thoughtbot/bitters) - Add a dash of pre-defined style to your Bourbon.
+
+*   [christophery/pushy](https://github.com/christophery/pushy) - Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.
+
+*   [doyoe/css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
+
+*   [eqcss/eqcss](https://github.com/eqcss/eqcss) - EQCSS is a CSS Reprocessor that introduces Element Queries, Scoped CSS, a Parent selector, and responsive JavaScript to all browsers IE8 and up
+
+*   [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
+
+*   [adamjgrant/kickstart](https://github.com/adamjgrant/kickstart) - Kickstart is a CSS library designed for modularity and fast page performance
+
+*   [leeoniya/dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
+
+*   [1000ch/grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 321 bytes (Gzipped).
+
+*   [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
+
+*   [aozora/bootmetro](https://github.com/aozora/bootmetro) - Simple and complete web UI framework to create web apps with Windows 8 Metro user interface, based on Bootstrap 2.
+
+*   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
+
+*   [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
+
+*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+
+*   [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
+
+*   [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
+
+*   [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
+
+*   [suitcss/suit](https://github.com/suitcss/suit) - Style tools for UI components
+
+*   [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - \[Book] 2019 edition of our front-end development handbook
+
+*   [topcoat/topcoat](https://github.com/topcoat/topcoat) - CSS for clean and fast web apps
+
+*   [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
+
+*   [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
+
+*   [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
+
+*   [salesforce/WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces.
+
+*   [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
+
+*   [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is a DevSecOps and vulnerability management tool.
+
+*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+
+*   [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
+
+*   [Muyangmin/glide-docs-cn](https://github.com/Muyangmin/glide-docs-cn) - Glide简体中文文档站点托管项目。
+
+*   [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
+
+*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
+
+*   [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
+
+*   [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue\_book: Home Assistant User documentation
+
+*   [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
+
+*   [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
+
+*   [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
+
+*   [misstt123/zhaopin\_spider](https://github.com/misstt123/zhaopin_spider) - 抓取拉勾，猎聘网站信息
+
+*   [yangzongzhuan/RuoYi-Oracle](https://github.com/yangzongzhuan/RuoYi-Oracle) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
+
+*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+
+*   [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
+
+*   [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
+
+*   [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
+
+*   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
+
+*   [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+
+*   [electrode-io/electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
+
+*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
+
+*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
+
+*   [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
+
+*   [netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io) - Netkiller Free ebook - 免费电子书
+
+*   [frainzy1477/luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
+
+*   [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
+
+*   [adminkit/adminkit](https://github.com/adminkit/adminkit) - AdminKit is a free & open-source HTML dashboard & admin template based on Bootstrap 5
+
+*   [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
+
+*   [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
+
+*   [digicorp/propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
+
+*   [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
+
+*   [isobar-us/code-standards](https://github.com/isobar-us/code-standards) - Isobar Front-end development coding standards. Memorize them BY HEART.
+
+*   [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
+
+*   [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page\_facing\_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
+
+*   [TIM168/technical\_books](https://github.com/TIM168/technical_books) - :books:🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中:hotsprings:
+
+*   [ccforward/cc](https://github.com/ccforward/cc) - 代码库 & Blog
+
+*   [manrajgrover/SingleDivProject](https://github.com/manrajgrover/SingleDivProject) - ☝️One \<div>. Many possibilities.
+
+*   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
+
+*   [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
+
+*   [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
+
+*   [bjankord/Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate) - ⚡️🎨 A starting point for crafting living style guides.
+
+*   [StartBootstrap/startbootstrap-clean-blog-jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) - A Jekyll version of the Clean Blog theme by Start Bootstrap
+
+*   [rgrove/sanitize](https://github.com/rgrove/sanitize) - Ruby HTML and CSS sanitizer.
+
+*   [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
+
+*   [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
+
+*   [umpox/TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
+
+*   [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+
+*   [khan4019/front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions) - Help the front End community to rock interview
+
+*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+
+*   [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+
+*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular library of interactive UI components built with Tailwind CSS
+
+*   [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+
+*   [modularcode/modular-admin-html](https://github.com/modularcode/modular-admin-html) - ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
+
+*   [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
+
+*   [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
+
+*   [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
+
+*   [sciactive/pnotify](https://github.com/sciactive/pnotify) - Beautiful JavaScript notifications with Web Notifications support.
+
+*   [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
+
+*   [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
+
+*   [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
+
+*   [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
+
+*   [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
+
+*   [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
+
+*   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
+
+*   [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
+
+*   [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
+
+*   [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use
+
+*   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
+
+*   [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
+
+*   [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+
+*   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+
+*   [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
+
+*   [azat-co/cheatsheets](https://github.com/azat-co/cheatsheets) - JavaScript and Node.js cheatsheets
+
+*   [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
+
+*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
+
+*   [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
+
+*   [XXIIVV/webring](https://github.com/XXIIVV/webring) - Make yourself a website
+
+*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
+
+*   [sxyazi/free-hls](https://github.com/sxyazi/free-hls) - 视频床方案，视频切片上传到免费图床
+
+*   [MakerGYT/cnblogs-theme-next](https://github.com/MakerGYT/cnblogs-theme-next) - next-theme博客园论文主题
+
+*   [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) - 📖 一款专注于阅读的博客园主题
+
+*   [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+
+*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+
+*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+
+*   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
+
+*   [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+*   [propjockey/css-sweeper](https://github.com/propjockey/css-sweeper) - MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)
+
+*   [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
+
+*   [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
+
+*   [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+*   [phodal/growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
+
+*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
+
+*   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+
+*   [yiminghe/learning-react](https://github.com/yiminghe/learning-react) - materials about learning react
+
+*   [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid:
+
+*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+
+*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+
+*   [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
+
+*   [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
+
+*   [EmptyWalletException/TopTalk](https://github.com/EmptyWalletException/TopTalk) - TopTalk是一个类似于CSDN简化后的中大型专业IT交流论坛，使用了最新的Spring全家桶技术栈开发的前后端分离的微服务项目;
+
+*   [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
+
+*   [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [railsgirls/railsgirls.github.io](https://github.com/railsgirls/railsgirls.github.io) - Rails Girls Guides
+
+*   [lonnyzhang423/zhihu-hot-hub](https://github.com/lonnyzhang423/zhihu-hot-hub) - 记录知乎热搜、热门话题、热门视频，每小时更新，按天归档。
+
+*   [lonnyzhang423/weibo-hot-hub](https://github.com/lonnyzhang423/weibo-hot-hub) - 记录微博热搜、热门话题，每小时更新，按天归档。
+
+*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
+
+*   [androidmumo/Bing-upyun](https://github.com/androidmumo/Bing-upyun) - 轻量必应每日一图API，支持上传至又拍云调用，支持图片处理（高斯模糊、灰阶），支持回溯。
+
+*   [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
+
+*   [SukkaLab/pixiv](https://github.com/SukkaLab/pixiv) -
+
+*   [ChenYFan/ssl](https://github.com/ChenYFan/ssl) - 🔒无后端每日检查特定网站的SSL证书状况
+
+*   [uxiaohan/wallpaper](https://github.com/uxiaohan/wallpaper) - 小韩二次美化孟坤自采集壁纸网站源码
+
+*   [Asabeneh/30-Days-Of-HTML](https://github.com/Asabeneh/30-Days-Of-HTML) - A step by step guide to learn the concept of HTML, DOM tree, and web development in 30 days.
+
+*   [Asabeneh/10-days-of-git-and-github](https://github.com/Asabeneh/10-days-of-git-and-github) -
+
+*   [wardseptember/notes](https://github.com/wardseptember/notes) - 算法刷题指南、Java多线程与高并发、Java集合源码、Spring boot、Spring Cloud等笔记，源码级学习笔记后续也会更新。
+
+*   [3kanAlpha/hololive-asmr](https://github.com/3kanAlpha/hololive-asmr) - ホロライブのASMR配信検索サービス
+
+*   [zkeq/icodeq-api](https://github.com/zkeq/icodeq-api) - 自用 API 地址
 
 ## Python
 
@@ -5149,6 +5495,8 @@
 
 *   [action-hong/china-ex](https://github.com/action-hong/china-ex) - 「福建制霸生成器」福建制霸标记工具
 
+*   [tenpages/us-level](https://github.com/tenpages/us-level) - Travel marker created following「中国制霸生成器」by 卜卜口 (@itorr)
+
 *   [itorr/world-ex](https://github.com/itorr/world-ex) - 🌏「全球制霸生成器」全球部分国家地区制霸标记生成工具
 
 *   [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
@@ -7077,352 +7425,6 @@
 
 *   [vcheckzen/KeepAliveE5](https://github.com/vcheckzen/KeepAliveE5) -
 
-## HTML
-
-*   [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) - This repo is for demonstration purposes only.
-
-*   [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
-
-*   [sapicd/sapic](https://github.com/sapicd/sapic) - sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。
-
-*   [RafeKettler/magicmethods](https://github.com/RafeKettler/magicmethods) - Guide to Python's magic methods
-
-*   [LRH1993/android\_interview](https://github.com/LRH1993/android_interview) - gitbook地址
-
-*   [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
-
-*   [miluluyo/cute-cnblogs](https://github.com/miluluyo/cute-cnblogs) - 可爱的博客园样式美化、自定义博客园样式
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
-
-*   [NotFound403/payment-spring-boot](https://github.com/NotFound403/payment-spring-boot) - 微信支付V3，微信优惠券，代金券、公众号支付、微信小程序支付、分账、支付分、商家券
-
-*   [wovert/we-media](https://github.com/wovert/we-media) - 自媒体系统指南
-
-*   [CodingDocs/typora-markdown-resume](https://github.com/CodingDocs/typora-markdown-resume) - typora+markdown+css自定义简历模板
-
-*   [xuyuanzhi051/My520](https://github.com/xuyuanzhi051/My520) - 520表白神器
-
-*   [fwonggh/Bthub](https://github.com/fwonggh/Bthub) - Bthub最新地址发布页
-
-*   [iptv-org/epg](https://github.com/iptv-org/epg) - EPG (Electronic Program Guide) for thousands of TV channels collected from different sources
-
-*   [shw2018/hexo-blog-fly](https://github.com/shw2018/hexo-blog-fly) - This is my personal blog repository.  Now,it is open for everyone to download and modify. If it can help you to build your blog or you like the repo, could you give me a star ! Thank you!
-
-*   [Likenttt/china-city-marathon-ex](https://github.com/Likenttt/china-city-marathon-ex) - 「中国马拉松制霸生成器」中国马拉松制霸标记工具
-
-*   [tenpages/us-level](https://github.com/tenpages/us-level) - Travel marker created following「中国制霸生成器」by 卜卜口 (@itorr)
-
-*   [lvwzhen/foodie-ex](https://github.com/lvwzhen/foodie-ex) - 🍜「吃货制霸生成器」
-
-*   [cxman1/vue-collect](https://github.com/cxman1/vue-collect) - 前端资源、知识汇总Technology sharing blog
-
-*   [zhheo/hexo-butterfly-editor](https://github.com/zhheo/hexo-butterfly-editor) - Butterfly魔改教程导航站
-
-*   [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - :ramen: Minimalist Jekyll Template, dark and light themes
-
-*   [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-
-*   [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-
-*   [bootstrap-email/bootstrap-email](https://github.com/bootstrap-email/bootstrap-email) - Bootstrap stylesheet, compiler, and inliner for responsive and consistent emails with the Bootstrap syntax you know and love.
-
-*   [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
-
-*   [Iconscout/unicons](https://github.com/Iconscout/unicons) - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
-
-*   [sparksuite/simple-html-invoice-template](https://github.com/sparksuite/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template
-
-*   [dinubs/jam-api](https://github.com/dinubs/jam-api) - Parse web pages using CSS query selectors
-
-*   [thoughtbot/bitters](https://github.com/thoughtbot/bitters) - Add a dash of pre-defined style to your Bourbon.
-
-*   [christophery/pushy](https://github.com/christophery/pushy) - Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.
-
-*   [doyoe/css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
-
-*   [eqcss/eqcss](https://github.com/eqcss/eqcss) - EQCSS is a CSS Reprocessor that introduces Element Queries, Scoped CSS, a Parent selector, and responsive JavaScript to all browsers IE8 and up
-
-*   [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
-
-*   [adamjgrant/kickstart](https://github.com/adamjgrant/kickstart) - Kickstart is a CSS library designed for modularity and fast page performance
-
-*   [leeoniya/dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
-
-*   [1000ch/grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 321 bytes (Gzipped).
-
-*   [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
-
-*   [aozora/bootmetro](https://github.com/aozora/bootmetro) - Simple and complete web UI framework to create web apps with Windows 8 Metro user interface, based on Bootstrap 2.
-
-*   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
-
-*   [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
-
-*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-
-*   [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
-
-*   [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
-
-*   [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
-
-*   [suitcss/suit](https://github.com/suitcss/suit) - Style tools for UI components
-
-*   [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - \[Book] 2019 edition of our front-end development handbook
-
-*   [topcoat/topcoat](https://github.com/topcoat/topcoat) - CSS for clean and fast web apps
-
-*   [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
-
-*   [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
-
-*   [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
-
-*   [salesforce/WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces.
-
-*   [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
-
-*   [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is a DevSecOps and vulnerability management tool.
-
-*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-
-*   [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
-
-*   [Muyangmin/glide-docs-cn](https://github.com/Muyangmin/glide-docs-cn) - Glide简体中文文档站点托管项目。
-
-*   [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
-
-*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
-
-*   [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
-
-*   [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue\_book: Home Assistant User documentation
-
-*   [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
-
-*   [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
-
-*   [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
-
-*   [misstt123/zhaopin\_spider](https://github.com/misstt123/zhaopin_spider) - 抓取拉勾，猎聘网站信息
-
-*   [yangzongzhuan/RuoYi-Oracle](https://github.com/yangzongzhuan/RuoYi-Oracle) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
-
-*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-
-*   [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
-
-*   [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
-
-*   [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
-
-*   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
-
-*   [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
-
-*   [electrode-io/electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
-
-*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
-
-*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
-
-*   [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
-
-*   [netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io) - Netkiller Free ebook - 免费电子书
-
-*   [frainzy1477/luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
-
-*   [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
-
-*   [adminkit/adminkit](https://github.com/adminkit/adminkit) - AdminKit is a free & open-source HTML dashboard & admin template based on Bootstrap 5
-
-*   [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
-
-*   [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
-
-*   [digicorp/propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
-
-*   [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
-
-*   [isobar-us/code-standards](https://github.com/isobar-us/code-standards) - Isobar Front-end development coding standards. Memorize them BY HEART.
-
-*   [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
-
-*   [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page\_facing\_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
-
-*   [TIM168/technical\_books](https://github.com/TIM168/technical_books) - :books:🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中:hotsprings:
-
-*   [ccforward/cc](https://github.com/ccforward/cc) - 代码库 & Blog
-
-*   [manrajgrover/SingleDivProject](https://github.com/manrajgrover/SingleDivProject) - ☝️One \<div>. Many possibilities.
-
-*   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
-
-*   [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
-
-*   [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
-
-*   [bjankord/Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate) - ⚡️🎨 A starting point for crafting living style guides.
-
-*   [StartBootstrap/startbootstrap-clean-blog-jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) - A Jekyll version of the Clean Blog theme by Start Bootstrap
-
-*   [rgrove/sanitize](https://github.com/rgrove/sanitize) - Ruby HTML and CSS sanitizer.
-
-*   [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
-
-*   [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
-
-*   [umpox/TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
-
-*   [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
-
-*   [khan4019/front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions) - Help the front End community to rock interview
-
-*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
-
-*   [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
-
-*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular library of interactive UI components built with Tailwind CSS
-
-*   [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
-
-*   [modularcode/modular-admin-html](https://github.com/modularcode/modular-admin-html) - ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
-
-*   [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
-
-*   [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
-
-*   [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
-
-*   [sciactive/pnotify](https://github.com/sciactive/pnotify) - Beautiful JavaScript notifications with Web Notifications support.
-
-*   [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
-
-*   [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
-
-*   [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
-
-*   [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
-
-*   [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-
-*   [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
-
-*   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
-
-*   [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
-
-*   [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-
-*   [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use
-
-*   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
-
-*   [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
-
-*   [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-
-*   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
-
-*   [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
-
-*   [azat-co/cheatsheets](https://github.com/azat-co/cheatsheets) - JavaScript and Node.js cheatsheets
-
-*   [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-
-*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
-
-*   [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
-
-*   [XXIIVV/webring](https://github.com/XXIIVV/webring) - Make yourself a website
-
-*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
-
-*   [sxyazi/free-hls](https://github.com/sxyazi/free-hls) - 视频床方案，视频切片上传到免费图床
-
-*   [MakerGYT/cnblogs-theme-next](https://github.com/MakerGYT/cnblogs-theme-next) - next-theme博客园论文主题
-
-*   [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) - 📖 一款专注于阅读的博客园主题
-
-*   [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-
-*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-
-*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
-
-*   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-
-*   [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [propjockey/css-sweeper](https://github.com/propjockey/css-sweeper) - MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)
-
-*   [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
-
-*   [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-
-*   [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-*   [phodal/growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
-
-*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
-
-*   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-
-*   [yiminghe/learning-react](https://github.com/yiminghe/learning-react) - materials about learning react
-
-*   [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid:
-
-*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-
-*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-
-*   [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
-
-*   [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-
-*   [EmptyWalletException/TopTalk](https://github.com/EmptyWalletException/TopTalk) - TopTalk是一个类似于CSDN简化后的中大型专业IT交流论坛，使用了最新的Spring全家桶技术栈开发的前后端分离的微服务项目;
-
-*   [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
-
-*   [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [railsgirls/railsgirls.github.io](https://github.com/railsgirls/railsgirls.github.io) - Rails Girls Guides
-
-*   [lonnyzhang423/zhihu-hot-hub](https://github.com/lonnyzhang423/zhihu-hot-hub) - 记录知乎热搜、热门话题、热门视频，每小时更新，按天归档。
-
-*   [lonnyzhang423/weibo-hot-hub](https://github.com/lonnyzhang423/weibo-hot-hub) - 记录微博热搜、热门话题，每小时更新，按天归档。
-
-*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-
-*   [androidmumo/Bing-upyun](https://github.com/androidmumo/Bing-upyun) - 轻量必应每日一图API，支持上传至又拍云调用，支持图片处理（高斯模糊、灰阶），支持回溯。
-
-*   [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
-
-*   [SukkaLab/pixiv](https://github.com/SukkaLab/pixiv) -
-
-*   [ChenYFan/ssl](https://github.com/ChenYFan/ssl) - 🔒无后端每日检查特定网站的SSL证书状况
-
-*   [uxiaohan/wallpaper](https://github.com/uxiaohan/wallpaper) - 小韩二次美化孟坤自采集壁纸网站源码
-
-*   [Asabeneh/30-Days-Of-HTML](https://github.com/Asabeneh/30-Days-Of-HTML) - A step by step guide to learn the concept of HTML, DOM tree, and web development in 30 days.
-
-*   [Asabeneh/10-days-of-git-and-github](https://github.com/Asabeneh/10-days-of-git-and-github) -
-
-*   [wardseptember/notes](https://github.com/wardseptember/notes) - 算法刷题指南、Java多线程与高并发、Java集合源码、Spring boot、Spring Cloud等笔记，源码级学习笔记后续也会更新。
-
-*   [3kanAlpha/hololive-asmr](https://github.com/3kanAlpha/hololive-asmr) - ホロライブのASMR配信検索サービス
-
-*   [zkeq/icodeq-api](https://github.com/zkeq/icodeq-api) - 自用 API 地址
-
 ## C\#
 
 *   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - \[.NET7] Cross-Platform stream downloader for DASH/HLS. Language supported: English/简体中文/繁體中文.
@@ -7988,8 +7990,6 @@
 *   [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
 
 *   [wormtql/yas](https://github.com/wormtql/yas) - Superfast Genshin Impact artifacts scanner
-
-*   [wormtql/genshin\_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 
 ## OCaml
 
