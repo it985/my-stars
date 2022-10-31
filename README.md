@@ -1035,7 +1035,7 @@
 
 *   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 
-*   [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+*   [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
 
 *   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 
