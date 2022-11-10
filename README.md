@@ -5245,7 +5245,7 @@
 
 *   [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 
-*   [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
+*   [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 
 *   [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
@@ -7879,7 +7879,7 @@
 
 ## Kotlin
 
-*   [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
+*   [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 
 *   [google/flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox for Android
 
