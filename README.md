@@ -1455,7 +1455,7 @@
 
 *   [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)
 
-*   [lealone/Lealone](https://github.com/lealone/Lealone) - 微服务 OLTP 关系数据库一体化
+*   [lealone/Lealone](https://github.com/lealone/Lealone) - 数据库微服务一体化、单机分布式一体化
 
 *   [xerial/sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) - SQLite JDBC Driver
 
