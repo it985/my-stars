@@ -3051,7 +3051,7 @@
 
 *   [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 
-*   [Bearer/Pizzly](https://github.com/Bearer/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+*   [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
 
 *   [remult/remult](https://github.com/remult/remult) - A CRUD framework for full stack TypeScript
 
