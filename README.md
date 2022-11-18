@@ -1015,7 +1015,7 @@
 
 *   [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；Dubbo、Alibaba Dubbo、RabbitMQ、RocketMQ、Polaris 、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
 
-*   [halo-sigs/plugin-starter](https://github.com/halo-sigs/plugin-starter) - Skeleton Template for Halo Plugin Development(WIP)
+*   [halo-dev/plugin-starter](https://github.com/halo-dev/plugin-starter) - Starter Template for Halo Plugin Development(WIP)
 
 *   [EmptyWalletException/AdminDemo](https://github.com/EmptyWalletException/AdminDemo) - 此项目是PhotoLike项目的管理端的后端,与前端分离,采用了springboot+jpa+mysql,前端采用vue+elementUi+nodejs
 
@@ -5149,7 +5149,7 @@
 
 *   [hua1995116/shaoshupai-trending-hot-search](https://github.com/hua1995116/shaoshupai-trending-hot-search) - 少数派热门榜，记录从 2022-01-09 日开始的少数派热门文章。每天 21:00 抓取，按天归档。
 
-*   [songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards) - 在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，服务部署在 Vercel 上，保证服务稳定. Show your LeetCode & GitHub stats in GitHub Profile.
+*   [songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards) - 在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.
 
 *   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 
