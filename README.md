@@ -1067,8 +1067,6 @@
 
 *   [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 
-*   [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
-
 *   [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 
 *   [observerss/textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
@@ -5043,7 +5041,7 @@
 
 *   [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 
-*   [astroturfcss/astroturf](https://github.com/astroturfcss/astroturf) - An "artificial" CSS-in-JS for those that want it all.
+*   [astroturfcss/astroturf](https://github.com/astroturfcss/astroturf) - Better Styling through Compiling: CSS-in-JS for those that want it all.
 
 *   [hojberg/cssarrowplease](https://github.com/hojberg/cssarrowplease) - Generate CSS tooltip arrows
 
@@ -6782,6 +6780,8 @@
 *   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 
 *   [yiminghe/learning-react](https://github.com/yiminghe/learning-react) - materials about learning react
+
+*   [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
 
 *   [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid:
 
