@@ -6925,7 +6925,7 @@
 
 *   [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 
-*   [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+*   [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 
 *   [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP
 
