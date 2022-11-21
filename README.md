@@ -4773,8 +4773,6 @@
 
 *   [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 
-*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
 *   [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 
 *   [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -9758,6 +9756,8 @@
 ## EJS
 
 *   [zhaoo/hexo-theme-zhaoo](https://github.com/zhaoo/hexo-theme-zhaoo) - 🐳    A simple theme for Hexo
+
+*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 *   [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
 
