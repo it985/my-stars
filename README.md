@@ -5613,7 +5613,7 @@
 
 *   [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 
-*   [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
+*   [didi/Mpx](https://github.com/didi/Mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 
 *   [jagenjo/webglstudio.js](https://github.com/jagenjo/webglstudio.js) - A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
 
@@ -8123,7 +8123,7 @@
 
 *   [mattt/Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
 
-*   [Coding/Coding-iOS](https://github.com/Coding/Coding-iOS) - CODING iOS 客户端源代码
+*   [coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING iOS 客户端源代码
 
 *   [libobjc/SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media play framework for iOS, macOS, and tvOS.
 
