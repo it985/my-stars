@@ -3231,7 +3231,7 @@
 
 *   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 
-*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, beautiful and powerful stream downloader for DASH/HLS. English/简体中文/繁體中文.
+*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, beautiful and powerful stream downloader for DASH/HLS/MSS. English/简体中文/繁體中文.
 
 *   [spring-projects/spring-net](https://github.com/spring-projects/spring-net) - Spring Framework for .NET
 
