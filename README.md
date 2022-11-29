@@ -89,6 +89,8 @@
 
 ## JavaScript
 
+*   [zhheo/Sticker-Heo](https://github.com/zhheo/Sticker-Heo) - General basic facial stickers suitable for most websites and applications.
+
 *   [Nerver4Ever/SevenSha1UIAdvancedHelper](https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper) - 转存助手ui优化版
 
 *   [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
@@ -2995,7 +2997,7 @@
 
 *   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
-*   [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links
+*   [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links \[not actively maintained]
 
 *   [just-jeb/angular-builders](https://github.com/just-jeb/angular-builders) - Angular build facade extensions (Jest and custom webpack configuration)
 
@@ -3709,7 +3711,7 @@
 
 *   [spring-projects/spring-data-solr](https://github.com/spring-projects/spring-data-solr) - Spring Data - Apache Solr integration
 
-*   [spring-projects/spring-security-saml](https://github.com/spring-projects/spring-security-saml) - SAML extension for the Spring Security project
+*   [spring-attic/spring-security-saml](https://github.com/spring-attic/spring-security-saml) - SAML extension for the Spring Security project
 
 *   [spring-projects/spring-security-samples](https://github.com/spring-projects/spring-security-samples) -
 
@@ -6309,8 +6311,6 @@
 
 *   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。工具齐全。原储存库地址：https://github.com/MoyuScript/bilibili-api
 
-*   [srx-2000/spider\_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，知乎百万级用户爬虫+数据分析，github用户爬虫
-
 ## C\#
 
 *   [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可进行B站(bilibili live)直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
@@ -7529,8 +7529,6 @@
 
 *   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 
-*   [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
-
 *   [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
 
 *   [leemunroe/grunt-email-workflow](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
@@ -7586,8 +7584,6 @@
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 
 *   [vitorfs/bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
-
-*   [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
 
 *   [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
 
@@ -8757,8 +8753,6 @@
 
 *   [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 
-*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
-
 *   [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
 
 *   [fabianlindfors/reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres
@@ -9439,6 +9433,8 @@
 
 *   [LukyVj/family.scss](https://github.com/LukyVj/family.scss) - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.
 
+*   [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
+
 *   [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 
 *   [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.                                               
@@ -9456,6 +9452,8 @@
 *   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 
 *   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+
+*   [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
 
 *   [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
 
@@ -9758,6 +9756,8 @@
 *   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 
 *   [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
+
+*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
 
 *   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
