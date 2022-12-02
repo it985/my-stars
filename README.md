@@ -3755,7 +3755,7 @@
 
 *   [sunlicp/SlcpBlog](https://github.com/sunlicp/SlcpBlog) - 🔥基于vue和SpringBoot的博客系统，不仅仅是一个文章分享项目，还有听歌、相册、烟花模拟器、动态诗歌等等娱乐功能。并且集成了图床功能、第三方QQ登录、QQ邮箱发送彩虹屁、支付宝付款、文章编辑Markdown、基于注解实现Redis缓存等等。
 
-*   [stick-i/scblogs](https://github.com/stick-i/scblogs) - 🎉校园博客，这是一个基于微服务架构的前后端分离的博客社区系统，欢迎大家参与项目开发，一起建设(学习)。我的目标是让该项目对标大型的企业级项目，当然这可能很扯谈，但我确实是这样想的，至少后端我会朝着这个目标去做，前端目前还缺个有意向的大佬来带。
+*   [stick-i/scblogs](https://github.com/stick-i/scblogs) - 🎉校园博客，这是一个基于微服务架构的前后端分离的博客社区系统，欢迎大家参与项目开发，一起建设(学习)🥰。我的目标是让该项目对标大型的企业级项目，当然这可能很扯谈，但我确实是这样想的，至少后端我会朝着这个目标去做，前端目前还缺个有意向的大佬来带。
 
 *   [EhViewer-NekoInverter/EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 EhViewer-NekoInverter \[白E]
 
@@ -3785,7 +3785,7 @@
 
 *   [Naccl/NBlog](https://github.com/Naccl/NBlog) - 🍓 Spring Boot + Vue 前后端分离博客系统 https://naccl.top
 
-*   [zfoo-project/zfoo](https://github.com/zfoo-project/zfoo) - 💡为性能而生的服务器框架，RPC，游戏服务器框架，web应用服务器框架。（Extremely fast enterprise server framework, can be used in RPC, game server framework, web server framework.）
+*   [zfoo-project/zfoo](https://github.com/zfoo-project/zfoo) - 💡Extremely fast enterprise server framework, can be used in RPC, web server framework, game server framework.
 
 *   [LandGrey/SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit) - SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list
 
@@ -8937,8 +8937,6 @@
 
 *   [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 
-*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
-
 *   [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
 
 *   [fabianlindfors/reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres
@@ -9956,6 +9954,8 @@
 *   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 
 *   [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
+
+*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
 
 *   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
