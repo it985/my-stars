@@ -1553,8 +1553,6 @@
 
 *   [91p2022/91](https://github.com/91p2022/91) - 91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发
 
-*   [gll19920817/douyin\_web\_live](https://github.com/gll19920817/douyin_web_live) - 抖音直播间(web)弹幕抓取 【上抖音，看见别人美好生活！】
-
 *   [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
 
 *   [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
@@ -6962,6 +6960,8 @@
 *   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 
 *   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 
 ## miscellaneous
 
