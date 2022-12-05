@@ -6575,7 +6575,7 @@
 
 *   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
-*   [labring/sealos](https://github.com/labring/sealos) - sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications.
+*   [labring/sealos](https://github.com/labring/sealos) - sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications. Demo: https://cloud.sealos.io
 
 *   [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 
