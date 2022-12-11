@@ -781,7 +781,7 @@
 
 *   [xxxily/h5player](https://github.com/xxxily/h5player) - 视频增强脚本，支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。还有视频广告快进、在线教程/教育视频倍速快学等能力
 
-*   [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人  可以用来帮助你自动回复微信消息，或者管理微信群/好友.
+*   [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 
 *   [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
 
@@ -9011,7 +9011,7 @@
 
 *   [moonsharp-devs/moonsharp](https://github.com/moonsharp-devs/moonsharp) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
 
-*   [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - 你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data  +  {c++, java, c#, go(golang), lua, javascript(js), typescript(ts),  erlang, rust, gdscript, protobuf schema, flatbuffers schema, custom template} code。 不仅仅是导表工具。支持unity , ue4, tolua, xlua, slua, ilruntime, puerts等热更新插件；强大的数据校验能力；完善的本地化机制。a powerful game config export tool and code generator that supports for i18n and l10n.
+*   [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - 你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data  +  {c++, java, c#, go(golang), lua, javascript(js), typescript(ts),  erlang, rust, gdscript, protobuf schema, flatbuffers schema, custom template} code。
 
 *   [mr-kelly/KSFramework](https://github.com/mr-kelly/KSFramework) - QQ Group：538722494，KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
 
@@ -9243,7 +9243,7 @@
 
 *   [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 
-*   [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Free and open. Also available in the cloud: https://app.databend.com
+*   [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com
 
 *   [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 
