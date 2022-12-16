@@ -4483,7 +4483,7 @@
 
 *   [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 
-*   [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
+*   [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 
 *   [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure SDK/vault for personal records/PII built to comply with GDPR
 
@@ -4915,7 +4915,7 @@
 
 *   [sunlicp/SlcpBlog](https://github.com/sunlicp/SlcpBlog) - 🔥基于vue和SpringBoot的博客系统，不仅仅是一个文章分享项目，还有听歌、相册、烟花模拟器、动态诗歌等等娱乐功能。并且集成了图床功能、第三方QQ登录、QQ邮箱发送彩虹屁、支付宝付款、文章编辑Markdown、基于注解实现Redis缓存等等。
 
-*   [stick-i/scblogs](https://github.com/stick-i/scblogs) - 🎉校园博客，这是一个基于微服务架构的前后端分离的博客社区系统，欢迎大家参与项目开发，一起建设(学习)🥰。我的目标是让该项目对标大型的企业级项目，当然这可能很扯谈，但我确实是这样想的，至少后端我会朝着这个目标去做，前端目前还缺个有意向的大佬来带。
+*   [stick-i/scblogs](https://github.com/stick-i/scblogs) - 🎉校园博客，基于微服务架构且前后端分离的博客社区系统。项目后端技术栈：SpringBoot + SpringCloud + Mybatis-Plus + Nacos + MySQL + Redis + MQ + ElasticSearch + Docker。前端主要是基于Vue2和ElementUI进行开发的。
 
 *   [EhViewer-NekoInverter/EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 EhViewer-NekoInverter \[白E]
 
