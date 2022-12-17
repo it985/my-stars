@@ -89,7 +89,7 @@
 
 ## Java
 
-*   [longjuan/halo-plugin-s3os](https://github.com/longjuan/halo-plugin-s3os) -
+*   [longjuan/halo-plugin-s3os](https://github.com/longjuan/halo-plugin-s3os) - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的对象存储服务商
 
 *   [xenv/S-mall-ssm](https://github.com/xenv/S-mall-ssm) - 小小商城系统，JavaWEB项目，基于SSM，仿天猫页面，功能齐全，实现了自动处理关联查询的通用Mapper、抽象 BaseService 类、注解鉴权、参数注解校验等
 
@@ -4529,7 +4529,7 @@
 
 *   [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 
-*   [LYXOfficial/Hexo-theme-Acryple](https://github.com/LYXOfficial/Hexo-theme-Acryple) - 自用博客主题，基于Butterfly 4.2.2，已开源，喜欢的自己扒
+*   [LYXOfficial/Hexo-theme-Acryple](https://github.com/LYXOfficial/Hexo-theme-Acryple) - 自用博客主题，基于Butterfly 4.2.2，已开源，喜欢的自己扒 See:https://yisous.xyz/posts/f34c4b49/
 
 *   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 
@@ -5320,6 +5320,8 @@
 *   [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 
 *   [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+
+*   [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 
 *   [ender-zhao/Clash-for-Windows\_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 
@@ -7692,8 +7694,6 @@
 *   [ethanhs/WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 
 *   [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
-
-*   [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 
 *   [rmusser01/Infosec\_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec\_Reference for non-MS Git hosted version.
 
