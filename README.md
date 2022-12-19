@@ -2217,7 +2217,7 @@
 
 *   [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 
-*   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
+*   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 
 *   [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 
@@ -3265,7 +3265,7 @@
 
 *   [marcosfede/algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages
 
-*   [docarray/docarray](https://github.com/docarray/docarray) - 🧬 The data structure for unstructured multimodal data · Neural Search · Vector Search · Document Store
+*   [docarray/docarray](https://github.com/docarray/docarray) - 🧬 The data structure for multimodal data · Neural Search · Vector Search · Document Store
 
 *   [jab/bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Python.
 
@@ -7389,7 +7389,7 @@
 
 *   [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 
-*   [Lexikos/AutoHotkey\_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 
 *   [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 
@@ -7489,7 +7489,7 @@
 
 *   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
-*   [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
+*   [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 
 *   [aliakseis/LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
 
