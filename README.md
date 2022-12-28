@@ -1777,8 +1777,6 @@
 
 *   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 
-*   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-
 *   [zhangyingwei/cockroach2](https://github.com/zhangyingwei/cockroach2) -  java 爬虫工具 cockroach 完全重构
 
 *   [sxzz/free-hls.js](https://github.com/sxzz/free-hls.js) - 一个免费的 HLS 上传工具
@@ -4142,6 +4140,8 @@
 *   [joeattardi/picmo](https://github.com/joeattardi/picmo) - JavaScript emoji picker. Any app, any framework.
 
 *   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
+
+*   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 
 *   [sxzz/free-hls-live](https://github.com/sxzz/free-hls-live) - Free live streaming with Free-HLS (Free HLS 直播姬)
 
@@ -6907,7 +6907,7 @@
 
 *   [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 
-*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
+*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 
 *   [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 
