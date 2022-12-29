@@ -333,6 +333,8 @@
 
 *   [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 
+*   [plasx520/blog-butterfly](https://github.com/plasx520/blog-butterfly) - hexo静态博客butterfly魔改主题
+
 *   [LYXOfficial/Hexo-theme-Acryple](https://github.com/LYXOfficial/Hexo-theme-Acryple) - 自用博客主题，基于Butterfly 4.2.2，已开源，喜欢的自己扒 See:https://yisous.xyz/posts/f34c4b49/
 
 *   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -3345,7 +3347,7 @@
 
 *   [mebtte/cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
 
-*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers.
+*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀Retool open-source alternative, with low-code UI components and support for multiple data resources.
 
 *   [kinfuy/gacm](https://github.com/kinfuy/gacm) - Git Account Management Tools & NPM Registry Manager
 
@@ -4576,8 +4578,6 @@
 *   [lynnandtonic/a-single-div](https://github.com/lynnandtonic/a-single-div) - 🎨 CSS drawings with only one HTML element.
 
 *   [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
-
-*   [plasx520/blog-butterfly](https://github.com/plasx520/blog-butterfly) - hexo静态博客butterfly魔改主题
 
 *   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
