@@ -8179,7 +8179,7 @@
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
 
@@ -9891,7 +9891,7 @@
 
 *   [beiyuouo/mid-air-draw](https://github.com/beiyuouo/mid-air-draw) - 🎨 凌空画笔 - 手势识别 + 手指识别跟踪实现空中绘画
 
-*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.
+*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
 
 *   [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 
