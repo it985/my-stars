@@ -797,6 +797,8 @@
 
 *   [kartik-v/bootstrap-star-rating](https://github.com/kartik-v/bootstrap-star-rating) - A simple yet powerful JQuery star rating plugin with fractional rating support.
 
+*   [kartik-v/bootstrap-star-rating](https://github.com/kartik-v/bootstrap-star-rating) - A simple yet powerful JQuery star rating plugin with fractional rating support.
+
 *   [yoksel/flex-cheatsheet](https://github.com/yoksel/flex-cheatsheet) - 📖 Flexbox cheatsheet
 
 *   [choojs/bankai](https://github.com/choojs/bankai) - :station: - friendly web compiler
@@ -5919,8 +5921,6 @@
 
 *   [cxman1/vue-collect](https://github.com/cxman1/vue-collect) - 前端资源、知识汇总Technology sharing blog
 
-*   [zhheo/hexo-butterfly-editor](https://github.com/zhheo/hexo-butterfly-editor) - Butterfly魔改教程导航站
-
 *   [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - :ramen: Minimalist Jekyll Template, dark and light themes
 
 *   [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
@@ -7565,7 +7565,7 @@
 
 *   [mfuu/v2ray](https://github.com/mfuu/v2ray) - v2ray nodes
 
-*   [flow2000/bing-wallpaper-api](https://github.com/flow2000/bing-wallpaper-api) - python搭建必应壁纸api
+*   [flow2000/bing-wallpaper-api](https://github.com/flow2000/bing-wallpaper-api) - 必应壁纸api
 
 *   [zhuima/daohang](https://github.com/zhuima/daohang) - 运维内部使用的导航地址, 运维导航系统，链接导航系统，网址导航系统，导航页面，导航网址
 
