@@ -1348,8 +1348,6 @@
 
 *   [M1r0ku/YuqueExport](https://github.com/M1r0ku/YuqueExport) - 语雀导出 Markdown 文档，支持同时导出多个知识库，并为已下载文档建立索引，以及记录文档中的附件链接。
 
-*   [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！基于Nonebot2的原神QQ机器人，包括但不限于UID面板查询、抽卡记录分析、游戏攻略图鉴、实时便签、原石札记、群聊学习、群管等功能。/ LittlePamon! Genshin Impact multifunctional QQ bot based on Nonebot2.
-
 *   [luyishisi/Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider) - 越来越多的网站具有反爬虫特性，有的用图片隐藏关键数据，有的使用反人类的验证码，建立反反爬虫的代码仓库，通过与不同特性的网站做斗争（无恶意）提高技术。（欢迎提交难以采集的网站）（因工作原因，项目暂停）
 
 *   [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
@@ -7494,6 +7492,8 @@
 
 *   [zkeq/icodeq-api](https://github.com/zkeq/icodeq-api) - 自用 API 地址
 
+*   [doocs/coding-interview](https://github.com/doocs/coding-interview) - 😀 代码面试题集，包括剑指 Offer、编程之美等
+
 ## C++
 
 *   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
@@ -9284,7 +9284,7 @@
 
 *   [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 
-*   [authzed/spicedb](https://github.com/authzed/spicedb) - Open source fine-grained permissions database inspired by Google Zanzibar
+*   [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Zanzibar-Inspired Fine-Grained Permissions Database
 
 *   [uber/aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
 
