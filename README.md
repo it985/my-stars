@@ -92,7 +92,7 @@
 
 *   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 
-*   [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - This is a basic chat client and easy to expand.
+*   [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Alternative application of discord and slack
 
 *   [luoye663/e5-html](https://github.com/luoye663/e5-html) -
 
@@ -6280,8 +6280,6 @@
 
 *   [chr233/free\_game\_hunter](https://github.com/chr233/free_game_hunter) - 自动添加steam上的免费游戏
 
-*   [we0091234/Chinese\_license\_plate\_detection\_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测   车牌识别   中文车牌识别 检测 支持13种中文车牌 支持双层车牌
-
 *   [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 
 *   [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -8755,6 +8753,8 @@
 *   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.net
 
 *   [zkeq/Busuanzi](https://github.com/zkeq/Busuanzi) - Busuanzi\_backend\_self Office WEBSITE .
+
+*   [zkeq/LearnOnly](https://github.com/zkeq/LearnOnly) - 一个极简的导航网页。
 
 ## C\#
 
