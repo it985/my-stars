@@ -2246,7 +2246,7 @@
 
 *   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 
-*   [woshiqiang1/awesome-javascript-ui-kit-library](https://github.com/woshiqiang1/awesome-javascript-ui-kit-library) - 😎 Awesome lists about high quality javascript UI-kit library
+*   [woshiqiang1/awesome-javascript-ui-kit-library](https://github.com/woshiqiang1/awesome-javascript-ui-kit-library) - 😎 Awesome lists about high quality JavaScript UI-kit library
 
 *   [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 
@@ -3964,7 +3964,7 @@
 
 *   [Wenmoux/asmr](https://github.com/Wenmoux/asmr) - 爬取asmrtd视频播放地址 可用影音宝订阅观看
 
-*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦前端JavaScript编程题，Not just for interviews
+*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
 
 *   [markdown-it/markdown-it-emoji](https://github.com/markdown-it/markdown-it-emoji) - Emoji syntax plugin for markdown-it markdown parser
 
@@ -4740,7 +4740,7 @@
 
 *   [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
 
-*   [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension \[80+Lean🧰Features]📌\[Longest-standing©️2012]📌\[485 000+Users👨‍👩‍👧‍👧]\[Guide/Wiki:missing!] - ⚙️⋮\[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪]\[Player: Repeat Screenshot Rotate]\[Hide related video distraction]\[Always expand video Description]\[Playback speed]\[Video Quality bandwidth H.264 electricity]\[Player Size Full Window]\[Themes Customization]..
+*   [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension \[80+Lean🧰Features]📌\[Longest-standing©️2012]📌\[490 000+Users👨‍👩‍👧‍👧]\[Guide/Wiki:missing!] - ⚙️⋮\[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪]\[Player: Repeat Screenshot Rotate]\[Hide related video distraction]\[Always expand video Description]\[Playback speed]\[Video Quality bandwidth H.264 electricity]\[Player Size Full Window]\[Themes Customization]..
 
 *   [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 
