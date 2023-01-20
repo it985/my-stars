@@ -1414,6 +1414,8 @@
 
 *   [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
 
+*   [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
+
 *   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. \<personal.management.system.pms@gmail.com>
 
 *   [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
@@ -1962,7 +1964,7 @@
 
 *   [genaller/genal-chat](https://github.com/genaller/genal-chat) - 🚀阿童木聊天室 nestjs+vue全栈聊天室 前后端分离 typescript一把梭
 
-*   [Cnotech/flash-collector](https://github.com/Cnotech/flash-collector) - 小游戏收集器，支持小游戏一键下载、本地启动等功能
+*   [Cnotech/flash-collector](https://github.com/Cnotech/flash-collector) - 小游戏收集器，支持小游戏一键下载、本地启动、进度管理等功能
 
 *   [hiisea/elux](https://github.com/hiisea/elux) - Cross platform and cross framework web solutions that based on micro-module and model-driven
 
@@ -6078,8 +6080,6 @@
 
 *   [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 
-*   [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
-
 *   [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
 
 *   [jssor/slider](https://github.com/jssor/slider) - Touch swipe image slider/slideshow/gallery/carousel/banner mobile responsive bootstrap
@@ -7128,7 +7128,7 @@
 
 *   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
-*   [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+*   [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
 *   [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
