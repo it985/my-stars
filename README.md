@@ -1414,8 +1414,6 @@
 
 *   [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
 
-*   [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
-
 *   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. \<personal.management.system.pms@gmail.com>
 
 *   [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
@@ -1467,6 +1465,10 @@
 *   [Dreamer-Paul/Sweet](https://github.com/Dreamer-Paul/Sweet) - 🌟 一个简洁的个人首页，可以调用博客最新文章
 
 *   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.net
+
+*   [zkeq/Busuanzi](https://github.com/zkeq/Busuanzi) - Busuanzi\_backend\_self Office WEBSITE .
+
+*   [zkeq/LearnOnly](https://github.com/zkeq/LearnOnly) - 一个极简的导航网页。
 
 ## C++
 
@@ -7128,8 +7130,6 @@
 
 *   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
-*   [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-
 *   [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 *   [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
@@ -8752,8 +8752,6 @@
 
 *   [alexwjj/alexwjj.github.io](https://github.com/alexwjj/alexwjj.github.io) - 基于vuePress的博客，定期分享前端知识，求star
 
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
 *   [FreeNowOrg/PixivNow](https://github.com/FreeNowOrg/PixivNow) - Provide Pixiv backend proxy & frontend service based on serverless technology
 
 *   [FreeNowOrg/BlogNow](https://github.com/FreeNowOrg/BlogNow) - Free dynamic blog engine with full backend support. Powered by Vercel & MongoDB Atlas. Built with :heart:
@@ -8892,7 +8890,7 @@
 
 *   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  千山万水总是情,给个start行不行 https://yuque.com/indiff/qttabbar/zqtdig
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  🏮2023新年快乐🏮 https://yuque.com/indiff/qttabbar/zqtdig
 
 *   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 
@@ -9301,6 +9299,8 @@
 *   [mchong6/GANsNRoses](https://github.com/mchong6/GANsNRoses) - Official PyTorch repo for GAN's N' Roses. Diverse im2im and vid2vid selfie to anime translation.
 
 *   [Asabeneh/advanced-python-march-2022](https://github.com/Asabeneh/advanced-python-march-2022) -
+
+*   [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 
 ## Astro
 
