@@ -6342,8 +6342,6 @@
 
 *   [yihong0618/running\_page](https://github.com/yihong0618/running_page) - Make your own running home page
 
-*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-
 *   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager \[GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 
 *   [kingdido999/zooming](https://github.com/kingdido999/zooming) - 🔍 Image zoom that makes sense.
@@ -8357,6 +8355,8 @@
 *   [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 *   [propjockey/css-sweeper](https://github.com/propjockey/css-sweeper) - MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)
 
