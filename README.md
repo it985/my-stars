@@ -5352,7 +5352,7 @@
 
 *   [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
 
-*   [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension \[80+Lean🧰Features]📌\[Longest-standing©️2012]📌\[490 000+Users👨‍👩‍👧‍👧]\[Guide/Wiki:missing!] - ⚙️⋮\[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪]\[Player: Repeat Screenshot Rotate]\[Hide related video distraction]\[Always expand video Description]\[Playback speed]\[Video Quality bandwidth H.264 electricity]\[Player Size Full Window]\[Themes Customization]..
+*   [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - (YouTube-Extension) Enrich Your Experience & Content \[🧰80+LeanFeatures]\[📌Longest-standing©️10+years]\[👨‍👩‍👧‍👧Please make Docu/HowTo's]\[⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot\[Hide "related video distraction]Always expand video Description \[Playback speed]\[Video Quality codec electricity]\[Player Size Full Tab]Theme Customization)
 
 *   [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 
