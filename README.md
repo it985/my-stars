@@ -350,7 +350,7 @@
 
 *   [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 
-*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 
 *   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 
@@ -2485,6 +2485,8 @@
 *   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.net
 
 *   [zkeq/Busuanzi](https://github.com/zkeq/Busuanzi) - Busuanzi\_backend\_self Office WEBSITE .
+
+*   [zkeq/LearnOnly](https://github.com/zkeq/LearnOnly) - 一个极简的导航网页。
 
 ## C++
 
@@ -5351,8 +5353,6 @@
 *   [AudithSoftworks/Uniform](https://github.com/AudithSoftworks/Uniform) - A jQuery plugin to make your form controls look how you want them to. Now with HTML-5 attributes!
 
 *   [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
-
-*   [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - (YouTube-Extension) Enrich Your Experience & Content \[🧰80+LeanFeatures]\[📌Longest-standing©️10+years]\[👨‍👩‍👧‍👧Please make Docu/HowTo's]\[⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot\[Hide "related video distraction]Always expand video Description \[Playback speed]\[Video Quality codec electricity]\[Player Size Full Tab]Theme Customization)
 
 *   [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 
