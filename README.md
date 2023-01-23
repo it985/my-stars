@@ -2110,7 +2110,7 @@
 
 *   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
-*   [noear/solon](https://github.com/noear/solon) - noear:: 更现代感的应用开发框架。更快、更小、更少、更自由！！！启动快 5 ～ 10 倍；qps 高 2～ 3 倍；运行时内存节省 1/3 ~ 1/2；打包可以缩到 1/2 ~ 1/10
+*   [noear/solon](https://github.com/noear/solon) - noear:: 更现代感的应用开发框架，新兴独立的开放生态。更快、更小、更少、更自由！！！启动快 5 ～ 10 倍；qps 高 2～ 3 倍；运行时内存节省 1/3 ~ 1/2；打包可以缩到 1/2 ~ 1/10
 
 *   [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）
 
