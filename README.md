@@ -5030,7 +5030,7 @@
 
 *   [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 
-*   [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 48 stars 6 forks.
+*   [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 49 stars 6 forks.
 
 *   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
 
@@ -7684,7 +7684,7 @@
 
 *   [man-group/arctic](https://github.com/man-group/arctic) - High performance datastore for time series and tick data
 
-*   [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Python driver for MongoDB
+*   [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Official MongoDB Python driver
 
 *   [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
 
@@ -9530,7 +9530,7 @@
 
 *   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
-*   [mongodb/mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - Ruby Driver for MongoDB
+*   [mongodb/mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - The Official MongoDB Ruby Driver
 
 *   [mongodb/mongoid](https://github.com/mongodb/mongoid) - The Official Ruby Object Mapper for MongoDB
 
