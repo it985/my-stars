@@ -1336,7 +1336,7 @@
 
 *   [acgnhiki/blrec](https://github.com/acgnhiki/blrec) - Bilibili Live Streaming Recorder  哔哩哔哩直播录制
 
-*   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。工具齐全。原储存库地址：https://github.com/MoyuScript/bilibili-api
+*   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api
 
 *   [srx-2000/spider\_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，知乎百万级用户爬虫+数据分析，github用户爬虫
 
@@ -2136,7 +2136,7 @@
 
 *   [tamhoang1412/backend-swe-interview-questions](https://github.com/tamhoang1412/backend-swe-interview-questions) - Technical interview questions for backend engineer.
 
-*   [xoraus/CrackingTheSQLInterview](https://github.com/xoraus/CrackingTheSQLInterview) - Compilation of SQL interview Questions
+*   [xoraus/CrackingTheSQLInterview](https://github.com/xoraus/CrackingTheSQLInterview) - Cracking the SQL Interview" is a comprehensive guide for individuals preparing for a SQL-related job interview.
 
 *   [ahyangnb/flutter\_interview](https://github.com/ahyangnb/flutter_interview) - Flutter面试题和答案收集，各种知识点的深入研究，学完之后征服你的面试官。
 
@@ -6848,7 +6848,7 @@
 
 *   [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown
 
-*   [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc - Custom-Element for OpenAPI Spec
+*   [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
 
 *   [apachecn/spark-doc-zh](https://github.com/apachecn/spark-doc-zh) - Apache Spark 官方文档中文版
 
