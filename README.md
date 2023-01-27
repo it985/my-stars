@@ -1280,6 +1280,8 @@
 
 *   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
+*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
+
 *   [aiboboxx/clashfree](https://github.com/aiboboxx/clashfree) - clash免费节点、clash科学上网、clash翻墙、clash订阅链接、clash教程
 
 *   [yu-steven/openit](https://github.com/yu-steven/openit) - 致力于打造免费无感的翻墙环境
@@ -10139,8 +10141,6 @@
 ## Standard ML
 
 *   [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
-
-*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 ## Visual Basic .NET
 
