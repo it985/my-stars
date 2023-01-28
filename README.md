@@ -5502,7 +5502,7 @@
 
 *   [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 
-*   [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
+*   [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 
 *   [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 
