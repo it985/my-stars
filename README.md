@@ -5606,7 +5606,7 @@
 
 *   [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport) - ⭐️「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 
-*   [LianjiaTech/retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supports rapid integration and feature enhancements.（适用于retrofit的spring-boot启动器，支持快速集成和功能增强）
+*   [LianjiaTech/retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supports rapid integration and feature enhancements.（适用于retrofit的spring-boot-starter，支持快速集成和功能增强）
 
 *   [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 
@@ -6523,8 +6523,6 @@
 *   [30-seconds/30-seconds-of-csharp](https://github.com/30-seconds/30-seconds-of-csharp) - Short C# code snippets for all your development needs
 
 *   [atskyline/BingWallpaper](https://github.com/atskyline/BingWallpaper) - 桌面壁纸更换成Bing.com的每日图片
-
-*   [DaZiYuan/livewallpaper](https://github.com/DaZiYuan/livewallpaper) - A tiny win10 (dynamic) wallpaper changer | 巨应壁纸 | 动态壁纸 | Free wallpaper engine
 
 *   [Dustray/BingWallpaperTest](https://github.com/Dustray/BingWallpaperTest) - 获取Bing每日高清壁纸并设置为桌面壁纸的Demo
 
@@ -9083,6 +9081,8 @@
 *   [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 
 *   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
+
+*   [DaZiYuan/livewallpaper](https://github.com/DaZiYuan/livewallpaper) - A tiny win10 (dynamic) wallpaper changer | 巨应壁纸 | 动态壁纸 | Free wallpaper engine
 
 *   [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
 
