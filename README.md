@@ -6272,7 +6272,7 @@
 
 *   [Harlan-H/BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - BiliDownloader是一款界面精简，操作简单且高速下载的b站下载器
 
-*   [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+*   [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 
 *   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 
@@ -6780,7 +6780,7 @@
 
 *   [gwtak/TieBaSign](https://github.com/gwtak/TieBaSign) - 白嫖Github Action实现贴吧自动签到
 
-*   [panghaibin/shuasr](https://github.com/panghaibin/shuasr) - Shanghai University Auto Selfreport Reminders - 上海某大学健康之路每日一报自动提醒系统 - 支持自动补报 - 可使用GitHub Actions - 可刷排名 - 自动阅读所有消息 - 自动申请次日离校
+*   [panghaibin/shuasr](https://github.com/panghaibin/shuasr) - Shanghai University Auto Selfreport Reminders - 上海某大学健康之路每日一报自动提醒系统 - 支持自动补报 - 可使用GitHub Actions - 可刷排名 - 自动阅读所有消息
 
 *   [naiveliberty/Douyin\_Spider](https://github.com/naiveliberty/Douyin_Spider) - 抖音Web端数据抓取
 
@@ -9758,7 +9758,7 @@
 
 *   [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 
-*   [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - A language server that offers Lua language support - programmed in Lua
+*   [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 
 *   [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 
