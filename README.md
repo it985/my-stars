@@ -510,7 +510,7 @@
 
 *   [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 
-*   [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
+*   [youzan/vant](https://github.com/youzan/vant) - A lightweight Vue UI library for mobile web apps.
 
 *   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 
@@ -764,7 +764,7 @@
 
 *   [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 
-*   [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
+*   [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework designed for modern web development.
 
 *   [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 
