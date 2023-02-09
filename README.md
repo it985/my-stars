@@ -90,7 +90,7 @@
 
 ## JavaScript
 
-*   [AttackOnMorty/github-trends](https://github.com/AttackOnMorty/github-trends) - Compare GitHub repos by the history of stars, commits and more...
+*   [AttackOnMorty/github-trends](https://github.com/AttackOnMorty/github-trends) - Compare GitHub repos by the history of stars, commits and releases.
 
 *   [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
 
@@ -3226,8 +3226,6 @@
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
-*   [halo-dev/plugin-starter](https://github.com/halo-dev/plugin-starter) - Halo 2.0 插件开发快速开始模板
-
 *   [pa001024/genshin-mirror](https://github.com/pa001024/genshin-mirror) -
 
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -3855,6 +3853,8 @@
 *   [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 
 *   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+
+*   [halo-dev/plugin-starter](https://github.com/halo-dev/plugin-starter) - Halo 2.0 插件开发快速开始模板
 
 *   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 
