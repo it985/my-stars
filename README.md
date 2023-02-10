@@ -908,7 +908,7 @@
 
 *   [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
 
-*   [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom Node.js email templates. Automatic inline CSS, stylesheets, embedded images, and more. Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
+*   [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 
 *   [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 
@@ -2282,7 +2282,7 @@
 
 ## TypeScript
 
-*   [istommao/Cryptography](https://github.com/istommao/Cryptography) - Cryptography
+*   [istommao/Cryptography](https://github.com/istommao/Cryptography) - Online Cryptography Toolbox
 
 *   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
