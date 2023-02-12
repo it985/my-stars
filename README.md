@@ -2692,7 +2692,7 @@
 
 *   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 
-*   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
+*   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
 
 *   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
 
@@ -6282,7 +6282,7 @@
 
 *   [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 
-*   [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 推荐刷题网站: https://www.lintcode.com/?utm\_source=tf-github-NotFound2022  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
+*   [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 推荐刷题网站: https://www.lintcode.com/?utm\_source=tf-github-NotFound2022  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《后端技术总结》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
 
 *   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 
@@ -7556,7 +7556,7 @@
 
 *   [zhuima/daohang](https://github.com/zhuima/daohang) - 运维内部使用的导航地址, 运维导航系统，链接导航系统，网址导航系统，导航页面，导航网址
 
-*   [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools) - NAS媒体库资源归集、整理自动化工具
+*   [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools) - NAS媒体库管理工具
 
 *   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 
