@@ -4000,7 +4000,7 @@
 
 *   [tamhoang1412/backend-swe-interview-questions](https://github.com/tamhoang1412/backend-swe-interview-questions) - Technical interview questions for backend engineer.
 
-*   [xoraus/CrackingTheSQLInterview](https://github.com/xoraus/CrackingTheSQLInterview) - Cracking the SQL Interview" is a comprehensive guide for individuals preparing for a SQL-related job interview.
+*   [xoraus/CrackingTheSQLInterview](https://github.com/xoraus/CrackingTheSQLInterview) - "Cracking the SQL Interview" is a comprehensive guide for individuals who are preparing for a job interview related to SQL.
 
 *   [ahyangnb/flutter\_interview](https://github.com/ahyangnb/flutter_interview) - Flutter面试题和答案收集，各种知识点的深入研究，学完之后征服你的面试官。
 
@@ -5284,7 +5284,7 @@
 
 *   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
 
-*   [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
+*   [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - FASTJSON2 is a Java library for serialization and deserialization with excellent performance.
 
 *   [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
 
@@ -9266,7 +9266,7 @@
 
 *   [hxu296/leetcode-company-wise-problems-2022](https://github.com/hxu296/leetcode-company-wise-problems-2022) - Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of May, 2022.
 
-*   [alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
+*   [alirezadir/machine-learning-interviews](https://github.com/alirezadir/machine-learning-interviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 
 *   [darkprinx/break-the-ice-with-python](https://github.com/darkprinx/break-the-ice-with-python) - The repository is about 100+ python programming exercise problem discussed, explained, and solved in different ways
 
@@ -9456,7 +9456,7 @@
 
 *   [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
 
-*   [mperham/sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby
+*   [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 
 *   [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language \[mirror]
 
