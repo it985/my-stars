@@ -4814,7 +4814,7 @@
 
 *   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 
-*   [github-star-history/star-history](https://github.com/github-star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 
 *   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 
@@ -7244,7 +7244,7 @@
 
 *   [ulisesbocchio/jasypt-spring-boot](https://github.com/ulisesbocchio/jasypt-spring-boot) - Jasypt integration for Spring boot
 
-*   [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Detecting Logic Bugs in DBMS
+*   [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems
 
 *   [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 
