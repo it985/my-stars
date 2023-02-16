@@ -90,7 +90,7 @@
 
 ## Rust
 
-*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨   Rust 版 ServerStatus 探针、威力加强版
+*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 
 *   [NPCDW/yuque\_sae](https://github.com/NPCDW/yuque_sae) - 语雀个人版与空间版文档导出，以及标准 markdown 格式化
 
@@ -341,8 +341,6 @@
 *   [Huangyan0804/AutoCheckin](https://github.com/Huangyan0804/AutoCheckin) - 超星学习通自动签到，支持手势，二维码，位置，拍照等
 
 *   [ssttkkl/nonebot-plugin-pixivbot](https://github.com/ssttkkl/nonebot-plugin-pixivbot) - NoneBot插件，发送随机Pixiv插画、画师更新推送、定时订阅推送……
-
-*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
 
 *   [gwtak/TieBaSign](https://github.com/gwtak/TieBaSign) - 白嫖Github Action实现贴吧自动签到
 
@@ -3214,7 +3212,7 @@
 
 *   [mozilla/thimble.mozilla.org](https://github.com/mozilla/thimble.mozilla.org) - UPDATE: This project is no longer maintained. Please check out Glitch.com instead.
 
-*   [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML \<a> tags.
+*   [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML \<a> tags.
 
 *   [loadingio/css-spinner](https://github.com/loadingio/css-spinner) - small, elegant pure css spinner for ajax or loading animation
 
@@ -4244,7 +4242,7 @@
 
 *   [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+*   [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
 
 *   [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 
@@ -9697,6 +9695,8 @@
 *   [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 
 *   [TheAlgorithms/AArch64\_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly) - All Algorithms implemented in AArch64 Assembly
+
+*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
 
 *   [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
