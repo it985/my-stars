@@ -1414,7 +1414,7 @@
 
 *   [szvone/imgApiJava](https://github.com/szvone/imgApiJava) - 超简图床 Java版
 
-*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。https://tbed.hellohao.cn
+*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
 
 *   [xenv/gushici](https://github.com/xenv/gushici) - 一言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句。采用  Vert.x + Redis 全异步开发，毫秒级稳定响应。
 
@@ -3952,7 +3952,7 @@
 
 *   [sxzz/free-hls.js](https://github.com/sxzz/free-hls.js) - 一个免费的 HLS 上传工具
 
-*   [Jackie1123/aNavigation](https://github.com/Jackie1123/aNavigation) - 单纯就是一个导航。
+*   [HoYuenhang/aNavigation](https://github.com/HoYuenhang/aNavigation) - 单纯就是一个导航。
 
 *   [lksky8/sign-ql](https://github.com/lksky8/sign-ql) - 青龙脚本运行的签到
 
@@ -5141,6 +5141,8 @@
 *   [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
 *   [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
+
+*   [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 
 *   [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 
@@ -8857,8 +8859,6 @@
 *   [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 
 *   [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
-
-*   [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 
 *   [misstt123/zhaopin\_spider](https://github.com/misstt123/zhaopin_spider) - 抓取拉勾，猎聘网站信息
 
