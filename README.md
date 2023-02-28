@@ -962,7 +962,7 @@
 
 *   [sxzz/free-hls-live](https://github.com/sxzz/free-hls-live) - Free live streaming with Free-HLS (Free HLS 直播姬)
 
-*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的高性能个人博客系统
+*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 
 *   [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度
 
@@ -9836,7 +9836,7 @@
 
 *   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
-*   [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 Git/AWS/Google镜像与S/V/C网络链，行业研究报告的知识储备库
+*   [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 Git/AWS/Google镜像与S/V/C/QuanX网络链 ，行业研究报告的知识储备库
 
 *   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 
