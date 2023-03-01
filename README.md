@@ -5800,7 +5800,7 @@
 
 *   [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。
 
-*   [lengyibai/wzry](https://github.com/lengyibai/wzry) - 🌈基于 Vue3+Typescript+Vite4+Pinia2 的王者荣耀图鉴 🚀（失业在家，更新中⏳）
+*   [lengyibai/wzry](https://github.com/lengyibai/wzry) - 🌈基于 Vue3+Typescript+Vite4+Pinia2 的王者荣耀图鉴 🚀
 
 *   [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具
 
