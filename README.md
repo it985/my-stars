@@ -90,7 +90,7 @@
 
 ## TypeScript
 
-*   [zijing2333/CSView](https://github.com/zijing2333/CSView) - 专注互联网面试内容汇总，让计算机招聘不再困难~
+*   [zijing2333/CSView](https://github.com/zijing2333/CSView) - CSView是一个互联网面试知识学习和汇总项目，包括面试高频算法、系统设计、计算机网络、操作系统、C++、Java、golang、MySQL、Redis、K8s、消息队列等常见面试题。
 
 *   [istommao/Cryptography](https://github.com/istommao/Cryptography) - Online Cryptography Toolbox
 
@@ -7752,7 +7752,7 @@
 
 *   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://yuque.com/indiff/qttabbar/zqtdig
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/g/indiff/qttabbar/collaborator/join?token=oGcvb773R5asjAsE# 《QtTabBar》
 
 *   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 
