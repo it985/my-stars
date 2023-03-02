@@ -170,7 +170,7 @@
 
 *   [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 
-*   [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+*   [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 
 *   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 
@@ -5332,7 +5332,7 @@
 
 *   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Transparent persistent cache for python requests
+*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
 
 *   [stampery/mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
 
@@ -9836,7 +9836,7 @@
 
 *   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
-*   [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 Git/AWS/Google镜像与S/V/C/QuanX网络链 ，行业研究报告的知识储备库
+*   [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 Git/AWS/Google/OpenAI ChatGPT镜像与S/V/C/QuanX网络链，行业研究报告的知识储备库
 
 *   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 
