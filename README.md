@@ -2506,7 +2506,7 @@
 
 *   [850552586/gridea-theme-fog](https://github.com/850552586/gridea-theme-fog) - gridea静态博客主题，不适合追求简洁的博主使用
 
-*   [oceanlvr/ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - 🤖️ A GPTChat based GitHub robot. dialogue/CR/etc..
+*   [oceanlvr/ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - 🤖️ A ChatGPT based GitHub robot. dialogue/CR/etc..
 
 *   [Tomotoes/HomePage](https://github.com/Tomotoes/HomePage) - 🎃一个坏掉的番茄个人主页~
 
