@@ -8024,7 +8024,7 @@
 
 *   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Think TCPDump and Wireshark re-invented for Kubernetes
 
-*   [libsgh/PanIndex](https://github.com/libsgh/PanIndex) - Network disk directory index / 网盘目录索引
+*   [px-org/PanIndex](https://github.com/px-org/PanIndex) - Network disk directory index / 网盘目录索引
 
 *   [cnbattle/douyin](https://github.com/cnbattle/douyin) - 抖音推荐/搜索页视频列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb
 
