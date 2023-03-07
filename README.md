@@ -1984,7 +1984,7 @@
 
 *   [mauriciosantos/Buckets-JS](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in pure JavaScript.
 
-*   [cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection) - Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.
+*   [cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection) - Notes for Fullstack Software Engineers. Covers common data structure and algorithms, web concepts, Javascript / TypeScript, React, and more!
 
 *   [benoitvallon/computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - Computer science reimplemented in JavaScript
 
