@@ -310,7 +310,7 @@
 
 *   [will-che/BigData-Interview](https://github.com/will-che/BigData-Interview) - :dart: :star2:\[大数据面试题]分享自己在网络上收集的大数据相关的面试题以及自己的答案总结.目前包含Hadoop/Hive/Spark/Flink/Hbase/Kafka/Zookeeper框架的面试题知识总结
 
-*   [LjyYano/Thinking\_in\_Java\_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、博客、读书笔记、生活感悟、Switch 游戏
+*   [LjyYano/Thinking\_in\_Java\_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
 
 *   [jdsutton/Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for SE/CS technical interviews
 
@@ -2836,7 +2836,7 @@
 
 *   [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) -  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool. One-click deploy to serverless architecture. https://docs.cloudbase.net/framework/index
 
-*   [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - 基于 Auto.js 的蚂蚁森林能量自动收取脚本  Auto.js-based ant forest energy auto-collect script
+*   [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - AutoJs6-based ant forest energy auto-collect script (基于 AutoJs6 的蚂蚁森林能量自动收取脚本)
 
 *   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager \[GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 
@@ -5228,7 +5228,7 @@
 
 *   [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 
-*   [remult/remult](https://github.com/remult/remult) - A CRUD framework for full stack TypeScript
+*   [remult/remult](https://github.com/remult/remult) - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 *   [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 
