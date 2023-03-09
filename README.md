@@ -5242,7 +5242,7 @@
 
 *   [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 
-*   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A Progressive React Framework for modern web development.
+*   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a module solution and a documentation solution.
 
 *   [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 
