@@ -3792,7 +3792,7 @@
 
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
 
-*   [yangrunkang/upupor](https://github.com/yangrunkang/upupor) - upupor网站开源
+*   [yangrunkang/upupor](https://github.com/yangrunkang/upupor) - upupor网站开源 && 如果您想提高编码水平,自荐该项目~ && 持续迭代,使用更加合理的方式处理内容
 
 *   [Finger36/genshin-helper](https://github.com/Finger36/genshin-helper) - 原神米游社自动签到
 
