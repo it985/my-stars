@@ -2368,8 +2368,6 @@
 
 *   [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 
-*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
-
 *   [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 
 *   [kartik-v/bootstrap-star-rating](https://github.com/kartik-v/bootstrap-star-rating) - A simple yet powerful JQuery star rating plugin with fractional rating support.
@@ -5265,6 +5263,8 @@
 *   [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 
 *   [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
+
+*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 *   [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
 
