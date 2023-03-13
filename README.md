@@ -2782,7 +2782,7 @@
 
 *   [Array-Huang/webpack-seed](https://github.com/Array-Huang/webpack-seed) - 这是一个基于webpack的多页应用脚手架
 
-*   [wix/import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
+*   [wix-incubator/import-cost](https://github.com/wix-incubator/import-cost) - displays the import size of the package you are importing inside the code editor
 
 *   [mrsteele/dotenv-webpack](https://github.com/mrsteele/dotenv-webpack) - A secure webpack plugin that supports dotenv and other environment variables and only exposes what you choose and use.
 
