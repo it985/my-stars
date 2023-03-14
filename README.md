@@ -3788,7 +3788,7 @@
 
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
 
-*   [yangrunkang/upupor](https://github.com/yangrunkang/upupor) - upupor网站开源 && 如果您想提高编码水平,自荐该项目~ && 持续迭代,使用更加合理的方式处理内容
+*   [yangrunkang/upupor](https://github.com/yangrunkang/upupor) - upupor网站开源,使用更加合理的方式处理内容
 
 *   [Finger36/genshin-helper](https://github.com/Finger36/genshin-helper) - 原神米游社自动签到
 
@@ -4124,7 +4124,7 @@
 
 *   [hongchacha/cartoon](https://github.com/hongchacha/cartoon) - 全是漫画，免费漫画app
 
-*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
+*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 
 *   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 
