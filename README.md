@@ -3804,8 +3804,6 @@
 
 *   [FoXZilla/Pxer](https://github.com/FoXZilla/Pxer) - A tool for pixiv.net. 人人可用的P站爬虫
 
-*   [anaer/Sub](https://github.com/anaer/Sub) - 自用clash订阅链接
-
 *   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
 
 *   [stevenjoezhang/bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 哔哩哔哩视频下载器 | Yet another video downloader for Bilibili
@@ -4793,6 +4791,8 @@
 *   [openRunner/clash-freenode](https://github.com/openRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪
 
 *   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 白嫖/节点/vpn/白嫖/订阅/机场/翻墙TG代理/加速器/科学上网/教程/破解/软件/资源/网站/撸羊毛/ss/ssr/vmess/vless/v2ray/trojan/clash
+
+*   [anaer/Sub](https://github.com/anaer/Sub) - 自用clash订阅链接
 
 *   [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree) - v2ray公益免费节点、最新2ray免费v节点订阅地址、v2ray免费节点每日更新、免费ss/v2ray/trojan节点、freefq
 
@@ -8014,7 +8014,7 @@
 
 *   [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
-*   [KubeOperator/KubePi](https://github.com/KubeOperator/KubePi) - KubePi 是一个现代化的 K8s 面板。
+*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - KubePi 是一个现代化的 K8s 面板。
 
 *   [googollee/go-socket.io](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
 
@@ -9260,7 +9260,7 @@
 
 *   [hxu296/leetcode-company-wise-problems-2022](https://github.com/hxu296/leetcode-company-wise-problems-2022) - Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of May, 2022.
 
-*   [alirezadir/machine-learning-interviews](https://github.com/alirezadir/machine-learning-interviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
+*   [alirezadir/Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 
 *   [darkprinx/break-the-ice-with-python](https://github.com/darkprinx/break-the-ice-with-python) - The repository is about 100+ python programming exercise problem discussed, explained, and solved in different ways
 
