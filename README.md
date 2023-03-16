@@ -2674,6 +2674,8 @@
 
 *   [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
 
+*   [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+
 *   [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -5383,8 +5385,6 @@
 *   [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 
 *   [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
-
-*   [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 
 *   [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 
