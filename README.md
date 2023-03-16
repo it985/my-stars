@@ -9538,7 +9538,7 @@
 
 *   [NREL/api-umbrella](https://github.com/NREL/api-umbrella) - Open source API management platform
 
-*   [yorickpeterse/oga](https://github.com/yorickpeterse/oga) - Read-only mirror of https://gitlab.com/yorickpeterse/oga
+*   [yorickpeterse/oga](https://github.com/yorickpeterse/oga) - Oga is an XML/HTML parser written in Ruby.
 
 *   [ifmeorg/ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones
 
