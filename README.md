@@ -980,7 +980,7 @@
 
 *   [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An emerging platform to help developers build #AI solutions
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
 
 *   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
@@ -3831,6 +3831,8 @@
 *   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 
 *   [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+
+*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐刷题网站：https://www.lintcode.com/?utm\_source=tf-github-lucifer2022  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 ## miscellaneous
 
@@ -7019,8 +7021,6 @@
 *   [cp3geek/forum](https://github.com/cp3geek/forum) - 大学校园交流论坛，前后端分离，采用springboot+vue开发
 
 *   [694475668/xiyan-blog](https://github.com/694475668/xiyan-blog) - 夕颜博客，一个基于微服务架构的前后端分离博客源码系统。Web端使用Vue + iView , 并且很好的适配移动端。后端使用SpringCloudAlibaba + mybatis-plus进行开发，使用 Jwt 做登录验证，使用ElasticSearch作为全文检索服务，使用sentinel实现网关限流，熔断，降级，使用zipkin实现链路追踪，使用seate实现分布式事务，使用spring cloud stream 消息队列使用kafka，分布式任务调度XXL-JOB，使用ELK+Kafka+Filebeat日志收集，文件上传使用七牛云,数据加密AES,每天自动刷新新的密钥,个人免签支付系统采用的技术是SpringBoot+Layui+DB2+JPA
-
-*   [ialley-workshop-open/uni-halo](https://github.com/ialley-workshop-open/uni-halo) - 基于 uni-app + halo1.x API 实现一款现代化的开源博客 / CMS 系统API开发的多端应用。
 
 *   [maliangnansheng/bbs-vue-ui](https://github.com/maliangnansheng/bbs-vue-ui) - 仿掘金之【南生论坛】基于SpringBoot+Vue框架实现前后端分离（大厂微服务架构设计；代码简洁、高效无冗余；注释详细易阅读），自适应手机端和电脑端，界面简洁美观，功能完善，性能高效。官方地址：http://bbs.nanshengbbs.top
 
