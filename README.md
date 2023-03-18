@@ -2672,8 +2672,6 @@
 
 *   [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
 
-*   [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
-
 *   [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -5016,7 +5014,7 @@
 
 *   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 
-*   [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - Automatically commit changes made in your workflow run directly to your repo
+*   [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
 
@@ -5385,6 +5383,8 @@
 *   [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 
 *   [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
+
+*   [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 
 *   [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 
