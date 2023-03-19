@@ -3664,7 +3664,7 @@
 
 *   [optimizely/nuclear-js](https://github.com/optimizely/nuclear-js) - Reactive Flux built with ImmutableJS data structures. Framework agnostic.
 
-*   [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
 *   [spine/spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications
 
