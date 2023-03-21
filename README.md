@@ -4832,7 +4832,7 @@
 
 *   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 
-*   [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Alternative application of discord and slack. Connect your workflow and 3rd part application with tailchat.
+*   [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocke.chat
 
 *   [luoye663/e5-html](https://github.com/luoye663/e5-html) -
 
@@ -6962,7 +6962,7 @@
 
 *   [cokemine/ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru) - 云探针、多服务器探针、云监控、多服务器云监控
 
-*   [0voice/ffmpeg\_develop\_doc](https://github.com/0voice/ffmpeg_develop_doc) - 2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料
+*   [0voice/ffmpeg\_develop\_doc](https://github.com/0voice/ffmpeg_develop_doc) - 2023年，最新音视频学习资料整理，项目（调试可用），ffmpeg命令手册，文章，编解码论文，视频讲解，面试题全套资料
 
 *   [JayXon/Leanify](https://github.com/JayXon/Leanify) - lightweight lossless file minifier/optimizer
 
