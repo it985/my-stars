@@ -5956,7 +5956,7 @@
 
 *   [weizhiqiang1995/erp-pro](https://github.com/weizhiqiang1995/erp-pro) - 基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的多租户ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
 
-*   [getrebuild/rebuild](https://github.com/getrebuild/rebuild) - 高度可配置化的企业管理系统！可免费商用！低代码/零代码快速搭建企业中台、OA办公自动化、CRM客户关系管理、WMS库存管理、SFA销售自动化、SCM供应链管理、HRM人力资源管理，TMS运输管理，甚至是 ERP 企业资源计划！
+*   [getrebuild/rebuild](https://github.com/getrebuild/rebuild) - 高度可配置化的企业管理系统！可免费商用！低代码/零代码快速搭建企业中台、CRM客户关系管理、WMS库存管理、TMS运输管理、SCM供应链管理，外贸管理，甚至是 ERP 企业资源计划！
 
 *   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
 
