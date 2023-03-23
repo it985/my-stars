@@ -4256,8 +4256,6 @@
 
 *   [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-
 *   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 
 *   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
@@ -8929,6 +8927,8 @@
 *   [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 
 *   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 *   [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
 
