@@ -114,7 +114,7 @@
 
 *   [j-wyatt-a/N\_m3u8DL-RE-GUI](https://github.com/j-wyatt-a/N_m3u8DL-RE-GUI) - 一个带有用户界面的 m3u8 下载器，主要内容是对 N\_m3u8DL-RE 的包装
 
-*   [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) - 公众号《玩转IDEA》工作日每天早上 9 点更新使用技巧
+*   [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) -
 
 *   [fjh1997/douyin\_web\_live](https://github.com/fjh1997/douyin_web_live) - 抖音直播间(web)弹幕抓取 【上抖音，看见别人美好生活！】
 
@@ -3360,8 +3360,6 @@
 
 *   [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 
-*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
-
 *   [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 
 *   [kartik-v/bootstrap-star-rating](https://github.com/kartik-v/bootstrap-star-rating) - A simple yet powerful JQuery star rating plugin with fractional rating support.
@@ -5267,6 +5265,8 @@
 *   [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 
 *   [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
+
+*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 *   [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
 
