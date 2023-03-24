@@ -1940,7 +1940,7 @@
 
 *   [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 
-*   [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff data in or across relational databases
+*   [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
 
 *   [dalibo/pg\_activity](https://github.com/dalibo/pg_activity) - pg\_activity is a top like application for PostgreSQL server activity monitoring.
 
@@ -8300,7 +8300,7 @@
 
 *   [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 
-*   [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
+*   [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 
 *   [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 
