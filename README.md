@@ -1056,8 +1056,6 @@
 
 *   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
 
-*   [kxswa/k](https://github.com/kxswa/k) - 🚀免费节点、订阅、机场、梯子、代理、VPN、v2ray、shadowrocket、shadowrocksR、免费翻墙、科学上网、免费梯子、谷歌商店、翻墙梯子
-
 *   [Fukki-Z/nodefree](https://github.com/Fukki-Z/nodefree) - 每日更新 ｜免费翻墙、免费科学上网、免费节点、免费梯子、免费订阅链接、蓝灯、熊猫、谷歌商店、youtobe｜vmess/clash/v2ray/trojan/sr/ssr
 
 *   [Rokate/Proxy-Sub](https://github.com/Rokate/Proxy-Sub) - ss/ssr/v2ray/trojan/mtproxy: clash,surge,loon,surfboard,quantumultX
@@ -6958,6 +6956,8 @@
 
 *   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 
+*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+
 ## C
 
 *   [cokemine/ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru) - 云探针、多服务器探针、云监控、多服务器云监控
@@ -8192,7 +8192,7 @@
 
 *   [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
 
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
 
 *   [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 
