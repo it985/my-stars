@@ -5134,7 +5134,7 @@
 
 *   [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
-*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 
 *   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 
@@ -6914,7 +6914,7 @@
 
 *   [my-dlq/blog-example](https://github.com/my-dlq/blog-example) - 博客中的示例文件，包含 Kubernetes、Jenkins、Go、Java、SpringBoot、SpringCloud 知识示例等，将结合博客逐步讲解整体的知识内容体系。
 
-*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java程序员进阶之路😄
+*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
 *   [nICEnnnnnnnLee/FileUploader4Github](https://github.com/nICEnnnnnnnLee/FileUploader4Github) - pure java. GitHub文件上传工具，支持批量拖拽，可用于图床、批量上传等用途。仅需Java环境即可运行
 
