@@ -2944,7 +2944,7 @@
 
 *   [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS
 
-*   [gz-yami/mall4m](https://github.com/gz-yami/mall4m) - 微信小程序商城
+*   [gz-yami/mall4m](https://github.com/gz-yami/mall4m) - Mall4j商城系统-微信小程序商城
 
 *   [yisainan/react](https://github.com/yisainan/react) - ⚛ 比较好的react项目,值得借鉴与学习
 
@@ -6096,7 +6096,7 @@
 
 *   [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
 
-*   [gz-yami/mall4j](https://github.com/gz-yami/mall4j) - ⭐️⭐️⭐️ 电商商城 java电商商城系统 uniapp商城 多用户商城
+*   [gz-yami/mall4j](https://github.com/gz-yami/mall4j) - ⭐️⭐️⭐️ 电商商城 java电商商城系统 PC商城 H5商城 APP商城 Java商城 O2O商城
 
 *   [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the source code of Pixel Dungeon, by Watabou.
 
@@ -7064,9 +7064,9 @@
 
 *   [gz-yami/mall4cloud-uniapp](https://github.com/gz-yami/mall4cloud-uniapp) - mall4cloud spring cloud 微服务商城 uniapp b2b2c
 
-*   [gz-yami/mall4uni](https://github.com/gz-yami/mall4uni) -
+*   [gz-yami/mall4uni](https://github.com/gz-yami/mall4uni) - Mall4j商城系统-uniapp端
 
-*   [gz-yami/mall4v](https://github.com/gz-yami/mall4v) - vue、element ui 商城后台
+*   [gz-yami/mall4v](https://github.com/gz-yami/mall4v) - Mall4j商城系统-商城后台vue
 
 *   [yisainan/TypeScript](https://github.com/yisainan/TypeScript) - TypeScript是JavaScript类型的超集，它可以编译成纯JavaScript。TypeScript可以在任何浏览器、任何计算机和任何操作系统上运行，并且是开源的。
 
@@ -7084,7 +7084,7 @@
 
 *   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
 
-*   [gz-yami/mall4cloud](https://github.com/gz-yami/mall4cloud) - ⭐️⭐️⭐️    Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城
+*   [gz-yami/mall4cloud](https://github.com/gz-yami/mall4cloud) - ⭐️⭐️⭐️    Springcloud商城系统 微服务商城系统 O2O商城系统 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城
 
 *   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 
@@ -9770,7 +9770,7 @@
 
 *   [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 
-*   [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
+*   [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - improve neovim lsp experience
 
 *   [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 
