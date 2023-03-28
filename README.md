@@ -766,8 +766,6 @@
 
 *   [huyubing/books-pdf](https://github.com/huyubing/books-pdf) - books pdf
 
-*   [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
-
 *   [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 
 *   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -7403,6 +7401,8 @@
 *   [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by Dear ImGui.
 
 *   [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
+
+*   [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
 
 *   [AtomicGameEngine/AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
 
