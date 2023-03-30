@@ -2826,7 +2826,7 @@
 
 *   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 
-*   [zhangyingwei/cockroach2](https://github.com/zhangyingwei/cockroach2) -  java 爬虫工具 cockroach 完全重构
+*   [zhangyingwei/cockroach2](https://github.com/zhangyingwei/cockroach2) -  java 爬虫框架 cockroach 完全重构
 
 *   [sxzz/free-hls.js](https://github.com/sxzz/free-hls.js) - 一个免费的 HLS 上传工具
 
@@ -4166,7 +4166,7 @@
 
 *   [CreditTone/goniub](https://github.com/CreditTone/goniub) - goniub是一个java爬虫工具库，如果你想提高开发爬虫的效率，如果你用selenium老是被网站检测到机器识别，如果你想实现js注入。请你立马用goniub。
 
-*   [zhangyingwei/cockroach](https://github.com/zhangyingwei/cockroach) - 又一个  java 爬虫工具
+*   [zhangyingwei/cockroach](https://github.com/zhangyingwei/cockroach) - 又一个号称高性能的  java 爬虫工具/爬虫框架
 
 *   [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design\&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 
@@ -6324,7 +6324,7 @@
 
 *   [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 
-*   [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
+*   [medusajs/medusa](https://github.com/medusajs/medusa) - Building Blocks for Digital Commerce
 
 *   [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 
@@ -6718,7 +6718,7 @@
 
 *   [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework for enterprise applications.
 
-*   [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个干净清爽的开发平台，像写博客一样写代码！三分钟上线 chatGPT 应用！
+*   [labring/laf](https://github.com/labring/laf) - 🤖 AI 自动写函数，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 
 *   [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 
@@ -9836,7 +9836,7 @@
 
 *   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
-*   [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+*   [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 
 *   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 
