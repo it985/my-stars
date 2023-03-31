@@ -4354,7 +4354,7 @@
 
 *   [spring-projects/spring-hateoas-examples](https://github.com/spring-projects/spring-hateoas-examples) - Collection of examples on how (and why) to build hypermedia-driven apps with Spring HATEOAS
 
-*   [spring-projects/spring-integration-kafka](https://github.com/spring-projects/spring-integration-kafka) -
+*   [spring-attic/spring-integration-kafka](https://github.com/spring-attic/spring-integration-kafka) -
 
 *   [spring-projects/spring-data-cassandra](https://github.com/spring-projects/spring-data-cassandra) - Provides support to increase developer productivity in Java when using Apache Cassandra.  Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 
@@ -7350,6 +7350,8 @@
 
 *   [smapiot/piral](https://github.com/smapiot/piral) - Framework for next generation web apps using micro frontends. :rocket:
 
+*   [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
+
 *   [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
 
 *   [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
@@ -8829,8 +8831,6 @@
 *   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
 
 *   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
-
-*   [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 
 *   [netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io) - Netkiller Free ebook - 免费电子书
 
