@@ -3622,8 +3622,6 @@
 
 *   [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 
-*   [zhiyu1998/Computer-Science-Learn-Notes](https://github.com/zhiyu1998/Computer-Science-Learn-Notes) - CS（Computer Science）生涯：读书笔记，集成Java知识体系！（Java基础、JVM、JUC、Spring系列、面试八股文、力扣刷题笔记，数据结构和算法、SpringBoot整合其他框架等）
-
 *   [liubin915249126/javascript](https://github.com/liubin915249126/javascript) - 刘宾的博客->前端相关。
 
 *   [Mayandev/fe-interview-handwrite](https://github.com/Mayandev/fe-interview-handwrite) - 📖 前端面试常见手写题整理
@@ -7127,6 +7125,8 @@
 *   [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 
 *   [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+
+*   [zhiyu1998/Computer-Science-Learn-Notes](https://github.com/zhiyu1998/Computer-Science-Learn-Notes) - CS（Computer Science）生涯：读书笔记，集成Java知识体系！（Java基础、JVM、JUC、Spring系列、面试八股文、力扣刷题笔记，数据结构和算法、SpringBoot整合其他框架等）
 
 *   [mebtte/cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
 
