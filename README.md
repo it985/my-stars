@@ -96,7 +96,7 @@
 
 *   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
-*   [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS ≧ 26.1用複数サイト同時配信プラグイン
+*   [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 
 *   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 
@@ -922,7 +922,7 @@
 
 *   [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 
-*   [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 56 stars 7 forks.
+*   [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 57 stars 7 forks.
 
 *   [bahmutov/npm-install](https://github.com/bahmutov/npm-install) - GitHub Action for install npm dependencies with caching without any configuration
 
@@ -7436,7 +7436,7 @@
 
 *   [DaZiYuan/livewallpaper](https://github.com/DaZiYuan/livewallpaper) - A tiny win10 (dynamic) wallpaper changer | 巨应壁纸 | 动态壁纸 | Free wallpaper engine
 
-*   [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
+*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
 
 *   [wormtql/yas](https://github.com/wormtql/yas) - Superfast Genshin Impact artifacts scanner
 
