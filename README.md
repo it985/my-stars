@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+*   [AngelScript](#angelscript)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
@@ -87,6 +88,10 @@
 *   [Objective-C++](#objective-c-1)
 *   [Hack](#hack)
 *   [Thanks](#thanks)
+
+## AngelScript
+
+*   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
 
 ## C++
 
@@ -9077,8 +9082,6 @@
 *   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 
 *   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。https://t.me/+7zeNbdkP0TEzODll
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 ## AutoHotkey
 
