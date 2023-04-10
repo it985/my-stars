@@ -9571,7 +9571,7 @@
 
 *   [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 
-*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
+*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 
 *   [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 
