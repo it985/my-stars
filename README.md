@@ -2677,7 +2677,7 @@
 
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 
-*   [mumuy/browser](https://github.com/mumuy/browser) - Useragent analysis tool.浏览器分析/浏览器检测/浏览器识别/浏览器判断/UA解析 - 用户代理、操作系统信息
+*   [mumuy/browser](https://github.com/mumuy/browser) - Useragent分析/浏览器检测/浏览器识别/浏览器判断/UA解析/用户代理信息\_Useragent analysis tool
 
 *   [Michael-lzg/v-directives](https://github.com/Michael-lzg/v-directives) - vue自定义指令集合
 
