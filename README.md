@@ -203,6 +203,8 @@
 
 *   [xandone/wcdog-web](https://github.com/xandone/wcdog-web) - wcdog-web H5前端新闻
 
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🌟 PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管和生成图片链接服务。
+
 *   [vform666/variant-form3-vite](https://github.com/vform666/variant-form3-vite) -
 
 *   [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
@@ -2677,7 +2679,7 @@
 
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 
-*   [mumuy/browser](https://github.com/mumuy/browser) - Useragent分析/浏览器检测/浏览器识别/浏览器判断/UA解析/用户代理信息\_Useragent analysis tool
+*   [mumuy/browser](https://github.com/mumuy/browser) - 浏览器检测工具 - Useragent分析/浏览器识别/浏览器判断/UA解析/用户代理信息\_Useragent analysis tool
 
 *   [Michael-lzg/v-directives](https://github.com/Michael-lzg/v-directives) - vue自定义指令集合
 
@@ -7926,8 +7928,6 @@
 *   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
 
 *   [Wzb3422/auto-sign-chaoxing](https://github.com/Wzb3422/auto-sign-chaoxing) - 👴 超星学习通自动签到，梦中刷网课。
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🌟 PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管和生成图片链接服务。
 
 *   [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 
