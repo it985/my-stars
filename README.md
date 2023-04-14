@@ -113,7 +113,7 @@
 
 *   [flaribbit/vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura) - A lovely blog theme for vitepress. 可爱又轻量的二次元博客主题！大概是隔壁 wordpress sakura 主题的移植吧
 
-*   [cadecode/vuepress-theme-2zh](https://github.com/cadecode/vuepress-theme-2zh) - VuePress 博客主题插件
+*   [cadecode/vuepress-theme-2zh](https://github.com/cadecode/vuepress-theme-2zh) - VuePress博客主题插件
 
 *   [cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面
 
