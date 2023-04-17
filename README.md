@@ -6211,7 +6211,7 @@
 
 *   [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 
-*   [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+*   [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
