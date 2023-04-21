@@ -1093,7 +1093,7 @@
 
 *   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
-*   [noear/solon](https://github.com/noear/solon) - Solon is an efficient Java application development framework and an open ecosystem with its own interface standards. Faster, smaller and simpler!! Start 5 ~ 10 times faster; qps 2 ~ 3 times higher; Run time memory saving 1/3 ~ 1/2; Packing can be reduced to 1/2 ~ 1/10
+*   [noear/solon](https://github.com/noear/solon) - Solon is an efficient Java application development framework. Built from scratch, with its own standards and norms and open ecology. Faster, smaller and simpler!! Start 5 ~ 10 times faster; qps 2 ~ 3 times higher; Run time memory saving 1/3 ~ 1/2; Packing can be reduced to 1/2 ~ 1/10
 
 *   [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）
 
@@ -8225,7 +8225,7 @@
 
 *   [Lrunlin/blog](https://github.com/Lrunlin/blog) - 使用Next.js+React.js+Koa+Typescript搭建的技术博客社区
 
-*   [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具 & 自动投稿b站
+*   [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具(后台服务) & 自动投稿b站
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
 
