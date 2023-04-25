@@ -4693,7 +4693,7 @@
 
 *   [vform666/variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
 
-*   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - This is the repo for vuepress-theme-reco 1. For vuepress-theme-reco 2, go to https://github.com/vuepress-reco/vuepress-theme-reco.
+*   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-reco 1.
 
 *   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
 
