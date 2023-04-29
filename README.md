@@ -149,7 +149,7 @@
 
 *   [googidaddy/bili-trash-bin](https://github.com/googidaddy/bili-trash-bin) - a pro tool for video porter.
 
-*   [akynazh/tg-jav-bot](https://github.com/akynazh/tg-jav-bot) - 一个万能的 Telegram 番号查询机器人: https://t.me/zh\_jav\_plus\_bot
+*   [akynazh/tg-jav-bot](https://github.com/akynazh/tg-jav-bot) - 一个万能的 Telegram 番号&演员查询收藏机器人: https://t.me/zh\_jav\_plus\_bot
 
 *   [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 
