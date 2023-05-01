@@ -6157,7 +6157,7 @@
 
 *   [OBenner/data-engineering-interview-questions](https://github.com/OBenner/data-engineering-interview-questions) - More than 2000+ Data engineer interview questions.
 
-*   [mohitsharma-sh/ML-Interview](https://github.com/mohitsharma-sh/ML-Interview) - Resources I used for ML Engineer, Applied Scientist and Quant Researcher interviews.
+*   [mohitzsh/ML-Interview](https://github.com/mohitzsh/ML-Interview) - Resources I used for ML Engineer, Applied Scientist and Quant Researcher interviews.
 
 *   [Sophia-11/AI-Job-Info](https://github.com/Sophia-11/AI-Job-Info) - 互联网大厂面试经验
 
