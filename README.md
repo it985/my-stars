@@ -6527,7 +6527,7 @@
 
 *   [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 
-*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 
 *   [khan4019/front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions) - Help the front End community to rock interview
 
