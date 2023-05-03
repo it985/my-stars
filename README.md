@@ -1317,7 +1317,7 @@
 
 *   [shanghaobo/NeteaseCloudMusicDay](https://github.com/shanghaobo/NeteaseCloudMusicDay) - 网易云音乐每日推荐记录，自动生成日期命名的歌单
 
-*   [Ljzd-PRO/Mys\_Goods\_Tool](https://github.com/Ljzd-PRO/Mys_Goods_Tool) - 自动兑换米游社米游币商品的脚本
+*   [Ljzd-PRO/Mys\_Goods\_Tool](https://github.com/Ljzd-PRO/Mys_Goods_Tool) - 米游社商品兑换工具 | 短信验证登录 | 终端图形界面
 
 *   [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages by GitHub Action | 无须人为干预，由 GitHub Action 自动部署 Gitee Pages
 
