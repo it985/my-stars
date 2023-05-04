@@ -107,7 +107,7 @@
 
 *   [googidaddy/bili-trash-bin](https://github.com/googidaddy/bili-trash-bin) - a pro tool for video porter.
 
-*   [akynazh/tg-jav-bot](https://github.com/akynazh/tg-jav-bot) - 一个万能的查询&收藏机器人, 可用于查询和收藏演员和番号: https://t.me/zh\_jav\_plus\_bot
+*   [akynazh/tg-jav-bot](https://github.com/akynazh/tg-jav-bot) - 一个万能的查询&收藏机器人, 可用于查询和收藏演员和影片, 并可自动保存磁链到 Pikpak 网盘。
 
 *   [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 
@@ -2785,7 +2785,7 @@
 
 *   [Anonym-w/autoSigninAliyun](https://github.com/Anonym-w/autoSigninAliyun) - 阿里云盘的自动签到脚本，青龙，js，支持多账号批量签到，支持bark通知
 
-*   [qdleader/qdleader](https://github.com/qdleader/qdleader) - 前端面试 前端知识点 面试题大全 vue react node git element 支付 微信公众平台 每日持续更新
+*   [qdleader/qdleader](https://github.com/qdleader/qdleader) - 前端面试 前端知识点 面试题大全 vue react node git element 支付 微信公众平台 每日持续更新 前端周刊  react18 vite redux 前端
 
 *   [AttackOnMorty/github-trends](https://github.com/AttackOnMorty/github-trends) - Compare GitHub repos by the history of stars, commits and releases.
 
