@@ -2401,7 +2401,7 @@
 
 *   [xenv/gushici](https://github.com/xenv/gushici) - 一言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句。采用  Vert.x + Redis 全异步开发，毫秒级稳定响应。
 
-*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
+*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
 
 *   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
@@ -3397,7 +3397,7 @@
 
 *   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 
-*   [terwer/src-sy-post-publisher](https://github.com/terwer/src-sy-post-publisher) - Publish siyuan article to supported open platforms 发布思源笔记到支持的平台
+*   [terwer/src-sy-post-publisher](https://github.com/terwer/src-sy-post-publisher) - 请移步 https://github.com/terwer/sy-post-publisher 查看最新源码。
 
 *   [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) -  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 
@@ -8673,7 +8673,7 @@
 
 *   [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 
-*   [opticdev/optic](https://github.com/opticdev/optic) - Optic makes it easy to document your APIs, prevent breaking changes, and follow an API style-guide
+*   [opticdev/optic](https://github.com/opticdev/optic) - Version Control for APIs. Optic makes it easy to document your APIs, prevent breaking changes, and follow an API style-guide
 
 *   [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 
