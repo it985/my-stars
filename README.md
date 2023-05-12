@@ -3395,7 +3395,7 @@
 
 *   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 
-*   [terwer/src-sy-post-publisher](https://github.com/terwer/src-sy-post-publisher) - 请移步 https://github.com/terwer/sy-post-publisher 查看最新源码。
+*   [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - Publish siyuan article to supported open platforms such as Yuque, cnblogs, WordPress, Typecho, HUGO, HEXO, etc. 将思源笔记的文章发布到语雀、cnblogs、WordPress、Typecho、HUGO、HEXO等支持的开放平台。挂件版本请移步 https://github.com/terwer/sy-post-publisher
 
 *   [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) -  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 
@@ -5230,8 +5230,6 @@
 *   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 
 *   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 *   [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 
@@ -9096,6 +9094,8 @@
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 *   [pa001024/genshin-mirror](https://github.com/pa001024/genshin-mirror) -
 
