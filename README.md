@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -19,7 +20,6 @@
 *   [EJS](#ejs)
 *   [Vue](#vue)
 *   [C#](#c)
-*   [Shell](#shell)
 *   [AngelScript](#angelscript)
 *   [C++](#c-1)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -88,6 +88,54 @@
 *   [Objective-C++](#objective-c-1)
 *   [Hack](#hack)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+
+*   [LucasLee99/youlive2bili](https://github.com/LucasLee99/youlive2bili) - 油管直播监控自动发哔哩哔哩
+
+*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) -
+
+*   [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
+
+*   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
+
+*   [Gesj-yean/vue-demo-collection](https://github.com/Gesj-yean/vue-demo-collection) - Gesj 将开发过程中遇到的通用 Vue 组件 demo 收集，Vue/CSS/Echarts等，积累的知识也会同步放到这里 :heart:
+
+*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜天翼云盘｜Fa米家｜小米运动｜百度搜索资源平台｜
+
+*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+
+*   [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
+
+*   [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
+
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
+
+*   [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+
+*   [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+
+*   [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
+
+*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
+
+*   [meetbill/op\_practice\_book](https://github.com/meetbill/op_practice_book) - 📚 《运维实践指南》持续更新中，推荐大牛干货博客 https://me.csdn.net/g2V13ah
+
+*   [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理
+
+*   [taizilongxu/interview\_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
+
+*   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
+
+*   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
+
+*   [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
+
+*   [zhaoolee/find-pose](https://github.com/zhaoolee/find-pose) - 拍照片时如何摆Pose
 
 ## TypeScript
 
@@ -375,7 +423,7 @@
 
 *   [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 
-*   [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+*   [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 
 *   [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 
@@ -2424,8 +2472,6 @@
 *   [srx-2000/spider\_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，知乎百万级用户爬虫+数据分析，github用户爬虫
 
 *   [ZSAIm/VideoCrawlerEngine](https://github.com/ZSAIm/VideoCrawlerEngine) - 起源于旧项目爱奇艺解析器(iqiyi-parser)在开发、维护和扩展的过程中遇到的一些问题，而实现的一个基于任务流式的可视化爬虫引擎。引擎的执行单元是节点。脚本节点(script)作为根节点来完成对节点和流程的描述，经由任务节点(task)解析流程描述并生成节点的执行队列，最后交由工作者执行池处理。整个过程可视可控，所有节点处理器都以插件的形式导入，以最大程度实现易扩展性。
-
-*   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
 ## miscellaneous
 
@@ -8712,52 +8758,6 @@
 *   [kengwang/BiliDuang](https://github.com/kengwang/BiliDuang) - (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载
 
 *   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-
-## Shell
-
-*   [LucasLee99/youlive2bili](https://github.com/LucasLee99/youlive2bili) - 油管直播监控自动发哔哩哔哩
-
-*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) -
-
-*   [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
-
-*   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
-
-*   [Gesj-yean/vue-demo-collection](https://github.com/Gesj-yean/vue-demo-collection) - Gesj 将开发过程中遇到的通用 Vue 组件 demo 收集，Vue/CSS/Echarts等，积累的知识也会同步放到这里 :heart:
-
-*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜天翼云盘｜Fa米家｜小米运动｜百度搜索资源平台｜
-
-*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-
-*   [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
-
-*   [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
-
-*   [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
-
-*   [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
-
-*   [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
-
-*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
-
-*   [meetbill/op\_practice\_book](https://github.com/meetbill/op_practice_book) - 📚 《运维实践指南》持续更新中，推荐大牛干货博客 https://me.csdn.net/g2V13ah
-
-*   [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理
-
-*   [taizilongxu/interview\_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
-
-*   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
-
-*   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
-
-*   [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
-
-*   [zhaoolee/find-pose](https://github.com/zhaoolee/find-pose) - 拍照片时如何摆Pose
 
 ## AngelScript
 
