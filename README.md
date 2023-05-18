@@ -1017,6 +1017,8 @@
 
 *   [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 
+*   [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - :smirk: simple emoji support for node.js projects
+
 *   [joeattardi/picmo](https://github.com/joeattardi/picmo) - JavaScript emoji picker. Any app, any framework.
 
 *   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
@@ -7458,8 +7460,6 @@
 *   [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
 
 *   [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard.
-
-*   [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - :smirk: simple emoji support for node.js projects
 
 *   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 
