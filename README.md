@@ -1207,7 +1207,7 @@
 
 *   [googidaddy/bili-trash-bin](https://github.com/googidaddy/bili-trash-bin) - a pro tool for video porter.
 
-*   [akynazh/tg-jav-bot](https://github.com/akynazh/tg-jav-bot) - 一个用于查询与收藏演员和影片的机器人, 可自动保存磁链到 Pikpak。
+*   [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - 一个用于查询与收藏演员和影片的机器人, 可自动保存磁链到 Pikpak。
 
 *   [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 
