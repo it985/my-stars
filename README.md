@@ -361,8 +361,6 @@
 
 *   [ssttkkl/nonebot-plugin-pixivbot](https://github.com/ssttkkl/nonebot-plugin-pixivbot) - NoneBot插件，发送随机Pixiv插画、画师更新推送、定时订阅推送……
 
-*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🧠 ChatGPT、Windows/Mac/Linux各类运行环境镜像站，cnki/core.ac.uk、国立台湾大学、国立新加坡大学、内陆院校等机构行业研究报告智库收集
-
 *   [gwtak/TieBaSign](https://github.com/gwtak/TieBaSign) - 白嫖Github Action实现贴吧自动签到
 
 *   [panghaibin/shuasr](https://github.com/panghaibin/shuasr) - This Project is No Longer Maintained
@@ -3541,7 +3539,7 @@
 
 *   [fwonggh/Bthub](https://github.com/fwonggh/Bthub) - Bthub最新地址发布页
 
-*   [iptv-org/epg](https://github.com/iptv-org/epg) - EPG (Electronic Program Guide) for thousands of TV channels collected from different sources
+*   [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 
 *   [shw2018/hexo-blog-fly](https://github.com/shw2018/hexo-blog-fly) - This is my personal blog repository.  Now,it is open for everyone to download and modify. If it can help you to build your blog or you like the repo, could you give me a star ! Thank you!
 
@@ -9035,6 +9033,8 @@
 
 *   [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 
+*   [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
+
 *   [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 
 *   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
@@ -9098,6 +9098,8 @@
 *   [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
 *   [TheAlgorithms/Jupyter](https://github.com/TheAlgorithms/Jupyter) - The repository contains script and notebook related to Statistics, Machine learning, Neural network, Deep learning, NLP, Numerical methods, and Automation.
+
+*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🧠 ChatGPT、Windows/Mac/Linux各类运行环境镜像站，cnki/core.ac.uk、国立台湾大学、国立新加坡大学、内陆院校等机构行业研究报告智库收集
 
 *   [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 
@@ -9194,8 +9196,6 @@
 *   [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 
 *   [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
-
-*   [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 
 *   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 
