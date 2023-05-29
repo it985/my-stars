@@ -3021,7 +3021,7 @@
 
 *   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 
-*   [ggborr/aweikeji](https://github.com/ggborr/aweikeji) - youtube-阿伟科技，提供免费节点
+*   [ggborr/aweikeji](https://github.com/ggborr/aweikeji) -
 
 *   [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 
