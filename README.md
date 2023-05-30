@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -16,7 +17,6 @@
 *   [PHP](#php)
 *   [C](#c)
 *   [Swift](#swift)
-*   [Rust](#rust)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [Java](#java)
@@ -88,6 +88,38 @@
 *   [Objective-C++](#objective-c-1)
 *   [Hack](#hack)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
+*   [LJason77/bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 自动下载 B站 视频
+
+*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+
+*   [NPCDW/yuque\_sae](https://github.com/NPCDW/yuque_sae) - 语雀个人版与空间版文档导出，以及标准 markdown 格式化
+
+*   [yangwenmai/learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 > Rust Programming Tutorial, include articles, interview, example, problems.
+
+*   [douchuan/algorithm](https://github.com/douchuan/algorithm) - Algorithms written in Rust
+
+*   [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
+
+*   [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
+
+*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
+
+*   [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
+
+*   [DaZiYuan/livewallpaper](https://github.com/DaZiYuan/livewallpaper) - A tiny win10 (dynamic) wallpaper changer | 巨应壁纸 | 动态壁纸 | live wallpaper
+
+*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
+
+*   [wormtql/yas](https://github.com/wormtql/yas) - Superfast Genshin Impact artifacts scanner
+
+*   [wormtql/genshin\_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 
 ## CSS
 
@@ -3773,8 +3805,6 @@
 
 *   [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站/镜像直连/机场推荐
 
-*   [imlijq/share-v2ray-ssr-ss](https://github.com/imlijq/share-v2ray-ssr-ss) - 分享V2Ray、SSR、SS
-
 ## Vue
 
 *   [mouday/hao123](https://github.com/mouday/hao123) - 程序员网址导航
@@ -6780,36 +6810,6 @@
 *   [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 
 *   [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
-
-## Rust
-
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-*   [LJason77/bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 自动下载 B站 视频
-
-*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
-
-*   [NPCDW/yuque\_sae](https://github.com/NPCDW/yuque_sae) - 语雀个人版与空间版文档导出，以及标准 markdown 格式化
-
-*   [yangwenmai/learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 > Rust Programming Tutorial, include articles, interview, example, problems.
-
-*   [douchuan/algorithm](https://github.com/douchuan/algorithm) - Algorithms written in Rust
-
-*   [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
-
-*   [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
-
-*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
-
-*   [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
-
-*   [DaZiYuan/livewallpaper](https://github.com/DaZiYuan/livewallpaper) - A tiny win10 (dynamic) wallpaper changer | 巨应壁纸 | 动态壁纸 | live wallpaper
-
-*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
-
-*   [wormtql/yas](https://github.com/wormtql/yas) - Superfast Genshin Impact artifacts scanner
-
-*   [wormtql/genshin\_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 
 ## Go
 
