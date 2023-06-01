@@ -4785,7 +4785,7 @@
 
 *   [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
 
-*   [virus010101/linfeng-community](https://github.com/virus010101/linfeng-community) - 社交论坛uniapp小程序/H5版本基于SpringBoot2+MybatisPlus+Shiro+jwt+Redis+Vue+Uniapp的前后端分离的社交论坛问答发帖/BBS项目，包括图文帖，视频，圈子，私聊，微信支付，付费贴，积分签到，钱包充值等功能
+*   [virus010101/linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|app论坛是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS项目，包括论坛图文帖，视频，圈子，IM私聊，微信支付，付费贴，积分签到，钱包充值等论坛小程序论坛app完整功能
 
 *   [isyuricunha/list-all-followers-and-following](https://github.com/isyuricunha/list-all-followers-and-following) - Easy view and filter all follows and following. Auto update by GitHub Action.
 
@@ -7411,7 +7411,7 @@
 
 *   [davyxu/tabtoy](https://github.com/davyxu/tabtoy) - 高性能表格数据导出器
 
-*   [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+*   [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 
 *   [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 
@@ -8019,7 +8019,7 @@
 
 *   [happyfish100/fastdfs-client-java](https://github.com/happyfish100/fastdfs-client-java) - FastDFS java client SDK
 
-*   [houbb/sensitive](https://github.com/houbb/sensitive) - 🔐Sensitive log tool for java, based on java annotation. (基于注解的 java 日志脱敏框架，更加优雅的日志打印)
+*   [houbb/sensitive](https://github.com/houbb/sensitive) - 🔐Sensitive log tool for java, based on java annotation. (基于注解的 java 日志脱敏框架，更加优雅的日志打印。支持哈希。)
 
 *   [gngpp/vertx-ddns](https://github.com/gngpp/vertx-ddns) - 基于 Vert.x 的 DDNS 解决方案。自动更新域名解析到本机IP， 支持的DNS服务商： Alidns(阿里云) 、 Dnspod(腾讯云) 、Cloudflare、华为云
 
