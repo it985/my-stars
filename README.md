@@ -3311,7 +3311,7 @@
 
 *   [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 
-*   [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+*   [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 
 *   [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 
