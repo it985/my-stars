@@ -2589,7 +2589,7 @@
 
 *   [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
-*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - KubePi 是一个现代化的 K8s 面板。
+*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🔥 🔥 🔥 KubePi 是一个现代化的 K8s 面板。
 
 *   [googollee/go-socket.io](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
 
