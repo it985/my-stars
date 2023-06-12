@@ -91,6 +91,10 @@
 
 ## Python
 
+*   [GC-ZF/Twikoo-Comment-Backups](https://github.com/GC-ZF/Twikoo-Comment-Backups) - 基于Vercel部署的twikoo评论数据备份方案
+
+*   [GC-ZF/hexo-hot-article](https://github.com/GC-ZF/hexo-hot-article) - Hexo博客热门文章实时排序
+
 *   [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 
 *   [XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
@@ -3606,8 +3610,6 @@
 *   [jadezi/github-accelerator](https://github.com/jadezi/github-accelerator) - 油猴插件---github访问加速
 
 *   [zkeq/icodeq-bpi](https://github.com/zkeq/icodeq-bpi) - API 的第二个仓库
-
-*   [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 
 ## TypeScript
 
@@ -9006,8 +9008,6 @@
 *   [doocs/data-structure-and-algorithm](https://github.com/doocs/data-structure-and-algorithm) - 😍 学习数据结构与算法，夯实编程基础
 
 *   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-
-*   [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 
 ## Dart
 
