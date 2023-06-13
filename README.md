@@ -5525,7 +5525,7 @@
 
 *   [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
 
-*   [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
+*   [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 
 *   [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go!
 
@@ -8579,7 +8579,7 @@
 
 *   [oblac/jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like.
 
-*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
+*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database for Mobile & IoT - fast and lightweight
 
 *   [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 
