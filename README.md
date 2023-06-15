@@ -313,7 +313,7 @@
 
 *   [TinyDataML/Tiny3D](https://github.com/TinyDataML/Tiny3D) - Tiny3D is a next generation of 3D AI service production system.
 
-*   [weebzone/WZML](https://github.com/weebzone/WZML) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl servers. Made with Pyrogram in Python by WZML-X Devs.
+*   [weebzone/WZML-X](https://github.com/weebzone/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl servers. Made with Pyrogram in Python by WZML-X Devs.
 
 *   [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 
