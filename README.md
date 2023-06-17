@@ -1673,7 +1673,7 @@
 
 *   [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System
 
-*   [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
+*   [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
 
 *   [PixelsCommander/HTML-GL](https://github.com/PixelsCommander/HTML-GL) - Get as many FPS as you need and amazing effects by rendering HTML/CSS in WebGL
 
@@ -8425,7 +8425,7 @@
 
 *   [apache/storm](https://github.com/apache/storm) - Mirror of Apache Storm
 
-*   [android-async-http/android-async-http](https://github.com/android-async-http/android-async-http) - This project under develop
+*   [android-async-http/android-async-http](https://github.com/android-async-http/android-async-http) - An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries.
 
 *   [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
 
