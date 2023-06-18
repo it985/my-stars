@@ -91,7 +91,7 @@
 
 ## JavaScript
 
-*   [purpleru/AutoStudy](https://github.com/purpleru/AutoStudy) - 超星学习通和柠檬学堂刷课项目，这是一个能够快速完成你的大专课程的项目，目前实现了两个课程平台（超星学习通和柠檬学堂）
+*   [guyijie1211/JustLive-Web](https://github.com/guyijie1211/JustLive-Web) - :tv:一个整合国内多个直播平台内容的网站
 
 *   [Lea321/studyTime](https://github.com/Lea321/studyTime) - 学习时长计时工具
 
