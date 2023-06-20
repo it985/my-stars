@@ -231,8 +231,6 @@
 
 *   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
-*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
-
 *   [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 
 *   [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
@@ -4077,7 +4075,7 @@
 
 *   [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
 
-*   [yuque/yuque-exporter](https://github.com/yuque/yuque-exporter) - export yuque to local markdown
+*   [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) - export yuque to local markdown
 
 *   [yuque-helper/yuque2book](https://github.com/yuque-helper/yuque2book) - export yuque repo to a book 将你的语雀文档导出的工具
 
@@ -4108,6 +4106,8 @@
 *   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 
 *   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
+
+*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
 *   [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 
@@ -5416,8 +5416,6 @@
 *   [Huangyan0804/AutoCheckin](https://github.com/Huangyan0804/AutoCheckin) - 超星学习通自动签到，支持手势，二维码，位置，拍照等
 
 *   [bot-ssttkkl/nonebot-plugin-pixivbot](https://github.com/bot-ssttkkl/nonebot-plugin-pixivbot) - NoneBot插件，发送随机Pixiv插画、画师更新推送、定时订阅推送……
-
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 
 *   [gwtak/TieBaSign](https://github.com/gwtak/TieBaSign) - 白嫖Github Action实现贴吧自动签到
 
@@ -9416,6 +9414,8 @@
 *   [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
 *   [TheAlgorithms/Jupyter](https://github.com/TheAlgorithms/Jupyter) - The repository contains script and notebook related to Statistics, Machine learning, Neural network, Deep learning, NLP, Numerical methods, and Automation.
+
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 
 *   [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 
