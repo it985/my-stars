@@ -6462,7 +6462,7 @@
 
 *   [oblac/jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like.
 
-*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database for Mobile & IoT - fast and lightweight
+*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java and Android Database - fast and lightweight without any ORM
 
 *   [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 
