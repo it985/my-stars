@@ -1128,8 +1128,6 @@
 
 *   [sequelize/express-example](https://github.com/sequelize/express-example) - A proposal for the usage of Sequelize within an Express.JS application.
 
-*   [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
-
 *   [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 
 *   [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
@@ -7323,6 +7321,8 @@
 *   [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue\_book: Home Assistant User documentation
 
 *   [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
+
+*   [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
 
 *   [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 
