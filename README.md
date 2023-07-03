@@ -7554,7 +7554,7 @@
 
 *   [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) -
 
-*   [master-co/css](https://github.com/master-co/css) - A markup-driven CSS language with enhanced syntax
+*   [master-co/css](https://github.com/master-co/css) - A markup-driven CSS language with enhanced syntax and smart rules
 
 *   [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 
