@@ -4862,8 +4862,6 @@
 
 *   [yyued/SVG-Skeleton](https://github.com/yyued/SVG-Skeleton) - Create the skeleton screen through SVG element
 
-*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
-
 *   [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 
 *   [zhuyingda/webster](https://github.com/zhuyingda/webster) - a reliable high-level web crawling & scraping framework for Node.js.
@@ -4911,8 +4909,6 @@
 *   [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 
 *   [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
-
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
 *   [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
 
@@ -7776,6 +7772,8 @@
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+
 *   [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -10317,6 +10315,8 @@
 *   [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
 
 *   [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
+
+*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
 ## Bikeshed
 
