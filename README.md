@@ -7342,7 +7342,7 @@
 
 *   [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 
-*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - \[NOT ACTIVELY MAINTAINED] Card-style Hugo theme designed for bloggers
+*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 
 *   [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 
@@ -8418,7 +8418,7 @@
 
 *   [go-ldap/ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 
-*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud native multi cloud application management platform that make application management and delivery easier
+*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
 
 *   [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 
