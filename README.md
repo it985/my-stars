@@ -4970,7 +4970,7 @@
 
 *   [HuberTRoy/leetCode](https://github.com/HuberTRoy/leetCode) - :pencil2: 算法相关知识储备 LeetCode with Python and JavaScript :books:
 
-*   [itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py) - ⛽️「算法通关手册」：超详细的「算法与数据结构」基础讲解教程，从零基础开始学习算法知识，750+ 道「LeetCode 题目」详细解析，200 道「大厂面试热门题目」。
+*   [itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py) - ⛽️「算法通关手册」：超详细的「算法与数据结构」基础讲解教程，从零基础开始学习算法知识，800+ 道「LeetCode 题目」详细解析，200 道「大厂面试热门题目」。
 
 *   [prabhupant/python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
 
@@ -5606,7 +5606,7 @@
 
 *   [xchaoinfo/fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
 
-*   [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+*   [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 
 *   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
@@ -5904,7 +5904,7 @@
 
 *   [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (May 2023)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2023)
 
 ## Vue
 
