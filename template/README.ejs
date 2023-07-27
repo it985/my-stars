@@ -7,18 +7,8 @@
 <% for (let [language, repositories] of stars) { %>
 ## <%= language %>
   <% for (let repo of repositories) { %>
-    <% if (repo.full_name && repo.html_url && repo.description) { %>
-      - [<%= repo.full_name %>](<%= repo.html_url %>) - <span class="description"><%= repo.description.slice(0, 25) + '...' %></span>
+    - <% if (repo.full_name && repo.html_url && repo.description) { %>
+       [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description.slice(0, 25) + '...' %>
     <% } %>
   <% } %>
 <% } %>
-
-<style>
-  .description {
-    display: inline-block;
-    max-width: 200px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-</style>
