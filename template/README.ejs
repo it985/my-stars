@@ -5,8 +5,10 @@
 
 ## Table of Contents
 <% for (let [language, repositories] of stars) { %>
-## <%= language %>
+  <h2><%= language %></h2>
   <% for (let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description.slice(0, 25) + '...' %>
+    <li>
+      <a href="<%= repo.html_url %>"><%= repo.full_name %></a> - <%= repo.description.slice(0, 25) + '...' %>
+    </li>
   <% } %>
 <% } %>
