@@ -1188,6 +1188,8 @@
 
 *   [go-cqhttp/for-java](https://github.com/go-cqhttp/for-java) - 基于 go-cqhttp 和 java 的 qq 机器人
 
+*   [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
+
 ## PHP
 
 *   [MoeNetwork/Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) - 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。注意：Gitee (原Git@osc) 仓库将不再维护，目前唯一指定的仓库为 Github。本项目没有官方交流群，如需交流可以直接使用Github的Discussions。没有商业版本，目前贴吧云签到由社区共同维护，不会停止更新（PR 通常在一天内处理）。
@@ -5782,8 +5784,6 @@
 
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
 
-*   [2258324319/BiliBili-Spider-](https://github.com/2258324319/BiliBili-Spider-) - B站账号“公路邮局”的自动搬运代码，几天搬运了7000+视频，240w浏览
-
 *   [googidaddy/bili\_upload\_tool](https://github.com/googidaddy/bili_upload_tool) - 搬运视频到b站工具
 
 *   [HarukaKinen/YoutubeToBilibili](https://github.com/HarukaKinen/YoutubeToBilibili) - 一个自动搬运视频到 bilibili 的 python 脚本
@@ -6882,7 +6882,7 @@
 
 *   [xinac721/bing-img](https://github.com/xinac721/bing-img) - 必应壁纸 - 每日一图
 
-*   [tinygeeker/python-spiders](https://github.com/tinygeeker/python-spiders) - 🌈  Python网络爬虫实战：王者荣耀超清壁纸、抖音无水印视频、M3U8推流视频、正方系统、财务报表、美女帅哥图片、CSDN阅读量、淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说音乐电影下载等
+*   [tinygeeker/tinyspiders](https://github.com/tinygeeker/tinyspiders) - 🌈  Python网络爬虫实战：王者荣耀超清壁纸、抖音无水印视频、M3U8推流视频、正方系统、财务报表、美女帅哥图片、CSDN阅读量、淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说音乐电影下载等
 
 *   [zjkwdy/bili\_app\_splash](https://github.com/zjkwdy/bili_app_splash) - B站壁纸娘和开屏图自动下载，每天使用Actions自动同步
 
