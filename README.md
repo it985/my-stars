@@ -140,7 +140,7 @@
 
 ## miscellaneous
 
-*   [SUC-DriverOld/so-vits-svc-Chinese-Detaild-Documents](https://github.com/SUC-DriverOld/so-vits-svc-Chinese-Detaild-Documents) - so-vits-svc3.0中文详细安装、训练、推理使用步骤帮助文档
+*   [SUC-DriverOld/so-vits-svc-Chinese-Detaild-Documents](https://github.com/SUC-DriverOld/so-vits-svc-Chinese-Detaild-Documents) - so-vits-svc中文详细安装、训练、推理使用步骤帮助文档
 
 *   [i0Ek3/fuckGrammer](https://github.com/i0Ek3/fuckGrammer) - fuckGrammer，去语法，一个简单的英语语法学习教程，目的为帮助那些深受语法毒害的同胞们，以此来减轻学习英语的痛苦。
 
@@ -1582,7 +1582,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -4258,7 +4258,7 @@
 
 *   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 
-*   [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - \[Alpha] Publish siyuan-note articles to supported open platforms such as Yuque, cnblogs, WordPress, Typecho, HUGO, HEXO, etc. 将思源笔记的文章发布到语雀、cnblogs、WordPress、Typecho、HUGO、HEXO等支持的开放平台。
+*   [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - \[Beta] Publish siyuan-note articles to supported open platforms such as Yuque, cnblogs, WordPress, Typecho, HUGO, HEXO, etc. 将思源笔记的文章发布到语雀、cnblogs、WordPress、Typecho、HUGO、HEXO等支持的开放平台。
 
 *   [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) -  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 
