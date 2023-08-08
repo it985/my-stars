@@ -1688,7 +1688,7 @@
 
 *   [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram clien
 
-*   [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Pyth
+*   [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar fo
 
 *   [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 
@@ -2595,8 +2595,6 @@
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curati
 
 *   [purpleru/music](https://github.com/purpleru/music) - 网易云一键打卡是一个能够快速帮助您的网易云音乐账号升级的程序。
-
-*   [mouday/coding-tree](https://github.com/mouday/coding-tree) - 程序员工作、学习笔记
 
 *   [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 
@@ -9077,6 +9075,8 @@
 *   [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blog
 
 *   [zhheo/HeoMusic](https://github.com/zhheo/HeoMusic) - 一个基于Aplayer和MetingJS的静态音乐播放器
+
+*   [mouday/coding-tree](https://github.com/mouday/coding-tree) - 程序员工作、学习笔记
 
 *   [497983606/wangyesheji](https://github.com/497983606/wangyesheji) -
 
