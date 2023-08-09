@@ -210,7 +210,7 @@
 
 *   [zhiyu1998/Computer-Science-Learn-Notes](https://github.com/zhiyu1998/Computer-Science-Learn-Notes) - CS（Computer Science 计算机科学）生涯：读书笔记，集成Java
 
-*   [mebtte/cicada](https://github.com/mebtte/cicada) - A multi-user music service for self-host
+*   [mebtte/cicada](https://github.com/mebtte/cicada) - Cicada is a multi-user music service for
 
 *   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with
 
