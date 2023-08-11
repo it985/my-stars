@@ -100,7 +100,7 @@
 
 *   [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learnin
 
-*   [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT) - BibiGPT · 1-Click AI Summary for Audio/V
+*   [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT) - BibiGPT v1 · one-Click AI Summary for Au
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - 一款云储存/图床管理和文件上传客户端工具，基于PicGo深度二次开发
 
