@@ -1468,7 +1468,7 @@
 
 *   [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 
-*   [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+*   [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 
 *   [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one comm
 
@@ -6900,8 +6900,6 @@
 
 *   [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — offi
 
-*   [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for A
-
 *   [bytedance/bitsail](https://github.com/bytedance/bitsail) - BitSail is a distributed high-performanc
 
 *   [Q-V-O/banciyan](https://github.com/Q-V-O/banciyan) - java爬虫-爬取半次元图片
@@ -8548,6 +8546,8 @@
 
 *   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source softwa
 
+*   [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for A
+
 *   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程
 
 *   [0voice/kernel\_new\_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io\_uring, cgroup,
@@ -9052,7 +9052,7 @@
 
 *   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Ninten
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita
 
 *   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framewor
 
