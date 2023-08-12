@@ -1194,6 +1194,8 @@
 
 *   [cyalias/24h-Live-Bilibili-cyalias](https://github.com/cyalias/24h-Live-Bilibili-cyalias) - Python写的一个bilibili弹幕点歌
 
+*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog Generator based on Githu
+
 *   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 
 *   [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data <= 10 mins can also be used t
@@ -1222,7 +1224,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -3245,8 +3247,6 @@
 *   [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude
 
 *   [mcube-12139/danmaku-game](https://github.com/mcube-12139/danmaku-game) - 弹幕互动游戏。
-
-*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog Generator based on Githu
 
 *   [zhiyu1998/koishi-plugin-r-link-parse](https://github.com/zhiyu1998/koishi-plugin-r-link-parse) - 基于koishi机器人的链接分享解析视频、图片链接/小程序插件，支持：tikto
 
@@ -5400,7 +5400,7 @@
 
 *   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online
 
-*   [FoXZilla/Pxer](https://github.com/FoXZilla/Pxer) - A tool for pixiv.net. 人人可用的P站爬虫
+*   [pea3nut/Pxer](https://github.com/pea3nut/Pxer) - A tool for pixiv.net. 人人可用的P站爬虫
 
 *   [anaer/Sub](https://github.com/anaer/Sub) - 自用clash订阅链接
 
