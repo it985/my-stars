@@ -6,11 +6,12 @@
 
 ## Table of Contents
 
+*   [C#](#c)
+*   [Ruby](#ruby)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Go](#go)
 *   [HTML](#html)
-*   [C#](#c)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
@@ -37,7 +38,6 @@
 *   [Astro](#astro)
 *   [Makefile](#makefile)
 *   [SCSS](#scss)
-*   [Ruby](#ruby)
 *   [PLpgSQL](#plpgsql)
 *   [Objective-C](#objective-c)
 *   [Smarty](#smarty)
@@ -89,6 +89,472 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Objective-C++](#objective-c-1)
 *   [Hack](#hack)
+
+## C\#
+
+*   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 唷，找本堂主有何贵干呀？
+
+*   [Harlan-H/M3u8Downloader\_H](https://github.com/Harlan-H/M3u8Downloader_H) - \[.net6]m3u8下载器,功能强大,多线程,多任务,支持aes-128-cb
+
+*   [ludoux/LrcHelper](https://github.com/ludoux/LrcHelper) - 从网易云音乐下载带翻译的歌词 Walkman 适配
+
+*   [withsalt/BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili直播工具。自动登录并获取推流地址，可以用于电脑、树莓派等设备无人
+
+*   [FirmianaMarsili/picacomic-Punch](https://github.com/FirmianaMarsili/picacomic-Punch) - 哔咔自动签到,依赖于github actions,每天自动运行
+
+*   [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouT
+
+*   [genshin-matrix/genshin-woodmen](https://github.com/genshin-matrix/genshin-woodmen) - 尘歌壶终结者(原神自动伐木姬 | Genshin Auto Wood Obtai
+
+*   [babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy) - 🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Autom
+
+*   [zyzsdy/biliroku](https://github.com/zyzsdy/biliroku) - bilibili 生放送（直播）录制
+
+*   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
+
+*   [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可对阿B进行直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
+
+*   [DawnFz/Genshin.Launcher.Plus](https://github.com/DawnFz/Genshin.Launcher.Plus) - \[原神启动器Plus] lightweight globalized Gensh
+
+*   [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop fea
+
+*   [zhuxb711/RX-Explorer](https://github.com/zhuxb711/RX-Explorer) - 一款优雅的UWP文件管理器 | An elegant UWP Explorer
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Wind
+
+*   [shibayan/WinQuickLook](https://github.com/shibayan/WinQuickLook) - A lightweight file viewer like "Quick Lo
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+
+*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stre
+
+*   [spring-projects/spring-net](https://github.com/spring-projects/spring-net) - Spring Framework for .NET
+
+*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署
+
+*   [xunkong/xunkong](https://github.com/xunkong/xunkong) - 记录旅途中发生的事
+
+*   [Harlan-H/BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - BiliDownloader是一款界面精简，操作简单且高速下载的b站下载器
+
+*   [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices
+
+*   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, da
+
+*   [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
+
+*   [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
+
+*   [aalhour/C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart\_with\_upwards\_trend: Plug-
+
+*   [dotnet/ef6](https://github.com/dotnet/ef6) - This is the codebase for Entity Framewor
+
+*   [kwsch/PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
+
+*   [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL
+
+*   [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
+
+*   [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
+
+*   [EventStore/EventStore](https://github.com/EventStore/EventStore) - The stream database optimised for event
+
+*   [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card\_index: A simple fake data generato
+
+*   [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in
+
+*   [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapp
+
+*   [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API docum
+
+*   [Unity-Technologies/EntityComponentSystemSamples](https://github.com/Unity-Technologies/EntityComponentSystemSamples) -
+
+*   [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
+
+*   [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most tru
+
+*   [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and rem
+
+*   [Squalr/Squalr](https://github.com/Squalr/Squalr) - Squalr Memory Editor - Game Hacking Tool
+
+*   [huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx) - :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件
+
+*   [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable ba
+
+*   [jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Edito
+
+*   [bitsadmin/fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen) - Fake Windows logon screen to steal passw
+
+*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷
+
+*   [lbugnion/mvvmlight](https://github.com/lbugnion/mvvmlight) - The main purpose of the toolkit is to ac
+
+*   [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows impl
+
+*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally con
+
+*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Ce
+
+*   [microsoft/AdaptiveCards](https://github.com/microsoft/AdaptiveCards) - A new way for developers to exchange car
+
+*   [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
+
+*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source twea
+
+*   [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Co
+
+*   [AnyListen/tianruoocr](https://github.com/AnyListen/tianruoocr) - 已停止维护，欢迎使用新版跨平台 OCR 工具（树洞 OCR 文字识别）
+
+*   [jwallet/spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤 Records Spotify to mp3 without ads an
+
+*   [gkngkc/UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser) - A native file browser for unity standalo
+
+*   [dockpanelsuite/dockpanelsuite](https://github.com/dockpanelsuite/dockpanelsuite) - DockPanel Suite - The Visual Studio insp
+
+*   [dotnet/maui-samples](https://github.com/dotnet/maui-samples) - Samples for .NET Multi-Platform App UI (
+
+*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementa
+
+*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross pl
+
+*   [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing
+
+*   [jakubgarfield/Bonobo-Git-Server](https://github.com/jakubgarfield/Bonobo-Git-Server) - Bonobo Git Server for Windows is a web a
+
+*   [LorenzCK/OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a
+
+*   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorizat
+
+*   [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server fo
+
+*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-pr
+
+*   [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
+
+*   [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be
+
+*   [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
+
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher f
+
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you
+
+*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for t
+
+*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
+
+*   [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Window
+
+*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphic
+
+*   [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jel
+
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applica
+
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks an
+
+*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+
+*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF
+
+*   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance
+
+*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video
+
+*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows t
+
+*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for us
+
+*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark
+
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 1
+
+*   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "de
+
+*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+
+*   [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
+
+*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a
+
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRem
+
+*   [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly ap
+
+*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Cli
+
+*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to co
+
+*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Win
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/da
+
+*   [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scr
+
+*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+
+*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to
+
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experienc
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray c
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize pro
+
+*   [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for Postg
+
+*   [shuxinqin/Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Objec
+
+*   [ServiceStack/ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
+
+*   [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on
+
+*   [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
+
+*   [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps
+
+*   [npgsql/npgsql](https://github.com/npgsql/npgsql) - Npgsql is the .NET data provider for Pos
+
+*   [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Bat
+
+*   [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET orm, C# orm, VB.NET orm, Mysql o
+
+*   [DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net ORM    Fastest ORM   Simple Easy  S
+
+*   [realm/realm-dotnet](https://github.com/realm/realm-dotnet) - Realm is a mobile database: a replacemen
+
+*   [Meowv/Blog](https://github.com/Meowv/Blog) - 🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平
+
+*   [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Open Database Reporting Tool (.Net)
+
+*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🐱‍🚀【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和
+
+*   [aspnetrun/run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - Microservices on .Net platforms which us
+
+*   [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
+
+*   [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCom
+
+*   [mongodb/mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - The Official C# .NET Driver for MongoDB
+
+*   [yanghuan/CSharp.lua](https://github.com/yanghuan/CSharp.lua) - The C# to Lua compiler
+
+*   [moonsharp-devs/moonsharp](https://github.com/moonsharp-devs/moonsharp) - An interpreter for the Lua language, wri
+
+*   [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - 你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, js
+
+*   [mr-kelly/KSFramework](https://github.com/mr-kelly/KSFramework) - QQ Group：538722494，KSFramework = KEngine
+
+*   [leinlin/Miku-LuaProfiler](https://github.com/leinlin/Miku-LuaProfiler) -
+
+*   [NLua/NLua](https://github.com/NLua/NLua) - Bridge between Lua and the .NET.
+
+*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for
+
+*   [nea/MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus) - A Notepad++ Plugin to view a Markdown fi
+
+*   [mganss/HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks
+
+*   [NeutroniumCore/Neutronium](https://github.com/NeutroniumCore/Neutronium) - 🚀 Build .NET desktop applications using
+
+*   [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Pr
+
+*   [praeclarum/Ooui](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that b
+
+*   [dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - Import and export general library, suppo
+
+*   [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET li
+
+*   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets pars
+
+*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
+
+*   [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件
+
+*   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文
+
+*   [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA Desktop &
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/T
+
+*   [2881099/csredis](https://github.com/2881099/csredis) - .NET Core or .NET Framework 4.0+ client
+
+*   [AlloyTeam/Rosin](https://github.com/AlloyTeam/Rosin) - A tool for web developers debug mobile p
+
+*   [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 SDK Senparc.Weixin for C#，支持 .NET
+
+*   [XCharts-Team/XCharts](https://github.com/XCharts-Team/XCharts) - A charting and data visualization librar
+
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+*   [30-seconds/30-seconds-of-csharp](https://github.com/30-seconds/30-seconds-of-csharp) - Short C# code snippets for all your deve
+
+*   [atskyline/BingWallpaper](https://github.com/atskyline/BingWallpaper) - 桌面壁纸更换成Bing.com的每日图片
+
+*   [Dustray/BingWallpaperTest](https://github.com/Dustray/BingWallpaperTest) - 获取Bing每日高清壁纸并设置为桌面壁纸的Demo
+
+*   [Dustray/BingWallpaper2](https://github.com/Dustray/BingWallpaper2) - 必应每日壁纸2，基于WPF重构，全新界面
+
+*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
+
+*   [HMBSbige/BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - Bilibili 直播录制
+
+*   [xplusky/MoeLoaderP](https://github.com/xplusky/MoeLoaderP) - 🖼二次元图片下载器 Pics downloader for booru sit
+
+*   [pwj0528/BiliBiliTool](https://github.com/pwj0528/BiliBiliTool) - .Net 5 编写的B站（哔哩哔哩）任务工具，通过GitHub Actions实
+
+*   [kengwang/BiliDuang](https://github.com/kengwang/BiliDuang) - (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV
+
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HD
+
+## Ruby
+
+*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS
+
+*   [kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using n
+
+*   [slashsbin/styleguide-git-commit-message](https://github.com/slashsbin/styleguide-git-commit-message) - /sBin/StyleGuide/Git/CommitMessage
+
+*   [ruby-grape/grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating RE
+
+*   [learn-co-curriculum/phase-3-orms-mapping-classes-to-database-tables](https://github.com/learn-co-curriculum/phase-3-orms-mapping-classes-to-database-tables) -
+
+*   [learn-co-curriculum/phase-3-methods](https://github.com/learn-co-curriculum/phase-3-methods) -
+
+*   [cloudfoundry/haproxy-boshrelease](https://github.com/cloudfoundry/haproxy-boshrelease) - A BOSH release for haproxy (based on cf-
+
+*   [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pen
+
+*   [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) - A database of vulnerable Ruby Gems
+
+*   [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project
+
+*   [thoughtbot/factory\_bot](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as
+
+*   [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail del
+
+*   [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing
+
+*   [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+
+*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open sourc
+
+*   [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer f
+
+*   [github/explore](https://github.com/github/explore) - Community-curated topic and collection p
+
+*   [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+
+*   [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mas
+
+*   [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
+
+*   [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatte
+
+*   [TheAlgorithms/Ruby](https://github.com/TheAlgorithms/Ruby) - All algorithms implemented in Ruby
+
+*   [pboling/gitmoji-regex](https://github.com/pboling/gitmoji-regex) - 🔥 A regular expression matching Gitmoji
+
+*   [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidanc
+
+*   [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift li
+
+*   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on yo
+
+*   [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code
+
+*   [fphilipe/premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
+
+*   [premailer/premailer](https://github.com/premailer/premailer) - Preflight for HTML email
+
+*   [thoughtbot/neat](https://github.com/thoughtbot/neat) - A fluid and flexible grid Sass framework
+
+*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
+
+*   [gregnavis/active\_record\_doctor](https://github.com/gregnavis/active_record_doctor) - Identify database issues before they hit
+
+*   [jalkoby/squasher](https://github.com/jalkoby/squasher) - Squasher - squash your old migrations in
+
+*   [plentz/lol\_dba](https://github.com/plentz/lol_dba) - lol\_dba is a small package of rake tasks
+
+*   [magnusvk/counter\_culture](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Ra
+
+*   [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
+
+*   [ruby-grape/grape-swagger](https://github.com/ruby-grape/grape-swagger) - Add OAPI/swagger v2.0 compliant document
+
+*   [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y
+
+*   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+
+*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of every
+
+*   [shoes/shoes4](https://github.com/shoes/shoes4) - Shoes 4 : the next version of Shoes
+
+*   [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while
+
+*   [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react,
+
+*   [shakacode/react\_on\_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails +
+
+*   [rails/webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScrip
+
+*   [palkan/logidze](https://github.com/palkan/logidze) - Database changes log for Rails
+
+*   [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any app
+
+*   [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to
+
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Fre
+
+*   [mongodb/mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - The Official MongoDB Ruby Driver
+
+*   [mongodb/mongoid](https://github.com/mongodb/mongoid) - The Official Ruby Object Mapper for Mong
+
+*   [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNI
+
+*   [NREL/api-umbrella](https://github.com/NREL/api-umbrella) - Open source API management platform
+
+*   [yorickpeterse/oga](https://github.com/yorickpeterse/oga) - Oga is an XML/HTML parser written in Rub
+
+*   [ifmeorg/ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communic
+
+*   [prat0318/json\_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown,
+
+*   [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make su
+
+*   [gettalong/kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown s
+
+*   [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything\* go
+
+*   [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor
+
+*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Andr
+
+*   [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
+
+*   [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart
+
+*   [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such
+
+*   [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from y
+
+*   [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
+
+*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ru
+
+*   [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distr
+
+*   [octokit/octokit.rb](https://github.com/octokit/octokit.rb) - Ruby toolkit for the GitHub API
+
+*   [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
+
+*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
+
+*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's la
 
 ## JavaScript
 
@@ -682,7 +1148,7 @@
 
 *   [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascri
 
-*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 
 *   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and
 
@@ -2314,7 +2780,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -3662,10 +4128,6 @@
 
 *   [djhdj1/AutoApiP](https://github.com/djhdj1/AutoApiP) - E5 自动续期
 
-*   [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
-
-*   [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于
-
 ## Go
 
 *   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod
@@ -4825,324 +5287,6 @@
 *   [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库
 
 *   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易
-
-## C\#
-
-*   [Harlan-H/M3u8Downloader\_H](https://github.com/Harlan-H/M3u8Downloader_H) - \[.net6]m3u8下载器,功能强大,多线程,多任务,支持aes-128-cb
-
-*   [ludoux/LrcHelper](https://github.com/ludoux/LrcHelper) - 从网易云音乐下载带翻译的歌词 Walkman 适配
-
-*   [withsalt/BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili直播工具。自动登录并获取推流地址，可以用于电脑、树莓派等设备无人
-
-*   [FirmianaMarsili/picacomic-Punch](https://github.com/FirmianaMarsili/picacomic-Punch) - 哔咔自动签到,依赖于github actions,每天自动运行
-
-*   [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouT
-
-*   [genshin-matrix/genshin-woodmen](https://github.com/genshin-matrix/genshin-woodmen) - 尘歌壶终结者(原神自动伐木姬 | Genshin Auto Wood Obtai
-
-*   [babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy) - 🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Autom
-
-*   [zyzsdy/biliroku](https://github.com/zyzsdy/biliroku) - bilibili 生放送（直播）录制
-
-*   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
-
-*   [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可对阿B进行直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
-
-*   [DawnFz/Genshin.Launcher.Plus](https://github.com/DawnFz/Genshin.Launcher.Plus) - \[原神启动器Plus] lightweight globalized Gensh
-
-*   [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop fea
-
-*   [zhuxb711/RX-Explorer](https://github.com/zhuxb711/RX-Explorer) - 一款优雅的UWP文件管理器 | An elegant UWP Explorer
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Wind
-
-*   [shibayan/WinQuickLook](https://github.com/shibayan/WinQuickLook) - A lightweight file viewer like "Quick Lo
-
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-
-*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stre
-
-*   [spring-projects/spring-net](https://github.com/spring-projects/spring-net) - Spring Framework for .NET
-
-*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署
-
-*   [xunkong/xunkong](https://github.com/xunkong/xunkong) - 记录旅途中发生的事
-
-*   [Harlan-H/BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - BiliDownloader是一款界面精简，操作简单且高速下载的b站下载器
-
-*   [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices
-
-*   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, da
-
-*   [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
-
-*   [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
-
-*   [aalhour/C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart\_with\_upwards\_trend: Plug-
-
-*   [dotnet/ef6](https://github.com/dotnet/ef6) - This is the codebase for Entity Framewor
-
-*   [kwsch/PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
-
-*   [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL
-
-*   [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
-
-*   [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
-
-*   [EventStore/EventStore](https://github.com/EventStore/EventStore) - The stream database optimised for event
-
-*   [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card\_index: A simple fake data generato
-
-*   [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in
-
-*   [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapp
-
-*   [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API docum
-
-*   [Unity-Technologies/EntityComponentSystemSamples](https://github.com/Unity-Technologies/EntityComponentSystemSamples) -
-
-*   [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
-
-*   [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most tru
-
-*   [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and rem
-
-*   [Squalr/Squalr](https://github.com/Squalr/Squalr) - Squalr Memory Editor - Game Hacking Tool
-
-*   [huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx) - :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件
-
-*   [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable ba
-
-*   [jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Edito
-
-*   [bitsadmin/fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen) - Fake Windows logon screen to steal passw
-
-*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷
-
-*   [lbugnion/mvvmlight](https://github.com/lbugnion/mvvmlight) - The main purpose of the toolkit is to ac
-
-*   [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows impl
-
-*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally con
-
-*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Ce
-
-*   [microsoft/AdaptiveCards](https://github.com/microsoft/AdaptiveCards) - A new way for developers to exchange car
-
-*   [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
-
-*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source twea
-
-*   [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Co
-
-*   [AnyListen/tianruoocr](https://github.com/AnyListen/tianruoocr) - 已停止维护，欢迎使用新版跨平台 OCR 工具（树洞 OCR 文字识别）
-
-*   [jwallet/spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤 Records Spotify to mp3 without ads an
-
-*   [gkngkc/UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser) - A native file browser for unity standalo
-
-*   [dockpanelsuite/dockpanelsuite](https://github.com/dockpanelsuite/dockpanelsuite) - DockPanel Suite - The Visual Studio insp
-
-*   [dotnet/maui-samples](https://github.com/dotnet/maui-samples) - Samples for .NET Multi-Platform App UI (
-
-*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementa
-
-*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross pl
-
-*   [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing
-
-*   [jakubgarfield/Bonobo-Git-Server](https://github.com/jakubgarfield/Bonobo-Git-Server) - Bonobo Git Server for Windows is a web a
-
-*   [LorenzCK/OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a
-
-*   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorizat
-
-*   [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server fo
-
-*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-pr
-
-*   [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
-
-*   [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be
-
-*   [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
-
-*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher f
-
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you
-
-*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for t
-
-*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
-
-*   [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Window
-
-*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphic
-
-*   [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jel
-
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applica
-
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks an
-
-*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-
-*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF
-
-*   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance
-
-*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video
-
-*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows t
-
-*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for us
-
-*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark
-
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 1
-
-*   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "de
-
-*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
-
-*   [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
-
-*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a
-
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRem
-
-*   [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly ap
-
-*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Cli
-
-*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to co
-
-*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Win
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/da
-
-*   [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scr
-
-*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-
-*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to
-
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experienc
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray c
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize pro
-
-*   [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for Postg
-
-*   [shuxinqin/Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Objec
-
-*   [ServiceStack/ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
-
-*   [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on
-
-*   [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
-
-*   [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps
-
-*   [npgsql/npgsql](https://github.com/npgsql/npgsql) - Npgsql is the .NET data provider for Pos
-
-*   [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Bat
-
-*   [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET orm, C# orm, VB.NET orm, Mysql o
-
-*   [DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net ORM    Fastest ORM   Simple Easy  S
-
-*   [realm/realm-dotnet](https://github.com/realm/realm-dotnet) - Realm is a mobile database: a replacemen
-
-*   [Meowv/Blog](https://github.com/Meowv/Blog) - 🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平
-
-*   [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Open Database Reporting Tool (.Net)
-
-*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🐱‍🚀【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和
-
-*   [aspnetrun/run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - Microservices on .Net platforms which us
-
-*   [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
-
-*   [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCom
-
-*   [mongodb/mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - The Official C# .NET Driver for MongoDB
-
-*   [yanghuan/CSharp.lua](https://github.com/yanghuan/CSharp.lua) - The C# to Lua compiler
-
-*   [moonsharp-devs/moonsharp](https://github.com/moonsharp-devs/moonsharp) - An interpreter for the Lua language, wri
-
-*   [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - 你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, js
-
-*   [mr-kelly/KSFramework](https://github.com/mr-kelly/KSFramework) - QQ Group：538722494，KSFramework = KEngine
-
-*   [leinlin/Miku-LuaProfiler](https://github.com/leinlin/Miku-LuaProfiler) -
-
-*   [NLua/NLua](https://github.com/NLua/NLua) - Bridge between Lua and the .NET.
-
-*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for
-
-*   [nea/MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus) - A Notepad++ Plugin to view a Markdown fi
-
-*   [mganss/HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks
-
-*   [NeutroniumCore/Neutronium](https://github.com/NeutroniumCore/Neutronium) - 🚀 Build .NET desktop applications using
-
-*   [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Pr
-
-*   [praeclarum/Ooui](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that b
-
-*   [dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - Import and export general library, suppo
-
-*   [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET li
-
-*   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets pars
-
-*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
-
-*   [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件
-
-*   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文
-
-*   [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA Desktop &
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/T
-
-*   [2881099/csredis](https://github.com/2881099/csredis) - .NET Core or .NET Framework 4.0+ client
-
-*   [AlloyTeam/Rosin](https://github.com/AlloyTeam/Rosin) - A tool for web developers debug mobile p
-
-*   [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 SDK Senparc.Weixin for C#，支持 .NET
-
-*   [XCharts-Team/XCharts](https://github.com/XCharts-Team/XCharts) - A charting and data visualization librar
-
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-*   [30-seconds/30-seconds-of-csharp](https://github.com/30-seconds/30-seconds-of-csharp) - Short C# code snippets for all your deve
-
-*   [atskyline/BingWallpaper](https://github.com/atskyline/BingWallpaper) - 桌面壁纸更换成Bing.com的每日图片
-
-*   [Dustray/BingWallpaperTest](https://github.com/Dustray/BingWallpaperTest) - 获取Bing每日高清壁纸并设置为桌面壁纸的Demo
-
-*   [Dustray/BingWallpaper2](https://github.com/Dustray/BingWallpaper2) - 必应每日壁纸2，基于WPF重构，全新界面
-
-*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
-
-*   [HMBSbige/BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - Bilibili 直播录制
-
-*   [xplusky/MoeLoaderP](https://github.com/xplusky/MoeLoaderP) - 🖼二次元图片下载器 Pics downloader for booru sit
-
-*   [pwj0528/BiliBiliTool](https://github.com/pwj0528/BiliBiliTool) - .Net 5 编写的B站（哔哩哔哩）任务工具，通过GitHub Actions实
-
-*   [kengwang/BiliDuang](https://github.com/kengwang/BiliDuang) - (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV
-
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HD
 
 ## TypeScript
 
@@ -9919,150 +10063,6 @@
 *   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your
 
 *   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
-
-## Ruby
-
-*   [kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using n
-
-*   [slashsbin/styleguide-git-commit-message](https://github.com/slashsbin/styleguide-git-commit-message) - /sBin/StyleGuide/Git/CommitMessage
-
-*   [ruby-grape/grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating RE
-
-*   [learn-co-curriculum/phase-3-orms-mapping-classes-to-database-tables](https://github.com/learn-co-curriculum/phase-3-orms-mapping-classes-to-database-tables) -
-
-*   [learn-co-curriculum/phase-3-methods](https://github.com/learn-co-curriculum/phase-3-methods) -
-
-*   [cloudfoundry/haproxy-boshrelease](https://github.com/cloudfoundry/haproxy-boshrelease) - A BOSH release for haproxy (based on cf-
-
-*   [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pen
-
-*   [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) - A database of vulnerable Ruby Gems
-
-*   [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project
-
-*   [thoughtbot/factory\_bot](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as
-
-*   [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail del
-
-*   [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing
-
-*   [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
-
-*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open sourc
-
-*   [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer f
-
-*   [github/explore](https://github.com/github/explore) - Community-curated topic and collection p
-
-*   [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-
-*   [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mas
-
-*   [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
-
-*   [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatte
-
-*   [TheAlgorithms/Ruby](https://github.com/TheAlgorithms/Ruby) - All algorithms implemented in Ruby
-
-*   [pboling/gitmoji-regex](https://github.com/pboling/gitmoji-regex) - 🔥 A regular expression matching Gitmoji
-
-*   [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidanc
-
-*   [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift li
-
-*   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on yo
-
-*   [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code
-
-*   [fphilipe/premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
-
-*   [premailer/premailer](https://github.com/premailer/premailer) - Preflight for HTML email
-
-*   [thoughtbot/neat](https://github.com/thoughtbot/neat) - A fluid and flexible grid Sass framework
-
-*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
-
-*   [gregnavis/active\_record\_doctor](https://github.com/gregnavis/active_record_doctor) - Identify database issues before they hit
-
-*   [jalkoby/squasher](https://github.com/jalkoby/squasher) - Squasher - squash your old migrations in
-
-*   [plentz/lol\_dba](https://github.com/plentz/lol_dba) - lol\_dba is a small package of rake tasks
-
-*   [magnusvk/counter\_culture](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Ra
-
-*   [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
-
-*   [ruby-grape/grape-swagger](https://github.com/ruby-grape/grape-swagger) - Add OAPI/swagger v2.0 compliant document
-
-*   [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y
-
-*   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-
-*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of every
-
-*   [shoes/shoes4](https://github.com/shoes/shoes4) - Shoes 4 : the next version of Shoes
-
-*   [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while
-
-*   [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react,
-
-*   [shakacode/react\_on\_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails +
-
-*   [rails/webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScrip
-
-*   [palkan/logidze](https://github.com/palkan/logidze) - Database changes log for Rails
-
-*   [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any app
-
-*   [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Fre
-
-*   [mongodb/mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - The Official MongoDB Ruby Driver
-
-*   [mongodb/mongoid](https://github.com/mongodb/mongoid) - The Official Ruby Object Mapper for Mong
-
-*   [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNI
-
-*   [NREL/api-umbrella](https://github.com/NREL/api-umbrella) - Open source API management platform
-
-*   [yorickpeterse/oga](https://github.com/yorickpeterse/oga) - Oga is an XML/HTML parser written in Rub
-
-*   [ifmeorg/ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communic
-
-*   [prat0318/json\_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown,
-
-*   [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make su
-
-*   [gettalong/kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown s
-
-*   [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything\* go
-
-*   [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor
-
-*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Andr
-
-*   [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
-
-*   [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart
-
-*   [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such
-
-*   [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from y
-
-*   [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
-
-*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ru
-
-*   [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distr
-
-*   [octokit/octokit.rb](https://github.com/octokit/octokit.rb) - Ruby toolkit for the GitHub API
-
-*   [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
-
-*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-
-*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's la
 
 ## PLpgSQL
 
