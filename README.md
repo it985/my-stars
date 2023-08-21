@@ -1284,7 +1284,7 @@
 
 *   [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
 
-*   [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly custo
+*   [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly custo
 
 *   [yezihaohao/react-admin](https://github.com/yezihaohao/react-admin) - :sparkles: react-admin system solution :
 
@@ -3886,7 +3886,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -6272,8 +6272,6 @@
 
 *   [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS
 
-*   [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with v
-
 *   [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visua
 
 *   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
@@ -7762,7 +7760,7 @@
 
 *   [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully a
 
-*   [hivedb/hive](https://github.com/hivedb/hive) - Lightweight and blazing fast key-value d
+*   [isar/hive](https://github.com/isar/hive) - Lightweight and blazing fast key-value d
 
 *   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithu
 
@@ -10497,6 +10495,8 @@
 *   [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and
 
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patt
+
+*   [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with v
 
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation mater
 
