@@ -3886,7 +3886,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9614,7 +9614,7 @@
 
 *   [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
 
-*   [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 self
+*   [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 self
 
 *   [adrianhajdin/project\_modern\_ui\_ux\_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) - Master the creation of Modern UX/UI Webs
 
