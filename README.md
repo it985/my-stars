@@ -2066,7 +2066,7 @@
 
 *   [ViktoryiaYatskova/clean-code-s1e1](https://github.com/ViktoryiaYatskova/clean-code-s1e1) -
 
-*   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use S
+*   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful
 
 *   [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of
 
@@ -9852,7 +9852,7 @@
 
 *   [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 
-*   [jakubroztocil/cloudtunes](https://github.com/jakubroztocil/cloudtunes) - Web-based music player for the cloud :cl
+*   [jkbrzt/cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cl
 
 *   [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
 
