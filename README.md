@@ -454,8 +454,6 @@
 
 *   [Lrunlin/blog](https://github.com/Lrunlin/blog) - 使用Next.js+React.js+Koa+Typescript搭建的技术博客
 
-*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking
-
 *   [coder-xiaotian/layzy-cut](https://github.com/coder-xiaotian/layzy-cut) - 基于 Cursor（GPT-3.5）辅助生成的简单抖音视频生成工具。
 
 *   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
@@ -5273,6 +5271,8 @@
 *   [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 
 *   [lifei6671/interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合
+
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking
 
 *   [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和
 
