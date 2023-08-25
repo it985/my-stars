@@ -1116,6 +1116,8 @@
 
 *   [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 
+*   [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solut
+
 *   [CoenWarmer/traymoji](https://github.com/CoenWarmer/traymoji) - Traymoji
 
 *   [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages
@@ -4278,7 +4280,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -7751,8 +7753,6 @@
 *   [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget
 
 *   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Fl
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solut
 
 *   [patrick-fu/GitmojiApp](https://github.com/patrick-fu/GitmojiApp) - A Gitmoji app for macOS, Linux, and Wind
 
