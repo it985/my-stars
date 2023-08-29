@@ -318,7 +318,7 @@
 
 *   [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具(后台服务) & 自动投稿b站
 
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React styling library that j
 
 *   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing
 
@@ -4304,7 +4304,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
