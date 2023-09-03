@@ -4466,7 +4466,7 @@
 
 ## miscellaneous
 
-*   [Dreamer365/topspeed-image-compressor](https://github.com/Dreamer365/topspeed-image-compressor) - 一款速度极快的图片压缩软件
+*   [Dreamer365/topspeed-image-compressor](https://github.com/Dreamer365/topspeed-image-compressor) - 压缩速度极快的图片压缩软件
 
 *   [javayhu/poetry](https://github.com/javayhu/poetry) - china ancient poetry project data
 
