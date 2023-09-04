@@ -1626,7 +1626,7 @@
 
 *   [ivopetkov/responsively-lazy](https://github.com/ivopetkov/responsively-lazy) - Lazy load responsive images
 
-*   [zukahai/Confess-Crush](https://github.com/zukahai/Confess-Crush) - Creating a cute website to send to your
+*   [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your
 
 *   [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part o
 
@@ -6488,7 +6488,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9066,7 +9066,7 @@
 
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with
 
-*   [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) - An attempt to run Python+QT5 application
+*   [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) -  在Docker容器中运行 MDCX，并通过Web界面或远程桌面进行控制。Run
 
 *   [LetTTGACO/yuque-hexo-example](https://github.com/LetTTGACO/yuque-hexo-example) - yuque-hexo配置示例
 
