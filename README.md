@@ -2266,6 +2266,8 @@
 
 *   [idealclover/Friend-Link-House](https://github.com/idealclover/Friend-Link-House) - 翠翠的友链屋 - RSS 聚合友链 Blog 文章
 
+*   [im-zhou/bing](https://github.com/im-zhou/bing) - Bing壁纸接口Bing壁纸API
+
 ## Java
 
 *   [liangtengyu/to\_markdown](https://github.com/liangtengyu/to_markdown) - 一键解析Markdown  目前支持: 微信公众号,知乎,知乎专栏,简书,知否(
@@ -3754,7 +3756,7 @@
 
 *   [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks li
 
-*   [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastr
+*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastruct
 
 *   [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform d
 
@@ -3814,7 +3816,7 @@
 
 *   [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, interna
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal
 
 *   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Na
 
@@ -4393,8 +4395,6 @@
 *   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational Reac
 
 *   [pa001024/genshin-mirror](https://github.com/pa001024/genshin-mirror) -
-
-*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 *   [abelljs/abell](https://github.com/abelljs/abell) - A Static-Site-Generator for JavaScript D
 
@@ -6488,7 +6488,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
