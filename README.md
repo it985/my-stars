@@ -2470,7 +2470,7 @@
 
 *   [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a d
 
-*   [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in
+*   [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework
 
 *   [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 
