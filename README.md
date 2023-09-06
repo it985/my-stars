@@ -2036,7 +2036,7 @@
 
 *   [ObjTube/front-end-roadmap](https://github.com/ObjTube/front-end-roadmap) - Tell you how to learn front end developm
 
-*   [yisainan/web-interview](https://github.com/yisainan/web-interview) - 我是「齐丶先丶森」，公众号「前端面试秘籍」作者，收集整理全网面试题及面试技巧，旨
+*   [yisainan/web-interview](https://github.com/yisainan/web-interview) - 前端面试必备，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！
 
 *   [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
 
@@ -3762,7 +3762,7 @@
 
 *   [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learnin
 
-*   [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT) - BibiGPT v1 · one-Click AI Summary for Au
+*   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Au
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on
 
