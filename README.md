@@ -4084,6 +4084,8 @@
 
 *   [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全
 
+*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applicat
+
 *   [spring-projects/spring-integration-flow](https://github.com/spring-projects/spring-integration-flow) -
 
 *   [spring-projects/eclipse-integration-tcserver](https://github.com/spring-projects/eclipse-integration-tcserver) - Eclipse Integration for vFabric tc Serve
@@ -6562,7 +6564,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9276,8 +9278,6 @@
 
 *   [0voice/cpp\_new\_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 /
 
-*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applicat
-
 *   [wovert/CTutorials](https://github.com/wovert/CTutorials) - C 语言学习教程
 
 *   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git reposi
@@ -9372,7 +9372,7 @@
 
 *   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast fil
 
-*   [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating wel
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating wel
 
 *   [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
 
