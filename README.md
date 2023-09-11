@@ -5538,7 +5538,7 @@
 
 *   [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) - CDC Connectors for Apache Flink®
 
-*   [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
+*   [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a polymorphic database powered b
 
 *   [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, i
 
