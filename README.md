@@ -6142,8 +6142,6 @@
 
 *   [salesforce/WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpu
 
-*   [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser writte
-
 *   [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 
 *   [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is a DevSecOps and vulnerabil
@@ -7093,6 +7091,8 @@
 *   [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetr
 
 *   [Ericsson/codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defe
+
+*   [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser writte
 
 *   [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old databa
 
@@ -10476,8 +10476,6 @@
 
 *   [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get busines
 
-*   [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
-
 *   [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Cloju
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming li
@@ -10599,6 +10597,8 @@
 ## Emacs Lisp
 
 *   [emacs-lsp/dap-mode](https://github.com/emacs-lsp/dap-mode) - Emacs :heart: Debug Adapter Protocol
+
+*   [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 
 *   [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 
