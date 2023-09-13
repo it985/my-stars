@@ -1164,7 +1164,7 @@
 
 *   [pa001024/genshin-mirror](https://github.com/pa001024/genshin-mirror) -
 
-*   [abelljs/abell](https://github.com/abelljs/abell) - A Static-Site-Generator for JavaScript D
+*   [abelljs/abell](https://github.com/abelljs/abell) - A Low-Level, Framework Agnostic, Highly
 
 *   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 
@@ -3082,7 +3082,7 @@
 
 *   [spring-projects/spring-shell](https://github.com/spring-projects/spring-shell) - Spring based shell
 
-*   [spring-projects/spring-data-relational](https://github.com/spring-projects/spring-data-relational) - Spring Data Relational
+*   [spring-projects/spring-data-relational](https://github.com/spring-projects/spring-data-relational) - Spring Data Relational. Home of Spring D
 
 *   [spring-projects/spring-data-commons](https://github.com/spring-projects/spring-data-commons) - Spring Data Commons. Interfaces and code
 
@@ -6564,7 +6564,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
