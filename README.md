@@ -142,7 +142,7 @@
 
 *   [justjavac/how\_many\_doms](https://github.com/justjavac/how_many_doms) - Archives the number of doms in the websi
 
-*   [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Publish siyuan article to supported open
+*   [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Note: This is 0.x for widget.For new plu
 
 *   [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / techniqu
 
@@ -10098,7 +10098,7 @@
 
 *   [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacemen
 
-*   [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant
+*   [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash for iOS was discontinued. Please ch
 
 *   [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that
 
