@@ -5094,7 +5094,7 @@
 
 *   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering
 
-*   [noear/solon](https://github.com/noear/solon) - Java 新的生态：更快、更小、更简单！！！启动快 5 ～ 10 倍；qps 高
+*   [noear/solon](https://github.com/noear/solon) - 🔥 Java 新的生态：更快、更小、更简单！！！启动快 5 ～ 10 倍；qp
 
 *   [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , supp
 
