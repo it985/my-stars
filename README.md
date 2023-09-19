@@ -854,7 +854,7 @@
 
 *   [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for yo
 
-*   [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily
+*   [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 
 *   [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT T
 
@@ -1246,7 +1246,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -4464,7 +4464,7 @@
 
 *   [spring-projects/spring-plugin](https://github.com/spring-projects/spring-plugin) -
 
-*   [spring-projects/spring-data-solr](https://github.com/spring-projects/spring-data-solr) - Spring Data - Apache Solr integration
+*   [spring-attic/spring-data-solr](https://github.com/spring-attic/spring-data-solr) - Spring Data - Apache Solr integration
 
 *   [spring-attic/spring-security-saml](https://github.com/spring-attic/spring-security-saml) - SAML extension for the Spring Security p
 
