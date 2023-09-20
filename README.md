@@ -92,7 +92,7 @@
 
 ## TypeScript
 
-*   [xiaoli1999/moon-card](https://github.com/xiaoli1999/moon-card) - 中秋节贺卡
+*   [xiaoli1999/moon-card](https://github.com/xiaoli1999/moon-card) - 定制中秋节贺卡
 
 *   [tang-yue/threejs-learn](https://github.com/tang-yue/threejs-learn) - learn threejs
 
