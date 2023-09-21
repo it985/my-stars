@@ -580,7 +580,7 @@
 
 *   [jeecgboot/MiniDao](https://github.com/jeecgboot/MiniDao) - An powerful enhanced toolkit of SpringJd
 
-*   [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport) - 🔥「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报
+*   [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport) - 🔥「低代码可视化报表」类似excel操作风格，在线拖拽完成报表设计！功能涵盖:
 
 *   [LianjiaTech/retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supp
 
@@ -738,7 +738,7 @@
 
 *   [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than
 
-*   [lealone/Lealone](https://github.com/lealone/Lealone) - 比 MySQL 快10倍的 OLTP 数据库
+*   [lealone/Lealone](https://github.com/lealone/Lealone) - 比 MySQL 快10倍的 OLTP 关系数据库
 
 *   [xerial/sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) - SQLite JDBC Driver
 
@@ -2694,7 +2694,7 @@
 
 *   [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 
-*   [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines wi
+*   [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with
 
 *   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 
@@ -2832,7 +2832,7 @@
 
 *   [marcosfede/algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures pr
 
-*   [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal
+*   [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multim
 
 *   [jab/bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Py
 
@@ -3234,7 +3234,7 @@
 
 *   [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for
 
-*   [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networ
+*   [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networ
 
 *   [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Ap
 
