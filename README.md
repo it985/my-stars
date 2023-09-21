@@ -2344,7 +2344,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -8642,7 +8642,7 @@
 
 *   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryptio
 
-*   [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous
+*   [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer plat
 
 *   [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and p
 
@@ -9125,6 +9125,8 @@
 *   [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in math
 
 *   [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course wher
+
+*   [hlldz/Phant0m](https://github.com/hlldz/Phant0m) - Windows Event Log Killer
 
 *   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试
 
@@ -10269,8 +10271,6 @@
 *   [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enume
 
 *   [0x6d69636b/windows\_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening set
-
-*   [hlldz/Phant0m](https://github.com/hlldz/Phant0m) - Windows Event Log Killer
 
 *   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows
 
