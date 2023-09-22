@@ -7370,7 +7370,7 @@
 
 *   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
 
-*   [SFatTiger/TigerBlog](https://github.com/SFatTiger/TigerBlog) - 基于Bootstrap5为前端，Django框架为后端的个人博客系统
+*   [panghu123321/TigerBlog](https://github.com/panghu123321/TigerBlog) - 基于Bootstrap5为前端，Django框架为后端的个人博客系统
 
 *   [yn197/k8s-study](https://github.com/yn197/k8s-study) - k8s学习笔记
 
