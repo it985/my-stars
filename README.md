@@ -2386,7 +2386,7 @@
 
 *   [mouday/wallpaper-database](https://github.com/mouday/wallpaper-database) - wallpaper database
 
-*   [AnkiKong/Y2B](https://github.com/AnkiKong/Y2B) - 把油管上的视频转投到哔哩哔哩，支持CC字幕
+*   [ankikong/Y2B](https://github.com/ankikong/Y2B) - 把油管上的视频转投到哔哩哔哩，支持CC字幕
 
 *   [INSIinc/Youtube2Bili](https://github.com/INSIinc/Youtube2Bili) - 你是否是每天都在等待你最喜欢的YouTuber发布新视频？你想把他们的精彩内容分
 
