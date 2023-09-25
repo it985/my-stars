@@ -8278,7 +8278,7 @@
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in G
 
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM chat
 
 *   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jw
 
