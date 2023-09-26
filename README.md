@@ -2580,6 +2580,8 @@
 
 *   [doocs/data-structure-and-algorithm](https://github.com/doocs/data-structure-and-algorithm) - 😍 学习数据结构与算法，夯实编程基础
 
+*   [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming
+
 ## TypeScript
 
 *   [xiaoli1999/moon-card](https://github.com/xiaoli1999/moon-card) - 定制中秋节贺卡
@@ -4853,8 +4855,6 @@
 *   [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ) -
 
 *   [learnhard-cn/free\_proxy\_ss](https://github.com/learnhard-cn/free_proxy_ss) - 分享免费梯子/科学上网/代理/shadowsocks(SS)/Shadowsoc
-
-*   [colatiger/v2ray-nodes](https://github.com/colatiger/v2ray-nodes) - v2ray,shadowrocket节点
 
 *   [openRunner/clash-freenode](https://github.com/openRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪
 
@@ -8392,8 +8392,6 @@
 
 *   [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern
 
-*   [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events,
-
 *   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-nat
 
 *   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, di
@@ -9093,6 +9091,8 @@
 *   [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in
 
 *   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
+
+*   [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events,
 
 *   [DaZiYuan/livewallpaper](https://github.com/DaZiYuan/livewallpaper) - A tiny win10 (dynamic) wallpaper changer
 
@@ -10546,7 +10546,7 @@
 
 *   [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Change
 
-*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (< 1 KB
+*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB
 
 ## Pascal
 
