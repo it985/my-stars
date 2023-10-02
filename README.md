@@ -6229,7 +6229,7 @@
 
 *   [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks li
 
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastruct
+*   [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastr
 
 *   [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform d
 
