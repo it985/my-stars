@@ -4495,7 +4495,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -7051,7 +7051,7 @@
 
 *   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
-*   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 唷，找本堂主有何贵干呀？
+*   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - Windows 平台下的超级多合一的原神工具箱
 
 *   [Harlan-H/M3u8Downloader\_H](https://github.com/Harlan-H/M3u8Downloader_H) - \[.net6]m3u8下载器,功能强大,多线程,多任务,支持aes-128-cb
 
