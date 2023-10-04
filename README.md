@@ -3001,8 +3001,6 @@
 
 *   [LittleControl/AutoNeteaseMusic](https://github.com/LittleControl/AutoNeteaseMusic) - 网易云音乐自动打卡刷每日推荐歌曲及歌单云函数,助力每一个村民的LV10的梦想
 
-*   [develon2015/Youtube-dl-REST](https://github.com/develon2015/Youtube-dl-REST) - Youtube & BiliBili 视频在线解析下载 -- Website f
-
 *   [yangrunkang/upupor](https://github.com/yangrunkang/upupor) - upupor网站开源,使用更加合理的方式处理内容
 
 *   [Finger36/genshin-helper](https://github.com/Finger36/genshin-helper) - 原神米游社自动签到
@@ -5259,7 +5257,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -6697,7 +6695,7 @@
 
 *   [wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram) - 小程序WeUI组件库
 
-*   [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
+*   [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
 
 *   [openkraken/kraken](https://github.com/openkraken/kraken) - A web standards-compliant, high-performa
 
@@ -8521,6 +8519,8 @@
 
 *   [wardseptember/notes](https://github.com/wardseptember/notes) - 算法刷题指南、Java多线程与高并发、Java集合源码、Spring boot、
 
+*   [develon2015/Youtube-dl-REST](https://github.com/develon2015/Youtube-dl-REST) - Youtube & BiliBili 视频在线解析下载 -- Website f
+
 *   [3kanAlpha/hololive-asmr](https://github.com/3kanAlpha/hololive-asmr) - ホロライブのASMR配信検索サービス
 
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
@@ -9403,7 +9403,7 @@
 
 *   [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a b
 
-*   [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free open-source game cheat for Counter-
+*   [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Count
 
 *   [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions
 
@@ -9475,7 +9475,7 @@
 
 *   [SOCI/soci](https://github.com/SOCI/soci) - Official repository of the SOCI - The C+
 
-*   [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework
+*   [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framew
 
 *   [plv8/plv8](https://github.com/plv8/plv8) -  V8 Engine Javascript Procedural Languag
 
