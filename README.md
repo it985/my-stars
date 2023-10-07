@@ -3319,7 +3319,7 @@
 
 *   [Tyson0314/Java-learning](https://github.com/Tyson0314/Java-learning) - Java相关知识总结，包括Java基础、MySQL、Springboot、myb
 
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费科学上网、免费翻墙、fanqiang、VPN、一键翻墙浏览器
 
 *   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开
 
@@ -5259,7 +5259,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9825,7 +9825,7 @@
 
 *   [zhaoo/hexo-theme-zhaoo](https://github.com/zhaoo/hexo-theme-zhaoo) - 🐳    A simple theme for Hexo
 
-*   [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
+*   [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 
 *   [heroku/node-js-getting-started](https://github.com/heroku/node-js-getting-started) - Getting Started with Node on Heroku
 
