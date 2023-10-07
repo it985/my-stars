@@ -5259,7 +5259,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -5269,7 +5269,7 @@
 
 *   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which us
 
-*   [jackhawks/telegram-groups](https://github.com/jackhawks/telegram-groups) - 经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更
+*   [jackhawks/telegram-groups](https://github.com/jackhawks/telegram-groups) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您
 
 *   [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访
 
@@ -8987,7 +8987,7 @@
 
 ## Jupyter Notebook
 
-*   [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的
+*   [phodal/understand-prompt](https://github.com/phodal/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的
 
 *   [wanghao221/python-mini-projects](https://github.com/wanghao221/python-mini-projects) - 一百多个简单的 Python 迷你项目，可提高你的 Python 技能。
 
