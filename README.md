@@ -3719,7 +3719,7 @@
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in G
 
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM chat
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat
 
 *   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jw
 
@@ -9685,7 +9685,7 @@
 
 *   [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that
 
-*   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Drop-in Bootstrap replacement, fully cus
+*   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-
 
 *   [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CS
 
