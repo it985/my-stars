@@ -7081,7 +7081,7 @@
 
 *   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it sup
 
-*   [teambit/bit](https://github.com/teambit/bit) - A tool for composable software developme
+*   [teambit/bit](https://github.com/teambit/bit) - A toolchain for development of composabl
 
 *   [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI
 
