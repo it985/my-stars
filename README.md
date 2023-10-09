@@ -1331,7 +1331,7 @@
 
 *   [c8r/x0](https://github.com/c8r/x0) - Document & develop React components with
 
-*   [bodyno/react-starter-kit](https://github.com/bodyno/react-starter-kit) - 完美使用 React, Redux, and React-Router！超好用的
+*   [bodyno/react-starter-kit](https://github.com/bodyno/react-starter-kit) - Start your first React App. By using Rea
 
 *   [liangxiaojuan/vue-todos](https://github.com/liangxiaojuan/vue-todos) - vue最新实战项目教程，从零开始，一步一个脚印,循序渐进。跟着我一起学习vue吧
 
@@ -3731,7 +3731,7 @@
 
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
-*   [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) - Golang 算法竞赛模板库 | Solutions to Codeforces
+*   [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
 
 *   [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML
 
@@ -5259,7 +5259,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
