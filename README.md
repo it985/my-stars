@@ -149,7 +149,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -732,6 +732,8 @@
 *   [nitely/Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python based forum bu
 
 *   [rpkilby/jsonfield](https://github.com/rpkilby/jsonfield) - A reusable Django model field for storin
+
+*   [wq/django-rest-pandas](https://github.com/wq/django-rest-pandas) - 📊📈 Serves up Pandas dataframes via the
 
 *   [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) - A library for event sourcing in Python.
 
@@ -4686,8 +4688,6 @@
 *   [voilet/cmdb](https://github.com/voilet/cmdb) - cmdb saltstack
 
 *   [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured ope
-
-*   [wq/django-rest-pandas](https://github.com/wq/django-rest-pandas) - 📊📈 Serves up Pandas dataframes via the
 
 *   [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that
 
