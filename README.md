@@ -4341,7 +4341,7 @@
 
 *   [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from D
 
-*   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publ
+*   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publis
 
 *   [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source hea
 
