@@ -25,9 +25,9 @@
 *   [Dockerfile](#dockerfile)
 *   [Standard ML](#standard-ml)
 *   [Swift](#swift)
-*   [C++](#c-2)
 *   [Handlebars](#handlebars)
 *   [CSS](#css)
+*   [C++](#c-2)
 *   [EJS](#ejs)
 *   [Stylus](#stylus)
 *   [AngelScript](#angelscript)
@@ -1257,7 +1257,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -3241,7 +3241,7 @@
 
 *   [callicoder/spring-security-react-ant-design-polls-app](https://github.com/callicoder/spring-security-react-ant-design-polls-app) - Full Stack Polls App built using Spring
 
-*   [jdbi/jdbi](https://github.com/jdbi/jdbi) - jdbi is designed to provide convenient t
+*   [jdbi/jdbi](https://github.com/jdbi/jdbi) - The Jdbi library provides convenient, id
 
 *   [speedment/speedment](https://github.com/speedment/speedment) - Speedment is a Stream ORM Java Toolkit a
 
@@ -7705,6 +7705,8 @@
 
 *   [ovenx/github-hosts](https://github.com/ovenx/github-hosts) - 自动获取 github 相关域名的 ip 地址，加速国内访问
 
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that suppo
+
 ## Shell
 
 *   [andyzhshg/syno-acme](https://github.com/andyzhshg/syno-acme) - 通过acme协议更新群晖HTTPS泛域名证书的自动脚本
@@ -8300,8 +8302,6 @@
 *   [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to th
 
 *   [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s h
-
-*   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of thi
 
 *   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid
 
@@ -9245,9 +9245,261 @@
 
 *   [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
 
-## C++
+## Handlebars
 
-*   [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for
+*   [gnu4cn/ccna60d](https://github.com/gnu4cn/ccna60d) - 60天通过思科认证的网络工程师考试
+
+*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实
+
+*   [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet
+
+## CSS
+
+*   [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS &
+
+*   [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blog
+
+*   [zhheo/HeoMusic](https://github.com/zhheo/HeoMusic) - 一个基于Aplayer和MetingJS的静态音乐播放器
+
+*   [497983606/wangyesheji](https://github.com/497983606/wangyesheji) -
+
+*   [LSD08KM/115RenamePlus](https://github.com/LSD08KM/115RenamePlus) - 115日本影片重命名脚本
+
+*   [lovefc/china\_school\_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
+
+*   [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS C
+
+*   [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  ht
+
+*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+
+*   [yakimka/python\_interview\_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на поз
+
+*   [nicehorse06/se-job](https://github.com/nicehorse06/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到
+
+*   [0xl2oot/webstack-jekyll](https://github.com/0xl2oot/webstack-jekyll) - :tada: 静态响应式网址导航网站 Webstack - Jekyll 版
+
+*   [Apa7-zero/gridea-theme-lin](https://github.com/Apa7-zero/gridea-theme-lin) -
+
+*   [5ime/Index](https://github.com/5ime/Index) - 🏠 我的个人主页,引导页
+
+*   [mulingyuer/Typecho\_Theme\_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
+
+*   [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、Re
+
+*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
+
+*   [spring-projects/spring-webflow-samples](https://github.com/spring-projects/spring-webflow-samples) -
+
+*   [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
+
+*   [itorr/fontfont](https://github.com/itorr/fontfont) - 🤖「字符字生成器」字符生成字符字工具
+
+*   [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resu
+
+*   [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme f
+
+*   [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & pa
+
+*   [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curri
+
+*   [falnatsheh/MarkdownView](https://github.com/falnatsheh/MarkdownView) - MarkdownView is an Android webview with
+
+*   [webkul/csspin](https://github.com/webkul/csspin) - CSS Spinners and Loaders - Modular, Cust
+
+*   [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
+
+*   [peduarte/wallop](https://github.com/peduarte/wallop) - :no\_entry: currently unmaintained :no\_en
+
+*   [cheeaun/hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
+
+*   [Chalarangelo/mocka](https://github.com/Chalarangelo/mocka) - Simple, elegant content placeholder
+
+*   [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
+
+*   [marmelab/universal.css](https://github.com/marmelab/universal.css) - The only CSS you will ever need
+
+*   [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweig
+
+*   [chrisnager/ungrid](https://github.com/chrisnager/ungrid) - ungrid - the simplest responsive css gri
+
+*   [devlint/gridlex](https://github.com/devlint/gridlex) - Just a CSS Flexbox Grid System
+
+*   [rohitkrai03/pills](https://github.com/rohitkrai03/pills) - A simple responsive CSS Grid for humans.
+
+*   [thoughtbot/refills](https://github.com/thoughtbot/refills) - \[no longer maintained]
+
+*   [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
+
+*   [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 self
+
+*   [adrianhajdin/project\_modern\_ui\_ux\_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) - Master the creation of Modern UX/UI Webs
+
+*   [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by communit
+
+*   [Martz90/vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
+
+*   [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
+
+*   [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple
+
+*   [t32k/stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS s
+
+*   [filipelinhares/ress](https://github.com/filipelinhares/ress) - 🚿 A modern CSS reset
+
+*   [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css frame
+
+*   [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
+
+*   [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
+
+*   [cognitom/paper-css](https://github.com/cognitom/paper-css) - Paper CSS for happy printing
+
+*   [webkul/micron](https://github.com/webkul/micron) - a \[μ] microInteraction library built wit
+
+*   [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradien
+
+*   [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CS
+
+*   [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that
+
+*   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-
+
+*   [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CS
+
+*   [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
+
+*   [Daemonite/material](https://github.com/Daemonite/material) - Material Design for Bootstrap 4
+
+*   [jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no
+
+*   [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes
+
+*   [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the
+
+*   [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web
+
+*   [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
+
+*   [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
+
+*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
+
+*   [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Fun
+
+*   [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician
+
+*   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful re
+
+*   [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for express
+
+*   [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to ma
+
+*   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your love
+
+*   [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all coun
+
+*   [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
+
+*   [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+
+*   [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS,
+
+*   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of thi
+
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+
+*   [vitorfs/bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
+
+*   [kmmbvnr/django-material](https://github.com/kmmbvnr/django-material) - Material Design for Django
+
+*   [beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) - RxSwift 中文文档
+
+*   [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful AP
+
+*   [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and docum
+
+*   [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: \[译] scikit-learn（sklearn） 中文文档
+
+*   [ethanhs/WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs tha
+
+*   [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin
+
+*   [rmusser01/Infosec\_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That D
+
+*   [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a
+
+*   [codyhouse/codyhouse-framework](https://github.com/codyhouse/codyhouse-framework) - A lightweight front-end framework for bu
+
+*   [filamentgroup/select-css](https://github.com/filamentgroup/select-css) - Cross-browser styles for consistent sele
+
+*   [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal
+
+*   [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
+
+*   [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Com
+
+*   [DesignRevision/shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstr
+
+*   [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox
+
+*   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing person
+
+*   [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and reso
+
+*   [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
+
+*   [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Elect
+
+*   [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
+
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+
+*   [muan/emoji](https://github.com/muan/emoji) - :love\_letter: Find the emoji that echoes
+
+*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+
+*   [YJLAugus/cnblogs-theme-simple-color](https://github.com/YJLAugus/cnblogs-theme-simple-color) - 一个简约极致色彩的博客园主题
+
+*   [Zou-Wang/CNblogs-Theme-Sakura](https://github.com/Zou-Wang/CNblogs-Theme-Sakura) - 基于Sakura美化的博客园样式
+
+*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  Simple
+
+*   [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
+
+*   [QiShaoXuan/css\_tricks](https://github.com/QiShaoXuan/css_tricks) - Some CSS tricks - 一些 CSS 常用样式
+
+*   [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+
+*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators anima
+
+*   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
+
+*   [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers
+
+*   [wentin/cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dep
+
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animat
+
+*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate t
+
+*   [MilenaCarecho/30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) - Desafio criar 30 mini projetos utilizand
+
+*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archi
+
+*   [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your dev
+
+*   [Dreamer-Paul/Sweet](https://github.com/Dreamer-Paul/Sweet) - 🌟 一个简洁的个人首页，可以调用博客最新文章
+
+*   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.ne
+
+## C++
 
 *   [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Obj
 
@@ -9568,258 +9820,6 @@
 *   [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 
 *   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular o
-
-## Handlebars
-
-*   [gnu4cn/ccna60d](https://github.com/gnu4cn/ccna60d) - 60天通过思科认证的网络工程师考试
-
-*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实
-
-*   [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet
-
-## CSS
-
-*   [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS &
-
-*   [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blog
-
-*   [zhheo/HeoMusic](https://github.com/zhheo/HeoMusic) - 一个基于Aplayer和MetingJS的静态音乐播放器
-
-*   [497983606/wangyesheji](https://github.com/497983606/wangyesheji) -
-
-*   [LSD08KM/115RenamePlus](https://github.com/LSD08KM/115RenamePlus) - 115日本影片重命名脚本
-
-*   [lovefc/china\_school\_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
-
-*   [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS C
-
-*   [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  ht
-
-*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-
-*   [yakimka/python\_interview\_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на поз
-
-*   [nicehorse06/se-job](https://github.com/nicehorse06/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到
-
-*   [0xl2oot/webstack-jekyll](https://github.com/0xl2oot/webstack-jekyll) - :tada: 静态响应式网址导航网站 Webstack - Jekyll 版
-
-*   [Apa7-zero/gridea-theme-lin](https://github.com/Apa7-zero/gridea-theme-lin) -
-
-*   [5ime/Index](https://github.com/5ime/Index) - 🏠 我的个人主页,引导页
-
-*   [mulingyuer/Typecho\_Theme\_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
-
-*   [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、Re
-
-*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
-
-*   [spring-projects/spring-webflow-samples](https://github.com/spring-projects/spring-webflow-samples) -
-
-*   [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
-
-*   [itorr/fontfont](https://github.com/itorr/fontfont) - 🤖「字符字生成器」字符生成字符字工具
-
-*   [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resu
-
-*   [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme f
-
-*   [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
-
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & pa
-
-*   [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curri
-
-*   [falnatsheh/MarkdownView](https://github.com/falnatsheh/MarkdownView) - MarkdownView is an Android webview with
-
-*   [webkul/csspin](https://github.com/webkul/csspin) - CSS Spinners and Loaders - Modular, Cust
-
-*   [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
-
-*   [peduarte/wallop](https://github.com/peduarte/wallop) - :no\_entry: currently unmaintained :no\_en
-
-*   [cheeaun/hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
-
-*   [Chalarangelo/mocka](https://github.com/Chalarangelo/mocka) - Simple, elegant content placeholder
-
-*   [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
-
-*   [marmelab/universal.css](https://github.com/marmelab/universal.css) - The only CSS you will ever need
-
-*   [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweig
-
-*   [chrisnager/ungrid](https://github.com/chrisnager/ungrid) - ungrid - the simplest responsive css gri
-
-*   [devlint/gridlex](https://github.com/devlint/gridlex) - Just a CSS Flexbox Grid System
-
-*   [rohitkrai03/pills](https://github.com/rohitkrai03/pills) - A simple responsive CSS Grid for humans.
-
-*   [thoughtbot/refills](https://github.com/thoughtbot/refills) - \[no longer maintained]
-
-*   [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
-
-*   [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 self
-
-*   [adrianhajdin/project\_modern\_ui\_ux\_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) - Master the creation of Modern UX/UI Webs
-
-*   [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by communit
-
-*   [Martz90/vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
-
-*   [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
-
-*   [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple
-
-*   [t32k/stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS s
-
-*   [filipelinhares/ress](https://github.com/filipelinhares/ress) - 🚿 A modern CSS reset
-
-*   [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css frame
-
-*   [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
-
-*   [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
-
-*   [cognitom/paper-css](https://github.com/cognitom/paper-css) - Paper CSS for happy printing
-
-*   [webkul/micron](https://github.com/webkul/micron) - a \[μ] microInteraction library built wit
-
-*   [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradien
-
-*   [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CS
-
-*   [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that
-
-*   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-
-
-*   [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CS
-
-*   [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
-
-*   [Daemonite/material](https://github.com/Daemonite/material) - Material Design for Bootstrap 4
-
-*   [jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no
-
-*   [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes
-
-*   [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the
-
-*   [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web
-
-*   [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
-
-*   [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
-
-*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
-
-*   [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Fun
-
-*   [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician
-
-*   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful re
-
-*   [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for express
-
-*   [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to ma
-
-*   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your love
-
-*   [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all coun
-
-*   [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
-
-*   [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
-
-*   [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS,
-
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-
-*   [vitorfs/bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
-
-*   [kmmbvnr/django-material](https://github.com/kmmbvnr/django-material) - Material Design for Django
-
-*   [beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) - RxSwift 中文文档
-
-*   [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful AP
-
-*   [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and docum
-
-*   [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: \[译] scikit-learn（sklearn） 中文文档
-
-*   [ethanhs/WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs tha
-
-*   [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin
-
-*   [rmusser01/Infosec\_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That D
-
-*   [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a
-
-*   [codyhouse/codyhouse-framework](https://github.com/codyhouse/codyhouse-framework) - A lightweight front-end framework for bu
-
-*   [filamentgroup/select-css](https://github.com/filamentgroup/select-css) - Cross-browser styles for consistent sele
-
-*   [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal
-
-*   [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
-
-*   [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Com
-
-*   [DesignRevision/shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstr
-
-*   [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox
-
-*   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing person
-
-*   [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and reso
-
-*   [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
-
-*   [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Elect
-
-*   [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
-
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-
-*   [muan/emoji](https://github.com/muan/emoji) - :love\_letter: Find the emoji that echoes
-
-*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-
-*   [YJLAugus/cnblogs-theme-simple-color](https://github.com/YJLAugus/cnblogs-theme-simple-color) - 一个简约极致色彩的博客园主题
-
-*   [Zou-Wang/CNblogs-Theme-Sakura](https://github.com/Zou-Wang/CNblogs-Theme-Sakura) - 基于Sakura美化的博客园样式
-
-*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  Simple
-
-*   [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-
-*   [QiShaoXuan/css\_tricks](https://github.com/QiShaoXuan/css_tricks) - Some CSS tricks - 一些 CSS 常用样式
-
-*   [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
-
-*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators anima
-
-*   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
-
-*   [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers
-
-*   [wentin/cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dep
-
-*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animat
-
-*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate t
-
-*   [MilenaCarecho/30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) - Desafio criar 30 mini projetos utilizand
-
-*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archi
-
-*   [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your dev
-
-*   [Dreamer-Paul/Sweet](https://github.com/Dreamer-Paul/Sweet) - 🌟 一个简洁的个人首页，可以调用博客最新文章
-
-*   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.ne
 
 ## EJS
 
