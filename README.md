@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-*   [C++](#c)
 *   [JavaScript](#javascript)
+*   [C++](#c)
 *   [Java](#java)
 *   [Python](#python)
 *   [PHP](#php)
@@ -84,173 +84,9 @@
 *   [Objective-C++](#objective-c-1)
 *   [Hack](#hack)
 
-## C++
-
-*   [mandliya/algorithms\_and\_data\_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &
-
-*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方
-
-*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
-
-*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cl
-
-*   [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
-
-*   [sumitsojha88/Placement-Preparation](https://github.com/sumitsojha88/Placement-Preparation) - Complete roadmap for your placement or i
-
-*   [fnplus/interview-techdev-guide](https://github.com/fnplus/interview-techdev-guide) - This repository contains curated technic
-
-*   [Nabagata/interview-prep](https://github.com/Nabagata/interview-prep) - Everything you need to know to get the j
-
-*   [rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes) - 【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握
-
-*   [FazeelUsmani/Amazon-SDE-Preparation](https://github.com/FazeelUsmani/Amazon-SDE-Preparation) - This repository includes all the intervi
-
-*   [knightsj/awesome-algorithm-question-solution](https://github.com/knightsj/awesome-algorithm-question-solution) - LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法的实现
-
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
-
-*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray
-
-*   [0voice/introduce\_c-cpp\_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游
-
-*   [0voice/cpp\_new\_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 /
-
-*   [wovert/CTutorials](https://github.com/wovert/CTutorials) - C 语言学习教程
-
-*   [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank) - This repository contains all the popular
-
-*   [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) - This repo contains links of resources, t
-
-*   [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms) - The best library for implementation of a
-
-*   [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles fo
-
-*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in math
-
-*   [selfboot/CS\_Offer](https://github.com/selfboot/CS_Offer) - 计算机学科基础知识和主流编程语言相关内容的总结
-
-*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLi
-
-*   [jainaman224/Algo\_Ds\_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection
-
-*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired b
-
-*   [ION28/BLUESPAWN](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to em
-
-*   [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit) - Windows Explorer Extension to Operate Gi
-
-*   [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspir
-
-*   [qcad/qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a
-
-*   [google/lullaby](https://github.com/google/lullaby) - A collection of C++ libraries designed t
-
-*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program
-
-*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that do
-
-*   [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA
-
-*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast fil
-
-*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating wel
-
-*   [eranif/codelite](https://github.com/eranif/codelite) - A multi purpose IDE specialized in C/C++
-
-*   [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) - A sugared version of RottenPotatoNG, wit
-
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
-*   [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Inte
-
-*   [RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Change C++ code at runtime
-
-*   [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ libr
-
-*   [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
-
-*   [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual L
-
-*   [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a b
-
-*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows
-
-*   [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
-
-*   [anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource) - RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS
-
-*   [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD
-
-*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automati
-
-*   [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
-
-*   [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for
-
-*   [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs,
-
-*   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphica
-
-*   [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed
-
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-
-
-*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value sto
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. T
-
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerfu
-
-*   [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no co
-
-*   [SOCI/soci](https://github.com/SOCI/soci) - Official repository of the SOCI - The C+
-
-*   [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framew
-
-*   [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in
-
-*   [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC
-
-*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-
-*   [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that i
-
-*   [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
-
-*   [spring/spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game
-
-*   [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Pyt
-
-*   [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripti
-
-*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop
-
-*   [aliakseis/LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
-
-*   [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous
-
-*   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the origina
-
-*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
-
-*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simpl
-
-*   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
-
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita
-
-*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
-
-*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular o
-
 ## JavaScript
+
+*   [tw93/cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese) - 🚴 炫酷的中文版本的 git commit emoji  🐛🎨✨ 🔥💄
 
 *   [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format co
 
@@ -2413,6 +2249,172 @@
 *   [anaer/Sub](https://github.com/anaer/Sub) - 自用clash订阅链接
 
 *   [stevenjoezhang/bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 哔哩哔哩视频下载器 | Yet another video downloader
+
+## C++
+
+*   [mandliya/algorithms\_and\_data\_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &
+
+*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方
+
+*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
+
+*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cl
+
+*   [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
+
+*   [sumitsojha88/Placement-Preparation](https://github.com/sumitsojha88/Placement-Preparation) - Complete roadmap for your placement or i
+
+*   [fnplus/interview-techdev-guide](https://github.com/fnplus/interview-techdev-guide) - This repository contains curated technic
+
+*   [Nabagata/interview-prep](https://github.com/Nabagata/interview-prep) - Everything you need to know to get the j
+
+*   [rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes) - 【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握
+
+*   [FazeelUsmani/Amazon-SDE-Preparation](https://github.com/FazeelUsmani/Amazon-SDE-Preparation) - This repository includes all the intervi
+
+*   [knightsj/awesome-algorithm-question-solution](https://github.com/knightsj/awesome-algorithm-question-solution) - LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法的实现
+
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+
+*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray
+
+*   [0voice/introduce\_c-cpp\_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游
+
+*   [0voice/cpp\_new\_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 /
+
+*   [wovert/CTutorials](https://github.com/wovert/CTutorials) - C 语言学习教程
+
+*   [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank) - This repository contains all the popular
+
+*   [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) - This repo contains links of resources, t
+
+*   [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms) - The best library for implementation of a
+
+*   [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles fo
+
+*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in math
+
+*   [selfboot/CS\_Offer](https://github.com/selfboot/CS_Offer) - 计算机学科基础知识和主流编程语言相关内容的总结
+
+*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLi
+
+*   [jainaman224/Algo\_Ds\_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection
+
+*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired b
+
+*   [ION28/BLUESPAWN](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to em
+
+*   [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit) - Windows Explorer Extension to Operate Gi
+
+*   [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspir
+
+*   [qcad/qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a
+
+*   [google/lullaby](https://github.com/google/lullaby) - A collection of C++ libraries designed t
+
+*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that do
+
+*   [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA
+
+*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast fil
+
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating wel
+
+*   [eranif/codelite](https://github.com/eranif/codelite) - A multi purpose IDE specialized in C/C++
+
+*   [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) - A sugared version of RottenPotatoNG, wit
+
+*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+
+*   [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Inte
+
+*   [RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Change C++ code at runtime
+
+*   [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ libr
+
+*   [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
+
+*   [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual L
+
+*   [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a b
+
+*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows
+
+*   [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
+
+*   [anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource) - RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS
+
+*   [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD
+
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automati
+
+*   [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
+
+*   [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for
+
+*   [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs,
+
+*   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphica
+
+*   [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed
+
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-
+
+*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value sto
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. T
+
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerfu
+
+*   [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no co
+
+*   [SOCI/soci](https://github.com/SOCI/soci) - Official repository of the SOCI - The C+
+
+*   [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framew
+
+*   [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in
+
+*   [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC
+
+*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+
+*   [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that i
+
+*   [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
+
+*   [spring/spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game
+
+*   [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Pyt
+
+*   [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripti
+
+*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop
+
+*   [aliakseis/LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
+
+*   [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous
+
+*   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the origina
+
+*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
+
+*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simpl
+
+*   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
+
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita
+
+*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+
+*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular o
 
 ## Java
 
@@ -5127,8 +5129,6 @@
 *   [webVueBlog/bing-wallpaper](https://github.com/webVueBlog/bing-wallpaper) - 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（
 
 *   [Anonymity94/bing-daily-wallpaper](https://github.com/Anonymity94/bing-daily-wallpaper) - 使用 deno、Github Actions 自动抓取 Bing 搜索每天的首页
-
-*   [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空
 
 *   [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS,
 
