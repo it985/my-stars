@@ -164,7 +164,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -3600,15 +3600,15 @@
 
 *   [Snailclimb/JavaGuide-Interview](https://github.com/Snailclimb/JavaGuide-Interview) - JavaGuide面试突击版
 
-*   [30-seconds/twitter-bot](https://github.com/30-seconds/twitter-bot) - The Twitter bot for the 30-seconds organ
+*   [Chalarangelo/twitter-bot](https://github.com/Chalarangelo/twitter-bot) - The Twitter bot for the 30-seconds organ
 
-*   [30-seconds/integration-tools](https://github.com/30-seconds/integration-tools) - Integration tooling for 30-seconds proje
+*   [Chalarangelo/integration-tools](https://github.com/Chalarangelo/integration-tools) - Integration tooling for 30-seconds proje
 
-*   [30-seconds/markdown-builder](https://github.com/30-seconds/markdown-builder) - 1kb Markdown builder for Node.js
+*   [Chalarangelo/markdown-builder](https://github.com/Chalarangelo/markdown-builder) - 1kb Markdown builder for Node.js
 
-*   [30-seconds/30-seconds-web](https://github.com/30-seconds/30-seconds-web) - Website infrastructure for 30-seconds pr
+*   [Chalarangelo/30-seconds-web](https://github.com/Chalarangelo/30-seconds-web) - Website infrastructure for 30-seconds pr
 
-*   [30-seconds/30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react) - Short React code snippets for all your d
+*   [Chalarangelo/30-seconds-of-react](https://github.com/Chalarangelo/30-seconds-of-react) - Short React code snippets for all your d
 
 *   [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview
 
@@ -5688,7 +5688,7 @@
 
 *   [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and pred
 
-*   [30-seconds/30-seconds-of-golang](https://github.com/30-seconds/30-seconds-of-golang) - Short Golang code snippets for all your
+*   [Chalarangelo/30-seconds-of-golang](https://github.com/Chalarangelo/30-seconds-of-golang) - Short Golang code snippets for all your
 
 *   [zhengchun/bingwallpaper](https://github.com/zhengchun/bingwallpaper) - Bing每日壁纸爬虫。
 
@@ -8450,7 +8450,7 @@
 
 *   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
-*   [30-seconds/30-seconds-of-csharp](https://github.com/30-seconds/30-seconds-of-csharp) - Short C# code snippets for all your deve
+*   [Chalarangelo/30-seconds-of-csharp](https://github.com/Chalarangelo/30-seconds-of-csharp) - Short C# code snippets for all your deve
 
 *   [atskyline/BingWallpaper](https://github.com/atskyline/BingWallpaper) - 桌面壁纸更换成Bing.com的每日图片
 
@@ -9324,7 +9324,7 @@
 
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build
 
-*   [30-seconds/30-seconds-of-dart](https://github.com/30-seconds/30-seconds-of-dart) - Short Dart code snippets for all your de
+*   [Chalarangelo/30-seconds-of-dart](https://github.com/Chalarangelo/30-seconds-of-dart) - Short Dart code snippets for all your de
 
 *   [KagurazakaHanabi/dailypics](https://github.com/KagurazakaHanabi/dailypics) - 图鉴日图 - 精选壁纸推荐
 
