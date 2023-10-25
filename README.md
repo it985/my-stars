@@ -4512,7 +4512,7 @@
 
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternativ
 
-*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Fo
+*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 
 *   [mongoosastic/mongoosastic](https://github.com/mongoosastic/mongoosastic) - Index Mongoose models into elasticsearch
 
