@@ -164,7 +164,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -1386,7 +1386,7 @@
 
 *   [DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企
 
-*   [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your
+*   [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your
 
 *   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出
 
@@ -3612,7 +3612,7 @@
 
 *   [Chalarangelo/30-seconds-of-react](https://github.com/Chalarangelo/30-seconds-of-react) - Short React code snippets for all your d
 
-*   [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview
+*   [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview
 
 *   [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your develop
 
@@ -9806,7 +9806,7 @@
 
 *   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archi
 
-*   [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your dev
+*   [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your dev
 
 *   [Dreamer-Paul/Sweet](https://github.com/Dreamer-Paul/Sweet) - 🌟 一个简洁的个人首页，可以调用博客最新文章
 
