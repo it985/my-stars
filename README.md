@@ -2192,7 +2192,7 @@
 
 *   [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview
 
-*   [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your develop
+*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your develop
 
 *   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 
@@ -2492,7 +2492,7 @@
 
 *   [vinta/fuck-coding-interviews](https://github.com/vinta/fuck-coding-interviews) - How on earth can I ever think of a solut
 
-*   [SamirPaul1/DSAlgo](https://github.com/SamirPaul1/DSAlgo) - 📚A repository that contains all the Dat
+*   [SamirPaulb/DSAlgo](https://github.com/SamirPaulb/DSAlgo) - 📚A repository that contains all the Dat
 
 *   [tech-cow/leetcode](https://github.com/tech-cow/leetcode) - 👏🏻 leetcode solutions for Humans™
 
@@ -8080,7 +8080,7 @@
 
 *   [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ) -
 
-*   [learnhard-cn/free\_proxy\_ss](https://github.com/learnhard-cn/free_proxy_ss) - 分享免费梯子/科学上网/代理/shadowsocks(SS)/Shadowsoc
+*   [vxiaov/free\_proxy\_ss](https://github.com/vxiaov/free_proxy_ss) - 分享免费梯子/科学上网/代理/shadowsocks(SS)/Shadowsoc
 
 *   [openRunner/clash-freenode](https://github.com/openRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪
 
