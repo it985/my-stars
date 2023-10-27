@@ -324,6 +324,8 @@
 
 *   [ignacio-chiazzo/Algorithms-Leetcode-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript) - Algorithms resolution in Javascript. Lee
 
+*   [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY) - Knowledge Resource of core fundamentals
+
 *   [connor11528/cs-fundamentals](https://github.com/connor11528/cs-fundamentals) - 🎓 Data structures and algorithms
 
 *   [qappleh/Interview](https://github.com/qappleh/Interview) - 我是追梦赤子心，公众号「深圳湾码农」的作者，某上市集团公司高级前端开发，深耕前端
@@ -2364,7 +2366,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -8537,8 +8539,6 @@
 *   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design t
 
 *   [Mariotek/reactjs-persian-interview-questions](https://github.com/Mariotek/reactjs-persian-interview-questions) - مجموعه برترین سوال و جواب‌های ری‌اکت(احت
-
-*   [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY) - Knowledge Resource of core fundamentals
 
 *   [Wscats/CV](https://github.com/Wscats/CV) - :see\_no\_evil:Front End Engineer Curricul
 
