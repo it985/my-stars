@@ -1012,6 +1012,8 @@
 
 *   [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time
 
+*   [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for express
+
 *   [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without comprom
 
 *   [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号\[前端工匠]的作者
@@ -7028,7 +7030,7 @@
 
 *   [OriX6/liveRecordAuto](https://github.com/OriX6/liveRecordAuto) - 基于 Electron 的多平台直播自动录制软件 支持抖音/快手 多链接形式
 
-*   [Dreamer365/topspeed-image-compressor](https://github.com/Dreamer365/topspeed-image-compressor) - 压缩速度极快的图片压缩软件
+*   [Dreamer365/topspeed-image-compressor](https://github.com/Dreamer365/topspeed-image-compressor) - 压缩速度极快的桌面端图片压缩软件
 
 *   [javayhu/poetry](https://github.com/javayhu/poetry) - china ancient poetry project data
 
@@ -7102,7 +7104,7 @@
 
 *   [saveweb/doing](https://github.com/saveweb/doing) - Save-The-Web Project | 任务追踪
 
-*   [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - Windows11 Penetration Suite Toolkit
+*   [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - Windows11 Penetration Suite Toolkit 一个开箱
 
 *   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
 
@@ -8224,7 +8226,7 @@
 
 *   [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouT
 
-*   [genshin-matrix/genshin-woodmen](https://github.com/genshin-matrix/genshin-woodmen) - 尘歌壶终结者(原神自动伐木姬 | Genshin Auto Wood Obtai
+*   [GenshinMatrix/genshin-woodmen](https://github.com/GenshinMatrix/genshin-woodmen) - 尘歌壶终结者(原神自动伐木姬 | Genshin Auto Wood Obtai
 
 *   [babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy) - 🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Autom
 
@@ -9288,7 +9290,7 @@
 
 *   [5ime/vue-page](https://github.com/5ime/vue-page) - vue短视频/图集去水印解析页面
 
-*   [androidmumo/bing](https://github.com/androidmumo/bing) - 必应每日一图仓库
+*   [androidmumo/bing](https://github.com/androidmumo/bing) - 必应每日一图
 
 *   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring S
 
@@ -9428,7 +9430,7 @@
 
 *   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 
-*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）
+*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pph
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Win
 
@@ -9721,8 +9723,6 @@
 *   [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician
 
 *   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful re
-
-*   [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for express
 
 *   [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to ma
 
