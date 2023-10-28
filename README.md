@@ -86,6 +86,10 @@
 
 ## JavaScript
 
+*   [xfgryujk/blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
+
+*   [gamekingv/bilibili-oversea-search](https://github.com/gamekingv/bilibili-oversea-search) - bilibili海外区域搜索
+
 *   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
 
 *   [itorr/anime-grid](https://github.com/itorr/anime-grid) - 🤖「动画生涯个人喜好表生成器」
@@ -195,8 +199,6 @@
 *   [xuxuxu-ni/vue-xuAdmin](https://github.com/xuxuxu-ni/vue-xuAdmin) - vue+element-ui-admin 后台权限管理模板 演示地址:
 
 *   [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 今日热榜 API，一个聚合热门数据的 API 接口，支持 Vercel 部署 |
-
-*   [ame-yu/u2bili](https://github.com/ame-yu/u2bili) - youtube->bilibili 搬运脚本
 
 *   [Messiahhh/blog](https://github.com/Messiahhh/blog) - akara的前端笔记
 
@@ -2449,8 +2451,6 @@
 *   [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration
 
 *   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant
-
-*   [Gingmzmzx/TubeToBili](https://github.com/Gingmzmzx/TubeToBili) - YouTube视频自动一键转载到Bilibili，带GUI界面
 
 *   [googidaddy/bili-trash-bin](https://github.com/googidaddy/bili-trash-bin) - a pro tool for video porter.
 
