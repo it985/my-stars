@@ -86,6 +86,8 @@
 
 ## JavaScript
 
+*   [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【周末更新】
+
 *   [xfgryujk/blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
 
 *   [gamekingv/bilibili-oversea-search](https://github.com/gamekingv/bilibili-oversea-search) - bilibili海外区域搜索
@@ -205,8 +207,6 @@
 *   [iuv/jisuye](https://github.com/iuv/jisuye) - 极速页导航-无服务版本
 
 *   [ZhelinCheng/bilibili-downloader](https://github.com/ZhelinCheng/bilibili-downloader) - B 站个人动态视频下载助手，支持下载B站个人动态更新的4k视频，运行该程序后，你
-
-*   [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【周末更新】
 
 *   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrom
 
