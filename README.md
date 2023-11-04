@@ -114,7 +114,7 @@
 
 *   [jkoor/Alist-Media-Rename](https://github.com/jkoor/Alist-Media-Rename) - 获取 TMDb 电影/剧集信息，并对 Alist 媒体文件重命名
 
-*   [bilibini/Lovely\_Image\_Downloader](https://github.com/bilibini/Lovely_Image_Downloader) - 一个简单的美图下载器，使用aardio+electron+webview+pyt
+*   [bilibini/Lovely\_Image\_Downloader](https://github.com/bilibini/Lovely_Image_Downloader) - 一个简单的美图下载器，使用aardio+python+webview实现，主要用
 
 *   [Zeal-L/BiliBili-Manga-Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) - 一个好用的哔哩哔哩漫画下载器，拥有图形界面，支持关键词搜索漫画和二维码登入，黑科
 
@@ -176,7 +176,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9140,7 +9140,7 @@
 
 *   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易
 
-*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100:2023年系统架构设计师（软考高级）备考资料。
+*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100:2024年系统架构设计师（软考高级）备考资料。
 
 ## Ruby
 
