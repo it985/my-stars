@@ -9008,7 +9008,7 @@
 
 *   [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library
 
-*   [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template t
+*   [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows
 
 *   [modularcode/modular-admin-html](https://github.com/modularcode/modular-admin-html) - ModularAdmin - Free Dashboard Theme Buil
 
