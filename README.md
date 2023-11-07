@@ -5096,7 +5096,7 @@
 
 *   [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) - File Loader
 
-*   [xyflow/webpack-starter](https://github.com/xyflow/webpack-starter) - ✨ A lightweight foundation for your next
+*   [wbkd/webpack-starter](https://github.com/wbkd/webpack-starter) - ✨ A lightweight foundation for your next
 
 *   [GoogleChromeLabs/worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - 👩‍🏭 Adds native Web Worker bundling su
 
