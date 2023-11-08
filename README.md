@@ -176,7 +176,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -2946,7 +2946,7 @@
 
 *   [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具(后台服务) & 自动投稿b站
 
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Cross platform React style library and U
 
 *   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing
 
@@ -6592,7 +6592,7 @@
 
 *   [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design
 
-*   [EhViewer-NekoInverter/EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer-NekoInverter, feat
+*   [EhViewer-NekoInverter/EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests
 
 *   [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android dev
 
