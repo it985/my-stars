@@ -1876,7 +1876,7 @@
 
 *   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for
 
-*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly
+*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly
 
 *   [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts wi
 
@@ -2380,7 +2380,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -3799,8 +3799,6 @@
 ## miscellaneous
 
 *   [BlueSkyXN/ScannerReport](https://github.com/BlueSkyXN/ScannerReport) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
-
-*   [champkeh/wereadx](https://github.com/champkeh/wereadx) -
 
 *   [xisuo67/XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载
 
@@ -9827,6 +9825,8 @@
 *   [xinac721/WebStack-xinac](https://github.com/xinac721/WebStack-xinac) - 基于WebStack和Typecho的网址导航主题，https://ixh.ne
 
 *   [zkeq/Busuanzi](https://github.com/zkeq/Busuanzi) - Busuanzi\_backend\_self Office WEBSITE .
+
+*   [zkeq/LearnOnly](https://github.com/zkeq/LearnOnly) - 一个极简的导航网页。
 
 ## C
 
