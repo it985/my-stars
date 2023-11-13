@@ -24,7 +24,6 @@
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
-*   [Dockerfile](#dockerfile)
 *   [Standard ML](#standard-ml)
 *   [Swift](#swift)
 *   [Handlebars](#handlebars)
@@ -32,6 +31,7 @@
 *   [C](#c-2)
 *   [Stylus](#stylus)
 *   [AngelScript](#angelscript)
+*   [Dockerfile](#dockerfile)
 *   [CoffeeScript](#coffeescript)
 *   [Less](#less)
 *   [TeX](#tex)
@@ -97,6 +97,8 @@
 *   [ben1234560/k8s\_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软
 
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with
+
+*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion w
 
 *   [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) -  在Docker容器中运行 MDCX，并通过Web界面或远程桌面进行控制。Run
 
@@ -2458,7 +2460,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -4584,6 +4586,8 @@
 
 *   [huyubing/books-pdf](https://github.com/huyubing/books-pdf) - books pdf
 
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 1
+
 *   [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 
 *   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that
@@ -4860,7 +4864,7 @@
 
 *   [vxiaov/free\_proxy\_ss](https://github.com/vxiaov/free_proxy_ss) - 分享免费梯子/科学上网/代理/shadowsocks(SS)/Shadowsoc
 
-*   [openRunner/clash-freenode](https://github.com/openRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪S
+*   [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪S
 
 *   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 白嫖/节点/vpn/白嫖/订阅/机场/翻墙TG代理/加速器/科学上网/教程/破解
 
@@ -6211,8 +6215,6 @@
 *   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for us
 
 *   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark
-
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 1
 
 *   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "de
 
@@ -9472,26 +9474,6 @@
 
 *   [wormtql/genshin\_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方
 
-## Dockerfile
-
-*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion w
-
-*   [hongyonghan/Docker\_Microsoft365\_E5\_Renew\_X](https://github.com/hongyonghan/Docker_Microsoft365_E5_Renew_X) - Docker版本的E5调用API续订服务：Microsoft 365 E5 Re
-
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-
-*   [dennyzhang/cheatsheet-docker-A4](https://github.com/dennyzhang/cheatsheet-docker-A4) - :book: Docker CheatSheets In A4
-
-*   [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh
-
-*   [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Se
-
-*   [postgis/docker-postgis](https://github.com/postgis/docker-postgis) - Docker image for PostGIS
-
-*   [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres
-
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best pra
-
 ## Standard ML
 
 *   [it985/Dress-1](https://github.com/it985/Dress-1) - 好耶 是女装 | 备份·接受PR
@@ -9861,6 +9843,24 @@
 ## AngelScript
 
 *   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩
+
+## Dockerfile
+
+*   [hongyonghan/Docker\_Microsoft365\_E5\_Renew\_X](https://github.com/hongyonghan/Docker_Microsoft365_E5_Renew_X) - Docker版本的E5调用API续订服务：Microsoft 365 E5 Re
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+
+*   [dennyzhang/cheatsheet-docker-A4](https://github.com/dennyzhang/cheatsheet-docker-A4) - :book: Docker CheatSheets In A4
+
+*   [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh
+
+*   [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Se
+
+*   [postgis/docker-postgis](https://github.com/postgis/docker-postgis) - Docker image for PostGIS
+
+*   [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres
+
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best pra
 
 ## CoffeeScript
 
