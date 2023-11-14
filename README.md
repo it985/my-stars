@@ -5906,7 +5906,7 @@
 
 *   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with
 
-*   [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mi
+*   [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mi
 
 *   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple th
 
