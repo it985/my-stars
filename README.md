@@ -7641,9 +7641,9 @@
 
 *   [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Bat
 
-*   [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET orm, C# orm, VB.NET orm, Mysql o
+*   [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET aot orm, C# orm, VB.NET orm, Mys
 
-*   [DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net ORM    Fastest ORM   Simple Easy  S
+*   [DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net aot ORM    Fastest ORM   Simple Eas
 
 *   [realm/realm-dotnet](https://github.com/realm/realm-dotnet) - Realm is a mobile database: a replacemen
 
