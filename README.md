@@ -1311,7 +1311,7 @@
 
 *   [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready
 
-*   [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - :smirk: simple emoji support for node.js
+*   [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - 💖 simple emoji support for node.js proj
 
 *   [joeattardi/picmo](https://github.com/joeattardi/picmo) - JavaScript emoji picker. Any app, any fr
 
@@ -1486,6 +1486,8 @@
 *   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 打造最强静态导航网站(支持SEO)  | Discovery
 
 *   [justjavac/ali-words](https://github.com/justjavac/ali-words) - 互联网黑话词汇表，包含“赋能、抓手、闭环、沉淀、打通”等阿里味儿词汇
+
+*   [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Glo
 
 ## Java
 
@@ -6165,7 +6167,7 @@
 
 *   [Coder-Sakura/PixiC](https://github.com/Coder-Sakura/PixiC) - Pixiv插画批量下载，提供关注画师插画、收藏作品下载（单/多/动图）及API
 
-*   [7eu7d7/pixiv\_AI\_crawler](https://github.com/7eu7d7/pixiv_AI_crawler) - 基于深度学习的p站高质量涩图AI爬虫，可以学会你的XP
+*   [IrisRainbowNeko/pixiv\_AI\_crawler](https://github.com/IrisRainbowNeko/pixiv_AI_crawler) - 基于深度学习的p站高质量涩图AI爬虫，可以学会你的XP
 
 *   [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - Pixiv 辅助工具
 
@@ -7135,7 +7137,7 @@
 
 *   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev
 
-*   [7eu7d7/genshin\_auto\_fish](https://github.com/7eu7d7/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI
+*   [IrisRainbowNeko/genshin\_auto\_fish](https://github.com/IrisRainbowNeko/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI
 
 *   [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
 
@@ -9574,8 +9576,6 @@
 ## CSS
 
 *   [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS &
-
-*   [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blog
 
 *   [zhheo/HeoMusic](https://github.com/zhheo/HeoMusic) - 一个基于Aplayer和MetingJS的静态音乐播放器
 
