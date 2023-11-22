@@ -523,8 +523,6 @@
 
 *   [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management
-
 *   [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 
 *   [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe se
@@ -3825,6 +3823,8 @@
 
 *   [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to qu
 
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management
+
 *   [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdo
 
 *   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and shar
@@ -6939,7 +6939,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -7569,7 +7569,7 @@
 
 *   [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web
 
-*   [django-polymorphic/django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Improved Django model inheritance with a
+*   [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with a
 
 *   [alanjds/drf-nested-routers](https://github.com/alanjds/drf-nested-routers) - Nested Routers for Django Rest Framework
 
