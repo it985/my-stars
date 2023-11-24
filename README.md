@@ -9951,7 +9951,7 @@
 
 *   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。
 
-*   [xkrishguptaa/gardevoir](https://github.com/xkrishguptaa/gardevoir) - The Modern CSS Reset 🚀 (Formerly Resete
+*   [xkrishguptaa/reseter.css](https://github.com/xkrishguptaa/reseter.css) - The Modern CSS Reset 🚀 (Formerly Resete
 
 *   [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the moder
 
