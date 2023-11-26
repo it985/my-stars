@@ -1281,6 +1281,8 @@
 
 *   [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 
+*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
+
 *   [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
 
 *   [LetTTGACO/yuque-hexo-with-cdn](https://github.com/LetTTGACO/yuque-hexo-with-cdn) - 同步语雀的文章到 Hexo博客，并支持语雀图片替换为自己的图床
@@ -9440,8 +9442,6 @@
 *   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括
 
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable an
-
-*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 
 *   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pph
 
