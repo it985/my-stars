@@ -181,7 +181,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -1199,7 +1199,7 @@
 
 *   [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 
-*   [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Example
+*   [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Exam
 
 *   [carpedm20/emoji](https://github.com/carpedm20/emoji) - emoji terminal output for Python
 
@@ -2021,7 +2021,7 @@
 
 *   [guaguaupup/cpp\_interview](https://github.com/guaguaupup/cpp_interview) - c++后台服务器开发面经或八股总结！(有深度有广度，和仅有概念的总结文章不同！)
 
-*   [bmadone/software-engineer-interview-preparation](https://github.com/bmadone/software-engineer-interview-preparation) - Software Engineer interview questions
+*   [bmadone/software-engineering-subjects](https://github.com/bmadone/software-engineering-subjects) - Software Engineering Subjects
 
 *   [MahdiMashrur/Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns) - The most common question-patterns for an
 
@@ -7249,6 +7249,8 @@
 
 *   [alexwjj/alexwjj.github.io](https://github.com/alexwjj/alexwjj.github.io) - 基于vuePress的博客，定期分享前端知识，求star
 
+*   [xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - Chrome/Firefox/Edge Extension bilibili i
+
 *   [FreeNowOrg/PixivNow](https://github.com/FreeNowOrg/PixivNow) - Provide Pixiv backend proxy & frontend s
 
 ## Kotlin
@@ -8457,8 +8459,6 @@
 
 *   [MoyuScript/double-mouse-downloader](https://github.com/MoyuScript/double-mouse-downloader) - 鼠鼠下载器——跨平台哔哩哔哩视频下载工具。
 
-*   [xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - Chrome/Firefox/Edge Extension bilibili i
-
 *   [liqi0816/bilitwin](https://github.com/liqi0816/bilitwin) - bilibili merged flv+mp4+ass+enhance / 哔哩
 
 *   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏
@@ -9585,7 +9585,7 @@
 
 *   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS /
 
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternativ
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternativ
 
 *   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 
