@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [Shell](#shell)
@@ -15,7 +16,6 @@
 *   [Go](#go)
 *   [Java](#java)
 *   [C](#c)
-*   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [HLSL](#hlsl)
 *   [C#](#c-1)
@@ -84,6 +84,276 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Objective-C++](#objective-c-1)
 *   [Hack](#hack)
+
+## Vue
+
+*   [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorre
+
+*   [james-curtis/chaoxing-sign-app](https://github.com/james-curtis/chaoxing-sign-app) - 学习通第三方版APP。超星学习通签到app端，多账号批量签到，拍照签到（任选照片
+
+*   [Nash-x9/watermark](https://github.com/Nash-x9/watermark) - Vue3 Watermark
+
+*   [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权、成人模式
+
+*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt S
+
+*   [Akegarasu/stable-diffusion-inspector](https://github.com/Akegarasu/stable-diffusion-inspector) - read pnginfo in stable diffusion generat
+
+*   [Solar-God/solarBlog](https://github.com/Solar-God/solarBlog) - 基于Springboot + Vue 开发的前后端分离博客(PC端自适应+移动端
+
+*   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网
+
+*   [setube/jntm](https://github.com/setube/jntm) - 一个小众的度盘秒传分享平台
+
+*   [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建
+
+*   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
+
+*   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.c
+
+*   [mouday/hao123](https://github.com/mouday/hao123) - 程序员网址导航
+
+*   [mouday/wallpaper](https://github.com/mouday/wallpaper) - bing必应壁纸
+
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 【重构中】🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载
+
+*   [mic1on/chatGPT-web](https://github.com/mic1on/chatGPT-web) - chatGPT私有化部署
+
+*   [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC
+
+*   [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses
+
+*   [vform666/variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
+
+*   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-r
+
+*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
+
+*   [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js
+
+*   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
+
+*   [cadecode/vuepress-theme-2zh](https://github.com/cadecode/vuepress-theme-2zh) - VuePress 博客主题插件
+
+*   [cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - vue3,vite,element-plus中后台管理系统，集成四套基础模板，大
+
+*   [cp3geek/forum](https://github.com/cp3geek/forum) - 大学校园交流论坛，前后端分离，采用springboot+vue开发
+
+*   [maliangnansheng/bbs-vue-ui](https://github.com/maliangnansheng/bbs-vue-ui) - 仿掘金之【南生论坛】基于SpringBoot+Vue框架实现前后端分离（大厂微服
+
+*   [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on
+
+*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
+
+*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScri
+
+*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.3、TypeScript、Vi
+
+*   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.1.
+
+*   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.h
+
+*   [topfullstack/adminify](https://github.com/topfullstack/adminify) - An Admin Dashboard based on Vuetify mate
+
+*   [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz) - 👏vue后台管理框架👏
+
+*   [lifetea/vue-admin](https://github.com/lifetea/vue-admin) - 手把手带你用vue开发一个管理后台
+
+*   [lanux/Vue-Admin](https://github.com/lanux/Vue-Admin) - 基于Vue2、element ui、vue-cli、vuex、vue-route
+
+*   [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) - admin template based on vuejs2 and eleme
+
+*   [Dark2017/vue-dark-photo](https://github.com/Dark2017/vue-dark-photo) - vue-dark-photo 一款基于vue2.x封装的轻便简易的图片预览组件，
+
+*   [hellowuxin/mindmap](https://github.com/hellowuxin/mindmap) - Mindmap component for Vue2
+
+*   [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
+
+*   [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking n
+
+*   [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
+
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+
+*   [gz-yami/mall4cloud-platform](https://github.com/gz-yami/mall4cloud-platform) - vue3 element-plus mall4cloud微服务商城-商城系统后台
+
+*   [gz-yami/mall4cloud-multishop](https://github.com/gz-yami/mall4cloud-multishop) - vue3 element-plus mall4cloud微服务商城-商城系统后台
+
+*   [gz-yami/mall4cloud-uniapp](https://github.com/gz-yami/mall4cloud-uniapp) - vue3 mall4cloud微服务商城-移动端  uniapp商城系统
+
+*   [gz-yami/mall4uni](https://github.com/gz-yami/mall4uni) - vue3 mall4j商城-移动端 uniapp商城系统 小程序商城系统
+
+*   [gz-yami/mall4v](https://github.com/gz-yami/mall4v) - vue3 vue mall4j商城-商家端
+
+*   [yisainan/TypeScript](https://github.com/yisainan/TypeScript) - TypeScript是JavaScript类型的超集，它可以编译成纯JavaSc
+
+*   [Exrick/xboot-front](https://github.com/Exrick/xboot-front) - 基于Vue+iView Admin开发的XBoot前后端分离开放平台前端 权限可
+
+*   [Exrick/xmall-front](https://github.com/Exrick/xmall-front) - 基于Vue开发的XMall商城前台页面 PC端
+
+*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+
+*   [WishMelz/tFile](https://github.com/WishMelz/tFile) - 基于telegra.ph的文件存储系统 https://wishmelz.git
+
+*   [WishMelz/imgurl](https://github.com/WishMelz/imgurl) - 基于github的图片管理系统/免费 https://wishmelz.gith
+
+*   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原
+
+*   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板
+
+*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
+
+*   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
+
+*   [lusaxweb/vuesax-next](https://github.com/lusaxweb/vuesax-next) - Vuesax v4: framework components for Vuej
+
+*   [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
+
+*   [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
+
+*   [xandone/wcdog-manager](https://github.com/xandone/wcdog-manager) - wcdog-manager  新闻后台管理
+
+*   [xandone/wcdog-web](https://github.com/xandone/wcdog-web) - wcdog-web H5前端新闻
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传
+
+*   [vform666/variant-form3-vite](https://github.com/vform666/variant-form3-vite) -
+
+*   [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
+
+*   [qianphong/china-ex-ns](https://github.com/qianphong/china-ex-ns) - 「中国制霸生成器」正常地图/简化地图
+
+*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with
+
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite+Element-Plus+TypeScrip
+
+*   [jeecgboot/jeecg-uniapp](https://github.com/jeecgboot/jeecg-uniapp) - JEECG BOOT APP 移动解决方案，采用uniapp框架，一份代码多终端
+
+*   [jeecgboot/ant-design-vue-jeecg](https://github.com/jeecgboot/ant-design-vue-jeecg) - JeecgBoot—Vue2版前端源码，基于 Vue2+AntDesignVue
+
+*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 🔥JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScri
+
+*   [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,
+
+*   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket
+
+*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
+
+*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template
+
+*   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
+
+*   [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
+
+*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+
+*   [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout gener
+
+*   [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.j
+
+*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Boot
+
+*   [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design
+
+*   [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS e
+
+*   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a
+
+*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.j
+
+*   [myide/see](https://github.com/myide/see) - 基于开源组件（Inception & SQLAdvisor & SOAR）的SQ
+
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app
+
+*   [newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin) - 🔥 🎉Vue 3 + Vite 2 + Vue-Router 4 + Ele
+
+*   [yangzongzhuan/RuoYi-Cloud-Vue3](https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3) - 🎉 基于Spring Boot、Spring Cloud & Alibaba、
+
+*   [yangzongzhuan/RuoYi-App](https://github.com/yangzongzhuan/RuoYi-App) - 🎉 (RuoYi)官方仓库 RuoYi APP 移动端框架，基于uniapp+
+
+*   [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Ele
+
+*   [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longe
+
+*   [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beaut
+
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets man
+
+*   [devjin0617/vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) - :bar\_chart: adminLTE to vuejs v2.x conve
+
+*   [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
+
+*   [SimonZhangITer/VueDemo\_Sell\_Eleme](https://github.com/SimonZhangITer/VueDemo_Sell_Eleme) - :bowtie: ele by vue2.x :penguin:
+
+*   [tuandm/laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel a
+
+*   [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
+
+*   [mgbq/nx-admin](https://github.com/mgbq/nx-admin) -  👍 A magical   🐮  ⚔  vue admin，记得star
+
+*   [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - A admin template based on vue + element-
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin
+
+*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for My
+
+*   [N3-components/N3-components](https://github.com/N3-components/N3-components) - N3-components , Powerful Vue UI Library.
+
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Mar
+
+*   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with
+
+*   [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on
+
+*   [canfoo/vue2.0-taopiaopiao](https://github.com/canfoo/vue2.0-taopiaopiao) - vue2.0+router+vuex+express 构建淘票票的全栈demo
+
+*   [nuxt-community/express-template](https://github.com/nuxt-community/express-template) - Starter template for Nuxt 2 with Express
+
+*   [newbee-ltd/newbee-mall-vue-app](https://github.com/newbee-ltd/newbee-mall-vue-app) - 🔥 🎉Vue2 全家桶 + Vant 搭建大型单页面商城项目。新蜂商城前后端
+
+*   [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vu
+
+*   [Hunlongyu/ZY-Player-Web](https://github.com/Hunlongyu/ZY-Player-Web) - ▶️ 跨平台浏览器端视频资源播放器. 简洁免费. 🎞 ZY Player 浏览
+
+*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+
+*   [cjunn/cnblog\_theme\_atum](https://github.com/cjunn/cnblog_theme_atum) -
+
+*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun
+
+*   [pearmini/colorfu](https://github.com/pearmini/colorfu) - Make beautiful but also meaningful wallp
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
+
+*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
+
+*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components ba
+
+*   [TerryZ/v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin make files upload simple a
+
+*   [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+*   [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
+
+*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pa
+
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3,
+
+*   [5ime/vue-page](https://github.com/5ime/vue-page) - vue短视频/图集去水印解析页面
+
+*   [androidmumo/bing](https://github.com/androidmumo/bing) - 必应每日一图
+
+*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring S
+
+*   [lybenson/bilibili-vue](https://github.com/lybenson/bilibili-vue) - 前端vue+后端koa，全栈式开发bilibili首页
+
+*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
+
+*   [alexwjj/alexwjj.github.io](https://github.com/alexwjj/alexwjj.github.io) - 基于vuePress的博客，定期分享前端知识，求star
+
+*   [xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - Chrome/Firefox/Edge Extension bilibili i
+
+*   [FreeNowOrg/PixivNow](https://github.com/FreeNowOrg/PixivNow) - Provide Pixiv backend proxy & frontend s
 
 ## TypeScript
 
@@ -4081,8 +4351,6 @@
 
 *   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 
-*   [mqyqingfeng/frontend-interview-question-and-answer](https://github.com/mqyqingfeng/frontend-interview-question-and-answer) - 前端校招面试题和答案
-
 ## JavaScript
 
 *   [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -
@@ -4112,8 +4380,6 @@
 *   [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format co
 
 *   [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - A modern GUI App for downloading Videos
-
-*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on
 
 *   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p
 
@@ -7061,6 +7327,8 @@
 
 *   [JumpAlang/Jusic-Serve-Houses](https://github.com/JumpAlang/Jusic-Serve-Houses) - 一起听歌吧多房间版本（music.alang.run）
 
+*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on
+
 *   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 
 *   [wayn111/waynboot-mall](https://github.com/wayn111/waynboot-mall) - 这是一套全部开源的微商城项目，包含一个运营后台、H5商城前台和服务端接口。 实现
@@ -8190,274 +8458,6 @@
 *   [nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) - 算法学习笔记
 
 *   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that pers
-
-## Vue
-
-*   [james-curtis/chaoxing-sign-app](https://github.com/james-curtis/chaoxing-sign-app) - 学习通第三方版APP。超星学习通签到app端，多账号批量签到，拍照签到（任选照片
-
-*   [Nash-x9/watermark](https://github.com/Nash-x9/watermark) - Vue3 Watermark
-
-*   [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权、成人模式
-
-*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt S
-
-*   [Akegarasu/stable-diffusion-inspector](https://github.com/Akegarasu/stable-diffusion-inspector) - read pnginfo in stable diffusion generat
-
-*   [Solar-God/solarBlog](https://github.com/Solar-God/solarBlog) - 基于Springboot + Vue 开发的前后端分离博客(PC端自适应+移动端
-
-*   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网
-
-*   [setube/jntm](https://github.com/setube/jntm) - 一个小众的度盘秒传分享平台
-
-*   [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建
-
-*   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
-
-*   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.c
-
-*   [mouday/hao123](https://github.com/mouday/hao123) - 程序员网址导航
-
-*   [mouday/wallpaper](https://github.com/mouday/wallpaper) - bing必应壁纸
-
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 【重构中】🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载
-
-*   [mic1on/chatGPT-web](https://github.com/mic1on/chatGPT-web) - chatGPT私有化部署
-
-*   [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC
-
-*   [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses
-
-*   [vform666/variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
-
-*   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-r
-
-*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
-
-*   [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js
-
-*   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
-
-*   [cadecode/vuepress-theme-2zh](https://github.com/cadecode/vuepress-theme-2zh) - VuePress 博客主题插件
-
-*   [cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - vue3,vite,element-plus中后台管理系统，集成四套基础模板，大
-
-*   [cp3geek/forum](https://github.com/cp3geek/forum) - 大学校园交流论坛，前后端分离，采用springboot+vue开发
-
-*   [maliangnansheng/bbs-vue-ui](https://github.com/maliangnansheng/bbs-vue-ui) - 仿掘金之【南生论坛】基于SpringBoot+Vue框架实现前后端分离（大厂微服
-
-*   [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on
-
-*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
-
-*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScri
-
-*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.3、TypeScript、Vi
-
-*   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.1.
-
-*   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.h
-
-*   [topfullstack/adminify](https://github.com/topfullstack/adminify) - An Admin Dashboard based on Vuetify mate
-
-*   [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz) - 👏vue后台管理框架👏
-
-*   [lifetea/vue-admin](https://github.com/lifetea/vue-admin) - 手把手带你用vue开发一个管理后台
-
-*   [lanux/Vue-Admin](https://github.com/lanux/Vue-Admin) - 基于Vue2、element ui、vue-cli、vuex、vue-route
-
-*   [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) - admin template based on vuejs2 and eleme
-
-*   [Dark2017/vue-dark-photo](https://github.com/Dark2017/vue-dark-photo) - vue-dark-photo 一款基于vue2.x封装的轻便简易的图片预览组件，
-
-*   [hellowuxin/mindmap](https://github.com/hellowuxin/mindmap) - Mindmap component for Vue2
-
-*   [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
-
-*   [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking n
-
-*   [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
-
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-
-*   [gz-yami/mall4cloud-platform](https://github.com/gz-yami/mall4cloud-platform) - vue3 element-plus mall4cloud微服务商城-商城系统后台
-
-*   [gz-yami/mall4cloud-multishop](https://github.com/gz-yami/mall4cloud-multishop) - vue3 element-plus mall4cloud微服务商城-商城系统后台
-
-*   [gz-yami/mall4cloud-uniapp](https://github.com/gz-yami/mall4cloud-uniapp) - vue3 mall4cloud微服务商城-移动端  uniapp商城系统
-
-*   [gz-yami/mall4uni](https://github.com/gz-yami/mall4uni) - vue3 mall4j商城-移动端 uniapp商城系统 小程序商城系统
-
-*   [gz-yami/mall4v](https://github.com/gz-yami/mall4v) - vue3 vue mall4j商城-商家端
-
-*   [yisainan/TypeScript](https://github.com/yisainan/TypeScript) - TypeScript是JavaScript类型的超集，它可以编译成纯JavaSc
-
-*   [Exrick/xboot-front](https://github.com/Exrick/xboot-front) - 基于Vue+iView Admin开发的XBoot前后端分离开放平台前端 权限可
-
-*   [Exrick/xmall-front](https://github.com/Exrick/xmall-front) - 基于Vue开发的XMall商城前台页面 PC端
-
-*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
-
-*   [WishMelz/tFile](https://github.com/WishMelz/tFile) - 基于telegra.ph的文件存储系统 https://wishmelz.git
-
-*   [WishMelz/imgurl](https://github.com/WishMelz/imgurl) - 基于github的图片管理系统/免费 https://wishmelz.gith
-
-*   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原
-
-*   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板
-
-*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
-
-*   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
-
-*   [lusaxweb/vuesax-next](https://github.com/lusaxweb/vuesax-next) - Vuesax v4: framework components for Vuej
-
-*   [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
-
-*   [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
-
-*   [xandone/wcdog-manager](https://github.com/xandone/wcdog-manager) - wcdog-manager  新闻后台管理
-
-*   [xandone/wcdog-web](https://github.com/xandone/wcdog-web) - wcdog-web H5前端新闻
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传
-
-*   [vform666/variant-form3-vite](https://github.com/vform666/variant-form3-vite) -
-
-*   [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
-
-*   [qianphong/china-ex-ns](https://github.com/qianphong/china-ex-ns) - 「中国制霸生成器」正常地图/简化地图
-
-*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with
-
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite+Element-Plus+TypeScrip
-
-*   [jeecgboot/jeecg-uniapp](https://github.com/jeecgboot/jeecg-uniapp) - JEECG BOOT APP 移动解决方案，采用uniapp框架，一份代码多终端
-
-*   [jeecgboot/ant-design-vue-jeecg](https://github.com/jeecgboot/ant-design-vue-jeecg) - JeecgBoot—Vue2版前端源码，基于 Vue2+AntDesignVue
-
-*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 🔥JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScri
-
-*   [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,
-
-*   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket
-
-*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
-
-*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template
-
-*   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
-
-*   [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
-
-*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-
-*   [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout gener
-
-*   [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.j
-
-*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Boot
-
-*   [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design
-
-*   [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS e
-
-*   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a
-
-*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.j
-
-*   [myide/see](https://github.com/myide/see) - 基于开源组件（Inception & SQLAdvisor & SOAR）的SQ
-
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app
-
-*   [newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin) - 🔥 🎉Vue 3 + Vite 2 + Vue-Router 4 + Ele
-
-*   [yangzongzhuan/RuoYi-Cloud-Vue3](https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3) - 🎉 基于Spring Boot、Spring Cloud & Alibaba、
-
-*   [yangzongzhuan/RuoYi-App](https://github.com/yangzongzhuan/RuoYi-App) - 🎉 (RuoYi)官方仓库 RuoYi APP 移动端框架，基于uniapp+
-
-*   [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Ele
-
-*   [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longe
-
-*   [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beaut
-
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets man
-
-*   [devjin0617/vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) - :bar\_chart: adminLTE to vuejs v2.x conve
-
-*   [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
-
-*   [SimonZhangITer/VueDemo\_Sell\_Eleme](https://github.com/SimonZhangITer/VueDemo_Sell_Eleme) - :bowtie: ele by vue2.x :penguin:
-
-*   [tuandm/laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel a
-
-*   [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
-
-*   [mgbq/nx-admin](https://github.com/mgbq/nx-admin) -  👍 A magical   🐮  ⚔  vue admin，记得star
-
-*   [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - A admin template based on vue + element-
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin
-
-*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for My
-
-*   [N3-components/N3-components](https://github.com/N3-components/N3-components) - N3-components , Powerful Vue UI Library.
-
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Mar
-
-*   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with
-
-*   [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on
-
-*   [canfoo/vue2.0-taopiaopiao](https://github.com/canfoo/vue2.0-taopiaopiao) - vue2.0+router+vuex+express 构建淘票票的全栈demo
-
-*   [nuxt-community/express-template](https://github.com/nuxt-community/express-template) - Starter template for Nuxt 2 with Express
-
-*   [newbee-ltd/newbee-mall-vue-app](https://github.com/newbee-ltd/newbee-mall-vue-app) - 🔥 🎉Vue2 全家桶 + Vant 搭建大型单页面商城项目。新蜂商城前后端
-
-*   [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vu
-
-*   [Hunlongyu/ZY-Player-Web](https://github.com/Hunlongyu/ZY-Player-Web) - ▶️ 跨平台浏览器端视频资源播放器. 简洁免费. 🎞 ZY Player 浏览
-
-*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-
-*   [cjunn/cnblog\_theme\_atum](https://github.com/cjunn/cnblog_theme_atum) -
-
-*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun
-
-*   [pearmini/colorfu](https://github.com/pearmini/colorfu) - Make beautiful but also meaningful wallp
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
-
-*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
-
-*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components ba
-
-*   [TerryZ/v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin make files upload simple a
-
-*   [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-
-*   [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
-
-*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pa
-
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3,
-
-*   [5ime/vue-page](https://github.com/5ime/vue-page) - vue短视频/图集去水印解析页面
-
-*   [androidmumo/bing](https://github.com/androidmumo/bing) - 必应每日一图
-
-*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring S
-
-*   [lybenson/bilibili-vue](https://github.com/lybenson/bilibili-vue) - 前端vue+后端koa，全栈式开发bilibili首页
-
-*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
-
-*   [alexwjj/alexwjj.github.io](https://github.com/alexwjj/alexwjj.github.io) - 基于vuePress的博客，定期分享前端知识，求star
-
-*   [xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - Chrome/Firefox/Edge Extension bilibili i
-
-*   [FreeNowOrg/PixivNow](https://github.com/FreeNowOrg/PixivNow) - Provide Pixiv backend proxy & frontend s
 
 ## Kotlin
 
