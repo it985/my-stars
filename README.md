@@ -1291,7 +1291,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -2659,7 +2659,7 @@
 
 *   [mouday/wallpaper](https://github.com/mouday/wallpaper) - bing必应壁纸
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 【重构中】🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 【重构中】🎉 一个简约的音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲
 
 *   [mic1on/chatGPT-web](https://github.com/mic1on/chatGPT-web) - chatGPT私有化部署
 
@@ -3149,7 +3149,7 @@
 
 *   [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具(后台服务) & 自动投稿b站
 
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Cross platform React style library and U
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity o
 
 *   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing
 
@@ -3294,8 +3294,6 @@
 *   [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdo
 
 *   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and shar
-
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built fo
 
 *   [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL A
 
@@ -5024,6 +5022,8 @@
 *   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% Common
 
 *   [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+
+*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built fo
 
 *   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive comma
 
@@ -7159,7 +7159,7 @@
 
 *   [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify an
 
-*   [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud se
+*   [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live q
 
 *   [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availabilit
 
