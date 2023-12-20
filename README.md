@@ -247,7 +247,7 @@
 
 *   [mebtte/cicada](https://github.com/mebtte/cicada) - A multi-user music service for self-host
 
-*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build customized Admin Panel for your Ap
+*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build AI Driven Business App
 
 *   [env-helper/gacm](https://github.com/env-helper/gacm) - Git Account Management Tools & NPM Regis
 
