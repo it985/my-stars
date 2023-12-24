@@ -2129,7 +2129,7 @@
 
 *   [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI li
 
-*   [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for buildin
+*   [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for buildin
 
 *   [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Mode
 
@@ -3109,7 +3109,7 @@
 
 *   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and product
 
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT U
+*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web
 
 *   [namoscato/action-tinify](https://github.com/namoscato/action-tinify) - GitHub Action to compress and resize ima
 
