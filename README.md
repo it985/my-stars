@@ -1129,7 +1129,7 @@
 
 *   [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol fo
 
-*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
+*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 
 *   [voilet/cmdb](https://github.com/voilet/cmdb) - cmdb saltstack
 
@@ -3865,6 +3865,8 @@
 
 *   [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon �
 
+*   [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application gener
+
 *   [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is a
 
 *   [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Suppo
@@ -4291,7 +4293,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -5256,8 +5258,6 @@
 *   [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availabil
 
 *   [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Librar
-
-*   [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application gener
 
 *   [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syn
 
