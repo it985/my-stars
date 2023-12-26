@@ -3121,7 +3121,7 @@
 
 *   [wangrongding/prm-cli](https://github.com/wangrongding/prm-cli) - 🧩 快速切换包管理工具的镜像源。(Quickly switch the reg
 
-*   [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it can locate
+*   [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click on the DOM element on the page, an
 
 *   [Beats0/bilive-danmaku](https://github.com/Beats0/bilive-danmaku) - 一个开源的 bilibili 直播弹幕姬，支持 win 和 mac
 
