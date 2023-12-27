@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -36,7 +37,6 @@
 *   [CoffeeScript](#coffeescript)
 *   [Less](#less)
 *   [TeX](#tex)
-*   [Astro](#astro)
 *   [Makefile](#makefile)
 *   [SCSS](#scss)
 *   [AutoHotkey](#autohotkey)
@@ -84,6 +84,14 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Objective-C++](#objective-c-1)
 *   [Hack](#hack)
+
+## Astro
+
+*   [szmxx/blog](https://github.com/szmxx/blog) - blog
+
+*   [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for sof
+
+*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template
 
 ## JavaScript
 
@@ -4179,8 +4187,6 @@
 
 *   [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
 
-*   [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer) - genshin wish history analyzer
-
 ## Python
 
 *   [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for
@@ -4293,7 +4299,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9916,12 +9922,6 @@
 *   [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level open source algor
 
 *   [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guid
-
-## Astro
-
-*   [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for sof
-
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template
 
 ## Makefile
 
