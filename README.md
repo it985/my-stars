@@ -6885,7 +6885,7 @@
 
 *   [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 
-*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
+*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 
 *   [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Fun
 
