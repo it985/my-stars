@@ -6579,7 +6579,7 @@
 
 *   [yangshun/lago](https://github.com/yangshun/lago) - 📕 Data Structures and Algorithms librar
 
-*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full
+*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and
 
 *   [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and Typ
 
