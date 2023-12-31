@@ -1321,7 +1321,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -4853,6 +4853,8 @@
 
 *   [develon2015/Youtube-dl-REST](https://github.com/develon2015/Youtube-dl-REST) - Youtube & BiliBili 视频在线解析下载 -- Website f
 
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
+
 *   [yangrunkang/upupor](https://github.com/yangrunkang/upupor) - upupor网站开源,使用更加合理的方式处理内容
 
 *   [Finger36/genshin-helper](https://github.com/Finger36/genshin-helper) - 原神米游社自动签到
@@ -6378,8 +6380,6 @@
 *   [wardseptember/notes](https://github.com/wardseptember/notes) - 算法刷题指南、Java多线程与高并发、Java集合源码、Spring boot、
 
 *   [3kanAlpha/hololive-asmr](https://github.com/3kanAlpha/hololive-asmr) - ホロライブのASMR配信検索サービス
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
 
 ## C\#
 
