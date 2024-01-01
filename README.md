@@ -9515,6 +9515,8 @@
 
 *   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS
 
+*   [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
+
 *   [kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using n
 
 *   [slashsbin/styleguide-git-commit-message](https://github.com/slashsbin/styleguide-git-commit-message) - /sBin/StyleGuide/Git/CommitMessage
@@ -9790,8 +9792,6 @@
 *   [Misaka-0x447f/Dress](https://github.com/Misaka-0x447f/Dress) - dress 项目的 master 分支备份。没了挺可惜的。source: htt
 
 *   [Dress-Collection/Dress](https://github.com/Dress-Collection/Dress) - 好耶  是女装
-
-*   [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
 
 *   [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runne
 
