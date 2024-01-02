@@ -2499,7 +2499,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free C
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -5853,8 +5853,6 @@
 
 *   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every develope
 
-*   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero codin
-
 *   [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one c
 
 *   [chenjiandongx/bili-video-rank](https://github.com/chenjiandongx/bili-video-rank) - 🔦 B 站视频各项数据排行榜
@@ -7871,7 +7869,7 @@
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
-*   [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the m
+*   [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestra
 
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's
 
@@ -8562,6 +8560,8 @@
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state managemen
+
+*   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero codin
 
 *   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational Reac
 
