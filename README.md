@@ -8467,7 +8467,7 @@
 
 *   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 和 Nintendo Switch上
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、XBox 和 Nintendo Switch上
 
 *   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 
@@ -8871,7 +8871,7 @@
 
 *   [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and mo
 
-*   [goki/goki](https://github.com/goki/goki) - A free and open source framework for building powerful, fast, and beautiful 2D and 3D GUIs that run
+*   [goki/goki](https://github.com/goki/goki) - A free and open source framework for building powerful, fast, and cogent 2D and 3D GUIs that run on
 
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
