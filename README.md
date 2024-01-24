@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Jinja](#jinja)
 *   [Smarty](#smarty)
 *   [Go](#go)
 *   [Python](#python)
@@ -85,9 +86,13 @@
 *   [Objective-C++](#objective-c-1)
 *   [Hack](#hack)
 
+## Jinja
+
+*   [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+
 ## Smarty
 
-*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 399 个。
+*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 400 个。
 
 *   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
 
@@ -2348,8 +2353,6 @@
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [zkeq/Bing-Wallpaper-Action](https://github.com/zkeq/Bing-Wallpaper-Action) - API with Redis / Vercel , DataBase with Json, Crawel with Github Actions . Product: https://github.c
 
 ## C\#
 
@@ -5017,7 +5020,7 @@
 
 *   [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) -
 
-*   [master-co/css](https://github.com/master-co/css) - A markup-driven CSS language with smart syntax and performant rendering
+*   [master-co/css](https://github.com/master-co/css) - The CSS language/framework for rapidly building modern and high-performance websites
 
 *   [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applicatio
 
@@ -7839,7 +7842,7 @@
 
 *   [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map) - 各种安全相关思维导图整理收集
 
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，查看VPS本地IP、netflix、chatgpt(网页与客户端)是否解锁等情况、endpoint对端优选IP等功能，VPS平台与Replit平台无限生成warp+密钥与war
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，查看VPS本地IP、netflix、chatgpt(网页与客户端)是否解锁等情况、endpoint对端优选IP等功能，VPS平台与Replit平台无限生成warp配置文件
 
 *   [ClodQiu/TVBox](https://github.com/ClodQiu/TVBox) - TVBox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
