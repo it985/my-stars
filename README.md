@@ -1944,6 +1944,8 @@
 
 *   [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar\_b
 
+*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+
 *   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 
 *   [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
@@ -3480,7 +3482,7 @@
 
 *   [jaysonlong/webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Web video downloader for Bilibili, iQIYI, Tencent Video, MGTV and WeTV. 网站视频下载器，主要支持Bilibili、爱奇艺、腾讯视
 
-*   [PyJun/Mooc\_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，网易云课堂，有道精品课，腾讯课堂，B站课堂，中公网校，新东方，学浪，抖音课堂，小鹅通，千聊，超星学习通，学银在线，智慧职教，智慧树，学堂在
+*   [PyJun/Mooc\_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，网易云课堂，有道精品课，腾讯课堂，B站课堂，中公网校，新东方，高途，途途，学浪，抖音课堂，小鹅通，千聊，超星学习通，学银在线，智慧职教，智
 
 *   [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 
@@ -5708,8 +5710,6 @@
 
 *   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 
-*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-
 *   [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications &
 
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -6212,7 +6212,7 @@
 
 *   [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 
-*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 188 TypeScript projects (and 150 examples) for gene
+*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 189 TypeScript projects (and 153 examples) for gene
 
 *   [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 
