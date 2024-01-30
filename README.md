@@ -5396,7 +5396,7 @@
 
 *   [wangrongding/prm-cli](https://github.com/wangrongding/prm-cli) - 🧩 快速切换包管理工具的镜像源。(Quickly switch the registry of the package management tool.)
 
-*   [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click on the DOM element on the page, and it can automatically open the IDE and position the cursor
+*   [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location
 
 *   [Beats0/bilive-danmaku](https://github.com/Beats0/bilive-danmaku) - 一个开源的 bilibili 直播弹幕姬，支持 win 和 mac
 
