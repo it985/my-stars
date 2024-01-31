@@ -6,6 +6,8 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
+*   [F#](#f)
 *   [Python](#python)
 *   [Go](#go)
 *   [Java](#java)
@@ -32,7 +34,6 @@
 *   [HLSL](#hlsl)
 *   [EJS](#ejs)
 *   [Ruby](#ruby)
-*   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Standard ML](#standard-ml)
 *   [Swift](#swift)
@@ -85,6 +86,60 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Objective-C++](#objective-c-1)
 *   [Hack](#hack)
+
+## Dart
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+
+*   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
+
+*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData,
+
+*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
+
+*   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
+
+*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+
+*   [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
+
+*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+
+*   [patrick-fu/GitmojiApp](https://github.com/patrick-fu/GitmojiApp) - A Gitmoji app for macOS, Linux, and Windows.
+
+*   [techouse/alfred-gitmoji](https://github.com/techouse/alfred-gitmoji) - Search for Gitmojis using Alfred
+
+*   [TheAlgorithms/Dart](https://github.com/TheAlgorithms/Dart) - All Algorithms implemented in Dart
+
+*   [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
+
+*   [isar/hive](https://github.com/isar/hive) - Lightweight and blazing fast key-value database written in pure Dart.
+
+*   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全
+
+*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
+
+*   [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
+
+*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both des
+
+*   [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitc
+
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+*   [Chalarangelo/30-seconds-of-dart](https://github.com/Chalarangelo/30-seconds-of-dart) - Short Dart code snippets for all your development needs
+
+*   [KagurazakaHanabi/dailypics](https://github.com/KagurazakaHanabi/dailypics) - 图鉴日图 - 精选壁纸推荐
+
+## F\#
+
+*   [palaworks/pilipala-plugin](https://github.com/palaworks/pilipala-plugin) - plugins of pilipala
 
 ## Python
 
@@ -3502,8 +3557,6 @@
 
 *   [niumoo/down-bit](https://github.com/niumoo/down-bit) - 一个 Java 实现的，多线程，断点续传下载器
 
-*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-
 ## miscellaneous
 
 *   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
@@ -4764,7 +4817,7 @@
 
 ## Smarty
 
-*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 442 个。
+*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 443 个。
 
 *   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
 
@@ -9402,8 +9455,6 @@
 
 *   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
-*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100:2024年系统架构设计师（软考高级）备考资料。
-
 ## C++
 
 *   [851896022/DesktopXiuXian](https://github.com/851896022/DesktopXiuXian) - 桌面修仙——桌面放置类摸鱼修仙游戏。支持放置，点击，桌面立绘，聊天吹水，运势推演，联网排名
@@ -9571,8 +9622,6 @@
 *   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 
 *   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open so
-
-*   [liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode) - My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python.
 
 ## Batchfile
 
@@ -9875,52 +9924,6 @@
 *   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 
 *   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request
-
-## Dart
-
-*   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-
-*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData,
-
-*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
-
-*   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-
-*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
-
-*   [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
-
-*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-
-*   [patrick-fu/GitmojiApp](https://github.com/patrick-fu/GitmojiApp) - A Gitmoji app for macOS, Linux, and Windows.
-
-*   [techouse/alfred-gitmoji](https://github.com/techouse/alfred-gitmoji) - Search for Gitmojis using Alfred
-
-*   [TheAlgorithms/Dart](https://github.com/TheAlgorithms/Dart) - All Algorithms implemented in Dart
-
-*   [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
-
-*   [isar/hive](https://github.com/isar/hive) - Lightweight and blazing fast key-value database written in pure Dart.
-
-*   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全
-
-*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
-
-*   [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
-
-*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both des
-
-*   [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitc
-
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-*   [Chalarangelo/30-seconds-of-dart](https://github.com/Chalarangelo/30-seconds-of-dart) - Short Dart code snippets for all your development needs
-
-*   [KagurazakaHanabi/dailypics](https://github.com/KagurazakaHanabi/dailypics) - 图鉴日图 - 精选壁纸推荐
 
 ## Jupyter Notebook
 
