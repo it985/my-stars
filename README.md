@@ -4877,7 +4877,7 @@
 
 *   [googidaddy/bili-trash-bin](https://github.com/googidaddy/bili-trash-bin) - a pro tool for video porter.
 
-*   [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - 一个可用于搜索各种影片磁链的电报机器人, 支持收藏, 导出记录, 自动保存磁链等操作, 可手动配置以屏蔽 NSFW 内容和代理上网。
+*   [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - 一个可用于搜索各种影片磁链的电报机器人, 支持收藏, 导出记录, 自动保存磁链等操作, 可手动配置以屏蔽 NSFW 内容和代理上网。A Telegram bot that can be used to
 
 *   [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 
@@ -7741,7 +7741,7 @@
 
 *   [mebtte/cicada](https://github.com/mebtte/cicada) - A multi-user music service for self-hosting.
 
-*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build AI Driven Business App
+*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
 
 *   [kinfuy/gacm](https://github.com/kinfuy/gacm) - Git Account Management Tools & NPM Registry Manager
 
