@@ -7741,7 +7741,7 @@
 
 *   [mebtte/cicada](https://github.com/mebtte/cicada) - A multi-user music service for self-hosting.
 
-*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build AI-driven business apps like assembling blocks, enables you to
+*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools su
 
 *   [kinfuy/gacm](https://github.com/kinfuy/gacm) - Git Account Management Tools & NPM Registry Manager
 
@@ -10105,7 +10105,7 @@
 
 *   [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (December 2023)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (February 2024)
 
 ## CoffeeScript
 
