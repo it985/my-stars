@@ -1377,7 +1377,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -7499,7 +7499,7 @@
 
 *   [vitorfs/bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
 
-*   [kmmbvnr/django-material](https://github.com/kmmbvnr/django-material) - Material Design for Django
+*   [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
 
 *   [beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) - RxSwift 中文文档
 
@@ -8395,7 +8395,7 @@
 
 *   [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
 
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers that works universally.
 
 *   [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with
 
