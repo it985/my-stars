@@ -239,7 +239,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -556,6 +556,8 @@
 *   [wovert/PythonTutorials](https://github.com/wovert/PythonTutorials) - Python 全栈学习教程
 
 *   [Huangyan0804/AutoCheckin](https://github.com/Huangyan0804/AutoCheckin) - 超星学习通自动签到，支持手势，二维码，位置，拍照等
+
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
 *   [panghaibin/shuasr](https://github.com/panghaibin/shuasr) - This Project is No Longer Maintained
 
@@ -9948,8 +9950,6 @@
 *   [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
 *   [TheAlgorithms/Jupyter](https://github.com/TheAlgorithms/Jupyter) - The repository contains script and notebook related to Statistics, Machine learning, Neural network,
-
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
 *   [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 
