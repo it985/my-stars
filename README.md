@@ -8185,7 +8185,7 @@
 
 *   [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 
-*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Mater
+*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. mdui 是使用 Web Components 实现 Mater
 
 *   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 
