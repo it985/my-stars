@@ -89,6 +89,8 @@
 
 ## Shell
 
+*   [jerry048/Dedicated-Seedbox](https://github.com/jerry048/Dedicated-Seedbox) -
+
 *   [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边
 
 *   [appotry/PTtool](https://github.com/appotry/PTtool) - 自动化硬链接工具，在最大可能情况下节约空间，并保持做种。 小于1M的文件直接复制，刮削修改nfo等小文件不影响做种。 大于1M的文件硬链接到目的目录，可以随意修改文件名。
@@ -6963,8 +6965,6 @@
 
 *   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储
 
-*   [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-
 ## C\#
 
 *   [JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
@@ -8367,7 +8367,7 @@
 
 *   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
-*   [noear/solon](https://github.com/noear/solon) - 🔥 New Java application development framework: FASTER, SMALLER, SIMPLER!! Startup is 5-10 times fast
+*   [noear/solon](https://github.com/noear/solon) - 🔥 New Java application development framework: FASTER, SMALLER, SIMPLER!! 2 to 3 times more concurre
 
 *   [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三
 
@@ -8855,7 +8855,7 @@
 
 *   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
 
-*   [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
+*   [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 
 *   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 
@@ -9093,7 +9093,7 @@
 
 *   [fenxp/iptv](https://github.com/fenxp/iptv) - 自动采集与互联网IPTV
 
-*   [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.eu.org/
+*   [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 
 *   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
 
