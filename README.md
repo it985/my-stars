@@ -973,7 +973,7 @@
 
 *   [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) -
 
-*   [master-co/css](https://github.com/master-co/css) - The CSS language and framework for rapidly building modern and high-performance websites
+*   [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
 
 *   [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applicatio
 
@@ -2349,7 +2349,7 @@
 
 *   [tarunkant/Gopherus](https://github.com/tarunkant/Gopherus) - This tool generates gopher link for exploiting SSRF and gaining RCE in various servers
 
-*   [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
+*   [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 
 *   [nsidnev/fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
 
@@ -4396,6 +4396,8 @@
 *   [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 
 *   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
+
+*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 
 *   [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify
 
@@ -8027,7 +8029,7 @@
 
 *   [apache/curator](https://github.com/apache/curator) - Apache Curator
 
-*   [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) - CDC Connectors for Apache Flink®
+*   [apache/flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
 
 *   [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: the polymorphic database powered by types
 
@@ -9383,8 +9385,6 @@
 
 *   [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 
-*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
-
 *   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 
 *   [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
@@ -10495,7 +10495,7 @@
 
 *   [replikativ/datahike](https://github.com/replikativ/datahike) - A durable Datalog implementation adaptable for distribution.
 
-*   [xtdb/xtdb](https://github.com/xtdb/xtdb) - The bitemporal database for regulated data. Developed by @juxt
+*   [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable database. Developed by @juxt
 
 *   [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 
