@@ -6479,7 +6479,7 @@
 
 *   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 
-*   [ClodQiu/TVBox](https://github.com/ClodQiu/TVBox) - 📺TVBox配置文件，🎬IPTV直播源，如果喜欢，请Fork自用。
+*   [ClodQiu/TELEV](https://github.com/ClodQiu/TELEV) - 📺TVBox配置文件，🎬IPTV直播源，如果喜欢，请Fork自用。
 
 *   [gfriends/gfriends](https://github.com/gfriends/gfriends) - 媒体服务器演员头像仓库
 
