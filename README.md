@@ -89,7 +89,7 @@
 
 ## Java
 
-*   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼全平台自动投简历脚本：目前支持(boss,前程无忧，猎聘和拉勾)，其他正在开发中。。。
+*   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼全平台自动投简历脚本：(boss,前程无忧，猎聘和拉勾)
 
 *   [zspo/community-blog](https://github.com/zspo/community-blog) - 一套前后端分离的社区博客分享系统
 
@@ -863,7 +863,7 @@
 
 *   [react-native-picker/picker](https://github.com/react-native-picker/picker) - Picker is a cross-platform UI component for selecting an item from a list of options.
 
-*   [rnmods/react-native-document-picker](https://github.com/rnmods/react-native-document-picker) - Document Picker for React Native
+*   [react-native-documents/document-picker](https://github.com/react-native-documents/document-picker) - Document Picker for React Native
 
 *   [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run A
 
@@ -1607,7 +1607,7 @@
 
 *   [istommao/Cryptography](https://github.com/istommao/Cryptography) - Online Cryptography Toolbox
 
-*   [lengyibai/wzry](https://github.com/lengyibai/wzry) - 🌈基于 Vue3+TS的王者荣耀图鉴🚀
+*   [lengyibai/wzry](https://github.com/lengyibai/wzry) - 🌈基于 Vue3+TS的王者荣耀图鉴🚀——QQ群：763872308
 
 *   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
@@ -2095,7 +2095,7 @@
 
 *   [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 
-*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. mdui 是使用 Web Components 实现 Mater
+*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
 
 *   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 
@@ -2821,7 +2821,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
