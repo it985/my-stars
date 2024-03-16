@@ -5256,6 +5256,8 @@
 
 *   [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
 
+*   [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
+
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 *   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
@@ -9102,7 +9104,7 @@
 
 *   [panghu123321/TigerBlog](https://github.com/panghu123321/TigerBlog) - 基于Bootstrap5为前端，Django框架为后端的个人博客系统
 
-*   [yn197/k8s-study](https://github.com/yn197/k8s-study) - k8s学习笔记
+*   [Sangyang-qu8uu/k8s-study](https://github.com/Sangyang-qu8uu/k8s-study) - k8s学习笔记
 
 *   [rick-lzr/catch-cat](https://github.com/rick-lzr/catch-cat) -
 
@@ -9470,7 +9472,7 @@
 
 *   [3kanAlpha/hololive-asmr](https://github.com/3kanAlpha/hololive-asmr) - ホロライブのASMR配信検索サービス
 
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往 - 友链接力
 
 *   [zkeq/icodeq-api](https://github.com/zkeq/icodeq-api) - 自用 API 地址
 
@@ -10097,8 +10099,6 @@
 *   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
 *   [dennyzhang/cheatsheet-docker-A4](https://github.com/dennyzhang/cheatsheet-docker-A4) - :book: Docker CheatSheets In A4
-
-*   [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 
 *   [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 
