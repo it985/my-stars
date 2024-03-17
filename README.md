@@ -986,7 +986,7 @@
 
 *   [lovasoa/react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
 
-*   [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+*   [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 
 *   [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - 📝 HTML to React parser.
 
@@ -1373,8 +1373,6 @@
 *   [Jstarfish/JavaKeeper](https://github.com/Jstarfish/JavaKeeper) - ✍️  Java 工程师必备架构体系知识总结：涵盖分布式、微服务、RPC等互联网公司常用架构，以及数据存储、缓存、搜索等必备技能
 
 *   [AlgorithmCrackers/Interview-Questions](https://github.com/AlgorithmCrackers/Interview-Questions) - List of all the Interview questions practiced from online resources and books
-
-*   [DreamOfTheRedChamber/leetcode](https://github.com/DreamOfTheRedChamber/leetcode) -
 
 *   [xiaoqi6666/NYCSDE](https://github.com/xiaoqi6666/NYCSDE) - 公众号【码农田小齐】的分类合集
 
@@ -4352,7 +4350,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -4469,6 +4467,8 @@
 *   [valkjsaaa/auto-bilibili-recorder](https://github.com/valkjsaaa/auto-bilibili-recorder) - Automatically record, burn danmaku, and transcode Bilibili live streams
 
 *   [CharlesPikachu/DecryptLogin](https://github.com/CharlesPikachu/DecryptLogin) - DecryptLogin: APIs for loginning some websites by using requests.
+
+*   [DreamOfTheRedChamber/leetcode](https://github.com/DreamOfTheRedChamber/leetcode) -
 
 *   [DivyaGodayal/CoderChef-Kitchen](https://github.com/DivyaGodayal/CoderChef-Kitchen) - The official repository for our programming kitchen which consists of 50+ delicious programming reci
 
