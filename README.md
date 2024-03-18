@@ -4350,7 +4350,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -8094,7 +8094,7 @@
 
 *   [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 
-*   [ClassmateLin/proxy\_pool](https://github.com/ClassmateLin/proxy_pool) - A service based on Go that regularly crawls free IPs and provides API interfaces. Support Docker one
+*   [unkown-ai/proxy\_pool](https://github.com/unkown-ai/proxy_pool) - A service based on Go that regularly crawls free IPs and provides API interfaces. Support Docker one
 
 *   [zu1k/proxypool](https://github.com/zu1k/proxypool) - Automatically crawls proxy nodes on the public internet, de-duplicates and tests for usability and t
 
@@ -9436,11 +9436,11 @@
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
-*   [ClassmateLin/zzdns](https://github.com/ClassmateLin/zzdns) - A fast local DNS resolver built in Rust for a better web experience. Support Docker one-click deploy
+*   [unkown-ai/zzdns](https://github.com/unkown-ai/zzdns) - A fast local DNS resolver built in Rust for a better web experience. Support Docker one-click deploy
 
-*   [ClassmateLin/cfdns](https://github.com/ClassmateLin/cfdns) - A local DNS server, used to test Cloudflare CDN latency and speed, get the fastest IP (IPv4).一个本地DNS
+*   [unkown-ai/cfdns](https://github.com/unkown-ai/cfdns) - A local DNS server, used to test Cloudflare CDN latency and speed, get the fastest IP (IPv4).一个本地DNS
 
-*   [ClassmateLin/douyin-downloader](https://github.com/ClassmateLin/douyin-downloader) - Cross-platform douyin video downloader built with tauri. 跨平台抖音视频下载器, 使用tauri构建。
+*   [unkown-ai/douyin-downloader](https://github.com/unkown-ai/douyin-downloader) - Cross-platform douyin video downloader built with tauri. 跨平台抖音视频下载器, 使用tauri构建。
 
 *   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
