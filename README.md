@@ -647,7 +647,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -719,7 +719,7 @@
 
 *   [y-young/nazurin](https://github.com/y-young/nazurin) - 🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illust
 
-*   [akynazh/jvav](https://github.com/akynazh/jvav) - Useful tools for Jav. Supports Python library operations and command-line usage, with additional pro
+*   [akynazh/jvav](https://github.com/akynazh/jvav) - Useful tools for Jav\[CMD\&LIB].
 
 *   [BlueSkyXN/189Cloud-Checkin](https://github.com/BlueSkyXN/189Cloud-Checkin) - 中国电信 189 天翼 云盘 网盘 签到 以及推送至TG（Telegram）
 
@@ -731,7 +731,7 @@
 
 *   [googidaddy/bili-trash-bin](https://github.com/googidaddy/bili-trash-bin) - a pro tool for video porter.
 
-*   [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A Telegram bot that can be used to search for various movie magnet links, supporting features such a
+*   [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching.
 
 *   [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 
