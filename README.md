@@ -515,8 +515,6 @@
 
 *   [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场
 
-*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
-
 *   [ykxVK8yL5L/pikpak2aliyun](https://github.com/ykxVK8yL5L/pikpak2aliyun) - 转存PikPak到阿里云盘
 
 *   [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
@@ -1985,7 +1983,7 @@
 
 ## TypeScript
 
-*   [saasfly/saasfly](https://github.com/saasfly/saasfly) - Don't  buy boilerplate or template anymore! A magic trip start with `bun create saasfly`
+*   [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next Template! Don't  buy boilerplate or template anymore! A magic trip start with \`bun create
 
 *   [q2316367743/es-client](https://github.com/q2316367743/es-client) - elasticsearch客户端，issue请前往码云：https://gitee.com/qiaoshengda/es-client
 
@@ -3174,8 +3172,6 @@
 *   [J1ong/FilmSys](https://github.com/J1ong/FilmSys) - 一个使用Vue全家桶和后台Express框架结合Mysql数据库搭建起来的移动端电影售票和管理系统，实现了热映、即将上映、电影和影院全局搜索、评论、选座、购票、点赞、收藏、订单等一系列购票和管理流程功
 
 *   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-
-*   [eric-gitta-moore/chaoxing-sign-app](https://github.com/eric-gitta-moore/chaoxing-sign-app) - 学习通第三方版APP。超星学习通签到app端，多账号批量签到，拍照签到（任选照片）、位置签到（任选位置）、二维码签到（无视十秒）、普通签到、手势签到、签到码签到
 
 *   [Nash-x9/watermark](https://github.com/Nash-x9/watermark) - Vue3 Watermark
 
@@ -4659,7 +4655,7 @@
 
 *   [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文，欢迎Fork，你也可以通过Pull Request参与编辑。
 
-*   [tangweikun/awesome-leetcode](https://github.com/tangweikun/awesome-leetcode) - :nail\_care: A collection of awesome leetcode solutions
+*   [tangweikun/awesome-leetcode](https://github.com/tangweikun/awesome-leetcode) - 💄 A collection of awesome leetcode solutions
 
 *   [ProtoTeam/blog](https://github.com/ProtoTeam/blog) - 蚂蚁数据体验技术团队的文章仓库
 
@@ -5315,7 +5311,7 @@
 
 *   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
 
-*   [dromara/easy-es](https://github.com/dromara/easy-es) - An easier-to-use elasticsearch engine framework, the bottom layer adopts RestHighLevelClient, API de
+*   [dromara/easy-es](https://github.com/dromara/easy-es) - A foolproof Elasticsearch ORM framework that is easy to use, requires minimal coding, and is highly
 
 *   [Nikati/WebStack-Guns-NKT](https://github.com/Nikati/WebStack-Guns-NKT) -  ❤️ 一个开源的网址导航网站项目，后台springboot 在线DEMO https://zywhs.club/(已停止运营)
 
@@ -5974,6 +5970,8 @@
 *   [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
+
+*   [eric-gitta-moore/chaoxing-sign-app](https://github.com/eric-gitta-moore/chaoxing-sign-app) - 学习通第三方版APP。超星学习通签到app端，多账号批量签到，拍照签到（任选照片）、位置签到（任选位置）、二维码签到（无视十秒）、普通签到、手势签到、签到码签到
 
 *   [bd-yczi/Girlfriends\_In\_HTML](https://github.com/bd-yczi/Girlfriends_In_HTML) - 通关《完蛋！我被美女包围了》这款游戏后，我用html+css+js三件套为我的女友们做了一个网页。
 
@@ -9432,6 +9430,8 @@
 ## Rust
 
 *   [cncases/cases](https://github.com/cncases/cases) - 中国裁判文书网本地搜索
+
+*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
