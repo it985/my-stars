@@ -3803,7 +3803,7 @@
 
 *   [dafengzhen/youdeyiwu](https://github.com/dafengzhen/youdeyiwu) - youdeyiwu is an open-source lightweight forum.
 
-*   [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next Template! Don't  buy boilerplate or template anymore! A magic trip start with \`bun create
+*   [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next Template or Landingpage ! Don't  buy boilerplate or template anymore! A magic trip start w
 
 *   [q2316367743/es-client](https://github.com/q2316367743/es-client) - elasticsearch客户端，issue请前往码云：https://gitee.com/qiaoshengda/es-client
 
