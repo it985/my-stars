@@ -661,6 +661,8 @@
 
 *   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web A
 
+*   [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and mo
+
 *   [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 *   [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for maj
@@ -1683,8 +1685,6 @@
 
 *   [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming lang
 
-*   [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and mo
-
 *   [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, and cogent 2D and 3D apps that run on
 
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -2339,7 +2339,7 @@
 
 *   [rcy1314/AI-RSS-feeds](https://github.com/rcy1314/AI-RSS-feeds) -
 
-*   [publish-helper/publish-helper-gui](https://github.com/publish-helper/publish-helper-gui) - 发布辅助器-电影/剧集/短剧(GUI+API版)
+*   [publish-helper/publish-helper](https://github.com/publish-helper/publish-helper) - 发布辅助器-电影/剧集/短剧
 
 *   [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio source separation, generate lyrics, chords, beat.
 
@@ -2505,7 +2505,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
