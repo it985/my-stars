@@ -2275,6 +2275,8 @@
 
 *   [pea3nut/Pxer](https://github.com/pea3nut/Pxer) - A tool for pixiv.net. 人人可用的P站爬虫
 
+*   [stevenjoezhang/bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 哔哩哔哩视频下载器 | Yet another video downloader for Bilibili
+
 ## Vue
 
 *   [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
@@ -2557,7 +2559,7 @@
 
 *   [Dolov/chrome-github-2fa](https://github.com/Dolov/chrome-github-2fa) - Easy GitHub 2FA authentication.
 
-*   [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing) - 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
+*   [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing) - AI画图。每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
 *   [Daydreamer-riri/vscode-ext-packages](https://github.com/Daydreamer-riri/vscode-ext-packages) - Helps JavaScript developers managing dependencies with package.json.
 
@@ -3741,6 +3743,8 @@
 
 *   [MunMunMiao/BilibiliVideoDownload](https://github.com/MunMunMiao/BilibiliVideoDownload) - Bilibili video download | 哔哩哔哩视频下载 | HDR | 8K
 
+*   [liqi0816/bilitwin](https://github.com/liqi0816/bilitwin) - bilibili merged flv+mp4+ass+enhance / 哔哩哔哩: 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强, 原生appse
+
 ## Shell
 
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -4665,7 +4669,7 @@
 
 *   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用
 
-*   [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+*   [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 *   [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) -  💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 
@@ -5711,8 +5715,6 @@
 
 *   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 
-*   [chenjiandongx/photo-go](https://github.com/chenjiandongx/photo-go) - 👼 美女写真图爬虫 Golang 版
-
 *   [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images) - 🕸  Show container images used in the cluster.
 
 *   [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -5923,7 +5925,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -7069,17 +7071,11 @@
 
 *   [EmptyWalletException/pythonUtils](https://github.com/EmptyWalletException/pythonUtils) - python语言写的bing图片爬虫
 
-*   [chenjiandongx/photo-trio](https://github.com/chenjiandongx/photo-trio) - 👲 美女写真图爬虫 trio 版
-
-*   [chenjiandongx/emoji.py](https://github.com/chenjiandongx/emoji.py) - 🔍 emoji 表情命令行搜索工具
-
 *   [chenjiandongx/cup-size](https://github.com/chenjiandongx/cup-size) - 👀 关于女性文胸尺码的深入探讨
 
 *   [chenjiandongx/torrent-cli](https://github.com/chenjiandongx/torrent-cli) - 🔨 磁力获取器命令行工具
 
 *   [chenjiandongx/async-bili-spider](https://github.com/chenjiandongx/async-bili-spider) - 📹 B 站异步爬虫初体验
-
-*   [chenjiandongx/photo-asyncio](https://github.com/chenjiandongx/photo-asyncio) - 🙉 美女写真图爬虫 asyncio 版
 
 *   [chenjiandongx/soksaccounts](https://github.com/chenjiandongx/soksaccounts) - 🔥 Shadowsocks 账号爬虫
 
@@ -7242,6 +7238,10 @@
 *   [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
 
 *   [acgnhiki/blrec](https://github.com/acgnhiki/blrec) - Bilibili Live Streaming Recorder  哔哩哔哩直播录制
+
+*   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api
+
+*   [srx-2000/spider\_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，
 
 ## Dart
 
