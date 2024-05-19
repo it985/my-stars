@@ -3747,7 +3747,7 @@
 
 *   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
 
-*   [sudojia/scripts](https://github.com/sudojia/scripts) - 基于 GitHub Actions 签到 SSPANEL 面板、掘金社区，支持多账号多网站。
+*   [sudojia/scripts](https://github.com/sudojia/scripts) - 基于 GitHub Actions 签到 SSPANEL 面板、掘金社区、百度贴吧、阿里云盘等支持多账号
 
 *   [0wQ/onedrive-list](https://github.com/0wQ/onedrive-list) -
 
