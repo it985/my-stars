@@ -1079,7 +1079,7 @@
 
 *   [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 
-*   [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+*   [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 
 *   [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 
