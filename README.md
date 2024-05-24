@@ -175,7 +175,7 @@
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
-*   [caorushizi/mediago](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
+*   [caorushizi/mediago](https://github.com/caorushizi/mediago) - m3u8\[m3u8-downloader] 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 
 *   [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 
