@@ -221,7 +221,7 @@
 
 *   [istommao/Cryptography](https://github.com/istommao/Cryptography) - Online Cryptography Toolbox
 
-*   [lengyibai/wzry](https://github.com/lengyibai/wzry) - 🌈基于 Vue3+TS的王者荣耀图鉴（公测中...）🚀
+*   [lengyibai/wzry](https://github.com/lengyibai/wzry) - 🌈基于 Vue3+TS的王者荣耀图鉴（公测中...随时提交代码）🚀
 
 *   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
