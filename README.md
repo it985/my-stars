@@ -7017,7 +7017,7 @@
 
 *   [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks
 
-*   [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+*   [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 
 *   [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 
