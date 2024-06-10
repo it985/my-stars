@@ -1297,6 +1297,8 @@
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
 
+*   [eric-gitta-moore/chaoxing-sign-app](https://github.com/eric-gitta-moore/chaoxing-sign-app) - 学习通第三方版。超星学习通全平台，多账号批量签到，拍照签到（任选照片）、位置签到（任选位置）、二维码签到、普通签到、手势签到、签到码签到
+
 *   [bd-yczi/Girlfriends\_In\_HTML](https://github.com/bd-yczi/Girlfriends_In_HTML) - 通关《完蛋！我被美女包围了》这款游戏后，我用html+css+js三件套为我的女友们做了一个网页。
 
 *   [BlueSkyXN/Comprehensive-Network-Defense](https://github.com/BlueSkyXN/Comprehensive-Network-Defense) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
@@ -3667,7 +3669,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -6041,7 +6043,7 @@
 
 *   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 
-*   [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA app & Origin、战网国际服、Epic、育碧、Riot Games下载加速。
+*   [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA app & Origin、战网、Epic、育碧、Riot Games下载加速。
 
 *   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
@@ -6138,8 +6140,6 @@
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
 *   [LaoYutang/clash-and-dashboard](https://github.com/LaoYutang/clash-and-dashboard) - clash-dashboard的修改版，与clash一起打包成docker镜像
-
-*   [eric-gitta-moore/chaoxing-sign-app](https://github.com/eric-gitta-moore/chaoxing-sign-app) - 学习通第三方版。超星学习通全平台，多账号批量签到，拍照签到（任选照片）、位置签到（任选位置）、二维码签到、普通签到、手势签到、签到码签到
 
 *   [duan602728596/48tools](https://github.com/duan602728596/48tools) - 48工具，提供公演、口袋48直播录源，公演、口袋48录播下载，封面下载，B站直播抓取，B站视频下载，A站直播抓取，A站视频下载，抖音视频下载，视频截取，视频导出gif，视频合并等功能。口袋48的pc版
 
