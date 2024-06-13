@@ -5283,7 +5283,7 @@
 
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 
-*   [mumuy/browser](https://github.com/mumuy/browser) - 浏览器检测工具 - Useragent分析/浏览器识别/浏览器判断/UA解析/用户代理信息\_Useragent analysis tool
+*   [mumuy/browser](https://github.com/mumuy/browser) - 浏览器检测 - Useragent分析/浏览器识别/浏览器判断/UA解析/用户代理信息\_Useragent analysis tool
 
 *   [arokor/barn](https://github.com/arokor/barn) - Fast, atomic persistent storage layer on top of localstorage
 
