@@ -97,8 +97,6 @@
 
 *   [ccmuyuu/bilibili-emotes](https://github.com/ccmuyuu/bilibili-emotes) - bilibili已发布的表情包
 
-*   [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
-
 *   [youwen21/flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader) - An M3U8 download tool with a user interface that can be played locally.  一个带用户界面的 M3U8 下载工具，可本地播放已下
 
 *   [jikeytang/Idea-Settings](https://github.com/jikeytang/Idea-Settings) - 各个编辑器的配置收集
@@ -1227,6 +1225,8 @@
 
 *   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方 registry 一键部署Docker、K8s、Quay、Ghcr镜像加速\管理服务.支持部署到Render
 
+*   [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
+
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
 *   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
@@ -2317,7 +2317,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
