@@ -1307,7 +1307,7 @@
 
 *   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a
 
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 
 *   [bd-yczi/Girlfriends\_In\_HTML](https://github.com/bd-yczi/Girlfriends_In_HTML) - 通关《完蛋！我被美女包围了》这款游戏后，我用html+css+js三件套为我的女友们做了一个网页。
 
@@ -4653,7 +4653,7 @@
 
 *   [LetTTGACO/yuque-hexo-example](https://github.com/LetTTGACO/yuque-hexo-example) - yuque-hexo配置示例
 
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
 *   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5
 
@@ -4867,7 +4867,7 @@
 
 *   [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 
-*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented DevOps platform
 
 *   [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 
@@ -6661,7 +6661,7 @@
 
 *   [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 
-*   [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+*   [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 
 *   [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 
