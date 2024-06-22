@@ -4291,7 +4291,7 @@
 
 *   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - :triangular\_flag\_on\_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 
-*   [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 完全免费开源，基于 AIOHTTP 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具
+*   [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具
 
 *   [SoftMeng/stable-diffusion-prompt-pai](https://github.com/SoftMeng/stable-diffusion-prompt-pai) -  generate a good stable diffusion prompt by alibaba-pai
 
@@ -4333,7 +4333,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -7955,7 +7955,7 @@
 
 *   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - 基于docker一键安装sing-box服务端，并自动生成vmess、naiveproxy、hysteria2节点
 
-*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支付alpine系统，集成argo固定临时隧道功能，支持多节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持alpine系统，集成argo固定临时隧道功能，支持多节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
 
 *   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
 
