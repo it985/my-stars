@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Astro](#astro)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Python](#python)
-*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [HTML](#html)
@@ -87,6 +87,56 @@
 *   [Objective-C++](#objective-c-1)
 *   [Vim script](#vim-script-1)
 *   [Hack](#hack)
+
+## Rust
+
+*   [auula/typikon](https://github.com/auula/typikon) - Typikon lets you use markdown to write your online books.
+
+*   [Zxilly/OnedriveHostsGenerator](https://github.com/Zxilly/OnedriveHostsGenerator) - A Page include Onenote for Windows' hosts
+
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+
+*   [cncases/cases](https://github.com/cncases/cases) - 中国裁判文书网本地搜索
+
+*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
+*   [LJason77/bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 自动下载 B站 视频
+
+*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+
+*   [NPCDW/yuque\_sae](https://github.com/NPCDW/yuque_sae) - 语雀个人版与空间版文档导出，以及标准 markdown 格式化
+
+*   [yangwenmai/learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 > Rust Programming Tutorial, include articles, interview, example, problems.
+
+*   [douchuan/algorithm](https://github.com/douchuan/algorithm) - Algorithms written in Rust
+
+*   [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
+
+*   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
+
+*   [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
+
+*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
+
+*   [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+
+*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
+
+*   [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
+
+*   [wormtql/genshin\_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts au
 
 ## Java
 
@@ -1830,7 +1880,7 @@
 
 *   [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 
-*   [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 56 stars 7 forks.
+*   [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 57 stars 7 forks.
 
 *   [bahmutov/npm-install](https://github.com/bahmutov/npm-install) - GitHub Action for install npm dependencies with caching without any configuration
 
@@ -3463,8 +3513,6 @@
 *   [zkeq/icodeq-bpi](https://github.com/zkeq/icodeq-bpi) - API 的第二个仓库
 
 *   [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
-
-*   [idealclover/Friend-Link-House](https://github.com/idealclover/Friend-Link-House) - 翠翠的友链屋 - RSS 聚合友链 Blog 文章
 
 ## Astro
 
@@ -5708,7 +5756,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -7023,54 +7071,6 @@
 *   [0honus0/1024-Autoreply](https://github.com/0honus0/1024-Autoreply) - 1024论坛 自动回帖
 
 *   [djhdj1/AutoApiP](https://github.com/djhdj1/AutoApiP) - E5 自动续期
-
-## Rust
-
-*   [Zxilly/OnedriveHostsGenerator](https://github.com/Zxilly/OnedriveHostsGenerator) - A Page include Onenote for Windows' hosts
-
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-
-*   [cncases/cases](https://github.com/cncases/cases) - 中国裁判文书网本地搜索
-
-*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-*   [LJason77/bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 自动下载 B站 视频
-
-*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
-
-*   [NPCDW/yuque\_sae](https://github.com/NPCDW/yuque_sae) - 语雀个人版与空间版文档导出，以及标准 markdown 格式化
-
-*   [yangwenmai/learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 > Rust Programming Tutorial, include articles, interview, example, problems.
-
-*   [douchuan/algorithm](https://github.com/douchuan/algorithm) - Algorithms written in Rust
-
-*   [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
-
-*   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
-
-*   [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
-
-*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
-
-*   [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-
-*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
-
-*   [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
-
-*   [wormtql/genshin\_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts au
 
 ## miscellaneous
 
