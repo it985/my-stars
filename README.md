@@ -1474,7 +1474,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -1714,7 +1714,7 @@
 
 *   [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 
-*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system i
 
 *   [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
 
@@ -8044,7 +8044,7 @@
 
 *   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/mhtml/md/pdf/docx文件
 
-*   [rcy1314/noisework](https://github.com/rcy1314/noisework) - 私人主页展示
+*   [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导🎉 添加右键弹出菜单，RSS动态文章卡片，📫ADS广告位
 
 *   [jianjianai/ms-copilot-play](https://github.com/jianjianai/ms-copilot-play) - Cloudflare Worker 的 Microsoft Copilot 加速服务。Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来
 
