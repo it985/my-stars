@@ -4010,7 +4010,7 @@
 
 *   [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on
 
-*   [liyupi/mianshiya](https://github.com/liyupi/mianshiya) - 干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮
+*   [liyupi/mianshiya](https://github.com/liyupi/mianshiya) - 持续维护的面试刷题网站，帮你拿到满意 offer！⭐️ 2024年最新Java面试题、前端面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算
 
 *   [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 
