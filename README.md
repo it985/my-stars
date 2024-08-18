@@ -2931,8 +2931,6 @@
 
 *   [galaxy-s10/billd-live](https://github.com/galaxy-s10/billd-live) - 基于Vue3 + WebRTC + Node + SRS搭建的直播间
 
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
-
 *   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine Web
 
 *   [ljxi/NetworkPanel](https://github.com/ljxi/NetworkPanel) - 测试您的网速，多地查询您的IP地址，同时具备网络延迟实时检测，流量杀手，流量消耗器，流量消失器
@@ -3276,6 +3274,8 @@
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、
 
 *   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 
 *   [mika-cn/maoxian-web-clipper](https://github.com/mika-cn/maoxian-web-clipper) - A web extension to clip information from web page. Save it to your local machine to avoid informatio
 
@@ -10017,7 +10017,7 @@
 
 *   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structur
 
-*   [sudojia/scripts](https://github.com/sudojia/scripts) -
+*   [sudojia/scripts](https://github.com/sudojia/scripts) - 基于青龙面板的每日签到自动化脚本
 
 *   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
 
@@ -10225,7 +10225,7 @@
 
 *   [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
 
-*   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
+*   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 
 *   [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 
