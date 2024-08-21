@@ -1211,7 +1211,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -3241,7 +3241,7 @@
 
 *   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, se
 
-*   [yonggekkk/Cloudflare\_vless\_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare代理脚本，支持Vless与Trojan，无需变量设置，小白专用。本项目不依赖订阅器、节点转换等第三方外链引用。支持单节点链接、多节点订阅分享。多平台一键脚本包括CF优选域名、CF优
+*   [yonggekkk/Cloudflare\_vless\_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare代理脚本，支持Vless与Trojan，无需变量设置，小白专用。支持单节点链接、多节点订阅分享。多平台一键脚本包括CF优选域名、CF优选官方IP、CF优选反代IP
 
 *   [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 中文网字计划 (Chinese Webfont Project) 是一个免费的中文 web 字体库，支持在线加载及查看字体信息。Explore our free CJK web font librar
 
@@ -7917,7 +7917,7 @@
 
 *   [ccmuyuu/bilibili-emotes](https://github.com/ccmuyuu/bilibili-emotes) - bilibili已发布的表情包
 
-*   [youwen21/flybird-downloader](https://github.com/youwen21/flybird-downloader) - A M3U8 download tool with user interface.  一个带用户界面的 M3U8 下载工具，m3u8点播, HLS m3u8直播下载.
+*   [youwen21/flybird-downloader](https://github.com/youwen21/flybird-downloader) - 一个带用户界面的视频下载工具，可下载m3u8 和 mpd格式视频.
 
 *   [jikeytang/Idea-Settings](https://github.com/jikeytang/Idea-Settings) - 各个编辑器的配置收集
 
