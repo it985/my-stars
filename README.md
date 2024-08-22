@@ -91,6 +91,10 @@
 
 ## miscellaneous
 
+*   [sayidhe/1807-recipe](https://github.com/sayidhe/1807-recipe) - Recipes in 1807
+
+*   [codeman008/Excellent\_person\_blog](https://github.com/codeman008/Excellent_person_blog) - 计算机相关优秀的个人博客：C++，AI，java，前端，ios
+
 *   [wukongdaily/DockerTarBuilder](https://github.com/wukongdaily/DockerTarBuilder) - 它是一个工作流。可快速构建指定架构/平台的docker镜像
 
 *   [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
@@ -1255,6 +1259,8 @@
 
 ## Python
 
+*   [cap153/bili-sync-yt-dlp](https://github.com/cap153/bili-sync-yt-dlp) - bili-sync的重写，使用yt-dlp结合aria2下载视频，仅下载收藏夹视频和海报
+
 *   [bosichong/suiyan](https://github.com/bosichong/suiyan) - 碎言静态Blog，码兄累了吗？累了就休息一下，为未来的自己留下一些碎言片语吧。
 
 *   [QuiltMeow/KeepAliveE5](https://github.com/QuiltMeow/KeepAliveE5) - E5 開發者訂閱 API 定期呼叫工具
@@ -1565,7 +1571,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -2858,8 +2864,6 @@
 *   [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 
 *   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fu
-
-*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
 
 ## Go
 
@@ -4308,6 +4312,8 @@
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://pa
 
 *   [N3-components/N3-components](https://github.com/N3-components/N3-components) - N3-components , Powerful Vue UI Library.
+
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 
 *   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
 
@@ -6080,8 +6086,6 @@
 *   [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码
 
 *   [PixelsCommander/HTML-GL](https://github.com/PixelsCommander/HTML-GL) - Get as many FPS as you need and amazing effects by rendering HTML/CSS in WebGL
-
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 
 *   [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf) - This repo isn't maintained anymore as phantomjs got dreprecated a long time ago. Please migrate to h
 
@@ -7880,8 +7884,6 @@
 *   [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 
 *   [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artw
-
-*   [UvDream/MdEditor](https://github.com/UvDream/MdEditor) -
 
 ## Java
 
@@ -9906,8 +9908,6 @@
 *   [Kerr1Gan/Flesh](https://github.com/Kerr1Gan/Flesh) - Android上福利满满的app，宅男神器
 
 *   [EspoirX/NicePhoto](https://github.com/EspoirX/NicePhoto) - 基于 Kotlin 开发的 一款超简单的图片浏览+设置壁纸+图片下载的App。
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号
 
 ## Shell
 
