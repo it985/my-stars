@@ -57,7 +57,7 @@ while (start < sortedAllRepositories.length) {
 <% result.forEach(({ language, repositories }) => { %>
 ## <%= language %>
   <% repositories.forEach(repo => { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description ? repo.description.slice(0, 100) : '' %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description ? repo.description.slice(0, 80) : '' %>
   <% }); %>
 <% }); %>
 
