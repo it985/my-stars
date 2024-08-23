@@ -6,46 +6,46 @@
 ## Table of Contents
 
 <% 
-// 预处理所有仓库，存储所有语言的仓库
-const allRepositories = [];
-let totalRepositories = 0;
+// 将所有仓库按语言存储到一个数组中
+const languageEntries = Array.from(stars);
+const languageRepositories = new Map();
 
-// 将仓库数据按语言存储到 allRepositories 中
-stars.forEach(([language, repositories]) => {
+// 初始化语言和仓库数据
+languageEntries.forEach(([language, repositories]) => {
   const sortedRepositories = repositories.slice().sort((a, b) => b.stargazers_count - a.stargazers_count);
-  allRepositories.push({ language, repositories: sortedRepositories });
-  totalRepositories += sortedRepositories.length;
+  languageRepositories.set(language, sortedRepositories);
 });
 
-// 扁平化所有仓库并进行排序
-const flattenedRepositories = allRepositories.flatMap(({ repositories }) => repositories);
-const sortedFlattenedRepositories = flattenedRepositories.sort((a, b) => b.stargazers_count - a.stargazers_count);
+// 扁平化并全局排序所有仓库
+const allRepositories = [];
+languageRepositories.forEach((repositories, language) => {
+  allRepositories.push(...repositories.map(repo => ({ ...repo, language })));
+});
+const sortedAllRepositories = allRepositories.sort((a, b) => b.stargazers_count - a.stargazers_count);
 
-// 存储每种语言的前 100 个仓库
+// 用于存储最终结果
 const result = [];
+const languageCache = new Map();
 let start = 0;
 
-while (start < sortedFlattenedRepositories.length) {
+// 将排序后的仓库分组
+while (start < sortedAllRepositories.length) {
   let end = start + 100;
-  const topRepositories = sortedFlattenedRepositories.slice(start, end);
+  const topRepositories = sortedAllRepositories.slice(start, end);
 
   if (topRepositories.length > 0) {
-    // 找到所有仓库在各自语言下
-    const languageCounts = {};
+    const languageCounts = new Map();
+
     topRepositories.forEach(repo => {
-      allRepositories.forEach(({ language, repositories }) => {
-        if (repositories.includes(repo)) {
-          languageCounts[language] = (languageCounts[language] || 0) + 1;
-        }
-      });
+      if (languageCounts.has(repo.language)) {
+        languageCounts.set(repo.language, languageCounts.get(repo.language) + 1);
+      } else {
+        languageCounts.set(repo.language, 1);
+      }
     });
 
-    Object.entries(languageCounts).forEach(([language, count]) => {
-      const languageRepos = topRepositories.filter(repo => {
-        const langRepos = allRepositories.find(entry => entry.language === language).repositories;
-        return langRepos.includes(repo);
-      });
-
+    languageCounts.forEach((count, language) => {
+      const languageRepos = topRepositories.filter(repo => repo.language === language);
       result.push({ language, repositories: languageRepos });
     });
   }
