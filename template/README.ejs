@@ -5,15 +5,59 @@
 
 ## Table of Contents
 
-<% for (let [language, repositories] of stars) { %>
+<% 
+// 预处理所有仓库，存储所有语言的仓库
+const allRepositories = [];
+let totalRepositories = 0;
+
+// 将仓库数据按语言存储到 allRepositories 中
+stars.forEach(([language, repositories]) => {
+  const sortedRepositories = repositories.slice().sort((a, b) => b.stargazers_count - a.stargazers_count);
+  allRepositories.push({ language, repositories: sortedRepositories });
+  totalRepositories += sortedRepositories.length;
+});
+
+// 扁平化所有仓库并进行排序
+const flattenedRepositories = allRepositories.flatMap(({ repositories }) => repositories);
+const sortedFlattenedRepositories = flattenedRepositories.sort((a, b) => b.stargazers_count - a.stargazers_count);
+
+// 存储每种语言的前 100 个仓库
+const result = [];
+let start = 0;
+
+while (start < sortedFlattenedRepositories.length) {
+  let end = start + 100;
+  const topRepositories = sortedFlattenedRepositories.slice(start, end);
+
+  if (topRepositories.length > 0) {
+    // 找到所有仓库在各自语言下
+    const languageCounts = {};
+    topRepositories.forEach(repo => {
+      allRepositories.forEach(({ language, repositories }) => {
+        if (repositories.includes(repo)) {
+          languageCounts[language] = (languageCounts[language] || 0) + 1;
+        }
+      });
+    });
+
+    Object.entries(languageCounts).forEach(([language, count]) => {
+      const languageRepos = topRepositories.filter(repo => {
+        const langRepos = allRepositories.find(entry => entry.language === language).repositories;
+        return langRepos.includes(repo);
+      });
+
+      result.push({ language, repositories: languageRepos });
+    });
+  }
+
+  start += 100;
+}
+%>
+
+<% result.forEach(({ language, repositories }) => { %>
 ## <%= language %>
-  <% 
-    // 对每种语言下的仓库进行排序
-    repositories.sort((a, b) => b.stargazers_count - a.stargazers_count);
-    // 只取前 100 个仓库
-    const topRepositories = repositories.slice(0, 100);
-  %>
-  <% for (let repo of topRepositories) { %>
+  <% repositories.forEach(repo => { %>
 - [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description ? repo.description.slice(0, 100) : '' %>
-  <% } %>
-<% } %>
+  <% }); %>
+<% }); %>
+
