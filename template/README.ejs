@@ -5,9 +5,15 @@
 
 ## Table of Contents
 
-<% for(let [language, repositories] of stars) { %>
+<% for (let [language, repositories] of stars) { %>
 ## <%= language %>
-  <% for(let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description ? repo.description.slice(0, 50 ): '' %>
+  <% 
+    // 对每种语言下的仓库进行排序
+    repositories.sort((a, b) => b.stargazers_count - a.stargazers_count);
+    // 只取前 100 个仓库
+    const topRepositories = repositories.slice(0, 100);
+  %>
+  <% for (let repo of topRepositories) { %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description ? repo.description.slice(0, 100) : '' %>
   <% } %>
 <% } %>
