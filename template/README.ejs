@@ -1,11 +1,19 @@
-🤩 我的star列表，0,8,16自动更新 🤩
-<div>
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
-</div><br>
-
-## Table of Contents
-
 <% 
+const fs = require('fs');
+const path = require('path');
+
+// 文件存储路径
+const outputDir = '/';
+if (!fs.existsSync(outputDir)) {
+  fs.mkdirSync(outputDir);
+}
+
+// 存储 README 内容
+let readmeContent = `🤩 我的star列表，0,8,16自动更新 🤩
+<br>
+
+## Table of Contents\n`;
+
 // 将所有仓库按语言存储到一个数组中
 const languageEntries = Array.from(stars);
 const languageRepositories = new Map();
@@ -16,22 +24,22 @@ languageEntries.forEach(([language, repositories]) => {
   languageRepositories.set(language, sortedRepositories);
 });
 
-// 用于存储最终结果
-const result = [];
-
-// 遍历每种语言
+// 遍历每种语言并生成文件和 README 内容
 languageRepositories.forEach((repositories, language) => {
-  result.push({
-    language,
-    repositories
-  });
+  // 生成语言文件
+  const fileName = `${language.replace(/\s+/g, '-').toLowerCase()}.md`;
+  const filePath = path.join(outputDir, fileName);
+  const fileContent = [
+    `## ${language}`,
+    ...repositories.map(repo => `- [${repo.full_name}](${repo.html_url}) - ${repo.description || ''}`)
+  ].join('\n');
+
+  fs.writeFileSync(filePath, fileContent, 'utf8');
+
+  // 更新 README 内容
+  readmeContent += `- [${language}](docs/${fileName})\n`;
 });
+
+// 写入 README.md 文件
+fs.writeFileSync('README.md', readmeContent, 'utf8');
 %>
-
-<% result.forEach(({ language, repositories }) => { %>
-## <%= language %>
-  <% repositories.forEach(repo => { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
-  <% }); %>
-<% }); %>
-
