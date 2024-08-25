@@ -16,48 +16,22 @@ languageEntries.forEach(([language, repositories]) => {
   languageRepositories.set(language, sortedRepositories);
 });
 
-// 扁平化并全局排序所有仓库
-const allRepositories = [];
-languageRepositories.forEach((repositories, language) => {
-  allRepositories.push(...repositories.map(repo => ({ ...repo, language })));
-});
-const sortedAllRepositories = allRepositories.sort((a, b) => b.stargazers_count - a.stargazers_count);
-
 // 用于存储最终结果
 const result = [];
-const languageCache = new Map();
-let start = 0;
 
-// 将排序后的仓库分组
-while (start < sortedAllRepositories.length) {
-  let end = start + 100;
-  const topRepositories = sortedAllRepositories.slice(start, end);
-
-  if (topRepositories.length > 0) {
-    const languageCounts = new Map();
-
-    topRepositories.forEach(repo => {
-      if (languageCounts.has(repo.language)) {
-        languageCounts.set(repo.language, languageCounts.get(repo.language) + 1);
-      } else {
-        languageCounts.set(repo.language, 1);
-      }
-    });
-
-    languageCounts.forEach((count, language) => {
-      const languageRepos = topRepositories.filter(repo => repo.language === language);
-      result.push({ language, repositories: languageRepos });
-    });
-  }
-
-  start += 100;
-}
+// 遍历每种语言
+languageRepositories.forEach((repositories, language) => {
+  result.push({
+    language,
+    repositories
+  });
+});
 %>
 
 <% result.forEach(({ language, repositories }) => { %>
 ## <%= language %>
   <% repositories.forEach(repo => { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description ? repo.description.slice(0, 50) : '' %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description ? repo.description.slice(0, 30) : '' %>
   <% }); %>
 <% }); %>
 
