@@ -31,7 +31,7 @@ languageRepositories.forEach((repositories, language) => {
 <% result.forEach(({ language, repositories }) => { %>
 ## <%= language %>
   <% repositories.forEach(repo => { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description ? repo.description.slice(0, 30) : '' %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
   <% }); %>
 <% }); %>
 
