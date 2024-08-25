@@ -3,14 +3,23 @@ const fs = require('fs');
 const path = require('path');
 
 // 文件存储路径
-const outputDir = '/';
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir);
+const outputDir = 'docs';
+
+// 清空 docs 目录中的所有文件
+if (fs.existsSync(outputDir)) {
+  fs.readdirSync(outputDir).forEach(file => {
+    const filePath = path.join(outputDir, file);
+    fs.unlinkSync(filePath); // 删除文件
+  });
+} else {
+  fs.mkdirSync(outputDir); // 如果目录不存在，创建目录
 }
 
 // 存储 README 内容
 let readmeContent = `🤩 我的star列表，0,8,16自动更新 🤩
-<br>
+<div>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
+</div><br>
 
 ## Table of Contents\n`;
 
