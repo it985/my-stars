@@ -1,13 +1,16 @@
 <div align="center">
+
 # awesome-stars-eryajf
+
 🤩 我的star列表，每天凌晨自动更新 🤩
+
 </div><br>
 
 ## Table of Contents
 
-<% result.forEach(({ language, repositories }) => { %>
+<% for(let [language, repositories] of stars) { %>
 ## <%= language %>
-  <% repositories.forEach(repo => { %>
+  <% for(let repo of repositories) { %>
 - [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description ? repo.description.slice(0, 50) : '' %>
-  <% }); %>
-<% }); %>
+  <% } %>
+<% } %>
