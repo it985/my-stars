@@ -10916,7 +10916,7 @@
 
 *   [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together li
 
-*   [digoal/blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --de
+*   [digoal/blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone -
 
 ## Objective-C
 
