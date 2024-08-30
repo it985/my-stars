@@ -134,6 +134,8 @@
 
 *   [wdsqjq/FengYunWeather](https://github.com/wdsqjq/FengYunWeather) - 风云天气是Android 平台开源天气 App，采用Kotlin、Room、OKHttp3、 协程等
 
+*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+
 *   [wuyr/intellij-media-player](https://github.com/wuyr/intellij-media-player) - 【🐟摸鱼专用】上班偷偷看视频📺而不会被老板打🔨的IDE插件，适配JetBrains全家桶
 
 *   [JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets.
@@ -529,8 +531,6 @@
 *   [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - \[Forge Mod] Building Tools and Aesthetic Technolog
 
 *   [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
-
-*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 
 *   [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alter
 
@@ -1357,6 +1357,10 @@
 *   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试
 
 *   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the f
+
+*   [isevenluo/github-hosts](https://github.com/isevenluo/github-hosts) - 🔥🔥🔥 本项目定时更新GitHub最新hosts，解决GitHub图片无法显示，加速GitHu
+
+*   [niumoo/down-bit](https://github.com/niumoo/down-bit) - 一个 Java 实现的，多线程，断点续传下载器
 
 ## C\#
 
@@ -3528,8 +3532,6 @@
 
 *   [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-*   [danteswx/fxxk](https://github.com/danteswx/fxxk) - 自用青龙库
-
 *   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 
 *   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and ba
@@ -4264,7 +4266,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mir
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. T
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -5148,7 +5150,7 @@
 
 *   [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 
-*   [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+*   [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python
 
 *   [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 
@@ -8332,6 +8334,8 @@
 
 *   [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
 
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
 ## Solidity
 
 *   [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官
@@ -9608,8 +9612,6 @@
 
 *   [electrode-io/electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
 
-*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
-
 *   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libra
 
 *   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts int
@@ -10635,8 +10637,6 @@
 *   [zonemeen/netease-recent-actions](https://github.com/zonemeen/netease-recent-actions) - 🎧 通过GitHub Action将你的网易云音乐的听歌记录生成一张svg卡片
 
 *   [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 在 Github Profile 上显示你在网易云音乐上的听歌记录
-
-*   [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 
 *   [heroku/node-js-getting-started](https://github.com/heroku/node-js-getting-started) - Getting Started with Node.js on Heroku.
 
