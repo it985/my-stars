@@ -7202,7 +7202,7 @@
 
 *   [bboysoulcn/registry-mirror](https://github.com/bboysoulcn/registry-mirror) - 方便地设置和启动各种镜像仓库代理
 
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN
 
 *   [niucnet/jinri-cp](https://github.com/niucnet/jinri-cp) - jinricp | 韩国BJ | 韩国女主播 | pandatv | 진리컴퍼니 |  jinri
 
