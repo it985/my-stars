@@ -94,7 +94,7 @@
 
 ## JavaScript
 
-*   [14790897/full-forward-proxy](https://github.com/14790897/full-forward-proxy) -
+*   [14790897/full-forward-proxy](https://github.com/14790897/full-forward-proxy) - explore the limit of web proxy
 
 *   [GuanDD123/douyin\_download](https://github.com/GuanDD123/douyin_download) - 抖音主页发布视频/图文批量下载
 
@@ -110,7 +110,7 @@
 
 *   [cmliu/CF-Workers-SpeedTestURL](https://github.com/cmliu/CF-Workers-SpeedTestURL) - 使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址
 
-*   [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于cloudflare worker的telegraph图床，支持图片管理和压缩！
+*   [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于 Cloudflare Worker 的 Telegraph 图床，轻松实现无服务器部署！
 
 *   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fra
 
@@ -2436,7 +2436,7 @@
 
 *   [ccmuyuu/bilibili-emotes](https://github.com/ccmuyuu/bilibili-emotes) - bilibili已发布的表情包
 
-*   [youwen21/flybird-downloader](https://github.com/youwen21/flybird-downloader) - 一个带用户界面的视频下载工具，可下载m3u8 和 mpd格式视频.
+*   [youwen21/flybird-downloader](https://github.com/youwen21/flybird-downloader) - 一个视频下载工具，可下载m3u8视频 、 mpd视频 、 mp4视频和大文件断点续传。
 
 *   [jikeytang/Idea-Settings](https://github.com/jikeytang/Idea-Settings) - 各个编辑器的配置收集
 
@@ -3884,7 +3884,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mir
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. T
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
