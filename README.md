@@ -94,6 +94,8 @@
 
 ## JavaScript
 
+*   [alantang1977/X](https://github.com/alantang1977/X) - 📛本仓库管理者不能保证本仓库内容的合法性、准确性、完整性和有效性，请根据情况自行判断。本仓库内容，
+
 *   [14790897/full-forward-proxy](https://github.com/14790897/full-forward-proxy) - explore the limit of web proxy
 
 *   [GuanDD123/douyin\_download](https://github.com/GuanDD123/douyin_download) - 抖音主页发布视频/图文批量下载
@@ -10231,8 +10233,6 @@
 *   [wulabing/Xray\_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
 
 *   [vcheckzen/KeepAliveE5](https://github.com/vcheckzen/KeepAliveE5) -
-
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖
 
 ## CSS
 
