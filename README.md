@@ -1226,6 +1226,8 @@
 
 *   [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitate
 
+*   [githublitao/api\_automation\_test](https://github.com/githublitao/api_automation_test) - 接口自动化测试平台（老平台移步master\_old分支）
+
 *   [justdjango/django-ecommerce](https://github.com/justdjango/django-ecommerce) - An e-commerce website built with Django
 
 *   [jly8866/archer](https://github.com/jly8866/archer) - 基于inception的自动化SQL操作平台，支持SQL执行、LDAP认证、发邮件、OSC、SQL查
@@ -4489,8 +4491,6 @@
 *   [codingforentrepreneurs/eCommerce](https://github.com/codingforentrepreneurs/eCommerce) - We're going to take you step-by-step to build a mo
 
 *   [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for
-
-*   [githublitao/api\_automation\_test](https://github.com/githublitao/api_automation_test) - 接口自动化测试平台（老平台移步master\_old分支）
 
 *   [django-money/django-money](https://github.com/django-money/django-money) - Money fields for Django forms and models.
 
