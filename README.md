@@ -3214,8 +3214,6 @@
 
 *   [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 
-*   [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Sour
-
 *   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skil
 
 *   [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG
@@ -3888,7 +3886,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mir
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. T
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9018,6 +9016,8 @@
 
 *   [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powe
 
+*   [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Sour
+
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
 *   [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
@@ -11056,7 +11056,7 @@
 
 *   [typelevel/skunk](https://github.com/typelevel/skunk) - A data access library for Scala + Postgres.
 
-*   [tpolecat/doobie](https://github.com/tpolecat/doobie) - Functional JDBC layer for Scala.
+*   [typelevel/doobie](https://github.com/typelevel/doobie) - Functional JDBC layer for Scala.
 
 *   [zio/zio-quill](https://github.com/zio/zio-quill) - Compile-time Language Integrated Queries for Scala
 
