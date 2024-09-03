@@ -246,8 +246,6 @@
 
 *   [mcube-12139/danmaku-game](https://github.com/mcube-12139/danmaku-game) - 弹幕互动游戏。
 
-*   [zhiyu1998/koishi-plugin-r-link-parse](https://github.com/zhiyu1998/koishi-plugin-r-link-parse) - （暂停维护）基于koishi机器人的链接分享解析视频、图片链接/小程序插件，支持：tiktok、bi
-
 *   [linwu-hi/coding-time](https://github.com/linwu-hi/coding-time) - 编程时光主站
 
 *   [Binaryify/vue-tetris](https://github.com/Binaryify/vue-tetris) - Use Vue, Vuex to code Tetris.使用 Vue, Vuex 做俄罗斯方块
@@ -3886,7 +3884,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mir
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. T
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -5351,6 +5349,8 @@
 *   [justjavac/how\_many\_doms](https://github.com/justjavac/how_many_doms) - Archives the number of doms in the website every d
 
 *   [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Note: This is 0.x for widget at https://github.com
+
+*   [zhiyu1998/koishi-plugin-r-link-parse](https://github.com/zhiyu1998/koishi-plugin-r-link-parse) - 基于koishi机器人的链接分享解析视频、图片链接/小程序插件，支持：tiktok、bilibili
 
 *   [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / l
 
@@ -7546,7 +7546,7 @@
 
 *   [Javen205/IJPay](https://github.com/Javen205/IJPay) - IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal
 
-*   [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。
+*   [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau 和 帆软的开源替代。
 
 *   [google/guava](https://github.com/google/guava) - Google core libraries for Java
 
