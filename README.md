@@ -9390,7 +9390,7 @@
 
 *   [la02w/pichub](https://github.com/la02w/pichub) - kaf.im网页还原
 
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于CloudFlare和Telegraph的免费图床，开源、清晰、美观、动画丝滑、玩法多样！
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于CloudFlare和Telegram的免费图床，开源、清晰、美观、动画丝滑、玩法多样！
 
 *   [WolfChen1996/NovelAI-tag-generator](https://github.com/WolfChen1996/NovelAI-tag-generator) -
 
