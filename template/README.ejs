@@ -2,15 +2,29 @@
 
 # awesome-stars-eryajf
 
-🤩 我的star列表，每天凌晨自动更新 🤩
+🤩 我的 Star 列表，每天凌晨自动更新 🤩
 
 </div><br>
 
-## Table of Contents
+## 目录
+
+1. [语言分类](#语言分类)
+2. [贡献](#贡献)
+3. [许可证](#许可证)
+
+## 语言分类
 
 <% for(let [language, repositories] of stars) { %>
-## <%= language %>
+### <%= language %>
   <% for(let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description || '无描述' %>
   <% } %>
 <% } %>
+
+## 贡献
+
+欢迎提出建议和贡献代码！请查看 [贡献指南](CONTRIBUTING.md)。
+
+## 许可证
+
+本项目采用 [MIT 许可证](LICENSE)。
