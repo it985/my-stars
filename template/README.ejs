@@ -1,6 +1,6 @@
 <div align="center">
 
-# my-stars
+# my-stars-
 
 🤩 我的 Star 列表，每天凌晨自动更新 🤩
 
@@ -15,21 +15,26 @@
 ## 语言分类
 
 <% 
-  const languages = Object.keys(stars); 
-  // Initialize an 'Other' category if there are any repositories that don't fall into known languages
-  if (!languages.includes('Other')) {
-    languages.push('Other');
+  // Create a dictionary to store repositories by language
+  let languages = {};
+  
+  for(let [language, repositories] of stars) {
+    if (!language) {
+      language = 'other'; // Default to 'other' if language is undefined
+    }
+    
+    if (!languages[language]) {
+      languages[language] = [];
+    }
+    
+    languages[language] = languages[language].concat(repositories);
   }
   
-  for(let language of languages) { 
-    const repositories = stars[language] || []; // Default to empty array for 'Other'
+  for(let [language, repositories] of Object.entries(languages)) { 
 %>
 ### <%= language %>
   <% for(let repo of repositories) { %>
 - [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
-  <% } %>
-  <% if (repositories.length === 0 && language === 'Other') { %>
-  No repositories found in this category.
   <% } %>
 <% } %>
 
