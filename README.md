@@ -3868,7 +3868,7 @@
 
 *   [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 云音乐歌词获取【网易云、QQ音乐】
 
-*   [K12f/BlueCatKoKo](https://github.com/K12f/BlueCatKoKo) - 蓝猫KoKo下载器（BlueCatKoKo）是一个免登录且简单易用的桌面端抖音视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的抖音视频，并输出mp4格式的文件。
+*   [K12f/BlueCatKoKo](https://github.com/K12f/BlueCatKoKo) - 蓝猫KoKo下载器（BlueCatKoKo）是一个免登录，简单易用的桌面端抖音/快手视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的视频，并输出mp4格式的文件。
 
 *   [copyliu/bililive\_dm](https://github.com/copyliu/bililive_dm) - B站弹幕姬 - B站直播彈幕工具
 
@@ -6782,7 +6782,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
