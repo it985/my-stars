@@ -14,6 +14,66 @@
 
 ## 语言分类
 
+## Svelte
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+*   [richhost/pixzip-lite](https://github.com/richhost/pixzip-lite) - Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。
+
+*   [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) - The Gitmoji browser extension to easily search and copy gitmojis 😜
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
+
+*   [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
+
+*   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+
+## PHP
+
+*   [ellermister/mybili](https://github.com/ellermister/mybili) - 哔哩哔哩收藏夹备份程序 ~ アレ 视频不见了哟！
+
+*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
+
+*   [qiuzhangsaer/WeChatDraft](https://github.com/qiuzhangsaer/WeChatDraft) - Typecho发布文章同步提交微信公众号草稿
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
+
+*   [guanguans/music-dl](https://github.com/guanguans/music-dl) - Music Searcher and Downloader. - 音乐搜索下载器。
+
+*   [zyx0814/Pichome](https://github.com/zyx0814/Pichome) - 一款图片与媒体文件管理功能强大的开源网盘程序
+
+*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
+
+*   [michaelliunsky/niRvana-theme](https://github.com/michaelliunsky/niRvana-theme) - 📖 niRvana · 轻拟物WordPress主题
+
+*   [zoujingli/ip2region](https://github.com/zoujingli/ip2region) - PHP版本的离线IP地址定位库
+
+*   [kannafay/iFalse](https://github.com/kannafay/iFalse) - 清新感设计WordPress主题
+
+*   [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
+
+*   [injahow/meting-api](https://github.com/injahow/meting-api) - Meting API for APlayer
+
+*   [OMGZui/noteBook](https://github.com/OMGZui/noteBook) - 🍎  笔记本
+
+*   [azdanov/php-interview-exercises](https://github.com/azdanov/php-interview-exercises) - Some exercises to practice whiteboard interview questions in PHP.
+
+*   [xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview) - This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.
+
+*   [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
+
+*   [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) - :panda\_face: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
+
+*   [zhanghuanchong/icon-workshop](https://github.com/zhanghuanchong/icon-workshop) - 图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图
+
+*   [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
+
+*   [5ime/images\_spider](https://github.com/5ime/images_spider) - 短视频图集图片去水印：快手,皮皮虾,最右,小红书,微博
+
 ## Shell
 
 *   [shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror) - 在国内日渐严峻的网络下，无论是公司还是个人，自建仓库都是非常有必要的，这个项目用于快速搭建一个 Docker 私有仓库，并且无需修改已运行的Dockerfile/docker-compose.yaml，几乎没有迁移成本；未来会支持更多npm、Maven、PyPI等仓库。
@@ -61,8 +121,6 @@
 *   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - 基于docker一键安装sing-box服务端，并自动生成vmess、naiveproxy、hysteria2节点
 
 *   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持alpine系统，集成argo固定临时双隧道（可共存），支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
-
-*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
 
 *   [andyzhshg/syno-acme](https://github.com/andyzhshg/syno-acme) - 通过acme协议更新群晖HTTPS泛域名证书的自动脚本
 
@@ -446,6 +504,8 @@
 
 *   [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 
+*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
+
 *   [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing)
 
 *   [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
@@ -538,7 +598,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -1830,8 +1890,6 @@
 
 *   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 
-*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
-
 ## Jupyter Notebook
 
 *   [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - An extensive node suite for ComfyUI with over 210 new nodes
@@ -2878,7 +2936,7 @@
 
 *   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
-*   [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects.  Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. 🐰
+*   [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 *   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 
@@ -8496,8 +8554,6 @@
 
 *   [EspoirX/NicePhoto](https://github.com/EspoirX/NicePhoto) - 基于 Kotlin 开发的 一款超简单的图片浏览+设置壁纸+图片下载的App。
 
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
-
 ## Solidity
 
 *   [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
@@ -8689,48 +8745,6 @@
 *   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 
 *   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
-
-## PHP
-
-*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
-
-*   [qiuzhangsaer/WeChatDraft](https://github.com/qiuzhangsaer/WeChatDraft) - Typecho发布文章同步提交微信公众号草稿
-
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-
-*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
-
-*   [guanguans/music-dl](https://github.com/guanguans/music-dl) - Music Searcher and Downloader. - 音乐搜索下载器。
-
-*   [zyx0814/Pichome](https://github.com/zyx0814/Pichome) - 一款图片与媒体文件管理功能强大的开源网盘程序
-
-*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
-
-*   [michaelliunsky/niRvana-theme](https://github.com/michaelliunsky/niRvana-theme) - 📖 niRvana · 轻拟物WordPress主题
-
-*   [zoujingli/ip2region](https://github.com/zoujingli/ip2region) - PHP版本的离线IP地址定位库
-
-*   [kannafay/iFalse](https://github.com/kannafay/iFalse) - 清新感设计WordPress主题
-
-*   [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
-
-*   [injahow/meting-api](https://github.com/injahow/meting-api) - Meting API for APlayer
-
-*   [OMGZui/noteBook](https://github.com/OMGZui/noteBook) - 🍎  笔记本
-
-*   [azdanov/php-interview-exercises](https://github.com/azdanov/php-interview-exercises) - Some exercises to practice whiteboard interview questions in PHP.
-
-*   [xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview) - This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.
-
-*   [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
-
-*   [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) - :panda\_face: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
-
-*   [zhanghuanchong/icon-workshop](https://github.com/zhanghuanchong/icon-workshop) - 图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图
-
-*   [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
-
-*   [5ime/images\_spider](https://github.com/5ime/images_spider) - 短视频图集图片去水印：快手,皮皮虾,最右,小红书,微博
 
 ## Go
 
@@ -10503,20 +10517,6 @@
 *   [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 
 *   [chenjiandongx/awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) - 😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源
-
-## Svelte
-
-*   [richhost/pixzip-lite](https://github.com/richhost/pixzip-lite) - Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。
-
-*   [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) - The Gitmoji browser extension to easily search and copy gitmojis 😜
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
-*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
-
-*   [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
-
-*   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
 ## Swift
 
