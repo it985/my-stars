@@ -20,7 +20,7 @@
 
 *   [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) - Repository for training models for music source separation.
 
-*   [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion with in context learning
+*   [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion with in context learning
 
 *   [NangInShell/VSET](https://github.com/NangInShell/VSET) - 基于Vapoursynth的图形化视频批量压制处理工具，超分辨率，补帧，vs滤镜一应俱全。
 
@@ -131,8 +131,6 @@
 *   [ARC-MX/sgcc\_electricity\_new](https://github.com/ARC-MX/sgcc_electricity_new) - HomeAssistant 国家电网电费查询
 
 *   [cap153/bili-sync-yt-dlp](https://github.com/cap153/bili-sync-yt-dlp) - bili-sync的重写，使用yt-dlp结合aria2下载视频，仅下载收藏夹视频和海报
-
-*   [bosichong/suiyan](https://github.com/bosichong/suiyan) - 碎言静态Blog，码兄累了吗？累了就休息一下，为未来的自己留下一些碎言片语吧。
 
 *   [QuiltMeow/KeepAliveE5](https://github.com/QuiltMeow/KeepAliveE5) - E5 開發者訂閱 API 定期呼叫工具
 
@@ -4088,7 +4086,7 @@
 
 *   [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 
-*   [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
+*   [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 
 *   [027xiguapi/code-box](https://github.com/027xiguapi/code-box) - 本插件可以用于CSDN/知乎/脚本之家/博客园/掘金等网站,一键下载文章html或markdown文件;实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.
 
@@ -6238,7 +6236,7 @@
 
 *   [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse
 
-*   [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
+*   [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 
 *   [FeatureBaseDB/featurebase](https://github.com/FeatureBaseDB/featurebase) - A crazy fast analytical database, built on bitmaps. Perfect for ML applications. Learn more at: http://docs.featurebase.com/. Start a Docker instance: https://hub.docker.com/r/featurebasedb/featurebase
 
@@ -8826,7 +8824,7 @@
 
 *   [REBOOTERS/AndroidAnimationExercise](https://github.com/REBOOTERS/AndroidAnimationExercise) - Android 动画各种实现，包括帧动画、补间动画和属性动画的总结分享
 
-*   [sanluan/PublicCMS](https://github.com/sanluan/PublicCMS) - More than 2 million lines of code modification continuously iterated for 7 years to modernize java cms, easily supporting tens of millions of data, tens of millions of PV; Support static, server side includes; Currently has 0.0005% of the world's users (w3techs provided data), language support in Chinese, Japanese, English
+*   [sanluan/PublicCMS](https://github.com/sanluan/PublicCMS) - More than 2.66 million lines of code modification continuously iterated for 9 years to modernize java cms, easily supporting tens of millions of data, tens of millions of PV; Support static, server side includes; Currently has 0.0005% of the world's users (w3techs provided data), language support in Chinese, Japanese, English
 
 *   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 
@@ -9743,6 +9741,8 @@
 *   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 
 ## HTML
+
+*   [bosichong/suiyan](https://github.com/bosichong/suiyan) - 碎言静态Blog，码兄累了吗？累了就休息一下，为未来的自己留下一些碎言片语吧。
 
 *   [comfyanonymous/ComfyUI\_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 
