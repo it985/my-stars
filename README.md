@@ -470,7 +470,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -6070,7 +6070,7 @@
 
 *   [buxuku/video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
 
-*   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
+*   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 
 *   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
 
@@ -8776,7 +8776,7 @@
 
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
-*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
+*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 
 *   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 
