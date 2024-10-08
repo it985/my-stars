@@ -50,7 +50,7 @@
 
 *   [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) - Repository for training models for music source separation.
 
-*   [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion with in context learning
+*   [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - State-of-the-art zero-shot voice conversion & singing voice conversion with in context learning
 
 *   [NangInShell/VSET](https://github.com/NangInShell/VSET) - 基于Vapoursynth的图形化视频批量压制处理工具，超分辨率，补帧，vs滤镜一应俱全。
 
@@ -410,7 +410,7 @@
 
 *   [smallnew666/ChatGPT-Virtual-Live](https://github.com/smallnew666/ChatGPT-Virtual-Live) - ChatGPT虚拟主播、支持B站、抖音、视频号
 
-*   [jkoor/Alist-Media-Rename](https://github.com/jkoor/Alist-Media-Rename) - 获取 TMDb 电影/剧集信息，并对 Alist 媒体文件重命名
+*   [Frosty8098/Alist-Media-Rename](https://github.com/Frosty8098/Alist-Media-Rename) - 获取 TMDb 电影/剧集信息，并对 Alist 媒体文件重命名
 
 *   [bilibini/Lovely\_Image\_Downloader](https://github.com/bilibini/Lovely_Image_Downloader) - 一个简单的美图下载器，使用aardio+python+webview实现，主要用作练手
 
@@ -476,7 +476,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -4058,7 +4058,7 @@
 
 *   [ddout/yf-exam-lite](https://github.com/ddout/yf-exam-lite) - 在线考试系统
 
-*   [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅   Convert a video website into a podcast subscription 支持 哔哩哔哩、YouTube、vimeo、干净世界和girigirilove 图形化界面
+*   [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅   Convert a video website into a podcast subscription 支持 哔哩哔哩、YouTube、干净世界和girigirilove 图形化界面
 
 *   [Geniusay/ChopperBot](https://github.com/Geniusay/ChopperBot) - 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮
 
@@ -7102,7 +7102,7 @@
 
 *   [express-vue/express-vue](https://github.com/express-vue/express-vue) - Vue rendering engine for Express.js. Use .Vue files as templates using streams
 
-*   [jaydenseric/graphql-upload](https://github.com/jaydenseric/graphql-upload) - Middleware and an Upload scalar to add support for GraphQL multipart requests (file uploads via queries and mutations) to various Node.js GraphQL servers.
+*   [jaydenseric/graphql-upload](https://github.com/jaydenseric/graphql-upload) - Middleware and a scalar Upload to add support for GraphQL multipart requests (file uploads via queries and mutations) to various Node.js GraphQL servers.
 
 *   [madhums/node-express-mongoose](https://github.com/madhums/node-express-mongoose) - A boilerplate application for building web apps using node and mongodb
 
@@ -7640,7 +7640,7 @@
 
 *   [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music
 
-*   [mzky/m4s-converter](https://github.com/mzky/m4s-converter) - 将bilibili缓存的m4s转成mp4，支持跨平台
+*   [mzky/m4s-converter](https://github.com/mzky/m4s-converter) - 一个跨平台小工具，将bilibili缓存的音视频m4s文件合并成mp4
 
 *   [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
 
