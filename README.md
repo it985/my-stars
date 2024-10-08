@@ -50,7 +50,7 @@
 
 *   [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) - Repository for training models for music source separation.
 
-*   [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - State-of-the-art zero-shot voice conversion & singing voice conversion with in context learning
+*   [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - State-of-the-Art zero-shot voice conversion & singing voice conversion with in context learning
 
 *   [NangInShell/VSET](https://github.com/NangInShell/VSET) - 基于Vapoursynth的图形化视频批量压制处理工具，超分辨率，补帧，vs滤镜一应俱全。
 
@@ -382,7 +382,7 @@
 
 *   [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 
-*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
+*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Qx的去广告规则，合并优质上游规则并去重整理排列。
 
 *   [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing)
 
@@ -1956,7 +1956,7 @@
 
 *   [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 
-*   [RylanBot/threejs-tetris-react](https://github.com/RylanBot/threejs-tetris-react) - 3D 俄罗斯方块 | a 3D tetris game, developed by Three.js + React
+*   [RylanBot/threejs-tetris-react](https://github.com/RylanBot/threejs-tetris-react) - 3D 俄罗斯方块 | a 3D tetris game, developed with Three.js + React
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 
@@ -7640,7 +7640,7 @@
 
 *   [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music
 
-*   [mzky/m4s-converter](https://github.com/mzky/m4s-converter) - 一个跨平台小工具，将bilibili缓存的音视频m4s文件合并成mp4
+*   [mzky/m4s-converter](https://github.com/mzky/m4s-converter) - 一个跨平台小工具，将bilibili缓存的m4s格式音视频文件合并成mp4
 
 *   [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
 
