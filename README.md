@@ -644,7 +644,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9452,6 +9452,8 @@
 
 *   [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 
+*   [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
+
 ## C\#
 
 *   [XMTechCommunity/OpenUtau](https://github.com/XMTechCommunity/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
@@ -11125,8 +11127,6 @@
 *   [zonemeen/netease-recent-actions](https://github.com/zonemeen/netease-recent-actions) - 🎧 通过GitHub Action将你的网易云音乐的听歌记录生成一张svg卡片
 
 *   [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 在 Github Profile 上显示你在网易云音乐上的听歌记录
-
-*   [heroku/node-js-getting-started](https://github.com/heroku/node-js-getting-started) - Getting Started with Node.js on Heroku.
 
 ## Standard ML
 
