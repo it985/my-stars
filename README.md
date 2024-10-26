@@ -3020,7 +3020,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -4335,8 +4335,6 @@
 ## miscellaneous
 
 *   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
-
-*   [hmhm2022/Card-Tab](https://github.com/hmhm2022/Card-Tab) - ✨一个部署在CF的轻量化导航页面，可移动卡片式书签，方便管理
 
 *   [SpaceTimee/Cealing-Host](https://github.com/SpaceTimee/Cealing-Host) - Cealing Host Up 2 Date
 
@@ -6234,7 +6232,7 @@
 
 *   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 
-*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 
 *   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 
@@ -6504,6 +6502,8 @@
 
 *   [friend-nicen/theme-document](https://github.com/friend-nicen/theme-document) - 一款专为做笔记而开发的wordpress主题
 
+*   [hmhm2022/Card-Tab](https://github.com/hmhm2022/Card-Tab) - ✨一个部署在CF的轻量化导航页面，可移动卡片式书签，方便管理
+
 *   [ShilongLee/Crawler](https://github.com/ShilongLee/Crawler) - 抖音爬虫(a\_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博等平台爬虫开源api接口服务器。docker一键快速部署。
 
 *   [x-dr/nsfwjs-api](https://github.com/x-dr/nsfwjs-api) - nsfw detector api with tensorflow + nsfwjs + express
@@ -6567,8 +6567,6 @@
 *   [wlm3201/Masonry\_Image\_Viewer](https://github.com/wlm3201/Masonry_Image_Viewer) - Masonry/Waterfall Image Viewer
 
 *   [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-
-*   [babalae/bettergi-scripts](https://github.com/babalae/bettergi-scripts) - (此repo弃用)
 
 *   [lixd/cloudflare-docker-proxy](https://github.com/lixd/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
 
@@ -9867,6 +9865,8 @@
 *   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 
 *   [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
+
+*   [wormtql/genshin\_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 
 ## SCSS
 
