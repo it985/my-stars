@@ -14,6 +14,110 @@
 
 ## 语言分类
 
+## Kotlin
+
+*   [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
+
+*   [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
+
+*   [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
+
+*   [sdercolin/utaformatix3](https://github.com/sdercolin/utaformatix3) - An application for converting projects among singing voice synthesizer softwares.
+
+*   [atonyxu/utaformatix3-electron](https://github.com/atonyxu/utaformatix3-electron) - UtaFormatix的Electron离线版，顺便把Harmoloid2也塞进去
+
+*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
+
+*   [Greatwallcorner/TV-Multiplatform](https://github.com/Greatwallcorner/TV-Multiplatform) - 基于fonmi/TV项目的， 简单桌面版本实现。
+
+*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+
+*   [stream-rec/stream-rec](https://github.com/stream-rec/stream-rec) - Automatic streaming record tool.  Live stream and bullet comments recorder. 虎牙/抖音/斗鱼/Twitch/PandaTV/微博直播，弹幕自动录制
+
+*   [wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic) - An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer
+
+*   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
+
+*   [ultranity/Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) - 一个支持免代理直连+多种额外特性功能优化的第三方 Pixiv android 客户端 | A third-party Pixiv Android client with modern design and many other enhancements
+
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
+
+*   [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
+
+*   [EhViewer-NekoInverter/EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests are not accepted. Forked from https://gitlab.com/NekoInverter/EhViewer
+
+*   [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
+
+*   [google/flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox for Android
+
+*   [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
+
+*   [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+
+*   [android/architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
+
+*   [wdsqjq/FengYunWeather](https://github.com/wdsqjq/FengYunWeather) - 风云天气是Android 平台开源天气 App，采用Kotlin、Room、OKHttp3、 协程等框架实现。
+
+*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+
+*   [wuyr/intellij-media-player](https://github.com/wuyr/intellij-media-player) - 【🐟摸鱼专用】上班偷偷看视频📺而不会被老板打🔨的IDE插件，适配JetBrains全家桶
+
+*   [JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets.
+
+*   [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+
+*   [TheAlgorithms/Kotlin](https://github.com/TheAlgorithms/Kotlin) - All Algorithms implemented in Kotlin
+
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+
+*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
+
+*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [JetBrains/kotlin-wrappers](https://github.com/JetBrains/kotlin-wrappers) - Kotlin wrappers for popular JavaScript libraries
+
+*   [easyandroidgroup/EasyAndroid](https://github.com/easyandroidgroup/EasyAndroid) - 一系列简单、轻量、方便的Android开发工具集合(持续更新中),包括Android动态权限、SharedPreferences、反射、日志、Toast、Bundle、MVP、线程池、Html、图文混排、蒙层引导、拍照、图库选择等
+
+*   [Kotlin/kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML
+
+*   [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin
+
+*   [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
+
+*   [owenlongbo/McImage](https://github.com/owenlongbo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
+
+*   [javiersantos/MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs) - A library that shows a beautiful and customizable Material-based dialog with header. API 14+ required.
+
+*   [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) - Gradle plugin for building plugins for IntelliJ-based IDEs
+
+*   [robertlevonyan/material-chip-view](https://github.com/robertlevonyan/material-chip-view) - Material Chip view. Can be used as tags for categories, contacts or creating text clouds
+
+*   [Splitties/refreshVersions](https://github.com/Splitties/refreshVersions) - Life is too short to google for dependencies and versions
+
+*   [cortinico/kotlin-android-template](https://github.com/cortinico/kotlin-android-template) - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
+
+*   [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
+
+*   [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
+
+*   [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
+
+*   [vitaviva/compose-tetris](https://github.com/vitaviva/compose-tetris) - 🧱  A tetris game fully built using Jetpack Compose
+
+*   [Kerr1Gan/Flesh](https://github.com/Kerr1Gan/Flesh) - Android上福利满满的app，宅男神器
+
+*   [EspoirX/NicePhoto](https://github.com/EspoirX/NicePhoto) - 基于 Kotlin 开发的 一款超简单的图片浏览+设置壁纸+图片下载的App。
+
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
+
+*   [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
+
 ## Astro
 
 *   [DORAKIKA/iak](https://github.com/DORAKIKA/iak) - 一个简单的Astro博客主题
@@ -1892,7 +1996,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9172,8 +9276,6 @@
 
 *   [UHungLin/AnimeDownloader](https://github.com/UHungLin/AnimeDownloader) - bilibili B站 哔哩哔哩 acfun A站 樱花动漫 番剧下载器（Video Downloader）:smiley:​ 仅供学习交流  求 star orz
 
-*   [nICEnnnnnnnLee/BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
-
 ## Vue
 
 *   [WuKongOpenSource/Wukong\_ProjectManagement](https://github.com/WuKongOpenSource/Wukong_ProjectManagement) - 悟空项目管理-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离项目管理系统
@@ -9539,108 +9641,6 @@
 ## GLSL
 
 *   [funnyplanter/CuNNy](https://github.com/funnyplanter/CuNNy) - Convolutional upscaling Neural Network, yeah!
-
-## Kotlin
-
-*   [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
-
-*   [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-
-*   [sdercolin/utaformatix3](https://github.com/sdercolin/utaformatix3) - An application for converting projects among singing voice synthesizer softwares.
-
-*   [atonyxu/utaformatix3-electron](https://github.com/atonyxu/utaformatix3-electron) - UtaFormatix的Electron离线版，顺便把Harmoloid2也塞进去
-
-*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
-
-*   [Greatwallcorner/TV-Multiplatform](https://github.com/Greatwallcorner/TV-Multiplatform) - 基于fonmi/TV项目的， 简单桌面版本实现。
-
-*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-
-*   [stream-rec/stream-rec](https://github.com/stream-rec/stream-rec) - Automatic streaming record tool.  Live stream and bullet comments recorder. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制
-
-*   [wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic) - An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer
-
-*   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
-
-*   [ultranity/Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) - 一个支持免代理直连+多种额外特性功能优化的第三方 Pixiv android 客户端 | A third-party Pixiv Android client with modern design and many other enhancements
-
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
-
-*   [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
-
-*   [EhViewer-NekoInverter/EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests are not accepted. Forked from https://gitlab.com/NekoInverter/EhViewer
-
-*   [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
-
-*   [google/flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox for Android
-
-*   [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
-
-*   [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-
-*   [android/architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
-
-*   [wdsqjq/FengYunWeather](https://github.com/wdsqjq/FengYunWeather) - 风云天气是Android 平台开源天气 App，采用Kotlin、Room、OKHttp3、 协程等框架实现。
-
-*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-
-*   [wuyr/intellij-media-player](https://github.com/wuyr/intellij-media-player) - 【🐟摸鱼专用】上班偷偷看视频📺而不会被老板打🔨的IDE插件，适配JetBrains全家桶
-
-*   [JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets.
-
-*   [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
-
-*   [TheAlgorithms/Kotlin](https://github.com/TheAlgorithms/Kotlin) - All Algorithms implemented in Kotlin
-
-*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
-
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
-*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-
-*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [JetBrains/kotlin-wrappers](https://github.com/JetBrains/kotlin-wrappers) - Kotlin wrappers for popular JavaScript libraries
-
-*   [easyandroidgroup/EasyAndroid](https://github.com/easyandroidgroup/EasyAndroid) - 一系列简单、轻量、方便的Android开发工具集合(持续更新中),包括Android动态权限、SharedPreferences、反射、日志、Toast、Bundle、MVP、线程池、Html、图文混排、蒙层引导、拍照、图库选择等
-
-*   [Kotlin/kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML
-
-*   [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin
-
-*   [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
-
-*   [owenlongbo/McImage](https://github.com/owenlongbo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
-
-*   [javiersantos/MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs) - A library that shows a beautiful and customizable Material-based dialog with header. API 14+ required.
-
-*   [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) - Gradle plugin for building plugins for IntelliJ-based IDEs
-
-*   [robertlevonyan/material-chip-view](https://github.com/robertlevonyan/material-chip-view) - Material Chip view. Can be used as tags for categories, contacts or creating text clouds
-
-*   [Splitties/refreshVersions](https://github.com/Splitties/refreshVersions) - Life is too short to google for dependencies and versions
-
-*   [cortinico/kotlin-android-template](https://github.com/cortinico/kotlin-android-template) - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
-
-*   [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
-
-*   [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
-
-*   [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
-
-*   [vitaviva/compose-tetris](https://github.com/vitaviva/compose-tetris) - 🧱  A tetris game fully built using Jetpack Compose
-
-*   [Kerr1Gan/Flesh](https://github.com/Kerr1Gan/Flesh) - Android上福利满满的app，宅男神器
-
-*   [EspoirX/NicePhoto](https://github.com/EspoirX/NicePhoto) - 基于 Kotlin 开发的 一款超简单的图片浏览+设置壁纸+图片下载的App。
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
-
-*   [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
 
 ## C++
 
