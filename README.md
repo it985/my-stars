@@ -3286,7 +3286,7 @@
 
 *   [bboysoulcn/registry-mirror](https://github.com/bboysoulcn/registry-mirror) - 方便地设置和启动各种镜像仓库代理
 
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号
 
 *   [niucnet/jinri-cp](https://github.com/niucnet/jinri-cp) - jinricp | 韩国BJ | 韩国女主播 | pandatv | 진리컴퍼니 |  jinri company
 
@@ -4404,7 +4404,7 @@
 
 *   [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 
-*   [kekylin/Debian-HomeNAS](https://github.com/kekylin/Debian-HomeNAS) - 一个将Debian系统快速配置成准NAS系统的脚本。
+*   [kekylin/Debian-HomeNAS](https://github.com/kekylin/Debian-HomeNAS) - 一个将Debian/Ubuntu系统快速配置成准NAS系统的脚本。
 
 *   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本
 
@@ -8052,7 +8052,7 @@
 
 *   [guandasheng/adguardhome](https://github.com/guandasheng/adguardhome) - TheBestAdrules，适用于Adguard Home的去广告dns规则，由关圣云®整理上游优秀的规则，合并去重而来，集百家之所长，取其精华去其糟粕。 关圣云®官网https://dns.dns1.top 官方微信群及QQ群见官网公布。 关圣云®DNS，一个人人可加入的公益去广告dns团队，目前拥有7条公益dns节点。 捐赠，或者提供服务器均可加入“关圣云®爱发电”团队。 由于目前网络上发布的规则众多，逐个添加难免有重复的，而且不方便维护，因此创建此仓库，方便关圣云更新dns规则，也可以方便其他自建dns的小伙伴一键导入。
 
-*   [leileiluoluo/boyouquan-api](https://github.com/leileiluoluo/boyouquan-api) - 博友圈网站源码
+*   [leileiluoluo/boyouquan-api](https://github.com/leileiluoluo/boyouquan-api) - 博友圈后端源码
 
 *   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
 
