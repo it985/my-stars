@@ -3406,8 +3406,6 @@
 
 *   [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
 
-*   [dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo) - DBKangaroo's official repo for issue tracker and I18N
-
 *   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
 
 *   [wu-sheng/hertzbeat](https://github.com/wu-sheng/hertzbeat) - A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
@@ -11016,6 +11014,12 @@
 
 *   [chenjiandongx/awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) - 😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源
 
+## TSQL
+
+*   [dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo) - DBKangaroo's official repo for issue tracker and I18N
+
+*   [wovert/MySQLTutorials](https://github.com/wovert/MySQLTutorials) - MySQL 学习教程
+
 ## Swift
 
 *   [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
@@ -11411,10 +11415,6 @@
 ## XSLT
 
 *   [jwenjian/reading-list](https://github.com/jwenjian/reading-list) - 社区驱动的高质量聚合阅读列表
-
-## TSQL
-
-*   [wovert/MySQLTutorials](https://github.com/wovert/MySQLTutorials) - MySQL 学习教程
 
 ## Zig
 
