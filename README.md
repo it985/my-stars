@@ -14,6 +14,80 @@
 
 ## 语言分类
 
+## SCSS
+
+*   [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一个可爱而现代的 Hexo 主题
+
+*   [festoney8/LiteLoaderQQNT-Telegram-Theme](https://github.com/festoney8/LiteLoaderQQNT-Telegram-Theme) - LiteLoaderQQNT 主题，高仿 Telegram 风格
+
+*   [onevcat/vno-jekyll](https://github.com/onevcat/vno-jekyll) - Another ported theme for Jekyll
+
+*   [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
+
+*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
+
+*   [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
+
+*   [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - The mqtt.org website
+
+*   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
+
+*   [kkrishguptaa/reseter.css](https://github.com/kkrishguptaa/reseter.css) - The Modern CSS Reset 🚀
+
+*   [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
+
+*   [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
+
+*   [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
+
+*   [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
+
+*   [LukyVj/family.scss](https://github.com/LukyVj/family.scss) - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.
+
+*   [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
+
+*   [leemunroe/grunt-email-workflow](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
+
+*   [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
+
+*   [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.                                               
+
+*   [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+
+*   [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
+
+*   [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
+
+*   [jessepollak/card](https://github.com/jessepollak/card) - :credit\_card: make your credit card form better in one line of code
+
+*   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+
+*   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+
+*   [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
+
+*   [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
+
+*   [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
+
+*   [tr1s/tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
+
+*   [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
+
+*   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
+
+*   [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
+
+*   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
+
+*   [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
+
+*   [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
+
+*   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+
+*   [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
+
 ## C++
 
 *   [pi-314159/Authenticator](https://github.com/pi-314159/Authenticator) - An authenticator implementing RFC 6238, utilizing the OpenSSL library to encrypt secrets for cross-machine usage.
@@ -738,7 +812,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -976,7 +1050,7 @@
 
 *   [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 
-*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 
 *   [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
 
@@ -1368,7 +1442,7 @@
 
 *   [gtalarico/django-vue-template](https://github.com/gtalarico/django-vue-template) - Django Rest + Vue JS Template
 
-*   [wsvincent/djangox](https://github.com/wsvincent/djangox) - Django starter project with 🔋
+*   [wsvincent/lithium](https://github.com/wsvincent/lithium) - Django starter project with 🔋
 
 *   [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
 
@@ -2037,8 +2111,6 @@
 *   [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
 
 *   [acgnhiki/blrec](https://github.com/acgnhiki/blrec) - Bilibili Live Streaming Recorder  哔哩哔哩直播录制
-
-*   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api
 
 ## PHP
 
@@ -9522,7 +9594,7 @@
 
 *   [unilei/aipan-netdisk-search](https://github.com/unilei/aipan-netdisk-search) - 本项目乃是基于 Vue 与 Nuxt.js 技术打造的网盘搜索项目，持续开源并保持维护更新。其旨在让人人皆可拥有属于自己的网盘搜索网站。强烈建议自行部署，向所有参与者致敬！Salute to all!
 
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP). 更新通知tg：
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
 
 *   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 
@@ -9879,78 +9951,6 @@
 ## GLSL
 
 *   [funnyplanter/CuNNy](https://github.com/funnyplanter/CuNNy) - Convolutional upscaling Neural Network, yeah!
-
-## SCSS
-
-*   [festoney8/LiteLoaderQQNT-Telegram-Theme](https://github.com/festoney8/LiteLoaderQQNT-Telegram-Theme) - LiteLoaderQQNT 主题，高仿 Telegram 风格
-
-*   [onevcat/vno-jekyll](https://github.com/onevcat/vno-jekyll) - Another ported theme for Jekyll
-
-*   [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
-
-*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
-
-*   [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
-
-*   [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - The mqtt.org website
-
-*   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
-
-*   [kkrishguptaa/reseter.css](https://github.com/kkrishguptaa/reseter.css) - The Modern CSS Reset 🚀
-
-*   [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
-
-*   [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
-
-*   [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
-
-*   [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
-
-*   [LukyVj/family.scss](https://github.com/LukyVj/family.scss) - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.
-
-*   [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
-
-*   [leemunroe/grunt-email-workflow](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
-
-*   [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
-
-*   [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.                                               
-
-*   [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
-
-*   [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
-
-*   [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
-
-*   [jessepollak/card](https://github.com/jessepollak/card) - :credit\_card: make your credit card form better in one line of code
-
-*   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-
-*   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
-
-*   [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
-
-*   [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
-
-*   [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
-
-*   [tr1s/tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
-
-*   [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
-
-*   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
-
-*   [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
-
-*   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
-
-*   [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
-
-*   [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
-
-*   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-
-*   [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 
 ## XML
 
