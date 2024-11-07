@@ -16,6 +16,8 @@
 
 ## Python
 
+*   [SUC-DriverOld/wav2svp](https://github.com/SUC-DriverOld/wav2svp) - wav2svp: Waveform & pitchs to Synthesizer V Project
+
 *   [ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese) - 简体中文版 ComfyUI
 
 *   [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
@@ -1836,8 +1838,6 @@
 
 *   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
 
-*   [Neutralization/BiliBiliRankingScripts](https://github.com/Neutralization/BiliBiliRankingScripts) - 周刊哔哩哔哩排行榜视频制作自动化脚本
-
 ## TypeScript
 
 *   [isYangs/GioPic](https://github.com/isYangs/GioPic) - 🚧 :electron: 简约的图片上传程序，支持 兰空图床 等多种图床程序 和 S3存储桶
@@ -2094,7 +2094,7 @@
 
 *   [wangrongding/prm-cli](https://github.com/wangrongding/prm-cli) - 🧩 快速切换包管理工具的镜像源。(Quickly switch the registry of the package management tool.)
 
-*   [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom.
+*   [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - 🚀 Click the dom to open your IDE and position the cursor at dom's source code location! 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置!
 
 *   [Beats0/bilive-danmaku](https://github.com/Beats0/bilive-danmaku) - 一个开源的 bilibili 直播弹幕姬，支持 win 和 mac
 
