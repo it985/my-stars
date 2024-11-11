@@ -488,7 +488,7 @@
 
 *   [yikoyu/My-Actions](https://github.com/yikoyu/My-Actions) - 哔咔签到，贴吧签到
 
-*   [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 | 支持黄泉 | 支持第九宇宙 | 星穹铁道锄大地 | 星穹铁道模拟宇宙 | 星穹铁道脚本 | 基于图像识别 | Star Rail Script
+*   [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 |
 
 *   [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot) - 崩坏：星穹铁道脚本 | Honkai: Star Rail auto bot (简体中文/繁體中文/English/Español)
 
