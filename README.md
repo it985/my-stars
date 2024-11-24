@@ -14,6 +14,24 @@
 
 ## 语言分类
 
+## Svelte
+
+*   [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+*   [richhost/pixzip-lite](https://github.com/richhost/pixzip-lite) - Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。
+
+*   [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) - The Gitmoji browser extension to easily search and copy gitmojis 😜
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
+
+*   [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
+
+*   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+
 ## C++
 
 *   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
@@ -1962,7 +1980,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9198,8 +9216,6 @@
 
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
-
 ## HTML
 
 *   [willow-god/hexo-safego](https://github.com/willow-god/hexo-safego) - 👻基于hexo-external-link二次开发的改进版外链跳转插件，使用Cheerio在生成时即进行替换，减少页面响应时间
@@ -10941,22 +10957,6 @@
 *   [mchong6/GANsNRoses](https://github.com/mchong6/GANsNRoses) - Official PyTorch repo for GAN's N' Roses. Diverse im2im and vid2vid selfie to anime translation.
 
 *   [Asabeneh/advanced-python-march-2022](https://github.com/Asabeneh/advanced-python-march-2022) -
-
-## Svelte
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-*   [richhost/pixzip-lite](https://github.com/richhost/pixzip-lite) - Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。
-
-*   [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) - The Gitmoji browser extension to easily search and copy gitmojis 😜
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
-*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
-
-*   [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
-
-*   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
 ## Lua
 
