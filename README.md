@@ -14,607 +14,9 @@
 
 ## 语言分类
 
-## Stylus
-
-*   [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
-
-*   [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - An elegant Hexo theme that supports lazy loading, PWA, Latex, and multiple commenting systems. 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
-
-*   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
-
-*   [lynnandtonic/a-single-div](https://github.com/lynnandtonic/a-single-div) - 🎨 CSS drawings with only one HTML element.
-
-## Dart
-
-*   [azhon/flutter\_app\_update](https://github.com/azhon/flutter_app_update) - 一个Flutter版本简单、轻量、可随意定制的Android版本更新库；A simple, lightweight, and customizable Android version update library for Flutter
-
-*   [ZDfordream/FlutterTianYue](https://github.com/ZDfordream/FlutterTianYue) - 基于Flutter的超完整仿腾讯动漫，小说阅读，抖音视频项目，功能丰富，适合学习和日常使用，拥有较好的项目结构&比较规范的代码！Flutter入门，看这个就够了～Flutter project which  provide richer functionality, if you want to learn flutter, this project is a good choice
-
-*   [youxinLu/flutter\_mall](https://github.com/youxinLu/flutter_mall) - Flutter\_Mall是一款Flutter开源在线商城应用程序，是基于litemall基础上进行开发，litemall包含了Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端感兴趣的同学可以自行研究部署，Flutter\_Mall基本上包含了litemall中小程序的功能。
-
-*   [LaoMengFlutter/flutter-do](https://github.com/LaoMengFlutter/flutter-do) - 包含350多个组件用法、组件继承关系图、40多个 loading 组件，App升级、验证码、弹幕、音乐字幕 4个插件，一个小而全完整的App项目。
-
-*   [kangpeiqin/bilivideo\_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
-
-*   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
-
-*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-
-*   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-
-*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
-
-*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
-
-*   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-
-*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
-
-*   [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
-
-*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-
-*   [patrick-fu/GitmojiApp](https://github.com/patrick-fu/GitmojiApp) - A Gitmoji app for macOS, Linux, and Windows.
-
-*   [techouse/alfred-gitmoji](https://github.com/techouse/alfred-gitmoji) - Search for Gitmojis using Alfred
-
-*   [TheAlgorithms/Dart](https://github.com/TheAlgorithms/Dart) - All Algorithms implemented in Dart
-
-*   [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
-
-*   [isar/hive](https://github.com/isar/hive) - Lightweight and blazing fast key-value database written in pure Dart.
-
-*   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
-
-*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
-
-*   [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
-
-*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-
-*   [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
-
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-*   [Chalarangelo/30-seconds-of-dart](https://github.com/Chalarangelo/30-seconds-of-dart) - Short Dart code snippets for all your development needs
-
-*   [KagurazakaHanabi/dailypics](https://github.com/KagurazakaHanabi/dailypics) - 图鉴日图 - 精选壁纸推荐
-
-## Vue
-
-*   [TyCoding/langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
-
-*   [Siriling/my-icons](https://github.com/Siriling/my-icons) - 程序图标储存
-
-*   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
-
-*   [aLittleDonkey/poetize-ui-vue2](https://github.com/aLittleDonkey/poetize-ui-vue2) - 个人博客 聊天室，挑战最美博客，使用 SpringBoot 和 Vue 的个人网站
-
-*   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
-
-*   [WuKongOpenSource/Wukong\_ProjectManagement](https://github.com/WuKongOpenSource/Wukong_ProjectManagement) - 悟空项目管理-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离项目管理系统
-
-*   [WuKongOpenSource/Wukong\_Accounting](https://github.com/WuKongOpenSource/Wukong_Accounting) - 悟空财务管理系统（悟空FS） 实现凭证管理、账簿管理、资产负债表、现金流量表、利润表等管理。开启数智财务新时代。
-
-*   [unilei/aipan-netdisk-search](https://github.com/unilei/aipan-netdisk-search) - 本项目乃是基于 Vue 与 Nuxt.js 技术打造的网盘搜索项目，持续开源并保持维护更新。其旨在让人人皆可拥有属于自己的网盘搜索网站。强烈建议自行部署，向所有参与者致敬！Salute to all!
-
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
-
-*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
-
-*   [Moe-Nya/NyaLog](https://github.com/Moe-Nya/NyaLog) - NyaLog is a blog by Gin & Vue and Moe\_Nya's heart
-
-*   [gusibi/path-meme-web](https://github.com/gusibi/path-meme-web) - 一个灵感来源于 Path 应用用户界面的meme 系统
-
-*   [super-upup/98tang](https://github.com/super-upup/98tang) - 98tang/98堂/色花堂/sehuatang自动签到/每日签到/升级【2024年11月】
-
-*   [thisjam/comfyui-sixgod\_prompt](https://github.com/thisjam/comfyui-sixgod_prompt) -
-
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
-
-*   [MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub) - https://github.com/MarSeventh/CloudFlare-ImgBed 项目的前端仓库。
-
-*   [cloudflypeng/eno-music](https://github.com/cloudflypeng/eno-music) -
-
-*   [itchaox/annotree](https://github.com/itchaox/annotree) - Generate folder directory annotation tree | 生成文件夹目录注释树
-
-*   [shuhongfan/frontend-quickstart](https://github.com/shuhongfan/frontend-quickstart) - 前端工程化 - 快速通关 （4h）
-
-*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-
-*   [TangSY/echarts-map-demo](https://github.com/TangSY/echarts-map-demo) - 适用于echarts、QGIS等地图geoJson行政区划边界数据的实时获取与应用，json格式数据，全国省市区县多级联动下钻，真正意义的下钻至县级【附最新全国省市区县乡镇三级或四级城市geoJson文件下载，另可下载四级联动或五级（村级）行政编码对应关系】
-
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
-
-*   [Zhouqluo/bilidown-web](https://github.com/Zhouqluo/bilidown-web) - 在线下载b站视频
-
-*   [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
-
-*   [galaxy-s10/billd-live](https://github.com/galaxy-s10/billd-live) - 基于Vue3 + WebRTC + Node + SRS搭建的直播间
-
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
-
-*   [ljxi/NetworkPanel](https://github.com/ljxi/NetworkPanel) - 测试您的网速，多出口查询您的ip地址
-
-*   [besscroft/kamera](https://github.com/besscroft/kamera) - 一款专供摄影佬使用的记录网站，基于 Nuxt 3 开发，瀑布流展示图片，预览图片及 EXIF 信息，支持常见的图片格式。 可读取 EXIF 信息并上传、管理维护图片数据，首页精品照片展示，子页分类展示等功能。 图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。
-
-*   [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
-
-*   [liujuntao123/chines-history-video](https://github.com/liujuntao123/chines-history-video) - 中国历朝代历史视频讲解
-
-*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
-
-*   [J1ong/FilmSys](https://github.com/J1ong/FilmSys) - 一个使用Vue全家桶和后台Express框架结合Mysql数据库搭建起来的移动端电影售票和管理系统，实现了热映、即将上映、电影和影院全局搜索、评论、选座、购票、点赞、收藏、订单等一系列购票和管理流程功能
-
-*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-
-*   [Nash-x9/watermark](https://github.com/Nash-x9/watermark) - Vue3 Watermark
-
-*   [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权等隐藏功能
-
-*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
-
-*   [Akegarasu/stable-diffusion-inspector](https://github.com/Akegarasu/stable-diffusion-inspector) - read pnginfo in stable diffusion generated images / inspect models
-
-*   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
-
-*   [setube/jntm](https://github.com/setube/jntm) - 一个小众的度盘秒传分享平台
-
-*   [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端
-
-*   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
-
-*   [mouday/hao123](https://github.com/mouday/hao123) - 程序员网址导航
-
-*   [mouday/wallpaper](https://github.com/mouday/wallpaper) - bing必应壁纸
-
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-
-*   [mic1on/chatGPT-web](https://github.com/mic1on/chatGPT-web) - chatGPT私有化部署
-
-*   [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
-
-*   [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具
-
-*   [vform666/variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
-
-*   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-reco 1.
-
-*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
-
-*   [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
-
-*   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
-
-*   [cadecode/vuepress-theme-2zh](https://github.com/cadecode/vuepress-theme-2zh) - VuePress 博客主题插件
-
-*   [cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面
-
-*   [cp3geek/forum](https://github.com/cp3geek/forum) - 大学校园交流论坛，前后端分离，采用springboot+vue开发
-
-*   [maliangnansheng/bbs-vue-ui](https://github.com/maliangnansheng/bbs-vue-ui) - 基于Vue2开发的仿掘金之【南生论坛】企业级项目！官方地址：https://bbs.nanshengbbs.top
-
-*   [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.2、 Spring Cloud 2023、 OAuth2 . Give a star
-
-*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
-
-*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
-
-*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
-
-*   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
-
-*   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top
-
-*   [topfullstack/adminify](https://github.com/topfullstack/adminify) - An Admin Dashboard based on Vuetify material
-
-*   [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz) - 👏vue后台管理框架👏
-
-*   [lifetea/vue-admin](https://github.com/lifetea/vue-admin) - 手把手带你用vue开发一个管理后台
-
-*   [lanux/Vue-Admin](https://github.com/lanux/Vue-Admin) - 基于Vue2、element ui、vue-cli、vuex、vue-router、axios 、echarts后台管理系统demo. 权限管理，用户管理，菜单管理。无限级菜单，下拉树形选择框
-
-*   [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) - admin template based on vuejs2 and element.
-
-*   [Dark2017/vue-dark-photo](https://github.com/Dark2017/vue-dark-photo) - vue-dark-photo 一款基于vue2.x封装的轻便简易的图片预览组件，支持放大、缩小、下载、打印等功能。
-
-*   [hellowuxin/mindmap](https://github.com/hellowuxin/mindmap) - Mindmap component for Vue2
-
-*   [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
-
-*   [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
-
-*   [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vuestic Admin is an open-source, ready-to-use admin template suite designed for rapid development, easy maintenance, and high accessibility. Built on Vuestic UI, Vue 3, Vite, Pinia, and Tailwind CSS. Maintained by Epicmax (@epicmaxco).
-
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-
-*   [gz-yami/mall4cloud-platform](https://github.com/gz-yami/mall4cloud-platform) - vue3 element-plus mall4cloud微服务商城-商城系统后台平台端
-
-*   [gz-yami/mall4cloud-uniapp](https://github.com/gz-yami/mall4cloud-uniapp) - vue3 mall4cloud微服务商城-移动端  uniapp商城系统
-
-*   [gz-yami/mall4uni](https://github.com/gz-yami/mall4uni) - vue3 mall4j商城-移动端 uniapp商城系统 小程序商城系统
-
-*   [yisainan/TypeScript](https://github.com/yisainan/TypeScript) - TypeScript是JavaScript类型的超集，它可以编译成纯JavaScript。TypeScript可以在任何浏览器、任何计算机和任何操作系统上运行，并且是开源的。
-
-*   [Exrick/xboot-front](https://github.com/Exrick/xboot-front) - 基于Vue+iView Admin开发的XBoot前后端分离开放平台前端 权限可控制至按钮显示 动态路由权限菜单/多语言/简洁美观 前后端分离
-
-*   [Exrick/xmall-front](https://github.com/Exrick/xmall-front) - 基于Vue开发的XMall商城前台页面 PC端
-
-*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
-
-*   [WishMelz/tFile](https://github.com/WishMelz/tFile) - 基于telegra.ph的文件存储系统 https://wishmelz.github.io/tFile/
-
-*   [WishMelz/imgurl](https://github.com/WishMelz/imgurl) - 基于github的图片管理系统/免费 https://wishmelz.github.io/imgurl  ；基于Imgur的免费图床：https://github.com/WishMelz/imgur
-
-*   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - An online presentation application that replicates most of the commonly used features of Microsoft Office PowerPoint, allowing for the editing and presentation of PPT online. It also supports the export of PPT files.
-
-*   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
-
-*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
-
-*   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
-
-*   [lusaxweb/vuesax-next](https://github.com/lusaxweb/vuesax-next) - Vuesax v4: framework components for Vuejs
-
-*   [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
-
-*   [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
-
-*   [xandone/wcdog-manager](https://github.com/xandone/wcdog-manager) - wcdog-manager  新闻后台管理
-
-*   [xandone/wcdog-web](https://github.com/xandone/wcdog-web) - wcdog-web H5前端新闻
-
-*   [vform666/variant-form3-vite](https://github.com/vform666/variant-form3-vite) -
-
-*   [qianphong/china-ex-ns](https://github.com/qianphong/china-ex-ns) - 「中国制霸生成器」正常地图/简化地图
-
-*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
-
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
-
-*   [jeecgboot/jeecg-uniapp](https://github.com/jeecgboot/jeecg-uniapp) - JEECG BOOT APP 移动解决方案，采用uniapp框架，一份代码多终端适配，同时支持APP、小程序、H5！实现了与JeecgBoot平台完美对接的移动解决方案！目前已经实现登录、用户信息、通讯录、公告、移动首页、九宫格等基础功能。
-
-*   [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-
-*   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-
-*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-
-*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
-
-*   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
-
-*   [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
-
-*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-
-*   [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-
-*   [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
-
-*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
-
-*   [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
-
-*   [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
-
-*   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
-
-*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-
-*   [myide/see](https://github.com/myide/see) - 基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核\&SQL优化的Web平台
-
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-
-*   [newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin) - 🔥 🎉Vue 3 + Vite 2 + Vue-Router 4 + Element-Plus + Echarts 5 + Axios 开发的后台管理系统
-
-*   [yangzongzhuan/RuoYi-Cloud-Vue3](https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3) - 🎉 基于Spring Boot、Spring Cloud & Alibaba、Vue3 & Vite、Element Plus的分布式前后端分离微服务架构权限管理系统
-
-*   [yangzongzhuan/RuoYi-App](https://github.com/yangzongzhuan/RuoYi-App) - 🎉 (RuoYi)官方仓库 RuoYi APP 移动端框架，基于uniapp+uniui封装的一套基础模版，支持H5、APP、微信小程序、支付宝小程序等，实现了与RuoYi-Vue、RuoYi-Cloud后台完美对接。
-
-*   [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
-
-*   [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
-
-*   [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
-
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-
-*   [devjin0617/vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) - :bar\_chart: adminLTE to vuejs v2.x converting project
-
-*   [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
-
-*   [SimonZhangITer/VueDemo\_Sell\_Eleme](https://github.com/SimonZhangITer/VueDemo_Sell_Eleme) - :bowtie: ele by vue2.x :penguin:
-
-*   [tuandm/laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev
-
-*   [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
-
-*   [mgbq/nx-admin](https://github.com/mgbq/nx-admin) -  👍 A magical   🐮  ⚔  vue admin，记得star
-
-*   [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-*   [N3-components/N3-components](https://github.com/N3-components/N3-components) - N3-components , Powerful Vue UI Library.
-
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-
-*   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
-
-*   [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
-
-*   [canfoo/vue2.0-taopiaopiao](https://github.com/canfoo/vue2.0-taopiaopiao) - vue2.0+router+vuex+express 构建淘票票的全栈demo
-
-*   [nuxt-community/express-template](https://github.com/nuxt-community/express-template) - Starter template for Nuxt 2 with Express.
-
-*   [stylefeng/Guns](https://github.com/stylefeng/Guns) - Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)，可以直接作为一个后台管理系统的脚手架!
-
-*   [newbee-ltd/newbee-mall-vue-app](https://github.com/newbee-ltd/newbee-mall-vue-app) - 🔥 🎉Vue2 全家桶 + Vant 搭建大型单页面商城项目。新蜂商城前后端分离版本-前端Vue项目源码
-
-*   [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。
-
-*   [Hunlongyu/ZY-Player-Web](https://github.com/Hunlongyu/ZY-Player-Web) - ▶️ 跨平台浏览器端视频资源播放器. 简洁免费. 🎞 ZY Player 浏览器端。
-
-*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-
-*   [cjunn/cnblog\_theme\_atum](https://github.com/cjunn/cnblog_theme_atum) -
-
-*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
-
-*   [pearmini/colorfu](https://github.com/pearmini/colorfu) - Make meaningful wallpapers with colors and words.
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-
-*   [TerryZ/v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin make files upload simple and easier, single file upload with image preview, multiple upload with drag and drop
-
-*   [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-
-*   [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
-
-*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
-
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
-
-*   [5ime/vue-page](https://github.com/5ime/vue-page) - vue短视频/图集去水印解析页面
-
-*   [androidmumo/bing](https://github.com/androidmumo/bing) - 必应每日一图
-
-*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-
-*   [lybenson/bilibili-vue](https://github.com/lybenson/bilibili-vue) - 前端vue+后端koa，全栈式开发bilibili首页
-
-*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
-
-*   [alexwjj/alexwjj.github.io](https://github.com/alexwjj/alexwjj.github.io) - 基于vuePress的博客，定期分享前端知识，求star
-
-*   [xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - Chrome/Firefox/Edge Extension bilibili img uploader。哔哩哔哩图床上传插件.https://chrome.google.com/webstore/detail/b%E7%AB%99%E5%9B%BE%E5%BA%8A/domljbndjbjgpkhdbmfgmiclggdfojnd?hl=zh-CN
-
-*   [FreeNowOrg/PixivNow](https://github.com/FreeNowOrg/PixivNow) - Provide Pixiv backend proxy & frontend service based on serverless technology
-
-## C++
-
-*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.
-
-*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
-
-*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
-
-*   [lailongwei/llbc](https://github.com/lailongwei/llbc) - 一个简洁、高效、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
-
-*   [yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
-
-*   [pi-314159/Authenticator](https://github.com/pi-314159/Authenticator) - An authenticator implementing RFC 6238, utilizing the OpenSSL library to encrypt secrets for cross-machine usage.
-
-*   [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
-
-*   [LiteLoaderQQNT/QQNTFileVerifyPatch](https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch) - 逆他妈的QQNT Patch文件检测
-
-*   [openvpi/dataset-tools](https://github.com/openvpi/dataset-tools) - DiffSinger dataset processing tools, including audio processing, labeling.
-
-*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-
-*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
-
-*   [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
-
-*   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
-
-*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-*   [senlinmuvs/xxmoon](https://github.com/senlinmuvs/xxmoon) - xxmoon摘月——信息收藏、Kindle/微信读书/豆瓣阅读笔记管理
-
-*   [851896022/DesktopXiuXian](https://github.com/851896022/DesktopXiuXian) - 桌面修仙——桌面放置类摸鱼修仙游戏。支持放置，点击，桌面立绘，聊天吹水，运势推演，联网排名
-
-*   [mandliya/algorithms\_and\_data\_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
-
-*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
-
-*   [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
-
-*   [sumitsojha88/Placement-Preparation](https://github.com/sumitsojha88/Placement-Preparation) - Complete roadmap for your placement or intern preparation!
-
-*   [fnplus/interview-techdev-guide](https://github.com/fnplus/interview-techdev-guide) - This repository contains curated technical interview questions by fn+geeks community
-
-*   [Nabagata/interview-prep](https://github.com/Nabagata/interview-prep) - Everything you need to know to get the job
-
-*   [rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes) - 【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。
-
-*   [FazeelUsmani/Amazon-SDE-Preparation](https://github.com/FazeelUsmani/Amazon-SDE-Preparation) - This repository includes all the interview preparation questions for Amazon SDE role
-
-*   [knightsj/awesome-algorithm-question-solution](https://github.com/knightsj/awesome-algorithm-question-solution) - LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法的实现
-
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
-
-*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
-
-*   [0voice/introduce\_c-cpp\_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
-
-*   [0voice/cpp\_new\_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
-
-*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-
-*   [wovert/CTutorials](https://github.com/wovert/CTutorials) - C 语言学习教程
-
-*   [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank) - This repository contains all the popular Competitive Programming and DSA questions with solutions for your Coding Interview Preparation.
-
-*   [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) - This repo contains links of resources, theory subjects content and DSA questions & their solution for interview preparation from different websites like geeksforgeeks, leetcode, etc.
-
-*   [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms) - The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!
-
-*   [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
-
-*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-
-*   [selfboot/CS\_Offer](https://github.com/selfboot/CS_Offer) - 计算机学科基础知识和主流编程语言相关内容的总结
-
-*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-
-*   [jainaman224/Algo\_Ds\_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - A comprehensive resource for learning and implementing algorithms and data structures. This repository includes detailed notes, complexity analysis, and code examples in C++, Java, Python, and more. Ideal for students, professionals, and those preparing for coding interviews.
-
-*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-
-*   [ION28/BLUESPAWN](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams
-
-*   [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit) - Windows Explorer Extension to Operate Git; Mirror of official repository https://tortoisegit.org/sourcecode
-
-*   [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspired by Sparkle for macOS
-
-*   [qcad/qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
-
-*   [google/lullaby](https://github.com/google/lullaby) - A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences
-
-*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program font.
-
-*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-
-*   [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
-
-*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
-
-*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
-
-*   [eranif/codelite](https://github.com/eranif/codelite) - A multi purpose IDE specialized in C/C++/Rust/Python/PHP and Node.js. Written in C++
-
-*   [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) - A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
-
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
-*   [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
-
-*   [RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Change C++ code at runtime
-
-*   [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF\_XDP and PF\_RING.
-
-*   [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
-
-*   [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
-
-*   [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
-
-*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
-
-*   [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
-
-*   [anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource) - RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码
-
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
-
-*   [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
-
-*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-
-*   [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
-
-*   [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
-
-*   [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-
-*   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-
-*   [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
-
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-
-*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-*   [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
-
-*   [SOCI/soci](https://github.com/SOCI/soci) - Official repository of the SOCI - The C++ Database Access Library
-
-*   [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
-
-*   [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
-
-*   [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
-
-*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-
-*   [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
-
-*   [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
-
-*   [spring/spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. - Report issues at https://springrts.com/mantis/
-
-*   [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-
-*   [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
-
-*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [aliakseis/LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
-
-*   [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
-
-*   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
-
-*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-
-*   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
-
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-
-*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
-
-*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
-
 ## Python
+
+*   [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) - WPA/WPA2 密码字典，用于 wifi 密码暴力破解
 
 *   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
 
@@ -1192,7 +594,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -2497,6 +1899,606 @@
 *   [0honus0/1024-Autoreply](https://github.com/0honus0/1024-Autoreply) - 1024论坛 自动回帖
 
 *   [djhdj1/AutoApiP](https://github.com/djhdj1/AutoApiP) - E5 自动续期
+
+## Stylus
+
+*   [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
+
+*   [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - An elegant Hexo theme that supports lazy loading, PWA, Latex, and multiple commenting systems. 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
+
+*   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
+
+*   [lynnandtonic/a-single-div](https://github.com/lynnandtonic/a-single-div) - 🎨 CSS drawings with only one HTML element.
+
+## Dart
+
+*   [azhon/flutter\_app\_update](https://github.com/azhon/flutter_app_update) - 一个Flutter版本简单、轻量、可随意定制的Android版本更新库；A simple, lightweight, and customizable Android version update library for Flutter
+
+*   [ZDfordream/FlutterTianYue](https://github.com/ZDfordream/FlutterTianYue) - 基于Flutter的超完整仿腾讯动漫，小说阅读，抖音视频项目，功能丰富，适合学习和日常使用，拥有较好的项目结构&比较规范的代码！Flutter入门，看这个就够了～Flutter project which  provide richer functionality, if you want to learn flutter, this project is a good choice
+
+*   [youxinLu/flutter\_mall](https://github.com/youxinLu/flutter_mall) - Flutter\_Mall是一款Flutter开源在线商城应用程序，是基于litemall基础上进行开发，litemall包含了Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端感兴趣的同学可以自行研究部署，Flutter\_Mall基本上包含了litemall中小程序的功能。
+
+*   [LaoMengFlutter/flutter-do](https://github.com/LaoMengFlutter/flutter-do) - 包含350多个组件用法、组件继承关系图、40多个 loading 组件，App升级、验证码、弹幕、音乐字幕 4个插件，一个小而全完整的App项目。
+
+*   [kangpeiqin/bilivideo\_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+
+*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+
+*   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+
+*   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
+
+*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
+
+*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
+
+*   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
+
+*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+
+*   [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
+
+*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+
+*   [patrick-fu/GitmojiApp](https://github.com/patrick-fu/GitmojiApp) - A Gitmoji app for macOS, Linux, and Windows.
+
+*   [techouse/alfred-gitmoji](https://github.com/techouse/alfred-gitmoji) - Search for Gitmojis using Alfred
+
+*   [TheAlgorithms/Dart](https://github.com/TheAlgorithms/Dart) - All Algorithms implemented in Dart
+
+*   [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
+
+*   [isar/hive](https://github.com/isar/hive) - Lightweight and blazing fast key-value database written in pure Dart.
+
+*   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
+
+*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
+
+*   [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
+
+*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+
+*   [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+*   [Chalarangelo/30-seconds-of-dart](https://github.com/Chalarangelo/30-seconds-of-dart) - Short Dart code snippets for all your development needs
+
+*   [KagurazakaHanabi/dailypics](https://github.com/KagurazakaHanabi/dailypics) - 图鉴日图 - 精选壁纸推荐
+
+## Vue
+
+*   [TyCoding/langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
+
+*   [Siriling/my-icons](https://github.com/Siriling/my-icons) - 程序图标储存
+
+*   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
+
+*   [aLittleDonkey/poetize-ui-vue2](https://github.com/aLittleDonkey/poetize-ui-vue2) - 个人博客 聊天室，挑战最美博客，使用 SpringBoot 和 Vue 的个人网站
+
+*   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
+
+*   [WuKongOpenSource/Wukong\_ProjectManagement](https://github.com/WuKongOpenSource/Wukong_ProjectManagement) - 悟空项目管理-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离项目管理系统
+
+*   [WuKongOpenSource/Wukong\_Accounting](https://github.com/WuKongOpenSource/Wukong_Accounting) - 悟空财务管理系统（悟空FS） 实现凭证管理、账簿管理、资产负债表、现金流量表、利润表等管理。开启数智财务新时代。
+
+*   [unilei/aipan-netdisk-search](https://github.com/unilei/aipan-netdisk-search) - 本项目乃是基于 Vue 与 Nuxt.js 技术打造的网盘搜索项目，持续开源并保持维护更新。其旨在让人人皆可拥有属于自己的网盘搜索网站。强烈建议自行部署，向所有参与者致敬！Salute to all!
+
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
+
+*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+
+*   [Moe-Nya/NyaLog](https://github.com/Moe-Nya/NyaLog) - NyaLog is a blog by Gin & Vue and Moe\_Nya's heart
+
+*   [gusibi/path-meme-web](https://github.com/gusibi/path-meme-web) - 一个灵感来源于 Path 应用用户界面的meme 系统
+
+*   [super-upup/98tang](https://github.com/super-upup/98tang) - 98tang/98堂/色花堂/sehuatang自动签到/每日签到/升级【2024年11月】
+
+*   [thisjam/comfyui-sixgod\_prompt](https://github.com/thisjam/comfyui-sixgod_prompt) -
+
+*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+*   [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
+
+*   [MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub) - https://github.com/MarSeventh/CloudFlare-ImgBed 项目的前端仓库。
+
+*   [cloudflypeng/eno-music](https://github.com/cloudflypeng/eno-music) -
+
+*   [itchaox/annotree](https://github.com/itchaox/annotree) - Generate folder directory annotation tree | 生成文件夹目录注释树
+
+*   [shuhongfan/frontend-quickstart](https://github.com/shuhongfan/frontend-quickstart) - 前端工程化 - 快速通关 （4h）
+
+*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+
+*   [TangSY/echarts-map-demo](https://github.com/TangSY/echarts-map-demo) - 适用于echarts、QGIS等地图geoJson行政区划边界数据的实时获取与应用，json格式数据，全国省市区县多级联动下钻，真正意义的下钻至县级【附最新全国省市区县乡镇三级或四级城市geoJson文件下载，另可下载四级联动或五级（村级）行政编码对应关系】
+
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+
+*   [Zhouqluo/bilidown-web](https://github.com/Zhouqluo/bilidown-web) - 在线下载b站视频
+
+*   [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
+
+*   [galaxy-s10/billd-live](https://github.com/galaxy-s10/billd-live) - 基于Vue3 + WebRTC + Node + SRS搭建的直播间
+
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
+
+*   [ljxi/NetworkPanel](https://github.com/ljxi/NetworkPanel) - 测试您的网速，多出口查询您的ip地址
+
+*   [besscroft/kamera](https://github.com/besscroft/kamera) - 一款专供摄影佬使用的记录网站，基于 Nuxt 3 开发，瀑布流展示图片，预览图片及 EXIF 信息，支持常见的图片格式。 可读取 EXIF 信息并上传、管理维护图片数据，首页精品照片展示，子页分类展示等功能。 图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。
+
+*   [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
+
+*   [liujuntao123/chines-history-video](https://github.com/liujuntao123/chines-history-video) - 中国历朝代历史视频讲解
+
+*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
+
+*   [J1ong/FilmSys](https://github.com/J1ong/FilmSys) - 一个使用Vue全家桶和后台Express框架结合Mysql数据库搭建起来的移动端电影售票和管理系统，实现了热映、即将上映、电影和影院全局搜索、评论、选座、购票、点赞、收藏、订单等一系列购票和管理流程功能
+
+*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
+
+*   [Nash-x9/watermark](https://github.com/Nash-x9/watermark) - Vue3 Watermark
+
+*   [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权等隐藏功能
+
+*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+
+*   [Akegarasu/stable-diffusion-inspector](https://github.com/Akegarasu/stable-diffusion-inspector) - read pnginfo in stable diffusion generated images / inspect models
+
+*   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
+
+*   [setube/jntm](https://github.com/setube/jntm) - 一个小众的度盘秒传分享平台
+
+*   [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端
+
+*   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
+
+*   [mouday/hao123](https://github.com/mouday/hao123) - 程序员网址导航
+
+*   [mouday/wallpaper](https://github.com/mouday/wallpaper) - bing必应壁纸
+
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+
+*   [mic1on/chatGPT-web](https://github.com/mic1on/chatGPT-web) - chatGPT私有化部署
+
+*   [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
+
+*   [pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue) - A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具
+
+*   [vform666/variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
+
+*   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-reco 1.
+
+*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
+
+*   [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
+
+*   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
+
+*   [cadecode/vuepress-theme-2zh](https://github.com/cadecode/vuepress-theme-2zh) - VuePress 博客主题插件
+
+*   [cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面
+
+*   [cp3geek/forum](https://github.com/cp3geek/forum) - 大学校园交流论坛，前后端分离，采用springboot+vue开发
+
+*   [maliangnansheng/bbs-vue-ui](https://github.com/maliangnansheng/bbs-vue-ui) - 基于Vue2开发的仿掘金之【南生论坛】企业级项目！官方地址：https://bbs.nanshengbbs.top
+
+*   [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.2、 Spring Cloud 2023、 OAuth2 . Give a star
+
+*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
+
+*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
+
+*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+
+*   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
+
+*   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top
+
+*   [topfullstack/adminify](https://github.com/topfullstack/adminify) - An Admin Dashboard based on Vuetify material
+
+*   [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz) - 👏vue后台管理框架👏
+
+*   [lifetea/vue-admin](https://github.com/lifetea/vue-admin) - 手把手带你用vue开发一个管理后台
+
+*   [lanux/Vue-Admin](https://github.com/lanux/Vue-Admin) - 基于Vue2、element ui、vue-cli、vuex、vue-router、axios 、echarts后台管理系统demo. 权限管理，用户管理，菜单管理。无限级菜单，下拉树形选择框
+
+*   [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) - admin template based on vuejs2 and element.
+
+*   [Dark2017/vue-dark-photo](https://github.com/Dark2017/vue-dark-photo) - vue-dark-photo 一款基于vue2.x封装的轻便简易的图片预览组件，支持放大、缩小、下载、打印等功能。
+
+*   [hellowuxin/mindmap](https://github.com/hellowuxin/mindmap) - Mindmap component for Vue2
+
+*   [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
+
+*   [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
+
+*   [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vuestic Admin is an open-source, ready-to-use admin template suite designed for rapid development, easy maintenance, and high accessibility. Built on Vuestic UI, Vue 3, Vite, Pinia, and Tailwind CSS. Maintained by Epicmax (@epicmaxco).
+
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+
+*   [gz-yami/mall4cloud-platform](https://github.com/gz-yami/mall4cloud-platform) - vue3 element-plus mall4cloud微服务商城-商城系统后台平台端
+
+*   [gz-yami/mall4cloud-uniapp](https://github.com/gz-yami/mall4cloud-uniapp) - vue3 mall4cloud微服务商城-移动端  uniapp商城系统
+
+*   [gz-yami/mall4uni](https://github.com/gz-yami/mall4uni) - vue3 mall4j商城-移动端 uniapp商城系统 小程序商城系统
+
+*   [yisainan/TypeScript](https://github.com/yisainan/TypeScript) - TypeScript是JavaScript类型的超集，它可以编译成纯JavaScript。TypeScript可以在任何浏览器、任何计算机和任何操作系统上运行，并且是开源的。
+
+*   [Exrick/xboot-front](https://github.com/Exrick/xboot-front) - 基于Vue+iView Admin开发的XBoot前后端分离开放平台前端 权限可控制至按钮显示 动态路由权限菜单/多语言/简洁美观 前后端分离
+
+*   [Exrick/xmall-front](https://github.com/Exrick/xmall-front) - 基于Vue开发的XMall商城前台页面 PC端
+
+*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+
+*   [WishMelz/tFile](https://github.com/WishMelz/tFile) - 基于telegra.ph的文件存储系统 https://wishmelz.github.io/tFile/
+
+*   [WishMelz/imgurl](https://github.com/WishMelz/imgurl) - 基于github的图片管理系统/免费 https://wishmelz.github.io/imgurl  ；基于Imgur的免费图床：https://github.com/WishMelz/imgur
+
+*   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - An online presentation application that replicates most of the commonly used features of Microsoft Office PowerPoint, allowing for the editing and presentation of PPT online. It also supports the export of PPT files.
+
+*   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
+
+*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
+
+*   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
+
+*   [lusaxweb/vuesax-next](https://github.com/lusaxweb/vuesax-next) - Vuesax v4: framework components for Vuejs
+
+*   [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
+
+*   [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
+
+*   [xandone/wcdog-manager](https://github.com/xandone/wcdog-manager) - wcdog-manager  新闻后台管理
+
+*   [xandone/wcdog-web](https://github.com/xandone/wcdog-web) - wcdog-web H5前端新闻
+
+*   [vform666/variant-form3-vite](https://github.com/vform666/variant-form3-vite) -
+
+*   [qianphong/china-ex-ns](https://github.com/qianphong/china-ex-ns) - 「中国制霸生成器」正常地图/简化地图
+
+*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
+
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+
+*   [jeecgboot/jeecg-uniapp](https://github.com/jeecgboot/jeecg-uniapp) - JEECG BOOT APP 移动解决方案，采用uniapp框架，一份代码多终端适配，同时支持APP、小程序、H5！实现了与JeecgBoot平台完美对接的移动解决方案！目前已经实现登录、用户信息、通讯录、公告、移动首页、九宫格等基础功能。
+
+*   [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+
+*   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+
+*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
+
+*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
+
+*   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
+
+*   [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
+
+*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+
+*   [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
+
+*   [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
+
+*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
+
+*   [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
+
+*   [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
+
+*   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
+
+*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
+
+*   [myide/see](https://github.com/myide/see) - 基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核\&SQL优化的Web平台
+
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+*   [newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin) - 🔥 🎉Vue 3 + Vite 2 + Vue-Router 4 + Element-Plus + Echarts 5 + Axios 开发的后台管理系统
+
+*   [yangzongzhuan/RuoYi-Cloud-Vue3](https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3) - 🎉 基于Spring Boot、Spring Cloud & Alibaba、Vue3 & Vite、Element Plus的分布式前后端分离微服务架构权限管理系统
+
+*   [yangzongzhuan/RuoYi-App](https://github.com/yangzongzhuan/RuoYi-App) - 🎉 (RuoYi)官方仓库 RuoYi APP 移动端框架，基于uniapp+uniui封装的一套基础模版，支持H5、APP、微信小程序、支付宝小程序等，实现了与RuoYi-Vue、RuoYi-Cloud后台完美对接。
+
+*   [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
+
+*   [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
+
+*   [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
+
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+
+*   [devjin0617/vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) - :bar\_chart: adminLTE to vuejs v2.x converting project
+
+*   [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
+
+*   [SimonZhangITer/VueDemo\_Sell\_Eleme](https://github.com/SimonZhangITer/VueDemo_Sell_Eleme) - :bowtie: ele by vue2.x :penguin:
+
+*   [tuandm/laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev
+
+*   [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
+
+*   [mgbq/nx-admin](https://github.com/mgbq/nx-admin) -  👍 A magical   🐮  ⚔  vue admin，记得star
+
+*   [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [N3-components/N3-components](https://github.com/N3-components/N3-components) - N3-components , Powerful Vue UI Library.
+
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+
+*   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
+
+*   [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
+
+*   [canfoo/vue2.0-taopiaopiao](https://github.com/canfoo/vue2.0-taopiaopiao) - vue2.0+router+vuex+express 构建淘票票的全栈demo
+
+*   [nuxt-community/express-template](https://github.com/nuxt-community/express-template) - Starter template for Nuxt 2 with Express.
+
+*   [stylefeng/Guns](https://github.com/stylefeng/Guns) - Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)，可以直接作为一个后台管理系统的脚手架!
+
+*   [newbee-ltd/newbee-mall-vue-app](https://github.com/newbee-ltd/newbee-mall-vue-app) - 🔥 🎉Vue2 全家桶 + Vant 搭建大型单页面商城项目。新蜂商城前后端分离版本-前端Vue项目源码
+
+*   [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。
+
+*   [Hunlongyu/ZY-Player-Web](https://github.com/Hunlongyu/ZY-Player-Web) - ▶️ 跨平台浏览器端视频资源播放器. 简洁免费. 🎞 ZY Player 浏览器端。
+
+*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+
+*   [cjunn/cnblog\_theme\_atum](https://github.com/cjunn/cnblog_theme_atum) -
+
+*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
+
+*   [pearmini/colorfu](https://github.com/pearmini/colorfu) - Make meaningful wallpapers with colors and words.
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+
+*   [TerryZ/v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin make files upload simple and easier, single file upload with image preview, multiple upload with drag and drop
+
+*   [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+*   [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
+
+*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+
+*   [5ime/vue-page](https://github.com/5ime/vue-page) - vue短视频/图集去水印解析页面
+
+*   [androidmumo/bing](https://github.com/androidmumo/bing) - 必应每日一图
+
+*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
+
+*   [lybenson/bilibili-vue](https://github.com/lybenson/bilibili-vue) - 前端vue+后端koa，全栈式开发bilibili首页
+
+*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
+
+*   [alexwjj/alexwjj.github.io](https://github.com/alexwjj/alexwjj.github.io) - 基于vuePress的博客，定期分享前端知识，求star
+
+*   [xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - Chrome/Firefox/Edge Extension bilibili img uploader。哔哩哔哩图床上传插件.https://chrome.google.com/webstore/detail/b%E7%AB%99%E5%9B%BE%E5%BA%8A/domljbndjbjgpkhdbmfgmiclggdfojnd?hl=zh-CN
+
+*   [FreeNowOrg/PixivNow](https://github.com/FreeNowOrg/PixivNow) - Provide Pixiv backend proxy & frontend service based on serverless technology
+
+## C++
+
+*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.
+
+*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
+
+*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+
+*   [lailongwei/llbc](https://github.com/lailongwei/llbc) - 一个简洁、高性能、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
+
+*   [yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
+
+*   [pi-314159/Authenticator](https://github.com/pi-314159/Authenticator) - An authenticator implementing RFC 6238, utilizing the OpenSSL library to encrypt secrets for cross-machine usage.
+
+*   [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
+
+*   [LiteLoaderQQNT/QQNTFileVerifyPatch](https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch) - 逆他妈的QQNT Patch文件检测
+
+*   [openvpi/dataset-tools](https://github.com/openvpi/dataset-tools) - DiffSinger dataset processing tools, including audio processing, labeling.
+
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+
+*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
+
+*   [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
+
+*   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+
+*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+
+*   [senlinmuvs/xxmoon](https://github.com/senlinmuvs/xxmoon) - xxmoon摘月——信息收藏、Kindle/微信读书/豆瓣阅读笔记管理
+
+*   [851896022/DesktopXiuXian](https://github.com/851896022/DesktopXiuXian) - 桌面修仙——桌面放置类摸鱼修仙游戏。支持放置，点击，桌面立绘，聊天吹水，运势推演，联网排名
+
+*   [mandliya/algorithms\_and\_data\_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
+
+*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
+
+*   [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
+
+*   [sumitsojha88/Placement-Preparation](https://github.com/sumitsojha88/Placement-Preparation) - Complete roadmap for your placement or intern preparation!
+
+*   [fnplus/interview-techdev-guide](https://github.com/fnplus/interview-techdev-guide) - This repository contains curated technical interview questions by fn+geeks community
+
+*   [Nabagata/interview-prep](https://github.com/Nabagata/interview-prep) - Everything you need to know to get the job
+
+*   [rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes) - 【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。
+
+*   [FazeelUsmani/Amazon-SDE-Preparation](https://github.com/FazeelUsmani/Amazon-SDE-Preparation) - This repository includes all the interview preparation questions for Amazon SDE role
+
+*   [knightsj/awesome-algorithm-question-solution](https://github.com/knightsj/awesome-algorithm-question-solution) - LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法的实现
+
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+
+*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
+
+*   [0voice/introduce\_c-cpp\_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
+
+*   [0voice/cpp\_new\_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
+
+*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+
+*   [wovert/CTutorials](https://github.com/wovert/CTutorials) - C 语言学习教程
+
+*   [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank) - This repository contains all the popular Competitive Programming and DSA questions with solutions for your Coding Interview Preparation.
+
+*   [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) - This repo contains links of resources, theory subjects content and DSA questions & their solution for interview preparation from different websites like geeksforgeeks, leetcode, etc.
+
+*   [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms) - The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!
+
+*   [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
+
+*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+
+*   [selfboot/CS\_Offer](https://github.com/selfboot/CS_Offer) - 计算机学科基础知识和主流编程语言相关内容的总结
+
+*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+
+*   [jainaman224/Algo\_Ds\_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - A comprehensive resource for learning and implementing algorithms and data structures. This repository includes detailed notes, complexity analysis, and code examples in C++, Java, Python, and more. Ideal for students, professionals, and those preparing for coding interviews.
+
+*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+
+*   [ION28/BLUESPAWN](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams
+
+*   [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit) - Windows Explorer Extension to Operate Git; Mirror of official repository https://tortoisegit.org/sourcecode
+
+*   [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspired by Sparkle for macOS
+
+*   [qcad/qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
+
+*   [google/lullaby](https://github.com/google/lullaby) - A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences
+
+*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program font.
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+
+*   [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
+
+*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
+
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+
+*   [eranif/codelite](https://github.com/eranif/codelite) - A multi purpose IDE specialized in C/C++/Rust/Python/PHP and Node.js. Written in C++
+
+*   [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) - A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
+
+*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+
+*   [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
+
+*   [RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Change C++ code at runtime
+
+*   [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF\_XDP and PF\_RING.
+
+*   [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
+
+*   [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
+
+*   [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
+
+*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+
+*   [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
+
+*   [anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource) - RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码
+
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
+
+*   [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+
+*   [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
+
+*   [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
+
+*   [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+
+*   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+
+*   [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
+
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+
+*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+*   [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
+
+*   [SOCI/soci](https://github.com/SOCI/soci) - Official repository of the SOCI - The C++ Database Access Library
+
+*   [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
+
+*   [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
+
+*   [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
+
+*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+
+*   [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
+
+*   [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
+
+*   [spring/spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. - Report issues at https://springrts.com/mantis/
+
+*   [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+
+*   [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
+
+*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [aliakseis/LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
+
+*   [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
+
+*   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
+
+*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+
+*   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
+
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+
+*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+
+*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 
 ## Go
 
@@ -10537,8 +10539,6 @@
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 
 *   [zkeq/icodeq-api](https://github.com/zkeq/icodeq-api) - 自用 API 地址
-
-*   [doocs/coding-interview](https://github.com/doocs/coding-interview) - 😀 代码面试题集，包括剑指 Offer、编程之美等
 
 ## PHP
 
