@@ -2928,7 +2928,7 @@
 
 *   [1c7/Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - （no longer maintained）（停止维护）功能：下载 Youtube 字幕，Download Youtube Subtitles（备注：因为不能带来收入，而且我自己也没有下载字幕的需求了，所以不再维护，除非情况有所改变）
 
-*   [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) B站播放量 383万
+*   [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课 (全40集 2018年5月1号完成) B 站播放量 442 万
 
 *   [jikeytang/front-end-collect](https://github.com/jikeytang/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 
@@ -5042,7 +5042,7 @@
 
 *   [hydrotho/BiliBili\_Livestream\_Reminder](https://github.com/hydrotho/BiliBili_Livestream_Reminder) - 一款监控哔哩哔哩直播间并通过 Telegram 机器人发送通知的工具。A tool for monitoring BiliBili livestreams and sending notifications via a Telegram bot.
 
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新
+*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅IPTV源+IPA巨魔应用=自动更新
 
 *   [xvhuan/BLM](https://github.com/xvhuan/BLM) - 基于kplayer的哔哩哔哩直播监控程序,实现直播间关播后自动开播
 
@@ -5102,7 +5102,7 @@
 
 *   [yakami129/VirtualWife](https://github.com/yakami129/VirtualWife) - VirtualWife是一个虚拟数字人项目，支持B站直播，支持openai、ollama
 
-*   [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK等40+平台直播录制
+*   [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK、shopee等40+平台直播录制
 
 *   [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 
@@ -5150,7 +5150,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
