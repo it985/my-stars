@@ -14,6 +14,22 @@
 
 ## 语言分类
 
+## Astro
+
+*   [cworld1/astro-theme-pure](https://github.com/cworld1/astro-theme-pure) - A simple, clean but powerful blog theme build by astro.
+
+*   [DORAKIKA/iak](https://github.com/DORAKIKA/iak) - 一个简单的Astro博客主题
+
+*   [javayhu/haitang](https://github.com/javayhu/haitang) - 海棠诗社，古诗词的数字桃源
+
+*   [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
+
+*   [szmxx/blog](https://github.com/szmxx/blog) - blog
+
+*   [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for software engineering interviews.
+
+*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
+
 ## Python
 
 *   [EvilBT/ComfyUI\_SLK\_joy\_caption\_two](https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two) - ComfyUI Node
@@ -602,7 +618,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -1903,8 +1919,6 @@
 *   [srx-2000/spider\_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，知乎百万级用户爬虫+数据分析，github用户爬虫
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-
-*   [0honus0/1024-Autoreply](https://github.com/0honus0/1024-Autoreply) - 1024论坛 自动回帖
 
 ## Rust
 
@@ -4196,7 +4210,7 @@
 
 *   [taofed/react-web](https://github.com/taofed/react-web) - A framework for building web apps with React Native compatible API.
 
-*   [friend-nicen/theme-document](https://github.com/friend-nicen/theme-document) - 一款专为做笔记而开发的wordpress主题
+*   [friend-nicen/theme-document](https://github.com/friend-nicen/theme-document) - Document主题，一款专为做笔记而开发的wordpress主题
 
 *   [hmhm2022/Card-Tab](https://github.com/hmhm2022/Card-Tab) - ✨一个部署在CF的轻量化导航页面，可移动卡片式书签，方便管理
 
@@ -10699,20 +10713,6 @@
 *   [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
 
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-## Astro
-
-*   [DORAKIKA/iak](https://github.com/DORAKIKA/iak) - 一个简单的Astro博客主题
-
-*   [javayhu/haitang](https://github.com/javayhu/haitang) - 海棠诗社，古诗词的数字桃源
-
-*   [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
-
-*   [szmxx/blog](https://github.com/szmxx/blog) - blog
-
-*   [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for software engineering interviews.
-
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Shell
 
