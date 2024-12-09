@@ -14,6 +14,28 @@
 
 ## 语言分类
 
+## Dockerfile
+
+*   [wy580477/musicn-container](https://github.com/wy580477/musicn-container) - 播放及下载音乐工具 musicn 容器
+
+*   [appotry/docker-hexo](https://github.com/appotry/docker-hexo) - hexo docker 一键部署环境。增加CJK中国环境适配和常用软件，hexo 插件等易用设置。开箱即用。
+
+*   [hongyonghan/Docker\_Microsoft365\_E5\_Renew\_X](https://github.com/hongyonghan/Docker_Microsoft365_E5_Renew_X) - Docker版本的E5调用API续订服务：Microsoft 365 E5 Renew X
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+
+*   [dennyzhang/cheatsheet-docker-A4](https://github.com/dennyzhang/cheatsheet-docker-A4) - :book: Docker CheatSheets In A4
+
+*   [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
+
+*   [postgis/docker-postgis](https://github.com/postgis/docker-postgis) - Docker image for PostGIS
+
+*   [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
+
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
 ## CSS
 
 *   [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
@@ -2336,7 +2358,7 @@
 
 *   [yllhwa/decrypt-mflac-frida](https://github.com/yllhwa/decrypt-mflac-frida) - 解密 Windows QQ Music mflac 文件
 
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - CloudFlare 图床，基于 CloudFlare Pages 的免费图片托管解决方案，支持 Telegram Bot 和 Cloudflare R2 等多种存储方式！
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - CloudFlare 图床/文件床，基于 CloudFlare Pages 的免费图片/文件托管解决方案，支持 Telegram Bot 和 Cloudflare R2 等多种存储方式！
 
 *   [cmliu/CF-Workers-SpeedTestURL](https://github.com/cmliu/CF-Workers-SpeedTestURL) - 使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址
 
@@ -8404,7 +8426,7 @@
 
 *   [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, Run Everywhere.
 
-*   [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - NHP: A lightweight cryptography-driven Zero Trust networking protocol at the OSI 5th layer to hide your server and data from attackers.
+*   [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - A lightweight cryptography-driven Zero Trust protocol to safeguard servers and data from attackers by leveraging resource-hiding and encryption algorithms.
 
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
@@ -10370,8 +10392,6 @@
 
 *   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 
-*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
-
 ## C
 
 *   [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
@@ -11139,26 +11159,6 @@
 ## Nix
 
 *   [azuwis/pianotrans](https://github.com/azuwis/pianotrans) - Simple GUI for ByteDance's Piano Transcription with Pedals
-
-## Dockerfile
-
-*   [appotry/docker-hexo](https://github.com/appotry/docker-hexo) - hexo docker 一键部署环境。增加CJK中国环境适配和常用软件，hexo 插件等易用设置。开箱即用。
-
-*   [hongyonghan/Docker\_Microsoft365\_E5\_Renew\_X](https://github.com/hongyonghan/Docker_Microsoft365_E5_Renew_X) - Docker版本的E5调用API续订服务：Microsoft 365 E5 Renew X
-
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-
-*   [dennyzhang/cheatsheet-docker-A4](https://github.com/dennyzhang/cheatsheet-docker-A4) - :book: Docker CheatSheets In A4
-
-*   [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
-
-*   [postgis/docker-postgis](https://github.com/postgis/docker-postgis) - Docker image for PostGIS
-
-*   [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
-
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Jupyter Notebook
 
