@@ -20,3 +20,8 @@ jobs:
           github-email: "2071916845@qq.com"
           template-path: "template/README.ejs"
           github-name: "it985"
+      - name: Delete Workflow Runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 30
+          keep_minimum_runs: 6
