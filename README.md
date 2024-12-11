@@ -616,7 +616,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -7604,6 +7604,8 @@
 
 *   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
+*   [justjavac/the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
+
 ## TypeScript
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
@@ -10612,7 +10614,7 @@
 
 *   [qwqcode/SubRenamer](https://github.com/qwqcode/SubRenamer) - 🎞 字幕文件批量改名和自动调轴工具 | Batch rename subtitle files to match video names with one-click.
 
-*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集 - UI Automation Testing Tools For Genshin Impact
+*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 - UI Automation Testing Tools For Genshin Impact
 
 *   [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 云音乐歌词获取【网易云、QQ音乐】
 
@@ -11011,8 +11013,6 @@
 *   [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 
 *   [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-
-*   [android/architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
 
 *   [wdsqjq/FengYunWeather](https://github.com/wdsqjq/FengYunWeather) - 风云天气是Android 平台开源天气 App，采用Kotlin、Room、OKHttp3、 协程等框架实现。
 
