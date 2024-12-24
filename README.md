@@ -16,7 +16,7 @@
 
 ## C
 
-*   [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Networking analysis tool based on eBPF. Visualize the time packets spend in the kernel, capture requests/responses, calculates various aggregated metrics, makes troubleshooting more efficient.
+*   [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, calculates various aggregated metrics, makes troubleshooting more efficient.
 
 *   [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
 
@@ -137,8 +137,6 @@
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 
 *   [MaskerPRC/hosts-master](https://github.com/MaskerPRC/hosts-master) - 「跨平台 Hosts 魔法棒」Hosts Master，一键切换开发环境！
-
-*   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！
 
 *   [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
 
@@ -1859,6 +1857,8 @@
 *   [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
 
 *   [DIYgod/download-webhook](https://github.com/DIYgod/download-webhook) - 🍰 Download files through webhook
+
+*   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！
 
 *   [wuxue107/bookjs-eazy](https://github.com/wuxue107/bookjs-eazy) - web print / html to pdf so eazy ,HTML自动分页插件。用于生成PDF,前端WEB打印生成PDF或后端wkhtmltopdf、chrome headless生成
 
@@ -4229,6 +4229,8 @@
 *   [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer) - genshin wish history analyzer
 
 *   [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
+
+*   [idealclover/Friend-Link-House](https://github.com/idealclover/Friend-Link-House) - 翠翠的友链屋 - RSS 聚合友链 Blog 文章
 
 ## HTML
 
@@ -7443,8 +7445,6 @@
 *   [observerss/textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
 
 *   [xchaoinfo/fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
-
-*   [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 
 *   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
