@@ -16,6 +16,8 @@
 
 ## miscellaneous
 
+*   [gmh1627/Various-useful-websites](https://github.com/gmh1627/Various-useful-websites) - This repository collects CS/AI related learning resources, commonly used tools, and other websites.本仓库收集了CS/AI相关学习资源、常用工具及其他网站。
+
 *   [adhja/telegram](https://github.com/adhja/telegram) - 2024最受欢迎的15000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖,telegram,群组,频道,机器人,telegram群组推荐,telegram频道,telegram机器人,telegram频道推荐,telegram频道开车,电报频道,电报开车,电报福利姬,纸飞机,纸飞机群,纸飞机福利群,纸飞机成年,电报成人,开车,telegram开车,telegrambot,福利姬,群组导航,频道导航,电报导航,开车群,电报开车群,纸飞机开车,纸飞机开车群
 
 *   [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates) - Edgeone pages templates
@@ -2690,7 +2692,7 @@
 
 *   [Suzie1/ComfyUI\_Comfyroll\_CustomNodes](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes) - Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
 
-*   [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！
+*   [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复，⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
 
 *   [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) - 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
 
@@ -4321,8 +4323,6 @@
 *   [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 
 *   [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
-
-*   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 
 ## TypeScript
 
