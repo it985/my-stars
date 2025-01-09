@@ -2658,7 +2658,7 @@
 
 *   [AUTOMATIC1111/stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) - Removes backgrounds from pictures. Extension for webui.
 
-*   [DoctorReid/ZenlessZoneZero-OneDragon](https://github.com/DoctorReid/ZenlessZoneZero-OneDragon) - 绝区零 一条龙 | 全自动 | 自动闪避 | 自动每日 | 自动空洞 | 支持手柄（1.4 迷失之地开放测试）
+*   [DoctorReid/ZenlessZoneZero-OneDragon](https://github.com/DoctorReid/ZenlessZoneZero-OneDragon) - 绝区零 一条龙 | 全自动 | 自动闪避 | 自动每日 | 自动空洞 | 支持手柄
 
 *   [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸上锁合成 自动肉鸽  Automation for Wuthering Waves
 
@@ -10202,7 +10202,7 @@
 
 *   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
 
-*   [shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror) - 在国内日渐严峻的网络下，无论是公司还是个人，自建仓库都是非常有必要的，这个项目用于快速搭建一个 Docker 私有仓库，并且无需修改已运行的Dockerfile/docker-compose.yaml，几乎没有迁移成本；未来会支持更多npm、Maven、PyPI等仓库。
+*   [shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror) - 本项目旨在快速搭建一个基于 Docker 的私有仓库。起初，该项目仅用于创建一个 Docker 私有仓库，但现已扩展支持 `npm`、`Maven`、`PyPI` 等仓库，未来还将支持更多类型的仓库。用户无需担心代理问题，只需配置一个订阅，软件将自动配置到各个仓库使用，并且所有流量仅在对应容器中使用，确保安全和高效。
 
 *   [pkyeck/git-log-by-day](https://github.com/pkyeck/git-log-by-day) - bash script to log git commits grouped by day (optionally filtered by author and set start/end date)
 
