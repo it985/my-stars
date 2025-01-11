@@ -3030,7 +3030,7 @@
 
 *   [lizongying/my-tv-server](https://github.com/lizongying/my-tv-server) - 启动一个本地的视频源服务。为了更好的稳定性、隐私性、便捷性，可以把一个视频源文件发布到一个本地地址，添加到本地视频播放器。
 
-*   [joyance-professional/cf-comments-mixing](https://github.com/joyance-professional/cf-comments-mixing) - a comment woker with only one file (easy use
+*   [joyance-professional/cf-comment](https://github.com/joyance-professional/cf-comment) - a comment woker with only one file (easily use
 
 *   [leochen-g/dify-schedule](https://github.com/leochen-g/dify-schedule) - Dify Schedule. 免费的Dify工作流定时助手，支持多渠道发送通知. A free automated scheduling solution for Dify, powered by GitHub Actions.
 
@@ -7512,7 +7512,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9074,7 +9074,7 @@
 
 *   [youshandefeiyang/feiyangdigital-bot](https://github.com/youshandefeiyang/feiyangdigital-bot) - 这是一个基于SpringBoot和Telegrambot-Api的多功能Telegram群管机器人，Powered By OpenAI And Google Cloud Vision。
 
-*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self hosted telegram file downloader.Provide continuous, stable and unattended downloading.
+*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 
 *   [anduinnn/HiFiNi-Auto-CheckIn](https://github.com/anduinnn/HiFiNi-Auto-CheckIn) - HiFiNi自动签到
 
