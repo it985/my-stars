@@ -16,6 +16,8 @@
 
 ## Python
 
+*   [kleinlee/DH\_live](https://github.com/kleinlee/DH_live) - 每个人都能用的数字人
+
 *   [ZhuoZhuoCrayon/AcousticKeyBoard-Web](https://github.com/ZhuoZhuoCrayon/AcousticKeyBoard-Web) - ❓脑洞大开：做一个能听懂键盘敲击键位的「玩具」，学习信号处理 / 深度学习 / 安卓 / Django。
 
 *   [XyHK-HUC/Serv00-Reg](https://github.com/XyHK-HUC/Serv00-Reg) - 简单的Serv00注册机。
@@ -3015,8 +3017,6 @@
 *   [TobeBetterV/Moments](https://github.com/TobeBetterV/Moments) - Moments 私有笔记，一键部署你的私有 Blog。
 
 *   [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
-
-*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
 
 *   [Heroor/read-on](https://github.com/Heroor/read-on) - Read on, a browser extension that reminds you to read bookmarks.
 
@@ -9092,8 +9092,6 @@
 
 *   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 
-*   [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
-
 ## Java
 
 *   [youshandefeiyang/feiyangdigital-bot](https://github.com/youshandefeiyang/feiyangdigital-bot) - 这是一个基于SpringBoot和Telegrambot-Api的多功能Telegram群管机器人，Powered By OpenAI And Google Cloud Vision。
@@ -10961,6 +10959,8 @@
 *   [QNquenan/homepage-for-vue3](https://github.com/QNquenan/homepage-for-vue3) - 基于Vue3的主页
 
 *   [eKing-one/pansou](https://github.com/eKing-one/pansou) - 这是一个基于Thinkphp 6.1 + MySQL开发的网盘搜索引擎，可以批量导入各大网盘链接，例如百度网盘、阿里云盘、夸克网盘等。
+
+*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
 
 *   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 
