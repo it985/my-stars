@@ -180,7 +180,7 @@
 
 *   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3, Linkage graphRAG / RAG
 
-*   [timerring/bilive](https://github.com/timerring/bilive) - 最快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，兼容超低配置机器。
+*   [timerring/bilive](https://github.com/timerring/bilive) - 极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，兼容超低配置机器。
 
 *   [sctm002/video\_down](https://github.com/sctm002/video_down) - 快手、抖音，短视频批量下载工具。
 
@@ -738,7 +738,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -3086,7 +3086,7 @@
 
 *   [RylanBot/threejs-tetris-react](https://github.com/RylanBot/threejs-tetris-react) - a 3D tetris game | 3D 俄罗斯方块
 
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 *   [YangZxi/Spanner-Next](https://github.com/YangZxi/Spanner-Next) - 一个用于处理社交/娱乐软件中信息数据的工具集合
 
@@ -8118,7 +8118,7 @@
 
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
-*   [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量下载微信公众号文章，支持阅读量、评论、内嵌音视频，无需搭建任何环境，可100%还原文章样式，支持私有部署
+*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 在线批量下载微信公众号文章，支持阅读量、评论、内嵌音视频，无需搭建任何环境，可100%还原文章样式，支持私有部署
 
 *   [MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub) - https://github.com/MarSeventh/CloudFlare-ImgBed 项目的前端仓库。
 
