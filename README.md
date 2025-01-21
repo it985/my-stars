@@ -40,7 +40,7 @@
 
 *   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 
-*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Dify、Claude、Gemini、gpt4free、Ollama、Gitee AI、DeepSeek、Moonshot、ChatGLM、xAI 等 LLM 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台；原名 QChatGPT
+*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / QQ频道 / OneBot / 企业微信 等多种消息平台 | 支持 OpenAI GPT、Dify、Claude、Gemini、gpt4free、Ollama、Gitee AI、DeepSeek、Moonshot、ChatGLM、xAI 等 LLM 的机器人 / Agent 平台
 
 *   [Thinker-Joe/TypechoAutoPublishTools](https://github.com/Thinker-Joe/TypechoAutoPublishTools) - Typecho文章自动发布工具(使用Github Actions自动更新文章到Typecho)
 
@@ -692,7 +692,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -10286,7 +10286,7 @@
 
 *   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
 
-*   [shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror) - 本项目旨在快速搭建一个基于 Docker 的私有仓库。起初，该项目仅用于创建一个 Docker 私有仓库，但现已扩展支持 `npm`、`Maven`、`PyPI` 等仓库，未来还将支持更多类型的仓库。用户无需担心代理问题，只需配置一个订阅，软件将自动配置到各个仓库使用，并且所有流量仅在对应容器中使用，确保安全和高效。
+*   [shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror) - 本项目旨在快速搭建一个基于 Docker 的私有仓库。起初，该项目仅用于创建一个 Docker 私有仓库，但现已扩展支持 `npm`、`Maven`、`PyPI` 等仓库，未来还将支持更多类型的仓库。无需担心代理问题，只需配置一个订阅，软件将自动配置到各个仓库使用，并且所有流量仅在对应容器中使用，确保安全和高效。
 
 *   [pkyeck/git-log-by-day](https://github.com/pkyeck/git-log-by-day) - bash script to log git commits grouped by day (optionally filtered by author and set start/end date)
 
