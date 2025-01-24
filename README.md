@@ -1444,6 +1444,8 @@
 
 *   [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 
+*   [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.
+
 ## miscellaneous
 
 *   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
@@ -3116,8 +3118,6 @@
 
 *   [AabyssZG/IP-Where](https://github.com/AabyssZG/IP-Where) - Where is this IP?
 
-*   [jiji262/MediaCrawler-new](https://github.com/jiji262/MediaCrawler-new) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
-
 *   [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 
 *   [bywenshu/qmusic-search](https://github.com/bywenshu/qmusic-search) - QQ 音乐搜索与在线播放。
@@ -3370,7 +3370,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -6656,7 +6656,7 @@
 
 *   [lqqyt2423/go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy) - mitmproxy implemented with golang. 用 Golang 实现的中间人攻击（Man-in-the-middle），解析、监测、篡改 HTTP/HTTPS 流量。
 
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 
 *   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 
@@ -10008,7 +10008,7 @@
 
 *   [jayden320/flutter\_shuqi](https://github.com/jayden320/flutter_shuqi) - 高仿书旗小说 Flutter版，支持iOS、Android
 
-*   [honmaple/maple-file](https://github.com/honmaple/maple-file) - upload and manage multi cloud storage with serverless / 无服务端的云盘上传和管理APP
+*   [honmaple/maple-file](https://github.com/honmaple/maple-file) - Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
 
 *   [liuchuancong/pure\_live](https://github.com/liuchuancong/pure_live) - 纯粹直播:哔哩哔哩/虎牙/斗鱼/快手/抖音/网易cc/M38自定义源应有尽有。
 
