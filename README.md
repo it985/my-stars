@@ -3342,7 +3342,7 @@
 
 *   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 
-*   [zzc0721/torch-performence-test-data](https://github.com/zzc0721/torch-performence-test-data) -
+*   [zzc0721/torch-performance-test-data](https://github.com/zzc0721/torch-performance-test-data) -
 
 *   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 
@@ -4032,7 +4032,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -12236,7 +12236,7 @@
 
 ## Roff
 
-*   [ggborr/FREEE-VPN](https://github.com/ggborr/FREEE-VPN) -
+*   [ggborr/FREEE-VPN](https://github.com/ggborr/FREEE-VPN) - 免费vpn节点v2ray，clash
 
 *   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
