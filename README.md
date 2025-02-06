@@ -2100,7 +2100,7 @@
 
 *   [yllhwa/decrypt-mflac-frida](https://github.com/yllhwa/decrypt-mflac-frida) - 解密 Windows QQ Music mflac 文件
 
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - CloudFlare 图床/文件床，基于 CloudFlare Pages 的免费图片/文件托管解决方案，支持 Telegram Bot 和 Cloudflare R2 等多种存储方式！
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案，支持 Telegram Bot 、R2、S3 等多种存储方式！
 
 *   [cmliu/CF-Workers-SpeedTestURL](https://github.com/cmliu/CF-Workers-SpeedTestURL) - 使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址
 
@@ -7382,6 +7382,8 @@
 
 *   [winkidney/PickTrue](https://github.com/winkidney/PickTrue) - 豆瓣相册下载， A站下载器，Artstation Downloader, Pixiv Downloader, 花瓣网（huaban.com）图片下载器
 
+*   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+
 *   [erma0/douyin](https://github.com/erma0/douyin) - 抖音爬虫——采集账号主页、喜欢、收藏、音乐原声、话题、搜索、合集、作品、关注、粉丝等公开数据。
 
 *   [BlenderNeko/ComfyUI\_ADV\_CLIP\_emb](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) - ComfyUI node that let you pick the way in which prompt weights are interpreted
@@ -10353,8 +10355,6 @@
 *   [it2025/saasbook](https://github.com/it2025/saasbook) - 以开源项目的形式收集全国SaaS产品
 
 *   [willow-god/hexo-safego](https://github.com/willow-god/hexo-safego) - 👻基于hexo-external-link二次开发的改进版外链跳转插件，使用Cheerio在生成时即进行替换，减少页面响应时间
-
-*   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
 *   [bosichong/suiyan](https://github.com/bosichong/suiyan) - 碎言静态Blog，码兄累了吗？累了就休息一下，为未来的自己留下一些碎言片语吧。
 
