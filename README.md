@@ -30,11 +30,9 @@
 
 *   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts
 
-*   [lemonfog/lemon-live](https://github.com/lemonfog/lemon-live) - 聚合直播网站 支持 虎牙直播 斗鱼直播 抖音直播  哔哩直播 CC直播 直播源 直播信息 弹幕直播
+*   [lemonfog/lemon-live](https://github.com/lemonfog/lemon-live) - 聚合直播网站 支持 虎牙直播 斗鱼直播 抖音直播  哔哩直播  直播源 直播信息 弹幕直播
 
 *   [zjzjzjzj1874/ai-sites](https://github.com/zjzjzjzj1874/ai-sites) - 一个简洁美观的个人导航网站，支持网站优先级排序和点击量统计功能。
-
-*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
 
 *   [Steve-xmh/amll-ttml-tool](https://github.com/Steve-xmh/amll-ttml-tool) - A brand-new syllable lyric editor for Apple Music-like lyrics! 一个全新的逐词歌词编辑器！针对 Apple Music-like Lyrics 设计！
 
@@ -10335,6 +10333,8 @@
 *   [phodal/ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 
 *   [PIKACHUIM/CFWorkerUrls](https://github.com/PIKACHUIM/CFWorkerUrls) - A URL Short & STUN Redirect Service on Cloudflare Worker
+
+*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
 
 *   [zxcv0221/netcut](https://github.com/zxcv0221/netcut) - 一个简单、安全、高效的在线剪贴板。支持密码保护、阅后即焚、自定义过期时间等功能。
 
