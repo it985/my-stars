@@ -7602,7 +7602,7 @@
 
 *   [lxl66566/rss-bot-on-github-action](https://github.com/lxl66566/rss-bot-on-github-action) - A telegram RSS bot runs on github action
 
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 
 *   [wukongdaily/RunFilesBuilder](https://github.com/wukongdaily/RunFilesBuilder) - 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/OpenWrt用的run自解压包
 
