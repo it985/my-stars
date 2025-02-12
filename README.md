@@ -2814,7 +2814,7 @@
 
 *   [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 
-*   [RylanBot/threejs-tetris-react](https://github.com/RylanBot/threejs-tetris-react) - 🎮 3D tetris game「俄罗斯方块」
+*   [RylanBot/threejs-tetris-react](https://github.com/RylanBot/threejs-tetris-react) - 🎮 3D Tetris game「俄罗斯方块」
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
@@ -3695,6 +3695,8 @@
 *   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 
 *   [holtwick/briefing](https://github.com/holtwick/briefing) - 🔮 Secure direct video group chat
+
+*   [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 
 *   [cybersecsi/houdini](https://github.com/cybersecsi/houdini) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 
@@ -8579,8 +8581,6 @@
 *   [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
 *   [imfing/keras-flask-deploy-webapp](https://github.com/imfing/keras-flask-deploy-webapp) - :smiley\_cat: Pretty & simple image classifier app template. Deploy your own trained model or pre-trained model (VGG, ResNet, Densenet) to a web app using Flask in 10 minutes.
-
-*   [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 
 *   [lwsjs/local-web-server](https://github.com/lwsjs/local-web-server) - A lean, modular web server for rapid full-stack development.
 
