@@ -26,8 +26,6 @@
 
 *   [PIKACHUIM/CFWorkerUrls](https://github.com/PIKACHUIM/CFWorkerUrls) - A URL Short & STUN Redirect Service on Cloudflare Worker
 
-*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
-
 *   [zxcv0221/netcut](https://github.com/zxcv0221/netcut) - 一个简单、安全、高效的在线剪贴板。支持密码保护、阅后即焚、自定义过期时间等功能。
 
 *   [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
@@ -58,7 +56,7 @@
 
 *   [WolfChen1996/NovelAI-tag-generator](https://github.com/WolfChen1996/NovelAI-tag-generator) -
 
-*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持图片、评论、合集下载，支持保存html/mhtml/md/pdf/docx文件
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持图片、评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
 
 *   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 
@@ -2848,7 +2846,7 @@
 
 *   [hemengke1997/vscode-image-manager](https://github.com/hemengke1997/vscode-image-manager) - 🏞️  Powerful yet easy-to-use VSCode image management extension
 
-*   [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact，分享你和世界！
+*   [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 
 *   [buxuku/video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
 
@@ -4097,6 +4095,8 @@
 *   [lemonfog/lemon-live](https://github.com/lemonfog/lemon-live) - 聚合直播网站 支持 虎牙直播 斗鱼直播 抖音直播  哔哩直播  直播源 直播信息 弹幕直播
 
 *   [zjzjzjzj1874/ai-sites](https://github.com/zjzjzjzj1874/ai-sites) - 一个简洁美观的个人导航网站，支持网站优先级排序和点击量统计功能。
+
+*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
 
 *   [Steve-xmh/amll-ttml-tool](https://github.com/Steve-xmh/amll-ttml-tool) - A brand-new syllable lyric editor for Apple Music-like lyrics! 一个全新的逐词歌词编辑器！针对 Apple Music-like Lyrics 设计！
 
@@ -7000,7 +7000,7 @@
 
 *   [rqh656418510/hexo-readmore](https://github.com/rqh656418510/hexo-readmore) - Hexo 微信公众号引流插件，将免费的公众号引流工具整合到博客中，用户扫码关注公众号后才可以解锁文章，从而将博客流量引流到公众号，达到涨粉丝数的目的。
 
-*   [xiaobaidadada/filecat](https://github.com/xiaobaidadada/filecat) - 程序员的web文件服务器与开发必备工具箱，具备远程终端\桌面控制、SSH代理、文件在线浏览\编辑\解压缩、CI\CD、内网穿透、超大日志查看等功能.The programmer's web file server and essential toolkit, featuring remote terminal/desktop control, SSH proxy, online file browsing/editing/extraction, CI/CD, internal network penetration, large log viewing, and more.
+*   [xiaobaidadada/filecat](https://github.com/xiaobaidadada/filecat) - 程序员的web文件服务器与开发必备工具箱，运维工具，具备远程终端\桌面控制、SSH代理、文件在线浏览\编辑\解压缩、CI\CD、内网穿透、超大日志查看等功能.The programmer's web file server and essential toolkit, featuring remote terminal/desktop control, SSH proxy, online file browsing/editing/extraction, CI/CD, internal network penetration, large log viewing, and more.
 
 *   [Huibq/keep-alive](https://github.com/Huibq/keep-alive) - 洛雪音乐音源、MusicFree音源、落雪音乐音源
 
@@ -11370,7 +11370,7 @@
 
 *   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
 
-*   [shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror) - 本项目旨在快速搭建一个基于 Docker 的私有仓库。起初，该项目仅用于创建一个 Docker 私有仓库，但现已扩展支持 `npm`、`Maven`、`PyPI` 等仓库，未来还将支持更多类型的仓库。无需担心代理问题，只需配置一个订阅，软件将自动配置到各个仓库使用，并且所有流量仅在对应容器中使用，确保安全和高效。
+*   [shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror) - 本项目旨在快速搭建一个基于 Docker 的私有仓库。起初，该项目仅用于创建一个 Docker 私有仓库，但现已扩展支持 `npm`、`Maven`、`PyPI` 等仓库，未来还将支持更多类型的仓库。无需担心代理问题，只需配置一个订阅，工具将自动配置到各个仓库使用，并且所有流量仅在对应容器中使用，确保安全和高效。
 
 *   [pkyeck/git-log-by-day](https://github.com/pkyeck/git-log-by-day) - bash script to log git commits grouped by day (optionally filtered by author and set start/end date)
 
