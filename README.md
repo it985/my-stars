@@ -11756,7 +11756,7 @@
 
 *   [datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
 
-*   [SUC-DriverOld/so-vits-svc-Deployment-Documents](https://github.com/SUC-DriverOld/so-vits-svc-Deployment-Documents) - So-VITS-SVC 本地部署/训练/推理/使用帮助文档 So-VITS-SVC Local Deployment/Training/Inference/Usage Help Document
+*   [SUC-DriverOld/so-vits-svc-Deployment-Documents](https://github.com/SUC-DriverOld/so-vits-svc-Deployment-Documents) - So-VITS-SVC 本地部署使用帮助文档，提供Colab笔记本 So-VITS-SVC Local Deployment Document and provide Colab notebook
 
 *   [phodal/understand-prompt](https://github.com/phodal/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
 
