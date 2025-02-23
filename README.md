@@ -8140,7 +8140,7 @@
 
 *   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 
-*   [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray.
+*   [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray
 
 *   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
@@ -8505,8 +8505,6 @@
 *   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 
 *   [alley-rs/lsar](https://github.com/alley-rs/lsar) - 直播解析图形化程序
-
-*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
 
 *   [kingwingfly/fav](https://github.com/kingwingfly/fav) - Back up your favorite bilibili resources with CLI.
 
@@ -10106,6 +10104,8 @@
 
 *   [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
 
+*   [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
+
 *   [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page\_facing\_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 
 *   [TIM168/technical\_books](https://github.com/TIM168/technical_books) - :books:🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中:hotsprings:
@@ -10480,7 +10480,7 @@
 
 *   [WishMelz/imgurl](https://github.com/WishMelz/imgurl) - 基于github的图片管理系统/免费 https://wishmelz.github.io/imgurl  ；基于Imgur的免费图床：https://github.com/WishMelz/imgur
 
-*   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online.
+*   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.
 
 *   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 
@@ -11510,6 +11510,8 @@
 
 *   [eKing-one/pansou](https://github.com/eKing-one/pansou) - 这是一个基于Thinkphp 6.1 + MySQL开发的网盘搜索引擎，可以批量导入各大网盘链接，例如百度网盘、阿里云盘、夸克网盘等。
 
+*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
+
 *   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 
 *   [shuhongfan/sl-express](https://github.com/shuhongfan/sl-express) - 神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品：  - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息等。 - 后台系统管理：基于vue开发，PC端使用，公司内部管理员用户使用，可以进行基础数据维护、订单管理、运单管理等。
@@ -11947,8 +11949,6 @@
 *   [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 
 *   [tr1s/tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
-
-*   [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 
 *   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 
