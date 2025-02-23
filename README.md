@@ -5316,7 +5316,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -8566,8 +8566,6 @@
 
 *   [jane77u/Live\_Pro](https://github.com/jane77u/Live_Pro) - 收集于互联网的一些高清直播源。
 
-*   [xisohi/IPTV-Multicast-source](https://github.com/xisohi/IPTV-Multicast-source) - 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。  没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源。  注意、注意、注意：食用组播源的设备必须和光猫在同一个网段！
-
 *   [yangjian102621/geekai-plus](https://github.com/yangjian102621/geekai-plus) - 基于ChatGPT-PLUS 项目开发的高级版，增加了很多高级功能，比如思维导图，Dalle 绘画等。高级版的部分功能会逐步迁移到社区版。
 
 *   [126789t/poc\_everyday](https://github.com/126789t/poc_everyday) - 根据CVE编号自动搜集github上的漏洞poc和exp信息。每日自动更新。
@@ -9835,6 +9833,8 @@
 ## HTML
 
 *   [JMWpower/xiaojiejie](https://github.com/JMWpower/xiaojiejie) -
+
+*   [xisohi/IPTV-Multicast-source](https://github.com/xisohi/IPTV-Multicast-source) - 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。  没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源。  注意、注意、注意：食用组播源的设备必须和光猫在同一个网段！
 
 *   [1024house/1024house](https://github.com/1024house/1024house) - 让每个程序员都能享受别墅跑车的乐趣
 
