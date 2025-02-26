@@ -3582,7 +3582,7 @@
 
 *   [tjsky/randompic](https://github.com/tjsky/randompic) - 基于JS的随机图
 
-*   [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel) - 一个基于React的智能家居控制面板，使用Home Assistant的Websocket API，并支持作为Home Assistant操作系统(HAOS)的插件部署。Homeassistant Panel.
+*   [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel) - 史上最简单的 Home Assistant 控制面板，基于 React 开发 | 一键部署到 HAOS | 有手就能用 | 无需编程经验 | 开箱即用
 
 *   [mumuy/data\_location](https://github.com/mumuy/data_location) - 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
 
