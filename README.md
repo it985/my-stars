@@ -5706,7 +5706,7 @@
 
 *   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
 
-*   [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on
+*   [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - \[AAAI 2025] Official implementation of "OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on"
 
 *   [cxyfreedom/website-hot-hub](https://github.com/cxyfreedom/website-hot-hub) - 记录 36Kr、bilibili、抖音、掘金、微信读书平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天归档。
 
@@ -8764,8 +8764,6 @@
 
 *   [otobtc/ADhosts](https://github.com/otobtc/ADhosts) - 手机电脑去广告 hosts&规则  PC\&Android
 
-*   [Fackblack/douyinlive](https://github.com/Fackblack/douyinlive) - douyinlive抖音直播监控录制工具24小时自动监控录制
-
 *   [adminpass/aliyundrive-subscribe](https://github.com/adminpass/aliyundrive-subscribe) - 阿里云盘订阅
 
 *   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
@@ -10269,6 +10267,8 @@
 *   [3kanAlpha/hololive-asmr](https://github.com/3kanAlpha/hololive-asmr) - ホロライブのASMR配信検索サービス
 
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+
+*   [zkeq/icodeq-api](https://github.com/zkeq/icodeq-api) - 自用 API 地址
 
 ## Vue
 
