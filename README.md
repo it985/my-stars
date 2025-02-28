@@ -2588,9 +2588,9 @@
 
 *   [HoseaDev/NodeSeek-Daily](https://github.com/HoseaDev/NodeSeek-Daily) - NodeSeek　每日签到，评论。
 
-*   [antgroup/echomimic\_v2](https://github.com/antgroup/echomimic_v2) - EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation
+*   [antgroup/echomimic\_v2](https://github.com/antgroup/echomimic_v2) - \[CVPR 2025] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation
 
-*   [antgroup/echomimic](https://github.com/antgroup/echomimic) - EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning
+*   [antgroup/echomimic](https://github.com/antgroup/echomimic) - \[AAAI 2025] EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning
 
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
@@ -3230,7 +3230,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -7438,7 +7438,7 @@
 
 *   [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 
-*   [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music
+*   [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/汽水/QQ音乐歌单至 Apple/Youtube/Spotify Music
 
 *   [mzky/m4s-converter](https://github.com/mzky/m4s-converter) - 一个跨平台小工具，将bilibili缓存的m4s格式音视频文件合并成mp4
 
@@ -9872,7 +9872,7 @@
 
 *   [comfyanonymous/ComfyUI\_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 
-*   [la02w/pichub](https://github.com/la02w/pichub) - kaf.im网页还原
+*   [nyamuch1/pichub](https://github.com/nyamuch1/pichub) - kaf.im网页还原
 
 *   [WolfChen1996/NovelAI-tag-generator](https://github.com/WolfChen1996/NovelAI-tag-generator) -
 
