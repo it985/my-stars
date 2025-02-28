@@ -128,8 +128,6 @@
 
 *   [wuxue107/screenshot-api-server](https://github.com/wuxue107/screenshot-api-server) - 使用node express和puppeteer搭建的WEB截图API服务 网页截图 & pdf 生成 API服务 & docker镜像
 
-*   [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
-
 *   [WuSuoV/SkyQianWallpaper](https://github.com/WuSuoV/SkyQianWallpaper) - 基于Flask的壁纸库：数据采集于360壁纸、Bing壁纸、金山词霸每日一句。无需数据库，部署后即可坐享其成。
 
 *   [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
@@ -1764,7 +1762,7 @@
 
 *   [perftools/xhgui](https://github.com/perftools/xhgui) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 
-*   [nodemailer/wildduck](https://github.com/nodemailer/wildduck) - Opinionated email server
+*   [zone-eu/wildduck](https://github.com/zone-eu/wildduck) - Opinionated email server
 
 *   [variety/variety](https://github.com/variety/variety) - Variety: a MongoDB Schema Analyzer
 
@@ -5008,7 +5006,7 @@
 
 *   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 
-*   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+*   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 
 *   [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 🔠Foreign language reading and translation assistant based on copy and translate.
 
@@ -5890,7 +5888,7 @@
 
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and run any docker image.
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availability databases (like MySQL, PostgreSQL, Redis, and MongoDB) and run any Docker image with ease.
 
 *   [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 
@@ -10319,6 +10317,8 @@
 *   [MaskerPRC/hosts-master](https://github.com/MaskerPRC/hosts-master) - 「跨平台 Hosts 魔法棒」Hosts Master，一键切换开发环境！
 
 *   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
+
+*   [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
 
 *   [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
 
