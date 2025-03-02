@@ -136,7 +136,7 @@
 
 *   [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
 
-*   [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is a conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
+*   [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is a conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers realtime capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
 
 *   [CheshireCC/faster-whisper-GUI](https://github.com/CheshireCC/faster-whisper-GUI) - faster\_whisper GUI with PySide6
 
@@ -860,7 +860,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -2296,8 +2296,6 @@
 
 *   [thkruz/keeptrack.space](https://github.com/thkruz/keeptrack.space) - 🌎📡 TypeScript Astrodynamics Software for Non-Engineers. 3D Visualization of satellite data and the sensors that track them.
 
-*   [Super-Badmen-Viper/NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
-
 *   [zhen-ke/ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI) - ffmpeg GUI
 
 *   [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -3727,6 +3725,8 @@
 *   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
 
 *   [Siriling/my-icons](https://github.com/Siriling/my-icons) - 程序图标储存
+
+*   [Super-Badmen-Viper/NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
 
 *   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 
