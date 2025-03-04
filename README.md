@@ -14,27 +14,9 @@
 
 ## 语言分类
 
-## Makefile
-
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
-
-*   [phodal/developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
-
-*   [mouday/file-admin](https://github.com/mouday/file-admin) - file admin
-
-*   [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
-
-*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-
-*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
-
-*   [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-
-*   [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
-
-*   [chenjiandongx/awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) - 😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源
-
 ## HTML
+
+*   [phphe/simple-audio-cutter-online](https://github.com/phphe/simple-audio-cutter-online) - Cut your audio files in your browser locally. 在浏览器本地裁剪你的音频。
 
 *   [Irithys/hugo-stack-blog-mod](https://github.com/Irithys/hugo-stack-blog-mod) - 自己魔改后的 Hugo-stack 主题博客，分享给大家使用！
 
@@ -134,7 +116,7 @@
 
 *   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
-*   [Mariotek/reactjs-persian-interview-questions](https://github.com/Mariotek/reactjs-persian-interview-questions) - مجموعه برترین سوال و جواب‌های ری‌اکت(احتمالا برای استخدام اینا)
+*   [Mariotek/reactjs-persian-interview-questions](https://github.com/Mariotek/reactjs-persian-interview-questions) - Top Persian Reactjs Interview questions
 
 *   [Wscats/CV](https://github.com/Wscats/CV) - :see\_no\_evil:Front End Engineer Curriculum Vitae - 面试宝典和简历生成器
 
@@ -472,7 +454,167 @@
 
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 
+## Shell
+
+*   [libwebp-wasm/img2webp](https://github.com/libwebp-wasm/img2webp) - A wasm version for img2webp of libwebp
+
+*   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - cursor 0.45.x machine id reset
+
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+
+*   [wukongdaily/OrangePiShell](https://github.com/wukongdaily/OrangePiShell) - 在Linux上快速部署一些好用的docker项目。起初只是为了香橙派制作。推荐使用1panel面板轻松管理docker。
+
+*   [wukongdaily/OneKVM](https://github.com/wukongdaily/OneKVM) - 该脚本可以帮助你快速在debian系统上创建和管理kvm虚拟机。包含了罕见的ARM平台的虚拟机
+
+*   [wukongdaily/diy-nas-onescript](https://github.com/wukongdaily/diy-nas-onescript) - 这是一个适用于在深度系统/debian桌面系统上部署nas常用软件的脚本。快速安装必备软件，虚拟机、硬盘直通。适合办公和轻NAS二合一的场景。
+
+*   [wukongdaily/gl-inet-onescript](https://github.com/wukongdaily/gl-inet-onescript) - 该项目可以让MT2500/MT3000/MT6000路由器在不刷机情况下,一键变成iStoreOS风格。
+
+*   [wukongdaily/AutoBuildImmortalWrt](https://github.com/wukongdaily/AutoBuildImmortalWrt) - 它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt
+
+*   [kejilion/sh](https://github.com/kejilion/sh) - 一款全功能的Linux管理脚本！
+
+*   [minlearn/appp](https://github.com/minlearn/appp) - 省事一键pve和pve商店(apps of pve)🚀🎉
+
+*   [huacnlee/autocorrect-action](https://github.com/huacnlee/autocorrect-action) - GitHub action for use AutoCorrect as lint
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray
+
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
+
+*   [kekylin/Debian-HomeNAS](https://github.com/kekylin/Debian-HomeNAS) - 一个将Debian/Ubuntu系统快速配置成准NAS系统的脚本。
+
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
+
+*   [shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror) - 本项目旨在快速搭建一个基于 Docker 的私有仓库。起初，该项目仅用于创建一个 Docker 私有仓库，但现已扩展支持 `npm`、`Maven`、`PyPI` 等仓库，未来还将支持更多类型的仓库。无需担心代理问题，只需配置一个订阅，工具将自动配置到各个仓库使用，并且所有流量仅在对应容器中使用，确保安全和高效。
+
+*   [pkyeck/git-log-by-day](https://github.com/pkyeck/git-log-by-day) - bash script to log git commits grouped by day (optionally filtered by author and set start/end date)
+
+*   [yeatse/git-log-weekly-report](https://github.com/yeatse/git-log-weekly-report) - 使用git log命令自动生成周报
+
+*   [wukongdaily/tvhelper-docker](https://github.com/wukongdaily/tvhelper-docker) - 让你使用电脑、NAS等一切能运行docker的设备变成盒子的ADB安装助手
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
+
+*   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
+
+*   [233boy/sing-box](https://github.com/233boy/sing-box) - 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
+
+*   [233boy/Xray](https://github.com/233boy/Xray) - 最好用的 Xray 一键安装脚本 & 管理脚本
+
+*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
+
+*   [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
+
+*   [mx-space/docker](https://github.com/mx-space/docker) - A docker compose file to quick deploy mx-space system, that's cool
+
+*   [jerry048/Dedicated-Seedbox](https://github.com/jerry048/Dedicated-Seedbox) -
+
+*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+
+*   [appotry/PTtool](https://github.com/appotry/PTtool) - 自动化硬链接工具，在最大可能情况下节约空间，并保持做种。 小于1M的文件直接复制，刮削修改nfo等小文件不影响做种。 大于1M的文件硬链接到目的目录，可以随意修改文件名。
+
+*   [2lifetop/Pal-Server-Install](https://github.com/2lifetop/Pal-Server-Install) - 幻兽帕鲁服务端一键安装脚本
+
+*   [miaowmint/palworld](https://github.com/miaowmint/palworld) - 帕鲁世界服务端一键安装脚本
+
+*   [DDS-Derek/MoviePilot](https://github.com/DDS-Derek/MoviePilot) - NAS媒体库自动化管理工具
+
+*   [smilebasti/npmGrafStats](https://github.com/smilebasti/npmGrafStats) - This project exports NginxProxyManager Logs to InfluxDB for displaying them in a Grafana Dashboard.
+
+*   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - 基于docker一键安装sing-box服务端，并自动生成vmess、naiveproxy、hysteria2节点，官方镜像，极简安装
+
+*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+
+*   [andyzhshg/syno-acme](https://github.com/andyzhshg/syno-acme) - 通过acme协议更新群晖HTTPS泛域名证书的自动脚本
+
+*   [pengzhile/cocopilot](https://github.com/pengzhile/cocopilot) - 你可以把它称为：联合副驾驶。
+
+*   [ben1234560/k8s\_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/架构设计/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+
+*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
+
+*   [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) -  在Docker容器中运行 MDCX，并通过Web界面或远程桌面进行控制。Run MDCX in a Docker container, accessible and controllable via a web interface or remote desktop.
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+
+*   [LucasLee99/youlive2bili](https://github.com/LucasLee99/youlive2bili) - 油管直播监控自动发哔哩哔哩
+
+*   [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
+
+*   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
+
+*   [Gesj-yean/vue-demo-collection](https://github.com/Gesj-yean/vue-demo-collection) - Gesj 将开发过程中遇到的通用 Vue 组件 demo 收集，Vue/CSS/Echarts等，积累的知识也会同步放到这里 :heart:
+
+*   [drycc/workflow](https://github.com/drycc/workflow) - The developer and operations friendly Kubernetes toolbox
+
+*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [wovert/LinuxSRE](https://github.com/wovert/LinuxSRE) - Linux 运维工程师技能总结
+
+*   [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
+
+*   [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
+
+*   [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
+
+*   [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
+
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
+
+*   [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
+
+*   [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+
+*   [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
+
+*   [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - Padrões de commits
+
+*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+
+*   [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
+
+*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册
+
+*   [meetbill/op\_practice\_book](https://github.com/meetbill/op_practice_book) - 📚 《运维实践指南》持续更新中，推荐大牛干货博客 https://me.csdn.net/g2V13ah
+
+*   [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理
+
+*   [taizilongxu/interview\_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
+
+*   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
+
+*   [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
+
+*   [zhaoolee/find-pose](https://github.com/zhaoolee/find-pose) - 拍照片时如何摆Pose
+
 ## TypeScript
+
+*   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 
 *   [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
 
@@ -1980,6 +2122,26 @@
 
 *   [liqi0816/bilitwin](https://github.com/liqi0816/bilitwin) - bilibili merged flv+mp4+ass+enhance / 哔哩哔哩: 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强, 原生appsecret, 不借助其他网站
 
+## Makefile
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+
+*   [phodal/developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
+
+*   [mouday/file-admin](https://github.com/mouday/file-admin) - file admin
+
+*   [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
+
+*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+
+*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
+
+*   [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
+
+*   [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
+
+*   [chenjiandongx/awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) - 😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源
+
 ## Rust
 
 *   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -2174,7 +2336,7 @@
 
 *   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
-*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
+*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
 
 *   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram 等消息平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI Grok、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人 / Agent | LLM-based instant messaging bots platform, supports Discord, Telegram, WeChat, Lark, DingTalk, QQ, OpenAI GPT, DeepSeek
 
@@ -4113,8 +4275,6 @@
 *   [srx-2000/spider\_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，知乎百万级用户爬虫+数据分析，github用户爬虫
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-
-*   [0honus0/1024-Autoreply](https://github.com/0honus0/1024-Autoreply) - 1024论坛 自动回帖
 
 ## JavaScript
 
@@ -7950,7 +8110,7 @@
 
 *   [Javen205/IJPay](https://github.com/Javen205/IJPay) - IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨
 
-*   [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
+*   [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。
 
 *   [google/guava](https://github.com/google/guava) - Google core libraries for Java
 
@@ -9097,164 +9257,6 @@
 *   [smloli/BingWallpaperSpider](https://github.com/smloli/BingWallpaperSpider) - 必应每日壁纸下载
 
 *   [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
-
-## Shell
-
-*   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - cursor 0.45.x machine id reset
-
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-
-*   [wukongdaily/OrangePiShell](https://github.com/wukongdaily/OrangePiShell) - 在Linux上快速部署一些好用的docker项目。起初只是为了香橙派制作。推荐使用1panel面板轻松管理docker。
-
-*   [wukongdaily/OneKVM](https://github.com/wukongdaily/OneKVM) - 该脚本可以帮助你快速在debian系统上创建和管理kvm虚拟机。包含了罕见的ARM平台的虚拟机
-
-*   [wukongdaily/diy-nas-onescript](https://github.com/wukongdaily/diy-nas-onescript) - 这是一个适用于在深度系统/debian桌面系统上部署nas常用软件的脚本。快速安装必备软件，虚拟机、硬盘直通。适合办公和轻NAS二合一的场景。
-
-*   [wukongdaily/gl-inet-onescript](https://github.com/wukongdaily/gl-inet-onescript) - 该项目可以让MT2500/MT3000/MT6000路由器在不刷机情况下,一键变成iStoreOS风格。
-
-*   [wukongdaily/AutoBuildImmortalWrt](https://github.com/wukongdaily/AutoBuildImmortalWrt) - 它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt
-
-*   [kejilion/sh](https://github.com/kejilion/sh) - 一款全功能的Linux管理脚本！
-
-*   [minlearn/appp](https://github.com/minlearn/appp) - 省事一键pve和pve商店(apps of pve)🚀🎉
-
-*   [huacnlee/autocorrect-action](https://github.com/huacnlee/autocorrect-action) - GitHub action for use AutoCorrect as lint
-
-*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
-
-*   [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray
-
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
-
-*   [kekylin/Debian-HomeNAS](https://github.com/kekylin/Debian-HomeNAS) - 一个将Debian/Ubuntu系统快速配置成准NAS系统的脚本。
-
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
-
-*   [shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror) - 本项目旨在快速搭建一个基于 Docker 的私有仓库。起初，该项目仅用于创建一个 Docker 私有仓库，但现已扩展支持 `npm`、`Maven`、`PyPI` 等仓库，未来还将支持更多类型的仓库。无需担心代理问题，只需配置一个订阅，工具将自动配置到各个仓库使用，并且所有流量仅在对应容器中使用，确保安全和高效。
-
-*   [pkyeck/git-log-by-day](https://github.com/pkyeck/git-log-by-day) - bash script to log git commits grouped by day (optionally filtered by author and set start/end date)
-
-*   [yeatse/git-log-weekly-report](https://github.com/yeatse/git-log-weekly-report) - 使用git log命令自动生成周报
-
-*   [wukongdaily/tvhelper-docker](https://github.com/wukongdaily/tvhelper-docker) - 让你使用电脑、NAS等一切能运行docker的设备变成盒子的ADB安装助手
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
-
-*   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
-
-*   [233boy/sing-box](https://github.com/233boy/sing-box) - 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
-
-*   [233boy/Xray](https://github.com/233boy/Xray) - 最好用的 Xray 一键安装脚本 & 管理脚本
-
-*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
-
-*   [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
-
-*   [mx-space/docker](https://github.com/mx-space/docker) - A docker compose file to quick deploy mx-space system, that's cool
-
-*   [jerry048/Dedicated-Seedbox](https://github.com/jerry048/Dedicated-Seedbox) -
-
-*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
-
-*   [appotry/PTtool](https://github.com/appotry/PTtool) - 自动化硬链接工具，在最大可能情况下节约空间，并保持做种。 小于1M的文件直接复制，刮削修改nfo等小文件不影响做种。 大于1M的文件硬链接到目的目录，可以随意修改文件名。
-
-*   [2lifetop/Pal-Server-Install](https://github.com/2lifetop/Pal-Server-Install) - 幻兽帕鲁服务端一键安装脚本
-
-*   [miaowmint/palworld](https://github.com/miaowmint/palworld) - 帕鲁世界服务端一键安装脚本
-
-*   [DDS-Derek/MoviePilot](https://github.com/DDS-Derek/MoviePilot) - NAS媒体库自动化管理工具
-
-*   [smilebasti/npmGrafStats](https://github.com/smilebasti/npmGrafStats) - This project exports NginxProxyManager Logs to InfluxDB for displaying them in a Grafana Dashboard.
-
-*   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - 基于docker一键安装sing-box服务端，并自动生成vmess、naiveproxy、hysteria2节点，官方镜像，极简安装
-
-*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
-
-*   [andyzhshg/syno-acme](https://github.com/andyzhshg/syno-acme) - 通过acme协议更新群晖HTTPS泛域名证书的自动脚本
-
-*   [pengzhile/cocopilot](https://github.com/pengzhile/cocopilot) - 你可以把它称为：联合副驾驶。
-
-*   [ben1234560/k8s\_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/架构设计/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
-
-*   [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) -  在Docker容器中运行 MDCX，并通过Web界面或远程桌面进行控制。Run MDCX in a Docker container, accessible and controllable via a web interface or remote desktop.
-
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-
-*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-
-*   [LucasLee99/youlive2bili](https://github.com/LucasLee99/youlive2bili) - 油管直播监控自动发哔哩哔哩
-
-*   [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
-
-*   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
-
-*   [Gesj-yean/vue-demo-collection](https://github.com/Gesj-yean/vue-demo-collection) - Gesj 将开发过程中遇到的通用 Vue 组件 demo 收集，Vue/CSS/Echarts等，积累的知识也会同步放到这里 :heart:
-
-*   [drycc/workflow](https://github.com/drycc/workflow) - The developer and operations friendly Kubernetes toolbox
-
-*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [wovert/LinuxSRE](https://github.com/wovert/LinuxSRE) - Linux 运维工程师技能总结
-
-*   [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
-
-*   [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
-
-*   [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
-
-*   [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
-
-*   [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
-
-*   [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
-
-*   [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
-
-*   [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - Padrões de commits
-
-*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
-
-*   [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
-
-*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册
-
-*   [meetbill/op\_practice\_book](https://github.com/meetbill/op_practice_book) - 📚 《运维实践指南》持续更新中，推荐大牛干货博客 https://me.csdn.net/g2V13ah
-
-*   [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理
-
-*   [taizilongxu/interview\_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
-
-*   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
-
-*   [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
-
-*   [zhaoolee/find-pose](https://github.com/zhaoolee/find-pose) - 拍照片时如何摆Pose
-
-*   [wulabing/Xray\_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
 
 ## PHP
 
@@ -11499,8 +11501,6 @@
 *   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 
 *   [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 ## Jupyter Notebook
 
