@@ -2592,7 +2592,7 @@
 
 *   [Thinker-Joe/TypechoAutoPublishTools](https://github.com/Thinker-Joe/TypechoAutoPublishTools) - Typecho文章自动发布工具(使用Github Actions自动更新文章到Typecho)
 
-*   [HoseaDev/NodeSeek-Daily](https://github.com/HoseaDev/NodeSeek-Daily) - NodeSeek　每日签到，评论，本项目不再更新，提供代挂服务有兴趣可以联系我。
+*   [HoseaDev/NodeSeek-Daily](https://github.com/HoseaDev/NodeSeek-Daily) - NodeSeek　每日签到，评论。
 
 *   [antgroup/echomimic\_v2](https://github.com/antgroup/echomimic_v2) - \[CVPR 2025] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation
 
@@ -2601,6 +2601,8 @@
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
 *   [Undertone0809/gcop](https://github.com/Undertone0809/gcop) - 🚀 AI-Powered Git Commit Assistant | Automate Commit Messages, Streamline Git Workflow. Help you write better git commit message.
+
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 *   [fugary/calibre-web-douban-api](https://github.com/fugary/calibre-web-douban-api) - 新版calibre-web已经移除douban-api了，添加一个豆瓣api实现
 
@@ -3234,7 +3236,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -6062,7 +6064,7 @@
 
 *   [WuSuoV/YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 
-*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts
+*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 
 *   [lemonfog/lemon-live](https://github.com/lemonfog/lemon-live) - 聚合直播网站 支持 虎牙直播 斗鱼直播 抖音直播  哔哩直播  直播源 直播信息 弹幕直播
 
@@ -6431,8 +6433,6 @@
 *   [ruohong2018/ruohong2018.github.io](https://github.com/ruohong2018/ruohong2018.github.io) -
 
 *   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
-
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 *   [sky22333/hub-proxy](https://github.com/sky22333/hub-proxy) - 自建Docker镜像仓库和Github加速
 
