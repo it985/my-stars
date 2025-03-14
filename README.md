@@ -14,6 +14,22 @@
 
 ## 语言分类
 
+## Less
+
+*   [uxiaohan/vhAstro-Theme](https://github.com/uxiaohan/vhAstro-Theme) - 🚀 vhAstro-Theme：一款基于 Astro 构建的优雅的响应式博客主题
+
+*   [MaLuns/hexo-theme-async](https://github.com/MaLuns/hexo-theme-async) - 一个简单而轻量级的 Hexo 主题。 |     A simple, lightweight Hexo theme.
+
+*   [uxiaohan/HanAnalytics](https://github.com/uxiaohan/HanAnalytics) - 一个简单的网络分析跟踪器和仪表板，在 Cloudflare Pages 上即可快速部署的网站分析仪表板,无成本稳定运行
+
+*   [uxiaohan/WebWatermark](https://github.com/uxiaohan/WebWatermark) - Han Web Watermark，你的在线图片水印小帮手！
+
+*   [LightXi/allproxy](https://github.com/LightXi/allproxy) - ⚡ GoogleFonts, JsDelivr, ESM, Unpkg等总局代理，加速网站国内访问 ⚡ GoogleFonts, JsDelivr, ESM, Unpkg, etc. General Agency, accelerating the domestic access to the site
+
+*   [lzxb/flex.css](https://github.com/lzxb/flex.css) - flex.css is declarative layout which is compatible with wechat, UC, webview and other main-stream mobile browser and surpports react, vue, angular.
+
+*   [25H/Maya](https://github.com/25H/Maya) - Maye 一个简洁小巧的快速启动工具
+
 ## TypeScript
 
 *   [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
@@ -4818,7 +4834,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -6218,7 +6234,7 @@
 
 *   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
 
-*   [slow-groovin/webpage-summary](https://github.com/slow-groovin/webpage-summary) - ⚡ browser extension for summarizing webpages using any AI provider, any prompt.
+*   [slow-groovin/webpage-summary](https://github.com/slow-groovin/webpage-summary) - ⚡ browser extension for summarizing webpages using AI API, customized prompts.  Alternatives to sider.ai/briefy.ai/monica.ai's summarization functionality.
 
 *   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
@@ -7885,8 +7901,6 @@
 *   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 
 *   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
-
-*   [liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode) - My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）
 
 ## miscellaneous
 
@@ -11431,20 +11445,6 @@
 *   [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for software engineering interviews.
 
 *   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
-
-## Less
-
-*   [MaLuns/hexo-theme-async](https://github.com/MaLuns/hexo-theme-async) - 一个简单而轻量级的 Hexo 主题。 |     A simple, lightweight Hexo theme.
-
-*   [uxiaohan/HanAnalytics](https://github.com/uxiaohan/HanAnalytics) - 一个简单的网络分析跟踪器和仪表板，在 Cloudflare Pages 上即可快速部署的网站分析仪表板,无成本稳定运行
-
-*   [uxiaohan/WebWatermark](https://github.com/uxiaohan/WebWatermark) - Han Web Watermark，你的在线图片水印小帮手！
-
-*   [LightXi/allproxy](https://github.com/LightXi/allproxy) - ⚡ GoogleFonts, JsDelivr, ESM, Unpkg等总局代理，加速网站国内访问 ⚡ GoogleFonts, JsDelivr, ESM, Unpkg, etc. General Agency, accelerating the domestic access to the site
-
-*   [lzxb/flex.css](https://github.com/lzxb/flex.css) - flex.css is declarative layout which is compatible with wechat, UC, webview and other main-stream mobile browser and surpports react, vue, angular.
-
-*   [25H/Maya](https://github.com/25H/Maya) - Maye 一个简洁小巧的快速启动工具
 
 ## Swift
 
