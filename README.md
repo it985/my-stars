@@ -2746,7 +2746,7 @@
 
 *   [renmu123/biliLive-tools](https://github.com/renmu123/biliLive-tools) - 录播一站式处理工具
 
-*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
+*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 
 *   [DrizzleTime/leetcode-intelligent](https://github.com/DrizzleTime/leetcode-intelligent) - 力扣代码提示增强插件
 
@@ -5437,6 +5437,8 @@
 *   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 
 *   [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 
 *   [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
 
@@ -11440,26 +11442,6 @@
 
 *   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
-## Makefile
-
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
-
-*   [phodal/developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
-
-*   [mouday/file-admin](https://github.com/mouday/file-admin) - file admin
-
-*   [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
-
-*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-
-*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
-
-*   [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-
-*   [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
-
-*   [chenjiandongx/awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) - 😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源
-
 ## Dart
 
 *   [nini22P/iris](https://github.com/nini22P/iris) - A lightweight video player / 轻量级视频播放器
@@ -11671,6 +11653,24 @@
 *   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers
+
+## Makefile
+
+*   [phodal/developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
+
+*   [mouday/file-admin](https://github.com/mouday/file-admin) - file admin
+
+*   [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
+
+*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+
+*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
+
+*   [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
+
+*   [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
+
+*   [chenjiandongx/awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) - 😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源
 
 ## xBase
 
