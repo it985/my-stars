@@ -14,6 +14,100 @@
 
 ## 语言分类
 
+## Rust
+
+*   [harrisonwang/docxy](https://github.com/harrisonwang/docxy) - Docker Hub 代理服务
+
+*   [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
+
+*   [chenquan/arkflow](https://github.com/chenquan/arkflow) - High-performance Rust stream processing engine, providing powerful data stream processing capabilities, supporting multiple input/output sources and processors.
+
+*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+
+*   [rust-cli/env\_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable.
+
+*   [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
+
+*   [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
+
+*   [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
+
+*   [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others.
+
+*   [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
+
+*   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
+
+*   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+
+*   [cantoblanco/boringbay](https://github.com/cantoblanco/boringbay) - 🥱 无聊湾，欢迎加入
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
+
+*   [alley-rs/lsar](https://github.com/alley-rs/lsar) - 直播解析图形化程序
+
+*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
+
+*   [kingwingfly/fav](https://github.com/kingwingfly/fav) - Back up your favorite bilibili resources with CLI.
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [auula/typikon](https://github.com/auula/typikon) - Typikon lets you use markdown to write your online books.
+
+*   [Zxilly/OnedriveHostsGenerator](https://github.com/Zxilly/OnedriveHostsGenerator) - A Page include Onenote for Windows' hosts
+
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+
+*   [cncases/cases](https://github.com/cncases/cases) - 中国裁判文书网本地搜索
+
+*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
+*   [LJason77/bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 自动下载 B站 视频
+
+*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+
+*   [NPCDW/yuque\_sae](https://github.com/NPCDW/yuque_sae) - 语雀个人版与空间版文档导出，以及标准 markdown 格式化
+
+*   [yangwenmai/learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 > Rust Programming Tutorial, include articles, interview, example, problems.
+
+*   [douchuan/algorithm](https://github.com/douchuan/algorithm) - Algorithms written in Rust
+
+*   [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
+
+*   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
+
+*   [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
+
+*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
+
+*   [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the power of programming, in your database
+
+*   [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+
+*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
+
+*   [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
+
+*   [wormtql/genshin\_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
+
 ## TeX
 
 *   [chunrapeepat/inscribed](https://github.com/chunrapeepat/inscribed) - A slide-based tool for fast sketching and animating ideas (powered by Excalidraw)
@@ -311,8 +405,6 @@
 *   [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
 
 *   [huqi-pr/trending-in-one](https://github.com/huqi-pr/trending-in-one) - 今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2020-11-29 日开始的热搜。每小时抓取一次数据，按天归档。
-
-*   [renmu123/biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 
 *   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 
@@ -1820,7 +1912,7 @@
 
 *   [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
 
-*   [aigc-apps/CogVideoX-Fun](https://github.com/aigc-apps/CogVideoX-Fun) - 📹 A more flexible CogVideoX that can generate videos at any resolution and creates videos from images.
+*   [aigc-apps/VideoX-Fun](https://github.com/aigc-apps/VideoX-Fun) - 📹 A more flexible framework that can generate videos at any resolution and creates videos from images.
 
 *   [junhahyung/STGuidance](https://github.com/junhahyung/STGuidance) -
 
@@ -3965,6 +4057,8 @@
 *   [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 
 *   [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+
+*   [renmu123/biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 
 *   [madderscientist/noteDigger](https://github.com/madderscientist/noteDigger) - 在线前端频率分析扒谱 front-end music transcription
 
@@ -8792,8 +8886,6 @@
 
 *   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 
-*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
-
 ## Go
 
 *   [xxnuo/dns-benchmark](https://github.com/xxnuo/dns-benchmark) - dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide. It generates visual charts.
@@ -8804,7 +8896,7 @@
 
 *   [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 
-*   [ourines/GateShift](https://github.com/ourines/GateShift) - A cross-platform gateway switching tool designed for OpenWrt bypass routers, allowing seamless traffic path switching between default and proxy gateways.
+*   [ourines/gateshift](https://github.com/ourines/gateshift) - A cross-platform gateway switching tool designed for OpenWrt bypass routers, allowing seamless traffic path switching between default and proxy gateways.
 
 *   [timematic/anytime](https://github.com/timematic/anytime) - Fast, Zero-Allocs and User-Friendly `time.Time` parser which no need specify the time `Layout`.
 
@@ -10743,98 +10835,6 @@
 *   [lzxb/flex.css](https://github.com/lzxb/flex.css) - flex.css is declarative layout which is compatible with wechat, UC, webview and other main-stream mobile browser and surpports react, vue, angular.
 
 *   [25H/Maya](https://github.com/25H/Maya) - Maye 一个简洁小巧的快速启动工具
-
-## Rust
-
-*   [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
-
-*   [chenquan/arkflow](https://github.com/chenquan/arkflow) - High-performance Rust stream processing engine, providing powerful data stream processing capabilities, supporting multiple input/output sources and processors.
-
-*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-
-*   [rust-cli/env\_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable.
-
-*   [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
-
-*   [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
-
-*   [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
-
-*   [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others.
-
-*   [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
-
-*   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
-
-*   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
-
-*   [cantoblanco/boringbay](https://github.com/cantoblanco/boringbay) - 🥱 无聊湾，欢迎加入
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
-
-*   [alley-rs/lsar](https://github.com/alley-rs/lsar) - 直播解析图形化程序
-
-*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
-
-*   [kingwingfly/fav](https://github.com/kingwingfly/fav) - Back up your favorite bilibili resources with CLI.
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [auula/typikon](https://github.com/auula/typikon) - Typikon lets you use markdown to write your online books.
-
-*   [Zxilly/OnedriveHostsGenerator](https://github.com/Zxilly/OnedriveHostsGenerator) - A Page include Onenote for Windows' hosts
-
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-
-*   [cncases/cases](https://github.com/cncases/cases) - 中国裁判文书网本地搜索
-
-*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-*   [LJason77/bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 自动下载 B站 视频
-
-*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
-
-*   [NPCDW/yuque\_sae](https://github.com/NPCDW/yuque_sae) - 语雀个人版与空间版文档导出，以及标准 markdown 格式化
-
-*   [yangwenmai/learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 > Rust Programming Tutorial, include articles, interview, example, problems.
-
-*   [douchuan/algorithm](https://github.com/douchuan/algorithm) - Algorithms written in Rust
-
-*   [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
-
-*   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
-
-*   [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
-
-*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
-
-*   [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the power of programming, in your database
-
-*   [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-
-*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
-
-*   [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
-
-*   [wormtql/genshin\_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 
 ## Kotlin
 
