@@ -1760,7 +1760,7 @@
 
 *   [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) - 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
 
-*   [uniartisan/adblock\_list](https://github.com/uniartisan/adblock_list) - adblock\_list 是一个致力于中文区广告过滤、隐私保护的快速迭代规则，以解决现有中文区拦截规则重复、维护缓慢等问题
+*   [zhiyuan1i/adblock\_list](https://github.com/zhiyuan1i/adblock_list) - adblock\_list 是一个致力于中文区广告过滤、隐私保护的快速迭代规则，以解决现有中文区拦截规则重复、维护缓慢等问题
 
 *   [asxez/DDCS](https://github.com/asxez/DDCS) - Docker汉化脚本  DockerDesktop汉化脚本  Docker汉化  Docker Windows Docker MAC
 
@@ -2106,7 +2106,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
