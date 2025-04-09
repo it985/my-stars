@@ -16,6 +16,8 @@
 
 ## Python
 
+*   [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+
 *   [Warma10032/cyber-doctor](https://github.com/Warma10032/cyber-doctor) - 赛博医生项目——”赛博华佗“，基于多模态大模型的多功能智能体，一键搭建本地多模态大模型。接入医疗健康相关的知识图谱和知识库后可以进行疾病初诊，病历分析，专业知识问答等功能，成为你的私人医生。赛博华佗项目能帮助实现医疗资源的跨地域传播，让更多人借助大模型改善健康水平。"Cyber ​​Huatuo" - Easy to build a personal doctor agent based on LLM and Knowledge Graph/Knowledge Database.
 
 *   [Warma10032/easytts](https://github.com/Warma10032/easytts) - 打造最简单的TTS前端集合，最简单的有声小说制作工作流。基于正则规则对小说进行分句，基于RoBERTa对小说中的对话进行说话人识别，从而实现一键式生成多人有声小说。多说话人的语音合成，高质量的有声小说制作。
@@ -252,7 +254,7 @@
 
 *   [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 
-*   [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - \[CVPR 2025] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
+*   [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - \[CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 
 *   [BoBo0037/bobo-fun](https://github.com/BoBo0037/bobo-fun) -
 
@@ -860,7 +862,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -2132,7 +2134,23 @@
 
 *   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api
 
-*   [srx-2000/spider\_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，知乎百万级用户爬虫+数据分析，github用户爬虫
+## Svelte
+
+*   [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
+
+*   [hughfenghen/opfs-finder](https://github.com/hughfenghen/opfs-finder) - 使用 AI + OPFS 在浏览器中实现 MacOS Finder。Implement MacOS Finder in the browser using AI + OPFS.
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+*   [richhost/pixzip-lite](https://github.com/richhost/pixzip-lite) - Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。
+
+*   [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) - The Gitmoji browser extension to easily search and copy gitmojis 😜
+
+*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
+
+*   [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
+
+*   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
 ## JavaScript
 
@@ -11532,8 +11550,6 @@
 
 *   [UHungLin/AnimeDownloader](https://github.com/UHungLin/AnimeDownloader) - bilibili B站 哔哩哔哩 acfun A站 樱花动漫 番剧下载器（Video Downloader）:smiley:​ 仅供学习交流  求 star orz
 
-*   [nICEnnnnnnnLee/BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
-
 ## TeX
 
 *   [chunrapeepat/inscribed](https://github.com/chunrapeepat/inscribed) - a slide-based tool for creating stop motion animations and slides with Excalidraw
@@ -12241,22 +12257,6 @@
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
 *   [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-
-## Svelte
-
-*   [hughfenghen/opfs-finder](https://github.com/hughfenghen/opfs-finder) - 使用 AI + OPFS 在浏览器中实现 MacOS Finder。Implement MacOS Finder in the browser using AI + OPFS.
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-*   [richhost/pixzip-lite](https://github.com/richhost/pixzip-lite) - Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。
-
-*   [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) - The Gitmoji browser extension to easily search and copy gitmojis 😜
-
-*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
-
-*   [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
-
-*   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
 ## Dockerfile
 
