@@ -66,7 +66,7 @@
 
 *   [chenyme/Chenyme-AAVT](https://github.com/chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
 
-*   [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher) - 获取b站历史记录，保存到本地数据库，可下载对应视频及时存档，生成详细的年度总结，自动化任务部署到服务器实现自动同步，以及自动发送日志邮件，下面链接是对应前端
+*   [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher) - 获取b站历史记录，批量下载视频，一键下载用户投稿视频，收藏夹所有视频，生成详细的年度总结，自动化任务，下面链接是对应前端
 
 *   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
@@ -120,7 +120,7 @@
 
 *   [fdkang/change-cursor-MachineId](https://github.com/fdkang/change-cursor-MachineId) - 用于解决白嫖Cursor被封设备，适用windows、macos
 
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
 *   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 
@@ -5408,6 +5408,8 @@
 
 *   [compose/transporter](https://github.com/compose/transporter) - Sync data between persistence engines, like ETL only not stodgy
 
+*   [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated.
+
 *   [lesovsky/pgcenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
 
 *   [mgartner/pg\_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
@@ -7273,8 +7275,6 @@
 *   [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 
 *   [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-
-*   [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated.
 
 *   [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js
 
