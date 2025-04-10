@@ -862,7 +862,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -2180,7 +2180,7 @@
 
 *   [mastergo-design/mastergo-magic-mcp](https://github.com/mastergo-design/mastergo-magic-mcp) - MasterGo Magic MCP is a standalone MCP (Model Context Protocol) service designed to connect MasterGo design tools with AI models.
 
-*   [zhushen12580/short](https://github.com/zhushen12580/short) - 一款更懂内容创作者的一键智能精准截图工具
+*   [zhushen12580/short](https://github.com/zhushen12580/short) - AI时代的首款智能截图工具
 
 *   [Tairraos/TikDown](https://github.com/Tairraos/TikDown) - TikTok/Douyin downloader (TikTok抖音无水印视频下载器)
 
@@ -5712,7 +5712,7 @@
 
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
-*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 在线批量下载微信公众号文章，支持阅读量、评论、内嵌音视频，无需搭建任何环境，可100%还原文章样式，支持私有部署
+*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章下载工具，支持下载阅读量与评论数据，支持私有化部署
 
 *   [MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub) - https://github.com/MarSeventh/CloudFlare-ImgBed 项目的前端仓库。
 
@@ -6022,7 +6022,7 @@
 
 *   [virzs/Search-Next](https://github.com/virzs/Search-Next) - 一个简单的浏览器主页 / 新标签页，由React编写，支持本地账户切换，多引擎搜索，网址导航，更多功能正在开发
 
-*   [smilexizheng/mobile-pc-control-server](https://github.com/smilexizheng/mobile-pc-control-server) - This is a Node.js backend and mobile web application that realizes mobile control of PC's hotkeys and mouse operations.基于Node.js的服务端和移动端网页应用，实现手机对电脑的快捷键控制和鼠标的操作，界面简洁，功能强大，操作便捷。
+*   [smilexizheng/mobile-pc-control-server](https://github.com/smilexizheng/mobile-pc-control-server) -  mobile phone web remote control pc, Node.js backend and  web application.基于Node.js的服务端和移动端网页应用，实现手机对电脑的快捷键控制和鼠标的操作，界面简洁，功能强大，操作便捷。
 
 *   [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
 
@@ -8084,7 +8084,7 @@
 
 *   [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
 
-*   [ark-flow/arkflow](https://github.com/ark-flow/arkflow) - High-performance Rust stream processing engine, providing powerful data stream processing capabilities, supporting multiple input/output sources and processors.
+*   [arkflow-rs/arkflow](https://github.com/arkflow-rs/arkflow) - High-performance Rust stream processing engine, providing powerful data stream processing capabilities, supporting multiple input/output sources and processors.
 
 *   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 
