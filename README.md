@@ -2184,7 +2184,7 @@
 
 *   [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server
 
-*   [rock-zhang/Shui](https://github.com/rock-zhang/Shui) - 一个专注喝水提醒的macOS App，关注打工人健康💪 ，改善你的喝水习惯。
+*   [rock-zhang/Shui](https://github.com/rock-zhang/Shui) - 一个专注喝水提醒的跨端桌面 App，关注打工人健康 💪 ，改善你的喝水习惯。
 
 *   [123xiao/sex-agreement-app](https://github.com/123xiao/sex-agreement-app) - 性行为同意协议系统
 
@@ -2263,6 +2263,8 @@
 *   [waht41/auto\_machine](https://github.com/waht41/auto_machine) -
 
 *   [iyhub/personal-card-share](https://github.com/iyhub/personal-card-share) - 一个基于ZhipuAI的文本到社交卡片(简历卡片)的生成工具.
+
+*   [chunrapeepat/inscribed](https://github.com/chunrapeepat/inscribed) - a slide-based tool for creating stop motion animations and slides with Excalidraw
 
 *   [libondev/debugger-for-console](https://github.com/libondev/debugger-for-console) - debugger-for-console: Quickly create console debugging information for multiple languages. 通过完全可自定义的语句来快速调试你的代码.
 
@@ -3880,7 +3882,7 @@
 
 *   [sjzar/chatlog](https://github.com/sjzar/chatlog) - 聊天记录工具，轻松使用自己的聊天数据
 
-*   [shiquda/treex](https://github.com/shiquda/treex) - 🌳❌: Treex is a powerful command-line tool for directory structure visualization in various formats with multiple filters.
+*   [shiquda/treex](https://github.com/shiquda/treex) - 🌳❌: Treex is a CLI for directory structure visualization in various formats with powerful filters.
 
 *   [ProudMuBai/GoFilm](https://github.com/ProudMuBai/GoFilm) - 多播放源自动采集在线影视网站 golang vue
 
@@ -10088,7 +10090,7 @@
 
 ## Swift
 
-*   [XiCheng000/Dockit](https://github.com/XiCheng000/Dockit) - 一个专注于将窗口停靠到屏幕边缘的应用
+*   [XiCheng000/Dockit](https://github.com/XiCheng000/Dockit) - 一款专注于将窗口停靠到屏幕边缘的应用
 
 *   [jaywcjlove/file-sentinel](https://github.com/jaywcjlove/file-sentinel) - File Monitor for listening to text files and saving the last line of content. It can monitor files like `.zsh_history` or `.bash_history`, automatically saving shell history, helping you easily search recent terminal commands and ensuring you never forget any command again.
 
@@ -12384,32 +12386,6 @@
 
 *   [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 
-## TeX
-
-*   [chunrapeepat/inscribed](https://github.com/chunrapeepat/inscribed) - a slide-based tool for creating stop motion animations and slides with Excalidraw
-
-*   [spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) - Write Beautiful Curriculum Vitae in LaTex, that ensures twenty seconds reading.
-
-*   [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
-
-*   [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
-
-*   [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
-
-*   [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
-
-*   [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
-
-*   [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page\_facing\_up: Awesome CV is LaTeX template for your outstanding job application
-
-*   [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
-
-*   [patmorin/ods](https://github.com/patmorin/ods) - Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.
-
-*   [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level open source algorithm book designed with coding interview at heart!
-
-*   [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
-
 ## Clojure
 
 *   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -12887,6 +12863,30 @@
 *   [jkbrzt/cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.
 
 *   [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
+
+## TeX
+
+*   [spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) - Write Beautiful Curriculum Vitae in LaTex, that ensures twenty seconds reading.
+
+*   [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
+
+*   [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
+
+*   [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
+
+*   [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
+
+*   [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+
+*   [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page\_facing\_up: Awesome CV is LaTeX template for your outstanding job application
+
+*   [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
+
+*   [patmorin/ods](https://github.com/patmorin/ods) - Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.
+
+*   [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level open source algorithm book designed with coding interview at heart!
+
+*   [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 
 ## AutoHotkey
 
