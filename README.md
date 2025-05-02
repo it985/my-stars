@@ -2656,7 +2656,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -8662,7 +8662,7 @@
 
 *   [rqh656418510/hexo-readmore](https://github.com/rqh656418510/hexo-readmore) - Hexo 微信公众号引流插件，将免费的公众号引流工具整合到博客中，用户扫码关注公众号后才可以解锁文章，从而将博客流量引流到公众号，达到涨粉丝数的目的。
 
-*   [xiaobaidadada/filecat](https://github.com/xiaobaidadada/filecat) - Web Server Manager. 简洁的 Web 文件服务器 / 远程终端 / 服务器管理 / 运维工具 / 日志查看器 / 网络代理.
+*   [xiaobaidadada/filecat](https://github.com/xiaobaidadada/filecat) - Web Server Manager. 简洁的 Web 文件服务器 / 远程终端 / 服务器管理 / 运维工具 / 日志查看器 / vpn虚拟网络.
 
 *   [Huibq/keep-alive](https://github.com/Huibq/keep-alive) - 洛雪音乐音源、MusicFree音源、落雪音乐音源
 
