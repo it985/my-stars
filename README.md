@@ -2824,7 +2824,7 @@
 
 *   [chunrapeepat/inscribed](https://github.com/chunrapeepat/inscribed) - a slide-based tool for creating stop motion animations and slides with Excalidraw
 
-*   [libondev/debugger-for-console](https://github.com/libondev/debugger-for-console) - debugger-for-console: Quickly create console debugging information for multiple languages. 通过完全可自定义的语句来快速调试你的代码.
+*   [libondev/debugger-for-console](https://github.com/libondev/debugger-for-console) - Quickly create console debugging information for multiple languages. 通过完全可自定义的语句来快速调试你的代码.
 
 *   [HeroIsUseless/bondma](https://github.com/HeroIsUseless/bondma) - Bondma is a modern multilingual translation management platform designed to simplify the internationalization (i18n) process for applications and websites.
 
@@ -5780,7 +5780,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
