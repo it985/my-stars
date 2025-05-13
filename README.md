@@ -5068,6 +5068,8 @@
 
 *   [tampermonkeyStorage/Self-use](https://github.com/tampermonkeyStorage/Self-use) - 网盘云盘脚本 资源搜索、视频播放、音频播放 支持百度 蓝奏 天翼 迅雷 阿里 夸克 123pan 等
 
+*   [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
+
 *   [dromara/skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统\[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
 
 *   [maxzhang666/OneKeyVip](https://github.com/maxzhang666/OneKeyVip) - 一键Vip解析工具箱,功能介绍：1、一站式音乐搜索解决方案；2、bilibili视频封面获取；3、bilibili视频下载；4、商品历史价格展示(一次性告别虚假降价)；5、优惠券查询；6、CSDN界面清理(复制解锁)
@@ -8230,7 +8232,7 @@
 
 *   [jaywcjlove/audioer](https://github.com/jaywcjlove/audioer) - One-click conversion of all audio files to MP3 format! Supports seamless conversion between multiple audio formats with simple operation and fast processing. Just drag files into the app window, adjust settings, and click a button to complete the conversion effortlessly!
 
-*   [XiCheng148/Dockit](https://github.com/XiCheng148/Dockit) - 一款专注于将窗口停靠到屏幕边缘的应用
+*   [XiCheng148/Dockit](https://github.com/XiCheng148/Dockit) - An application that can dock any window to the edge of the screen.
 
 *   [jaywcjlove/file-sentinel](https://github.com/jaywcjlove/file-sentinel) - File Monitor for listening to text files and saving the last line of content. It can monitor files like `.zsh_history` or `.bash_history`, automatically saving shell history, helping you easily search recent terminal commands and ensuring you never forget any command again.
 
@@ -9888,7 +9890,7 @@
 
 *   [BingChunMoLi/MoLiAPI](https://github.com/BingChunMoLi/MoLiAPI) -
 
-*   [adlered/bolo-solo](https://github.com/adlered/bolo-solo) - 🍍Bolo菠萝博客 专为程序员设计的精致Java博客系统 | 🎸基于Solo深度定制 | ❤️完善文档轻松安装，贴心的技术支持 | 免登录评论 | 邮件/微信提醒 | 自定义图床 | 备案模式 | ✨精致主题持续更新 | 一键备份 | 防火墙 | 评论过滤 | 独立分类 | 文章与GitHub同步 | ✅安装太轻松！支持 Tomcat  Docker   宝塔面板 | 支持Windows  Linux  MacOS  Web容器 | 支持ARM处理器  X86/64处理器 | 🚚支持从Solo轻松迁移
+*   [bolo-blog/bolo-solo](https://github.com/bolo-blog/bolo-solo) - 🍍Bolo菠萝博客 专为程序员设计的精致Java博客系统 | 🎸基于Solo深度定制 | ❤️完善文档轻松安装，贴心的技术支持 | 免登录评论 | 邮件/微信提醒 | 自定义图床 | 备案模式 | ✨精致主题持续更新 | 一键备份 | 防火墙 | 评论过滤 | 独立分类 | 文章与GitHub同步 | ✅安装太轻松！支持 Tomcat  Docker   宝塔面板 | 支持Windows  Linux  MacOS  Web容器 | 支持ARM处理器  X86/64处理器 | 🚚支持从Solo轻松迁移
 
 *   [wechatpay-apiv3/wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 
@@ -11280,7 +11282,7 @@
 
 *   [LloydAsp/OsMutation](https://github.com/LloydAsp/OsMutation) - Reinstall Any OpenVZ/LXC VPS to Debian/CentOS/Alpine
 
-*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - A script for network quality detection
+*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量体检脚本 - Network Quality Check Script
 
 *   [apernet/tcp-brutal](https://github.com/apernet/tcp-brutal) -
 
@@ -13097,8 +13099,6 @@
 *   [boennemann/badges](https://github.com/boennemann/badges) - :flower\_playing\_cards: Readme Badges – Gotta catch 'em all
 
 *   [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - No longer maintained, see pinned issues
-
-*   [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 
 *   [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
 
