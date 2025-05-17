@@ -6752,8 +6752,6 @@
 
 *   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
 
-*   [sky22333/hub-proxy](https://github.com/sky22333/hub-proxy) - 自建Docker镜像仓库和Github加速
-
 *   [dendianugerah/reubah](https://github.com/dendianugerah/reubah) - a web-based tool for processing images and converting documents with a simple interface
 
 *   [lecepin/pwa-genico](https://github.com/lecepin/pwa-genico) - Generate pwa manifest icon tool
@@ -7751,6 +7749,8 @@
 *   [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 
 *   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
+
+*   [sky22333/hub-proxy](https://github.com/sky22333/hub-proxy) - 自建Docker镜像仓库和Github加速，支持IP限流
 
 *   [BitAUR/Puff](https://github.com/BitAUR/Puff) - 开源、快速、便捷、基于Go的域名监控程序。
 
@@ -10416,7 +10416,7 @@
 
 *   [MaLuns/vitepress-theme-async](https://github.com/MaLuns/vitepress-theme-async) - 一个简单而轻量级的 Vitepress 主题。 |   A simple, lightweight Vitepress  theme.
 
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
 
 *   [bojue/lemon-form](https://github.com/bojue/lemon-form) - lemon form 柠檬表单
 
