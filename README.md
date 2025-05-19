@@ -1898,7 +1898,7 @@
 
 *   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 
-*   [sky22333/hub-proxy](https://github.com/sky22333/hub-proxy) - 自托管Docker镜像加速和Github加速，支持IP限流，离线镜像包下载，shell脚本嵌套加速
+*   [sky22333/hub-proxy](https://github.com/sky22333/hub-proxy) -
 
 *   [BitAUR/Puff](https://github.com/BitAUR/Puff) - 开源、快速、便捷、基于Go的域名监控程序。
 
@@ -5360,7 +5360,7 @@
 
 *   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
 
-*   [3089464667/default-app](https://github.com/3089464667/default-app) - This is a Windows software used for setting the default app for file extensions. This is because the default applications(app) set by the Windows system are often automatically switched. 这是一个Windows工具，用于设置文件扩展名的默认打开程序。而且还有规则空间功能，用户登录规则空间共享程序设计规则，并可以挑选评分最高的规则。软件网站：https://3089464667.github.io/default-app/
+*   [3089464667/default-app](https://github.com/3089464667/default-app) - This is a Windows software used for setting the default app for file extensions. This is because the default applications(app) set by the Windows system are often automatically switched. 这是一个Windows工具，用于设置文件扩展名的默认打开程序。而且还有规则空间功能，用户登录规则空间共享程序设计规则，并可以挑选评分最高的规则。file default master（文件默认大师）软件网站：https://3089464667.github.io/default-app/
 
 *   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
@@ -6288,7 +6288,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9648,7 +9648,7 @@
 
 *   [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 
-*   [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+*   [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 
 *   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
