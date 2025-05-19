@@ -994,7 +994,7 @@
 
 *   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 
 *   [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 
@@ -1897,8 +1897,6 @@
 *   [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 
 *   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
-
-*   [sky22333/hub-proxy](https://github.com/sky22333/hub-proxy) -
 
 *   [BitAUR/Puff](https://github.com/BitAUR/Puff) - 开源、快速、便捷、基于Go的域名监控程序。
 
@@ -5338,6 +5336,8 @@
 
 *   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 
+*   [zkeq/icodeq-bpi](https://github.com/zkeq/icodeq-bpi) - API 的第二个仓库
+
 ## Python
 
 *   [maticarmy/free\_cursor\_pro](https://github.com/maticarmy/free_cursor_pro) - 🚀 Free Cursor Pro Daily Access Tool | 每日Cursor专业版免费助手 cursor cursor-pro free-tools ai-coding-assistant developer-tools programming-helper
@@ -6028,7 +6028,7 @@
 
 *   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 
-*   [shenweiyan/Digital-Garden](https://github.com/shenweiyan/Digital-Garden) - All in Discussions 的个人数字花园，没事写写文章，喜欢的话请点 Star，想订阅点 Watch。
+*   [shenweiyan/Digital-Garden](https://github.com/shenweiyan/Digital-Garden) - All in Discussions 的个人数字花园，没事写写文章，喜欢的话请点 Star，想订阅点 Watch。知识管理就像一个花园，需要精心培育和持续维护才能繁荣。
 
 *   [jym66/Dlink\_Parse](https://github.com/jym66/Dlink_Parse) - 解析 优酷，腾讯，哔哩哔哩，抖音，芒果TV，爱奇艺，PP视频，咪咕视频，AcFun，快手，搜狐视频，QQ音乐，网易云音乐，酷我音乐，腾讯课堂，西瓜视频等下载地址
 
@@ -10486,7 +10486,7 @@
 
 *   [WuSuoV/YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 
-*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
+*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 
 *   [zjzjzjzj1874/ai-sites](https://github.com/zjzjzjzj1874/ai-sites) - 一个简洁美观的个人导航网站，支持网站优先级排序和点击量统计功能。
 
