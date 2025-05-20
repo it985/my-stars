@@ -486,7 +486,7 @@
 
 *   [mythsman/hexo-douban](https://github.com/mythsman/hexo-douban) -  :cd: a Hexo plugin that helps you generate content for Douban books, movies, music, and games.
 
-*   [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) -
+*   [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
 
 *   [virzs/Search-Next](https://github.com/virzs/Search-Next) - 一个简单的浏览器主页 / 新标签页，由React编写，支持本地账户切换，多引擎搜索，网址导航，更多功能正在开发
 
@@ -587,8 +587,6 @@
 *   [boyso/Markdownconverter](https://github.com/boyso/Markdownconverter) - Free Markdown to Html Converter
 
 *   [winterfx/ProWords](https://github.com/winterfx/ProWords) -
-
-*   [volcengine/ai-app-lab](https://github.com/volcengine/ai-app-lab) -
 
 *   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 
@@ -2235,6 +2233,8 @@
 *   [zhuweileo/ryf-blog-navbar](https://github.com/zhuweileo/ryf-blog-navbar) -
 
 *   [WooodHead/cursor-export](https://github.com/WooodHead/cursor-export) -
+
+*   [volcengine/ai-app-lab](https://github.com/volcengine/ai-app-lab) -
 
 *   [BsaLee/QingLongSign](https://github.com/BsaLee/QingLongSign) - 个人收集的青龙签到脚本
 
@@ -4720,7 +4720,7 @@
 
 *   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 
-*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
+*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案
 
 *   [Ghauster/Bilivideoinfo](https://github.com/Ghauster/Bilivideoinfo) - Bilibili视频数据爬虫 精确爬取完整的b站视频数据，包括标题、up主、up主id、精确播放数、历史累计弹幕数、点赞数、投硬币枚数、收藏人数、转发人数、发布时间、视频时长、视频简介、作者简介和标签
 
@@ -5028,7 +5028,7 @@
 
 *   [genmoai/mochi](https://github.com/genmoai/mochi) - The best OSS video generation models
 
-*   [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
+*   [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 
 *   [Tencent/MimicMotion](https://github.com/Tencent/MimicMotion) - High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance
 
@@ -10426,7 +10426,7 @@
 
 *   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://www.pakeplus.com
 
-*   [bojue/lemon-form](https://github.com/bojue/lemon-form) - lemon form 柠檬轻表单
+*   [bojue/lemon-form](https://github.com/bojue/lemon-form) - lemon form 柠檬轻表单（Vue3）
 
 *   [WANG-Fan0912/SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin) - SnowAdmin 一款基于 Vue3、TypeScript、Vite5、Pinia、Arco-Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
 
