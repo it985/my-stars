@@ -14,6 +14,252 @@
 
 ## 语言分类
 
+## C++
+
+*   [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump) - 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
+
+*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+
+*   [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+
+*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+
+*   [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
+
+*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+
+*   [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL, HIL Test
+
+*   [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
+
+*   [jaskang/wukong-minimap](https://github.com/jaskang/wukong-minimap) - 黑神话内置实时地图 / Black Myth: Wukong Built-in real-time map
+
+*   [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
+
+*   [BeyondXinXin/RepoReporter](https://github.com/BeyondXinXin/RepoReporter) - 同时支持SVN和Git的仓库监视器
+
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
+
+*   [Arkueid/live2d-py](https://github.com/Arkueid/live2d-py) - Live2D Library for Python (C++ Wrapper): Supports model loading, lip-sync and basic face rigging, precise click test.
+
+*   [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
+
+*   [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
+
+*   [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
+
+*   [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+
+*   [xiaobaidadada/node-word-detection](https://github.com/xiaobaidadada/node-word-detection) - node.js 敏感词/违禁词 检测 替换 过滤  ，超高效率，极小内存(8万个违禁词仅需要30MB）
+
+*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
+
+*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
+
+*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+
+*   [lailongwei/llbc](https://github.com/lailongwei/llbc) - 一个简洁、高性能、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
+
+*   [yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
+
+*   [pi-314159/Authenticator](https://github.com/pi-314159/Authenticator) - An authenticator implementing RFC 6238, utilizing the OpenSSL library to encrypt secrets for cross-machine usage.
+
+*   [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
+
+*   [LiteLoaderQQNT/QQNTFileVerifyPatch](https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch) - 逆他妈的QQNT Patch文件检测
+
+*   [openvpi/dataset-tools](https://github.com/openvpi/dataset-tools) - DiffSinger dataset processing tools, including audio processing, labeling.
+
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+
+*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
+
+*   [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
+
+*   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+
+*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+
+*   [senlinmuvs/xxmoon](https://github.com/senlinmuvs/xxmoon) - xxmoon摘月——信息收藏、Kindle/微信读书/豆瓣阅读笔记管理
+
+*   [851896022/DesktopXiuXian](https://github.com/851896022/DesktopXiuXian) - 桌面修仙——桌面放置类摸鱼修仙游戏。支持放置，点击，桌面立绘，聊天吹水，运势推演，联网排名
+
+*   [mandliya/algorithms\_and\_data\_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
+
+*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
+
+*   [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
+
+*   [sumitsojha88/Placement-Preparation](https://github.com/sumitsojha88/Placement-Preparation) - Complete roadmap for your placement or intern preparation!
+
+*   [fnplus/interview-techdev-guide](https://github.com/fnplus/interview-techdev-guide) - This repository contains curated technical interview questions by fn+geeks community
+
+*   [Nabagata/interview-prep](https://github.com/Nabagata/interview-prep) - Everything you need to know to get the job
+
+*   [rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes) - 【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。
+
+*   [FazeelUsmani/Amazon-SDE-Preparation](https://github.com/FazeelUsmani/Amazon-SDE-Preparation) - This repository includes all the interview preparation questions for Amazon SDE role
+
+*   [knightsj/awesome-algorithm-question-solution](https://github.com/knightsj/awesome-algorithm-question-solution) - LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法的实现
+
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+
+*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
+
+*   [0voice/introduce\_c-cpp\_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
+
+*   [0voice/cpp\_new\_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
+
+*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+
+*   [wovert/CTutorials](https://github.com/wovert/CTutorials) - C 语言学习教程
+
+*   [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank) - This repository contains all the popular Competitive Programming and DSA questions with solutions for your Coding Interview Preparation.
+
+*   [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) - This repo contains links of resources, theory subjects content and DSA questions & their solution for interview preparation from different websites like geeksforgeeks, leetcode, etc.
+
+*   [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms) - The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!
+
+*   [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
+
+*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+
+*   [selfboot/CS\_Offer](https://github.com/selfboot/CS_Offer) - 计算机学科基础知识和主流编程语言相关内容的总结
+
+*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+
+*   [jainaman224/Algo\_Ds\_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - A comprehensive resource for learning and implementing algorithms and data structures. This repository includes detailed notes, complexity analysis, and code examples in C++, Java, Python, and more. Ideal for students, professionals, and those preparing for coding interviews.
+
+*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+
+*   [ION28/BLUESPAWN](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams
+
+*   [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit) - Windows Explorer Extension to Operate Git; Mirror of official repository https://tortoisegit.org/sourcecode
+
+*   [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspired by Sparkle for macOS
+
+*   [qcad/qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
+
+*   [google/lullaby](https://github.com/google/lullaby) - A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences
+
+*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program font.
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+
+*   [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
+
+*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
+
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+
+*   [eranif/codelite](https://github.com/eranif/codelite) - A multi purpose IDE specialized in C/C++/Rust/Python/PHP and Node.js. Written in C++
+
+*   [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) - A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
+
+*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+
+*   [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
+
+*   [RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Change C++ code at runtime
+
+*   [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF\_XDP and PF\_RING.
+
+*   [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
+
+*   [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
+
+*   [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
+
+*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+
+*   [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
+
+*   [anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource) - RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码
+
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
+
+*   [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+
+*   [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
+
+*   [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
+
+*   [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+
+*   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+
+*   [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
+
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+
+*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+*   [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
+
+*   [SOCI/soci](https://github.com/SOCI/soci) - Official repository of the SOCI - The C++ Database Access Library
+
+*   [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
+
+*   [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
+
+*   [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
+
+*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+
+*   [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
+
+*   [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
+
+*   [spring/spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. - Report issues at https://springrts.com/mantis/
+
+*   [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+
+*   [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
+
+*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [aliakseis/LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
+
+*   [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
+
+*   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
+
+*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+
+*   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
+
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+
+*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+
+*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+
 ## C
 
 *   [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) -
@@ -5390,7 +5636,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -6820,7 +7066,7 @@
 
 *   [systemmin/wxdown](https://github.com/systemmin/wxdown) - 这是一个用于保存公众号文章到本地离线查看的软件，支持将 HTML 文章保存至本地，并提供 HTML 转 PDF 的功能。此外，软件还支持图片、音频、视频下载，可在 Windows、Mac 和 Linux 系统上运行，使用 Go 语言开发，具备轻量级、小体积、高性能和并发支持的特点。
 
-*   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - Go 语言编写的网盘直链反向代理服务，深度适配阿里云盘，为 Emby + Alist 组合提供更好的使用体验，配置简单，DockerCompose 一键部署
+*   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - Go 语言编写的 Emby + Alist 网盘直链反向代理服务，深度适配阿里云盘转码播放，配置简单，DockerCompose 一键部署
 
 *   [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 
@@ -7568,7 +7814,7 @@
 
 *   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
-*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 *   [babyname/fate](https://github.com/babyname/fate) - Fate is a modern science chinese name create tool.
 
@@ -8223,250 +8469,6 @@
 *   [3kanAlpha/hololive-asmr](https://github.com/3kanAlpha/hololive-asmr) - ホロライブのASMR配信検索サービス
 
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-
-## C++
-
-*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-
-*   [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-
-*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-
-*   [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
-
-*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-
-*   [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL, HIL Test
-
-*   [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
-
-*   [jaskang/wukong-minimap](https://github.com/jaskang/wukong-minimap) - 黑神话内置实时地图 / Black Myth: Wukong Built-in real-time map
-
-*   [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
-
-*   [BeyondXinXin/RepoReporter](https://github.com/BeyondXinXin/RepoReporter) - 同时支持SVN和Git的仓库监视器
-
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
-
-*   [Arkueid/live2d-py](https://github.com/Arkueid/live2d-py) - Live2D Library for Python (C++ Wrapper): Supports model loading, lip-sync and basic face rigging, precise click test.
-
-*   [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
-
-*   [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
-
-*   [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
-
-*   [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-
-*   [xiaobaidadada/node-word-detection](https://github.com/xiaobaidadada/node-word-detection) - node.js 敏感词/违禁词 检测 替换 过滤  ，超高效率，极小内存(8万个违禁词仅需要30MB）
-
-*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
-
-*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
-
-*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
-
-*   [lailongwei/llbc](https://github.com/lailongwei/llbc) - 一个简洁、高性能、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
-
-*   [yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
-
-*   [pi-314159/Authenticator](https://github.com/pi-314159/Authenticator) - An authenticator implementing RFC 6238, utilizing the OpenSSL library to encrypt secrets for cross-machine usage.
-
-*   [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
-
-*   [LiteLoaderQQNT/QQNTFileVerifyPatch](https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch) - 逆他妈的QQNT Patch文件检测
-
-*   [openvpi/dataset-tools](https://github.com/openvpi/dataset-tools) - DiffSinger dataset processing tools, including audio processing, labeling.
-
-*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-
-*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
-
-*   [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
-
-*   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
-
-*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-*   [senlinmuvs/xxmoon](https://github.com/senlinmuvs/xxmoon) - xxmoon摘月——信息收藏、Kindle/微信读书/豆瓣阅读笔记管理
-
-*   [851896022/DesktopXiuXian](https://github.com/851896022/DesktopXiuXian) - 桌面修仙——桌面放置类摸鱼修仙游戏。支持放置，点击，桌面立绘，聊天吹水，运势推演，联网排名
-
-*   [mandliya/algorithms\_and\_data\_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
-
-*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
-
-*   [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
-
-*   [sumitsojha88/Placement-Preparation](https://github.com/sumitsojha88/Placement-Preparation) - Complete roadmap for your placement or intern preparation!
-
-*   [fnplus/interview-techdev-guide](https://github.com/fnplus/interview-techdev-guide) - This repository contains curated technical interview questions by fn+geeks community
-
-*   [Nabagata/interview-prep](https://github.com/Nabagata/interview-prep) - Everything you need to know to get the job
-
-*   [rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes) - 【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。
-
-*   [FazeelUsmani/Amazon-SDE-Preparation](https://github.com/FazeelUsmani/Amazon-SDE-Preparation) - This repository includes all the interview preparation questions for Amazon SDE role
-
-*   [knightsj/awesome-algorithm-question-solution](https://github.com/knightsj/awesome-algorithm-question-solution) - LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法的实现
-
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
-
-*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
-
-*   [0voice/introduce\_c-cpp\_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
-
-*   [0voice/cpp\_new\_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
-
-*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-
-*   [wovert/CTutorials](https://github.com/wovert/CTutorials) - C 语言学习教程
-
-*   [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank) - This repository contains all the popular Competitive Programming and DSA questions with solutions for your Coding Interview Preparation.
-
-*   [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) - This repo contains links of resources, theory subjects content and DSA questions & their solution for interview preparation from different websites like geeksforgeeks, leetcode, etc.
-
-*   [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms) - The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!
-
-*   [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
-
-*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-
-*   [selfboot/CS\_Offer](https://github.com/selfboot/CS_Offer) - 计算机学科基础知识和主流编程语言相关内容的总结
-
-*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-
-*   [jainaman224/Algo\_Ds\_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - A comprehensive resource for learning and implementing algorithms and data structures. This repository includes detailed notes, complexity analysis, and code examples in C++, Java, Python, and more. Ideal for students, professionals, and those preparing for coding interviews.
-
-*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-
-*   [ION28/BLUESPAWN](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams
-
-*   [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit) - Windows Explorer Extension to Operate Git; Mirror of official repository https://tortoisegit.org/sourcecode
-
-*   [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspired by Sparkle for macOS
-
-*   [qcad/qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
-
-*   [google/lullaby](https://github.com/google/lullaby) - A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences
-
-*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program font.
-
-*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-
-*   [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
-
-*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
-
-*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
-
-*   [eranif/codelite](https://github.com/eranif/codelite) - A multi purpose IDE specialized in C/C++/Rust/Python/PHP and Node.js. Written in C++
-
-*   [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) - A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
-
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
-*   [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
-
-*   [RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Change C++ code at runtime
-
-*   [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF\_XDP and PF\_RING.
-
-*   [teeworlds/teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
-
-*   [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
-
-*   [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
-
-*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
-
-*   [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
-
-*   [anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource) - RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码
-
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
-
-*   [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
-
-*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-
-*   [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
-
-*   [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
-
-*   [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-
-*   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-
-*   [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
-
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-
-*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-*   [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
-
-*   [SOCI/soci](https://github.com/SOCI/soci) - Official repository of the SOCI - The C++ Database Access Library
-
-*   [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
-
-*   [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
-
-*   [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
-
-*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-
-*   [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
-
-*   [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
-
-*   [spring/spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. - Report issues at https://springrts.com/mantis/
-
-*   [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-
-*   [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
-
-*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [aliakseis/LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
-
-*   [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
-
-*   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
-
-*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-
-*   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
-
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-
-*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
-
-*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 
 ## Kotlin
 
@@ -12846,8 +12848,6 @@
 
 *   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
 
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-
 ## Dart
 
 *   [MCDFsteve/NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，采用 Flutter 开发，提供统一的用户体验。
@@ -13230,7 +13230,7 @@
 
 ## Smarty
 
-*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 650 个。
+*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，🧐 设类目 82 个，📥 录项目 650 个。
 
 *   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
 
