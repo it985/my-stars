@@ -54,7 +54,7 @@
 
 *   [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale for monitoring and alerting, just as Grafana for visualization.
 
-*   [mcp-ecosystem/mcp-gateway](https://github.com/mcp-ecosystem/mcp-gateway) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
+*   [mcp-ecosystem/mcp-gateway](https://github.com/mcp-ecosystem/mcp-gateway) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 
 *   [ibarryyan/golang-tips-100](https://github.com/ibarryyan/golang-tips-100) - You know , for golang tips!
 
@@ -3642,7 +3642,7 @@
 
 *   [BsaLee/QingLongSign](https://github.com/BsaLee/QingLongSign) - 个人收集的青龙签到脚本
 
-*   [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+*   [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。连通业务系统的agent框架。
 
 *   [yelc66/98MagnetDownload](https://github.com/yelc66/98MagnetDownload) - 98堂 色花堂一键推送磁力链接下载客户端
 
@@ -7038,7 +7038,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
