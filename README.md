@@ -8130,7 +8130,7 @@
 
 *   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://www.pakeplus.com
 
-*   [WANG-Fan0912/SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin) - SnowAdmin 一款基于 Vue3、TypeScript、Vite5、Pinia、Arco-Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
+*   [WANG-Fan0912/SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin) - SnowAdmin 一款基于 Vue3、TypeScript、Vite6、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
 
 *   [5A59/SimpleSEO](https://github.com/5A59/SimpleSEO) - Simple SEO Guide
 
