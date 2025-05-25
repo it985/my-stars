@@ -2310,7 +2310,7 @@
 
 *   [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 
-*   [FC2-Research-Club/FC2-Leak-Detector](https://github.com/FC2-Research-Club/FC2-Leak-Detector) - FC2流出检查器可以分析在fc2.com上发布的视频的公开流出数据，并且附带整合高质量预览图和磁力链接资源，同时自带完善的统计分析功能。
+*   [FC2-Research-Club/FC2-Leak-Detector](https://github.com/FC2-Research-Club/FC2-Leak-Detector) - FC2流出检查器可以分析在fc2.com上发布的视频的公开流出数据，并且附带整合高质量预览图和磁力链接资源，同时自带完善的统计分析功能    |   The FC2-Leak-Detector can analyze publicly leaked data of videos posted on fc2.com, integrating high-quality preview images and magnet link resources. It also comes with comprehensive statistical analysis features
 
 *   [Cloxl/xhshow](https://github.com/Cloxl/xhshow) - 小红书xs纯算 小红书56版本xs 小红书个人主页 批量爬取数据 文章批量下载 小红书x-s x-t x-s-common x-b3-traceid search-id 旋转验证码参数纯算纯协议逆向
 
@@ -2547,8 +2547,6 @@
 *   [ZhuoZhuoCrayon/AcousticKeyBoard-Web](https://github.com/ZhuoZhuoCrayon/AcousticKeyBoard-Web) - ❓声学键盘｜脑洞大开：做一个能听懂键盘敲击键位的「玩具」，学习信号处理 / 深度学习 / 安卓 / Django。
 
 *   [XyHK-HUC/Serv00-Reg](https://github.com/XyHK-HUC/Serv00-Reg) - 简单的Serv00注册机。
-
-*   [lich0821/WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
 
 *   [topcss/docker-pull-tar](https://github.com/topcss/docker-pull-tar) -
 
@@ -2853,8 +2851,6 @@
 *   [Fannovel16/comfyui\_controlnet\_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ComfyUI's ControlNet Auxiliary Preprocessors
 
 *   [Suzie1/ComfyUI\_Comfyroll\_CustomNodes](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes) - Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
-
-*   [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
 
 *   [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) - 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
 
@@ -3200,7 +3196,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -8572,8 +8568,6 @@
 
 *   [xiaobaidadada/node-word-detection](https://github.com/xiaobaidadada/node-word-detection) - node.js 敏感词/违禁词 检测 替换 过滤  ，超高效率，极小内存(8万个违禁词仅需要30MB）
 
-*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
-
 *   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
 
 *   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
@@ -10944,6 +10938,8 @@
 
 *   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
 
+*   [lich0821/WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
+
 *   [youshandefeiyang/testvideo](https://github.com/youshandefeiyang/testvideo) - 肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
 
 *   [leicemag/Javdb-Top250](https://github.com/leicemag/Javdb-Top250) - Javdb.com top 250 movies collection
@@ -10984,6 +10980,8 @@
 
 *   [qq332374857/BlueSkyClouds-My-Actions](https://github.com/qq332374857/BlueSkyClouds-My-Actions) - 爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
 
+*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
+
 *   [eryajf/read-list](https://github.com/eryajf/read-list) - 📖 优质内容订阅，阅读方为根本
 
 *   [Z-Siqi/Clash-for-Windows\_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule) - Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
@@ -11013,6 +11011,8 @@
 *   [sky22333/Docker-Hub](https://github.com/sky22333/Docker-Hub) - Docker Hub镜像加速or项目收集
 
 *   [cubiq/ComfyUI\_Workflows](https://github.com/cubiq/ComfyUI_Workflows) - A repository of well documented easy to follow workflows for ComfyUI
+
+*   [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
 
 *   [Bpazy/blog](https://github.com/Bpazy/blog) - 我的博客，欢迎关注和讨论
 
