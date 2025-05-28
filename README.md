@@ -1798,8 +1798,6 @@
 
 *   [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
 
-*   [setube/stb](https://github.com/setube/stb) - Stb图床 - 现代化图片托管解决方案
-
 *   [luyu0279/Ainee](https://github.com/luyu0279/Ainee) - Ainee: AI Notetaking and Learning Companion – Speed Up Your Learning, Enhance Your Insight Sharing
 
 *   [yutangChina/ChatGPT-Question-Navigator](https://github.com/yutangChina/ChatGPT-Question-Navigator) -
@@ -4440,7 +4438,7 @@
 
 *   [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 
-*   [FC2-Research-Club/FC2-Leak-Detector](https://github.com/FC2-Research-Club/FC2-Leak-Detector) - 快速解析FC2视频流出数据，一键整合高质量预览图与磁力链接资源 Fast parsing of FC2 video leak data with one-click integration of high-quality previews and magnet links
+*   [FC2-Research-Club/FC2-Leak-Detector](https://github.com/FC2-Research-Club/FC2-Leak-Detector) - 快速解析FC2视频流出数据，一键整合高质量预览图与磁力链接资源 | Fast parsing of FC2 video leak data with one-click integration of high-quality previews and magnet links
 
 *   [Cloxl/xhshow](https://github.com/Cloxl/xhshow) - 小红书xs纯算 小红书56版本xs 小红书个人主页 批量爬取数据 文章批量下载 小红书x-s x-t x-s-common x-b3-traceid search-id 旋转验证码参数纯算纯协议逆向
 
@@ -5322,7 +5320,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9909,6 +9907,8 @@
 *   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 ## Vue
+
+*   [setube/stb](https://github.com/setube/stb) - Stb图床 - 现代化图片托管解决方案
 
 *   [WindyDante/Clear](https://github.com/WindyDante/Clear) - 简洁之美，效率之选
 
