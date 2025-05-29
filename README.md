@@ -16,6 +16,8 @@
 
 ## Python
 
+*   [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) -
+
 *   [swordswind/ai\_virtual\_mate\_linux](https://github.com/swordswind/ai_virtual_mate_linux) - AI虚拟伙伴Linux版
 
 *   [swordswind/ai\_virtual\_mate\_web](https://github.com/swordswind/ai_virtual_mate_web) - AI虚拟伙伴Web版
@@ -5042,6 +5044,8 @@
 
 *   [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 
+*   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+
 *   [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 
 *   [AldonahZero/spring-Boot-Vue-Bank](https://github.com/AldonahZero/spring-Boot-Vue-Bank) - 我,请始皇\[打钱]是一个前后端分离的工具人系统，项目采用 SpringBoot+Go+Vue 开发，项目加入常见的企业级应用所涉及到的技术点，例如 Redis、RabbitMQ 等(主要是多用用工具多踩踩坑)。
@@ -6876,7 +6880,7 @@
 
 ## Go
 
-*   [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - The easiest using, powerful and beautiful OpenResty Manager(Nginx Enhanced Version), open source alternative to OpenResty Edge.
+*   [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - The easiest using, powerful and beautiful OpenResty and host manager(Nginx Enhanced Version), open source alternative to OpenResty Edge.
 
 *   [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
 
@@ -7232,7 +7236,7 @@
 
 *   [go-ldap/ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 
-*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform
+*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, and scale apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
 
 *   [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 
@@ -9196,8 +9200,6 @@
 
 *   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 
-*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
-
 ## HTML
 
 *   [TickHaiJun/GitHub-Collaboration-Guide](https://github.com/TickHaiJun/GitHub-Collaboration-Guide) - 一站式 Git 与 GitHub 实战指南 | 从入门到精通
@@ -9449,6 +9451,8 @@
 *   [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
 
 *   [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
+
+*   [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 
 *   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 
@@ -9932,7 +9936,7 @@
 
 *   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - cursor 0.45.x machine id reset
 
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 *   [linkease/istore](https://github.com/linkease/istore) - 一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT
 
@@ -11152,8 +11156,6 @@
 
 *   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 
-*   [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
-
 *   [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 
 *   [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -11366,7 +11368,7 @@
 
 *   [adhja/telegram](https://github.com/adhja/telegram) - 2024最受欢迎的15000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖,telegram,群组,频道,机器人,telegram群组推荐,telegram频道,telegram机器人,telegram频道推荐,telegram频道开车,电报频道,电报开车,电报福利姬,纸飞机,纸飞机群,纸飞机福利群,纸飞机成年,电报成人,开车,telegram开车,telegrambot,福利姬,群组导航,频道导航,电报导航,开车群,电报开车群,纸飞机开车,纸飞机开车群
 
-*   [minlearn/1kdd](https://github.com/minlearn/1kdd) - 省事一键最小化开发发布后端🚀🎉
+*   [minlearn/discuss](https://github.com/minlearn/discuss) - 可以部署在cf上的社区🚀🎉
 
 *   [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates) - Edgeone pages templates
 
@@ -12593,8 +12595,6 @@
 *   [justjavac/the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
 
 *   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books) - Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。
 
 ## Less
 
