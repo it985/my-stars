@@ -1814,7 +1814,7 @@
 
 *   [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7\* 24-hour comprehensive and in-depth protection.
 
-*   [guoriyue/3dgs-warp-scratch](https://github.com/guoriyue/3dgs-warp-scratch) - Build 3D Gaussian Splatting from scratch with NVIDIA Warp — CPU/GPU compatible, with a clean and minimalist design focused on learning modern graphics.
+*   [guoriyue/3dgs-warp-scratch](https://github.com/guoriyue/3dgs-warp-scratch) - Build 3D Gaussian Splatting from scratch with NVIDIA Warp in Python — CPU/GPU compatible, with a clean and minimalist design focused on learning modern graphics.
 
 *   [shiimizu/ComfyUI-TiledDiffusion](https://github.com/shiimizu/ComfyUI-TiledDiffusion) - Tiled Diffusion, MultiDiffusion, Mixture of Diffusers, and optimized VAE
 
@@ -2768,7 +2768,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -9954,7 +9954,7 @@
 
 *   [wukongdaily/AutoBuildImmortalWrt](https://github.com/wukongdaily/AutoBuildImmortalWrt) - 它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt
 
-*   [kejilion/sh](https://github.com/kejilion/sh) - 一款全功能的Linux管理脚本！An all-in-one Linux management script!
+*   [kejilion/sh](https://github.com/kejilion/sh) - KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!
 
 *   [huacnlee/autocorrect-action](https://github.com/huacnlee/autocorrect-action) - GitHub action for use AutoCorrect as lint
 
