@@ -16,6 +16,8 @@
 
 ## TypeScript
 
+*   [Gijela/heic-to-pdf](https://github.com/Gijela/heic-to-pdf) - 【HEIC to PDF Converter Online】Instantly convert HEIC images to PDF with our advanced, privacy-first online tool. No uploads, no registration, no limits—just fast, secure, and high-quality HEIC to PDF conversion in your browser. Perfect for individuals, professionals, and teams.
+
 *   [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Translate and understand any webpage in depth with AI assistance | 🐸 陪读蛙 - 借助 AI 深入翻译和讲解任何网页
 
 *   [weijunext/ogimage-click](https://github.com/weijunext/ogimage-click) - Create beautiful OG images, Twitter/X Header images & more for free, in simple clicks.
@@ -42,7 +44,7 @@
 
 *   [lvboda/vscode-img-fast](https://github.com/lvboda/vscode-img-fast) - A vscode plugin that can quickly upload clipboard images and get image URL.
 
-*   [eastlondoner/cursor-tools](https://github.com/eastlondoner/cursor-tools) - Give Cursor Agent an AI Team and Advanced Skills
+*   [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - Give Cursor Agent an AI Team and Advanced Skills
 
 *   [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization Model Context Protocol server for generating visual charts using @antvis.
 
@@ -1156,7 +1158,7 @@
 
 *   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 
-*   [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+*   [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 
 *   [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
@@ -1886,7 +1888,7 @@
 
 *   [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 
-*   [FC2-Research-Club/FC2-Leak-Detector](https://github.com/FC2-Research-Club/FC2-Leak-Detector) - 快速解析FC2视频流出数据，一键整合高质量预览图与磁力链接资源 | Fast parsing of FC2 video leak data with one-click integration of high-quality previews and magnet links
+*   [FC2-Research-Club/FC2-Leak-Detector](https://github.com/FC2-Research-Club/FC2-Leak-Detector) - 快速解析FC2视频流出数据，一键整合高质量预览图与磁力链接资源，支持导出Jellyfin元数据 | Fast parsing of FC2 video leak data with one-click integration of high-quality previews, magnet links and Jellyfin metadata export
 
 *   [Cloxl/xhshow](https://github.com/Cloxl/xhshow) - 小红书xs纯算 小红书56版本xs 小红书个人主页 批量爬取数据 文章批量下载 小红书x-s x-t x-s-common x-b3-traceid search-id 旋转验证码参数纯算纯协议逆向
 
@@ -9954,7 +9956,7 @@
 
 *   [wukongdaily/gl-inet-onescript](https://github.com/wukongdaily/gl-inet-onescript) - 该项目可以让MT2500/MT3000/MT6000路由器在不刷机情况下,一键变成iStoreOS风格。
 
-*   [wukongdaily/AutoBuildImmortalWrt](https://github.com/wukongdaily/AutoBuildImmortalWrt) - 它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt
+*   [wukongdaily/AutoBuildImmortalWrt](https://github.com/wukongdaily/AutoBuildImmortalWrt) - 它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt。它相当于一个云端的ImageBuilder,属于构建的范畴,不算是编译。
 
 *   [kejilion/sh](https://github.com/kejilion/sh) - KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!
 
@@ -10248,7 +10250,7 @@
 
 *   [trueleaf/moyu](https://github.com/trueleaf/moyu) - 基于 Vue 和 Electron 的在线协同api接口管理工具。接口文档管理工具、接口工具、接口文档、api文档、api工具、快乐摸鱼
 
-*   [stark81/VutronMusic](https://github.com/stark81/VutronMusic) - 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示。支持 Windows / macOS / Linux :electron:
+*   [stark81/VutronMusic](https://github.com/stark81/VutronMusic) - 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。支持 Windows / macOS / Linux :electron:
 
 *   [linyu-im/linyu-mini-web](https://github.com/linyu-im/linyu-mini-web) - 一个轻量级的在线聊天室系统，支持实时消息交流，适合多场景使用。
 
@@ -12595,8 +12597,6 @@
 *   [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
 
 *   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [justjavac/the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
 
 ## Less
 
