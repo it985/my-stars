@@ -16,6 +16,8 @@
 
 ## JavaScript
 
+*   [happy-green-pants/AiContextHelper](https://github.com/happy-green-pants/AiContextHelper) - 一个模拟AI编辑器文件选择功能的Chrome浏览器插件，让你可以在任何AI聊天网站中快速选择文件上下文。
+
 *   [kmijs/kmi](https://github.com/kmijs/kmi) - Based on Umi to provide Rspack support and other best practices
 
 *   [tl-open-source/tl-rtc-app](https://github.com/tl-open-source/tl-rtc-app) - Beautiful, practical and reliable (IM) Based on webrtc, websocket, nodejs
@@ -11879,8 +11881,6 @@
 *   [doocs/coding-interview](https://github.com/doocs/coding-interview) - 😀 代码面试题集，包括剑指 Offer、编程之美等
 
 *   [doocs/data-structure-and-algorithm](https://github.com/doocs/data-structure-and-algorithm) - 😍 学习数据结构与算法，夯实编程基础
-
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
 ## C++
 
