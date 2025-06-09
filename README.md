@@ -38,7 +38,7 @@
 
 *   [wswmsword/naviix](https://github.com/wswmsword/naviix) - Spatial navigation. Arrow key navigation. 空间导航。键盘十字键导航。
 
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links with analytics, manage emails and control subdomains—all on one platform.
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links, manage emails and control subdomains—all on one platform.
 
 *   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, PostgreSQL, MongoDB. Mailpit. PHP, Java, NodeJS, Python, Go, Rust, Erlang, Ruby. Redis, RabbitMQ. Elasticsearch. DNS Server, FTP Server
 
@@ -2246,9 +2246,9 @@
 
 *   [liuhangbin/fast115](https://github.com/liuhangbin/fast115) - 115 webdav with 302 support
 
-*   [WuSuoV/ScanDomainEuorg](https://github.com/WuSuoV/ScanDomainEuorg) - 批量查询 eu.org 域名是否被注册，在茫茫域名中，寻找自己心仪的那一枚。
+*   [CalmXin/xin-scan-domain-eu-org](https://github.com/CalmXin/xin-scan-domain-eu-org) - 批量查询 eu.org 域名是否被注册，在茫茫域名中，寻找自己心仪的那一枚。
 
-*   [WuSuoV/crawlTelegraph](https://github.com/WuSuoV/crawlTelegraph) - 爬取Telegraph中的图片资源
+*   [CalmXin/xin-crawl-telegraph](https://github.com/CalmXin/xin-crawl-telegraph) - 爬取Telegraph中的图片资源
 
 *   [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) - WPA/WPA2 密码字典，用于 wifi 密码暴力破解
 
@@ -4178,7 +4178,7 @@
 
 *   [linyu-im/linyu-mini-web](https://github.com/linyu-im/linyu-mini-web) - 一个轻量级的在线聊天室系统，支持实时消息交流，适合多场景使用。
 
-*   [WuSuoV/YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
+*   [CalmXin/xin-get-ip](https://github.com/CalmXin/xin-get-ip) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 
 *   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 
@@ -5856,7 +5856,7 @@
 
 *   [seth-shi/go-v2ex](https://github.com/seth-shi/go-v2ex) - 一个 V2EX 的命令行客户端
 
-*   [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - The easiest using, powerful and beautiful OpenResty and host manager(Nginx Enhanced Version), open source alternative to OpenResty Edge.
+*   [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - The most simple, powerful and beautiful host management panel, open source alternative to OpenResty Edge.
 
 *   [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
@@ -7124,7 +7124,7 @@
 
 *   [wuxue107/screenshot-api-server](https://github.com/wuxue107/screenshot-api-server) - 使用node express和puppeteer搭建的WEB截图API服务 网页截图 & pdf 生成 API服务 & docker镜像
 
-*   [WuSuoV/SkyQianWallpaper](https://github.com/WuSuoV/SkyQianWallpaper) - 基于Flask的壁纸库：数据采集于360壁纸、Bing壁纸、金山词霸每日一句。无需数据库，部署后即可坐享其成。
+*   [CalmXin/xin-wallpaper](https://github.com/CalmXin/xin-wallpaper) - 基于Flask的壁纸库：数据采集于360壁纸、Bing壁纸、金山词霸每日一句。无需数据库，部署后即可坐享其成。
 
 *   [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
 
