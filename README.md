@@ -16,6 +16,8 @@
 
 ## TypeScript
 
+*   [w2xi/var-name](https://github.com/w2xi/var-name) - Generate variable names using AI models API within VSCode
+
 *   [Actrue/cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) - 页面发布mcp工具，可以将html页面直接发布到cloudflare的worker中，并获得预览链接。
 
 *   [isixe/MetaThief](https://github.com/isixe/MetaThief) - MetaThief is a website tool that extracts metadata from web pages.
@@ -1825,8 +1827,6 @@
 *   [MunMunMiao/BilibiliVideoDownload](https://github.com/MunMunMiao/BilibiliVideoDownload) - Bilibili video download | 哔哩哔哩视频下载 | HDR | 8K
 
 *   [liqi0816/bilitwin](https://github.com/liqi0816/bilitwin) - bilibili merged flv+mp4+ass+enhance / 哔哩哔哩: 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强, 原生appsecret, 不借助其他网站
-
-*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 
 ## Python
 
@@ -4226,7 +4226,7 @@
 
 *   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 
-*   [aLittleDonkey/poetize-ui-vue2](https://github.com/aLittleDonkey/poetize-ui-vue2) - 个人博客 聊天室，挑战最美博客，使用 SpringBoot 和 Vue 的个人网站
+*   [aLittleDonkey/poetize](https://github.com/aLittleDonkey/poetize) - 个人博客 聊天室 IM，挑战最美博客，使用 SpringBoot 和 Vue 的个人网站
 
 *   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
 
@@ -6850,7 +6850,7 @@
 
 *   [happy-green-pants/AiContextHelper](https://github.com/happy-green-pants/AiContextHelper) - 一个模拟AI编辑器文件选择功能的Chrome浏览器插件，让你可以在任何AI聊天网站中快速选择文件上下文。
 
-*   [kmijs/kmi](https://github.com/kmijs/kmi) - Based on Umi to provide Rspack support and other best practices
+*   [kmijs/kmi](https://github.com/kmijs/kmi) - Based on Umi to provide Rspack support and other best practices 为 Umi 提供 Rspack 支持
 
 *   [tl-open-source/tl-rtc-app](https://github.com/tl-open-source/tl-rtc-app) - Beautiful, practical and reliable (IM) Based on webrtc, websocket, nodejs
 
