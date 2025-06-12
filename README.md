@@ -604,7 +604,7 @@
 
 *   [YuJian920/nodeSpider\_tiktok](https://github.com/YuJian920/nodeSpider_tiktok) - 一个用 Node.js 写的批量去水印多线程下载抖音用户发布/喜欢列表视频的爬虫
 
-*   [hello-nav/hello-nav](https://github.com/hello-nav/hello-nav) - 🗺  A purely front-end development navigation
+*   [hello-nav/hello-nav](https://github.com/hello-nav/hello-nav) - 🗺 A pure front-end development navigation station.
 
 *   [yaolifeng0629/del-repos](https://github.com/yaolifeng0629/del-repos) - 一个用于批量删除 GitHub 或 Gitee 仓库的命令行工具 （del-repos is a command line tool used to delete GitHub or Gitee repositories in batches.）
 
@@ -5846,7 +5846,7 @@
 
 *   [sqzw-x/mdcx](https://github.com/sqzw-x/mdcx) - Movie metadata scraper
 
-*   [wxai-space/LightAgent](https://github.com/wxai-space/LightAgent) - **LightAgent** is an extremely lightweight active Agentic Framework with memory, tools , and a Tree of Thought (`ToT`). It supports swarm-like multi-agent collaboration, automated tool generation, and agent assessment, with underlying model support for OpenAI, ChatGLM, Stepfun, DeepSeek, Qwen
+*   [wxai-space/LightAgent](https://github.com/wxai-space/LightAgent) - LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.
 
 *   [yexia553/cmdllm](https://github.com/yexia553/cmdllm) - Control all common command line tools using natural language 通过自然语言操作所有常见命令行工具
 
@@ -6656,7 +6656,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
