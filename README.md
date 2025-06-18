@@ -2840,6 +2840,8 @@
 
 *   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
 *   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 *   [flow2000/bing-wallpaper](https://github.com/flow2000/bing-wallpaper) - 各国每日超清必应壁纸
@@ -4876,6 +4878,8 @@
 
 *   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 
+*   [pea3nut/Pxer](https://github.com/pea3nut/Pxer) - A tool for pixiv.net. 人人可用的P站爬虫
+
 ## TypeScript
 
 *   [KamiC6238/ayanami](https://github.com/KamiC6238/ayanami) - A free online pixel art editor
@@ -6834,8 +6838,6 @@
 
 *   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
 *   [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 
 *   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
@@ -7283,8 +7285,6 @@
 *   [scx567888/live-room-watcher](https://github.com/scx567888/live-room-watcher) - 📺 可抓取直播间 弹幕, 礼物, 点赞, 原始流地址等
 
 *   [OrdinaryRoad-Project/ordinaryroad-live-chat-client](https://github.com/OrdinaryRoad-Project/ordinaryroad-live-chat-client) - (2025最新版) 一个基于Netty的通用直播间弹幕客户端，支持网络代理，支持浏览器模式\*，支持弹幕发送\*、为主播点赞\*，已支持B站、斗鱼、虎牙、抖音、快手；BarrageFly——让弹幕飞，基于该项目的一个弹幕转发、过滤、处理平台；支持多平台直播间弹幕监听(弹幕抓取 弹幕爬取 弹幕爬虫)
-
-*   [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 自动追番、订阅、下载 蜜柑RSS动漫
 
 *   [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，批量分析，SCA漏洞分析，方法调用关系搜索，字符串搜索，Spring组件分析，信息泄露检查，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码，一键分析BCEL字节码
 
@@ -8420,7 +8420,7 @@
 
 *   [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+*   [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 
 *   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 
@@ -9778,6 +9778,8 @@
 
 *   [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
 
+*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+
 *   [shalom-lab/weekly-tools](https://github.com/shalom-lab/weekly-tools) - 科技爱好者周刊-自荐工具集合(每天更新)
 
 *   [brenoepics/vitepress-carbon](https://github.com/brenoepics/vitepress-carbon) - Streamlined Theme for VitePress
@@ -9790,7 +9792,7 @@
 
 *   [phphe/local-tools](https://github.com/phphe/local-tools) - Image processing toolbox based on browser API. 基于浏览器的图片处理工具箱。
 
-*   [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat) - Lazyeat｜手势隔空操控，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+*   [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat) - Lazyeat｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
 
 *   [echoshare/echoshare](https://github.com/echoshare/echoshare) - Echoshare 是一款开箱即用且支持高度自定义配置的在线媒体共享应用，可同时传输屏幕画面、摄像头视频流、麦克风音频流以及系统音频。Echoshare is an out-of-the-box, highly customizable online media sharing application, which supports simultaneous transmission of screen content, camera video streams, microphone audio streams, and system audio
 
@@ -10370,7 +10372,7 @@
 
 *   [0voice/introduce\_c-cpp\_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
 
-*   [0voice/cpp\_new\_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
+*   [0voice/cpp\_new\_features](https://github.com/0voice/cpp_new_features) - 2025年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 
 *   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
@@ -11727,8 +11729,6 @@
 *   [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 
 *   [Johnserf-Seed/TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - TikTokTool 网页版
-
-*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
 
 *   [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 
