@@ -36,7 +36,7 @@
 
 *   [nfe-w/xhs\_pic\_download](https://github.com/nfe-w/xhs_pic_download) - 结合iOS的“快捷指令”, 一键从小红书下载无水印图片/视频
 
-*   [justlovemaki/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) -
+*   [justlovemaki/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) - AI 洞察日报项目，每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目和前沿学术论文以及科技大V推文，并通过 Google Gemini 模型进行智能处理与日报生成，最终自动发布到 GitHub Pages 生成AI日报。
 
 *   [happy-green-pants/AiContextHelper](https://github.com/happy-green-pants/AiContextHelper) - 一个模拟AI编辑器文件选择功能的Chrome浏览器插件，让你可以在任何AI聊天网站中快速选择文件上下文。
 
@@ -4096,7 +4096,7 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [oldshensheep/v2ex\_scrapy](https://github.com/oldshensheep/v2ex_scrapy) - scrapy for v2ex.com
 
@@ -5468,7 +5468,7 @@
 
 *   [lbytsl/sql\_to\_ER](https://github.com/lbytsl/sql_to_ER) - ER图生成工具
 
-*   [trueleaf/moyu](https://github.com/trueleaf/moyu) - 基于 Vue 和 Electron 的在线协同api接口管理工具。接口文档管理工具、接口工具、接口文档、api文档、api工具、快乐摸鱼
+*   [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - 基于 Vue 和 Electron 的在线协同api接口管理工具。接口文档管理工具、接口工具、接口文档、api文档、api工具、快乐摸鱼
 
 *   [stark81/VutronMusic](https://github.com/stark81/VutronMusic) - 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。支持 Windows / macOS / Linux :electron:
 
